@@ -1,3 +1,4 @@
 baseURL = "https://www.willfaught.com/"
 languageCode = "en-us"
 title = "Will Do"
+theme = "hermit"
