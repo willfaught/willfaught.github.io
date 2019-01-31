@@ -1,7 +1,6 @@
 +++
 date = "2014-11-16T06:04:04+00:00"
 draft = false
-tags = 
 title = "Sell your iPhone to people"
 +++
 <p>You make <em>a lot</em> more money selling your old iPhone to people than to businesses like <a href="http://gazelle.com">Gazelle</a> <em>if</em> the phone is in good condition. I just sold my iPhone 5<sup id="fnref:p102758252013-1"><a href="#fn:p102758252013-1" rel="footnote">1</a></sup> for $320 to someone I met through Craigslist at a Starbucks near my home. Gazelle would have given me $170. That&#8217;s almost double!</p>

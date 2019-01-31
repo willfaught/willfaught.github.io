@@ -1,7 +1,6 @@
 +++
 date = "2018-11-03T22:56:36+00:00"
 draft = false
-tags = 
 title = "Video post"
 +++
 {{< youtube fuZ6ypueK8M >}}

@@ -1,7 +1,6 @@
 +++
 date = "2014-11-27T18:07:00+00:00"
 draft = false
-tags = 
 title = "Steam fall sale"
 +++
 Damn you, Steam, for making me give you money!
