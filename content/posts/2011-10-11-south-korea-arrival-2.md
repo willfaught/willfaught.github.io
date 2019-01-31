@@ -1,0 +1,19 @@
++++
+date = "2011-10-11T14:59:00+00:00"
+draft = false
+tags = ["south korea", "travel", "seoul"]
+title = "South Korea: Arrival"
++++
+*For Saturday, October 8, 2011*
+
+**Seoul**
+
+I arrived in Seoul on Saturday at 5:40 p.m. I got through customs and immigration without a problem. It took a few minutes of looking to find a world ATM to withdraw 200,000 in the local currency, the wan. (I love being a millionaire!) I had wanted to look at the options for renting a smart phone and get some touring information, but I was concerned about being late to check into my hostel, so I took the express train from the Incheon airport to Hongik University in Seoul.
+
+The hostel, [Miso Guesthouse and Hostel](http://www.hostelworld.com/hosteldetails.php/Miso-Guesthouse-and-Hostel/Seoul/48740?search_keywords=Miso%20Guesthouse%20And%20Hostel,%20Seoul,%20South%20Korea&country=South%20Korea&city=Miso%20Guesthouse%20And%20Hostel&propNum=48740), is only a couple blocks from the Hongik University train station. The directions were straightforward, but I managed to misunderstand the last part and ended up being one street off and lost. I asked someone on the street for help and he went to his apartment to get his mobile phone, then he called the hostel and we located it. The owner, Mia, was very friendly and helpful.
+
+The neighborhood is overwhelming to look at: lots of color, lights, signs, floors, restaurants, and shops. It's part of the Hongdae area, a young and trendy place full of university-age people and bars, clubs, shops, and restaurants that cater to them. It's a very happening place to be.
+
+After getting situated in my room (shared with six others), it was 7:30 p.m. and time to eat. I ventured out into the street and picked a restaurant at random, a Japanese fusion place, hoping for a menu with English or pictures, but it was 100% Korean text with no pictures. I was at a loss, and considering leaving without ordering, but an American named Alex seated a few tables away saw my plight and offered to help me order. I was grateful, and the chicken teriyaki dish I was served was piping hot and delicious. I noticed that the South Koreans dressed very nicely, lots of collared shirts and trousers and high heels. I felt tremendously under dressed.
+
+I was exhausted after three hours of sleep and an 11.5 hour flight, so I returned to the hostel and went to bed around 11 p.m. Overall, it had been a good day, and I was pleased that I had had so little trouble getting there and settled in.

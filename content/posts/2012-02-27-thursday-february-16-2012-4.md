@@ -1,0 +1,25 @@
++++
+date = "2012-02-27T09:07:25+00:00"
+draft = false
+tags = ["travel", "laos", "vang vieng"]
+title = "Thursday, February 16, 2012"
++++
+Ate lunch at a Friends restaurant. Went to the inner tube shop, then rode a tuk tuk with a group of others, including two girls I'd met at my hostel in Chiang Mai, to the river. Hung out with that group there for an hour or so, drinking a beer.
+
+I'd heard stories about how dangerous it was inner tubing there, how people had died falling on rocks while riding zip lines over the river, or how inner tube riders had been hit by bottles attached to ropes that locals working at riverside bars throw at them to reel them in. I'd decided to stick to beer only to stay safe, since I was on my own.
+
+We got our inner tubes and floated into the current, which took us around a bend where a platform had been erected on which a couple guys were trying to reel in inner tube riders. I kept a wary eye on them to make sure they didn't hit me, but also glanced back at the rest of the group to see whether they were going to stop at the next riverside bar, which was just downstream of the first and rapidly approaching.
+
+I was paddling to be closer to the others when I was struck in the face with a bottle thrown by a guy from the second bar. I hadn't seen him winding up. I remember there being an abrupt change of consciousness; I had been paddling, and then my eyes were closed and I was leaning back and the side of my face felt hot. I can't remember if the impact had torn my sunglasses off, or if I took them off when feeling my face, but in either case, they were lost to the bottom of the river, never to be seen again. Slowly I realized what had happened. My hand fell on the rope and closed on it. The adrenaline started pumping, and I was really pissed off.
+
+I started to pull and yank on the rope, and I rolled off my inner tube into the water. I think I was trying to get the rope out of the guy's hands out of some sort of vengeance, but I wasn't thinking too clearly. I ended up pulling myself to the river's edge near the guy and started screaming at him somewhat incoherently. I'm not even sure he spoke English or understood a word I said. At some point some white guy stood next to the guy who'd thrown the bottle and was yelling at me. I didn't know who he was, so I just screamed at him too. Sometimes tourists find jobs at these kinds of touristy places so they can afford to stay there longer, so maybe he worked there?
+
+I probably would have gotten out of the water then and escalated things, but I grew aware of my things starting to float away from me. I gathered my inner tube and a flip flop floating nearby, and looked around for my other flip flop. One of the bar employees pointed me to it across the river, and I swam with the inner tube to get it. I kept feeling my face and saw blood on my fingers, so I knew I had to get out. I paddled to a nearby ladder and pulled my inner tube out of the water. I didn't see anyone from my group, so I walked out of the bar to the road and flagged down a tuk tuk and rode it into town.
+
+I returned the inner tube, then went to my room to see the damage and clean the injuries. There were several small cuts on my right temple, and a small but deep cut on my right cheekbone. I looked up online when to get stitches, then walked to the hospital. There was a guy there who'd also been injured at the river that day. He'd been riding a zip line drunk and somehow hit his head when entering the water. He'd gotten sixteen stitches in his forehead without anesthesia. A doctor saw me right away and a nurse gave me two stitches without anesthesia. I'd never had stitches for an injury before. I was told to get them removed in a week.
+
+I went to a Friends restaurant and spent the rest of the afternoon and evening there watching TV and trying not to think about anything. I wanted to move on, so I bought a bus ticket to Vientiane for the next morning.
+
+I ran into several people from that group later in Vientiane who were sympathetic. One guy said he was reluctant to go on the river afterward.
+
+Thinking back on it, it was a good thing that I didn't get out of the river when I was mad. I was alone and unsteady and didn't speak the language. Getting into a fight with a local, and possibly some douche bag tourist, would have been a disaster. If I had been thinking straight, I would have had the guy who threw the bottle take me to the hospital and pay for everything. If only *I hadn't been hit in the head with a bottle*. One of the tradeoffs of traveling alone is that no one has your back.
