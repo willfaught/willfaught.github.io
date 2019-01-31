@@ -10,25 +10,25 @@ Java:
     {
         private int number;
         private Stack<Integer> disks = new Stack<Integer>();
-    
+
         public Tower(int number)
         {
             this.number = number;
         }
-    
+
         public void add(Integer i)
         {
             if (!disks.empty() && i >= disks.peek()) throw new IllegalArgumentException();
             disks.push(i);
         }
-    
+
         private void moveTop(Tower to)
         {
             Integer i = disks.pop();
             to.disks.push(i);
             System.out.println("Moved " + i + " from Tower " + number + " to Tower " + to.number);
         }
-    
+
         public void move(int n, Tower to, Tower temp)
         {
             if (n <= 0) return;
@@ -37,7 +37,7 @@ Java:
             moveTop(to);
             temp.move(n - 1, to, this);
         }
-    
+
         public static void main(String[] args)
         {
             int n = 4;

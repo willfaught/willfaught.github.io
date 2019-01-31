@@ -30,6 +30,6 @@ I really like the Bash prompt I use now. It's just a `$` followed by a space. Th
 
         PS2="${BOLD}>${OFF} "
     }
-    
+
     export GIT_PS1_SHOWDIRTYSTATE=1
     export PROMPT_COMMAND=customprompt

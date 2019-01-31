@@ -9,12 +9,12 @@ Java:
     public class DoubleQueueStack<E>
     {
         private LinkedList<E> store = new LinkedList<E>(), other = new LinkedList<E>();
-    
+
         public void push(E e)
         {
             store.offer(e);
         }
-    
+
         public E pop()
         {
             if (store.isEmpty()) throw new IllegalStateException();
@@ -33,7 +33,7 @@ Java:
             other = t;
             return e;
         }
-    
+
         public boolean isEmpty()
         {
             return store.isEmpty();

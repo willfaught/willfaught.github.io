@@ -13,4 +13,4 @@ title = "Mac OS Lion"
 <li>Restarting saves the state of running apps and restores them automatically</li>&#13;
 <li>Easy file sharing with any Mac on your network</li>&#13;
 <li>Server with wiki</li>&#13;
-</ul><p>These are substantial new features that I would love to have. This is the kind of innovation I admire.</p> 
+</ul><p>These are substantial new features that I would love to have. This is the kind of innovation I admire.</p>

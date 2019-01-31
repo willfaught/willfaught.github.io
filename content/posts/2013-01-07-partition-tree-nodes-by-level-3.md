@@ -9,7 +9,7 @@ Java:
     class Node
     {
         public Node left, right;
-    
+
         public LinkedList&gt; traverse()
         {
             LinkedList&gt; lists = new LinkedList&gt;();

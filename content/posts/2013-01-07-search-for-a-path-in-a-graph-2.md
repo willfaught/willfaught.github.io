@@ -9,7 +9,7 @@ Java:
     class Node
     {
         public Node[] adj;
-        
+
         public boolean isPathTo(Node target)
         {
             if (target == null) return false;

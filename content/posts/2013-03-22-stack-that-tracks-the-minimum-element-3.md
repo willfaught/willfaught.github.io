@@ -10,14 +10,14 @@ Java:
     {
         private Stack<E> elements = new Stack<>();
         private Stack<E> mins = new Stack<>();
-    
+
         public void push(E element)
         {
             elements.push(element);
             if (mins.isEmpty() || mins.peek().compareTo(element) > 0)
                 mins.push(element);
         }
-    
+
         public E pop()
         {
             if (elements.isEmpty()) throw new EmptyStackException();
@@ -25,7 +25,7 @@ Java:
             if (mins.peek().compareTo(element) == 0) mins.pop();
             return element;
         }
-    
+
         public E min()
         {
             if (mins.isEmpty()) throw new EmptyStackException();

@@ -14,13 +14,13 @@ Recursive solution 1:
         public int value;
         private boolean first;
         private int previous;
-    
+
         public boolean isBST()
         {
             first = true;
             return isBST(this);
         }
-    
+
         private boolean isBST(Node n)
         {
             if (n == null) return true;
@@ -42,7 +42,7 @@ Recursive solution 2:
     {
         return isBST(this, null, null);
     }
-    
+
     public boolean isBST(Node n, Integer min, Integer max)
     {
         if (n == null) return true;

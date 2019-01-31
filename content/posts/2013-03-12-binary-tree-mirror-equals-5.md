@@ -10,7 +10,7 @@ Java:
     {
         public int value;
         public Node left, right;
-    
+
         public static boolean mirror(Node x, Node y)
         {
             if (x == null && y == null) return true;

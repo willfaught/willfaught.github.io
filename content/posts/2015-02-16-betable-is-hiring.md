@@ -8,9 +8,9 @@ title = "Betable is hiring"
 
 <blockquote>
   <p>Rubicon Media (Betable) has an opening for Senior Software Engineer in San Francisco, CA to Research, design, develop, and test operating systems-level software for business and general computing applications. Master’s in Computer Science, Engineering or related technical field followed by 7 years progressive post-baccalaureate experience in job offered or software engineering-related occupation.</p>
-  
+
   <p>Experience must include:</p>
-  
+
   <ol><li>Advanced understanding of Linux, shell scripting and at least two (2) years of experience working directly with configuration management systems;</li>
   <li>Understand, troubleshoot, trace and develop fixes for root causes in distributed systems;</li>
   <li>Advanced technical proficiency with Amazon Web Services, Rackspace or other cloud services;</li>

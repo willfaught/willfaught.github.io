@@ -10,13 +10,13 @@ Java:
     {
         public Node left, right;
         public int value;
-    
+
         public static Node bst(int[] a)
         {
             if (a == null || a.length == 0) return null;
             return build(a, 0, a.length - 1);
         }
-    
+
         private static Node build(int[] a, int left, int right)
         {
             if (left > right) return null;

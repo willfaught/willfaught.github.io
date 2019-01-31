@@ -9,13 +9,13 @@ Java:
     class Node
     {
         public Node left, right;
-    
+
         private static int height(Node n)
         {
             if (n == null) return 0;
             return 1 + Math.max(height(n.left), height(n.right));
         }
-    
+
         public static boolean isBalanced(Node n)
         {
             if (n == null) return true;
