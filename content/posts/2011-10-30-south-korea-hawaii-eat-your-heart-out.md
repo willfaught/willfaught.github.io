@@ -1,27 +1,8 @@
-+++
-date = "2011-10-30T07:15:17+00:00"
-draft = false
-tags = ["travel", "south korea", "jeju"]
-title = "South Korea: Hawaii, eat your heart out"
-+++
-*For Tuesday, October 18, 2011*
+---
+date: "2011-10-30T07:15:17+00:00"
+draft: false
+tags: ["travel", "south korea", "jeju"]
+title: "South Korea: Hawaii, eat your heart out"
+---
+*For Tuesday, October 18, 2011* **Jeju City** I rode a bus from the bus station in downtown Seogwipo to [Joseph Tree Guesthouse](http://www.hostelworld.com/hosteldetails.php/Joseph-Tree-Guesthouse/Jeju-Island/52510) in the northeastern part of the island, I think technically part of Jeju City. I met Joseph, a Korean, and check in, then talked with him about my plans and he helped me figure out how to get there and back. I rode a bus to [Seongsan Ilchubong](http://www.google.com/search?hl=en&q;=Joseph+Tree+Guesthouse&gs;_sm=e&gs;_upl=355l355l0l992l1l1l0l0l0l0l185l185l0.1l1l0&bav;=on.2,or.r_gc.r_pw.,cf.osb&biw;=1600&bih;=773&um;=1&ie;=UTF-8&tbm;=isch&source;=og&sa;=N&tab;=wi#um=1&hl;=en&tbm;=isch&sa;=1&q;=Seongsan+Ilchubong&pbx;=1&oq;=Seongsan+Ilchubong&aq;=f&aqi;=g-sS2&aql;=1&gs;_sm=e&gs;_upl=603l603l0l1861l1l1l0l0l0l0l92l92l1l1l0&bav;=on.2,or.r_gc.r_pw.,cf.osb&fp;=b94a58eecda233ce&biw;=1600&bih;=773) on the east coast and hiked the short distance to the top of the crater. The crater is filled with short, green grass that is striking when seen in the early morning light. I was seeing it in the afternoon, so it wasn't as pretty, but I still got a great view of the area. Ilchubong is advertised a lot as a top attraction for Jeju. Jeju is lobbying to become one of the top sevent tourist destinations of the world, at least according to [new7wonders.com](http://www.new7wonders.com/vote-2?lang=en). I rode the bus back to the hostel and met another guest, Hambit, a Korean visiting Jeju for a job interview. Joseph, a very kind and helpful man, drove both of us a few minutes away to the [Manjanggul](http://www.google.com/search?hl=en&q;=Joseph+Tree+Guesthouse&gs;_sm=e&gs;_upl=355l355l0l992l1l1l0l0l0l0l185l185l0.1l1l0&bav;=on.2,or.r_gc.r_pw.,cf.osb&biw;=1600&bih;=773&um;=1&ie;=UTF-8&tbm;=isch&source;=og&sa;=N&tab;=wi#um=1&hl;=en&tbm;=isch&sa;=X&ei;=a--kToC0Jub3mAXp5vFa&ved;=0CD0QvwUoAQ&q;=Manjanggul&spell;=1&bav;=on.2,or.r_gc.r_pw.,cf.osb&fp;=b94a58eecda233ce&biw;=1600&bih;=773) lava tube. It's seven kilometers long—the longest in the world, or so they said—the first kilometer of which visitors can walk. Hawaii, eat your heart out. Hambit and I walked it together and chatted about various things like Steve Jobs's death and Korean culture. There were spotlights of various colors arranged along the path that give the tunnel a surreal look. After the lava tube, Hambit and I walked five minutes to a nearby hedge maze and raced each other to ring the bell at the center. Hambit beat me by a couple minutes. I got stuck behind some slow people and had to trudge along behind them. I finally made it there. Joseph and his son picked us up at the maze and drove us to a nearby cafe for dinner. Hambit and I ordered the seafood pasta, which was pretty good considering how sketchy the decor was. We talked some more about Korean culture and electronics companies. When I returned to the hostel, Joseph helped me plan a hike of Hallasan, the tallest mountain in South Korea and at the center of Jeju island. Then I spoke with a friendly Indian man, Shyam, who was also staying there, about places he recommended seeing in his country, and about the prevalence of English across the world. Then I booked a hostel in Jeju City and called it a night.
 
-**Jeju City**
-
-I rode a bus from the bus station in downtown Seogwipo to [Joseph Tree Guesthouse](http://www.hostelworld.com/hosteldetails.php/Joseph-Tree-Guesthouse/Jeju-Island/52510) in the northeastern part of the island, I think technically part of Jeju City. I met Joseph, a Korean, and check in, then talked with him about my plans and he helped me figure out how to get there and back.
-
-I rode a bus to [Seongsan Ilchubong](http://www.google.com/search?hl=en&q=Joseph+Tree+Guesthouse&gs_sm=e&gs_upl=355l355l0l992l1l1l0l0l0l0l185l185l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&biw=1600&bih=773&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi#um=1&hl=en&tbm=isch&sa=1&q=Seongsan+Ilchubong&pbx=1&oq=Seongsan+Ilchubong&aq=f&aqi=g-sS2&aql=1&gs_sm=e&gs_upl=603l603l0l1861l1l1l0l0l0l0l92l92l1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=b94a58eecda233ce&biw=1600&bih=773) on the east coast and hiked the short distance to the top of the crater. The crater is filled with short, green grass that is striking when seen in the early morning light. I was seeing it in the afternoon, so it wasn't as pretty, but I still got a great view of the area.
-
-Ilchubong is advertised a lot as a top attraction for Jeju. Jeju is lobbying to become one of the top sevent tourist destinations of the world, at least according to [new7wonders.com](http://www.new7wonders.com/vote-2?lang=en).
-
-I rode the bus back to the hostel and met another guest, Hambit, a Korean visiting Jeju for a job interview. Joseph, a very kind and helpful man, drove both of us a few minutes away to the [Manjanggul](http://www.google.com/search?hl=en&q=Joseph+Tree+Guesthouse&gs_sm=e&gs_upl=355l355l0l992l1l1l0l0l0l0l185l185l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&biw=1600&bih=773&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&tab=wi#um=1&hl=en&tbm=isch&sa=X&ei=a--kToC0Jub3mAXp5vFa&ved=0CD0QvwUoAQ&q=Manjanggul&spell=1&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=b94a58eecda233ce&biw=1600&bih=773) lava tube. It's seven kilometers long&mdash;the longest in the world, or so they said&mdash;the first kilometer of which visitors can walk. Hawaii, eat your heart out. Hambit and I walked it together and chatted about various things like Steve Jobs's death and Korean culture. There were spotlights of various colors arranged along the path that give the tunnel a surreal look.
-
-After the lava tube, Hambit and I walked five minutes to a nearby hedge maze and raced each other to ring the bell at the center. Hambit beat me by a couple minutes. I got stuck behind some slow people and had to trudge along behind them. I finally made it there.
-
-Joseph and his son picked us up at the maze and drove us to a nearby cafe for dinner. Hambit and I ordered the seafood pasta, which was pretty good considering how sketchy the decor was. We talked some more about Korean culture and electronics companies.
-
-When I returned to the hostel, Joseph helped me plan a hike of Hallasan, the tallest mountain in South Korea and at the center of Jeju island.
-
-Then I spoke with a friendly Indian man, Shyam, who was also staying there, about places he recommended seeing in his country, and about the prevalence of English across the world.
-
-Then I booked a hostel in Jeju City and called it a night.

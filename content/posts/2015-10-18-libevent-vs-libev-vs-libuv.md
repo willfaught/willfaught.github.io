@@ -1,9 +1,9 @@
-+++
-date = "2015-10-18T00:23:30+00:00"
-draft = false
-tags = ["libevent", "libev", "libuv"]
-title = "libevent vs. libev vs. libuv"
-+++
+---
+date: "2015-10-18T00:23:30+00:00"
+draft: false
+tags: ["libevent", "libev", "libuv"]
+title: "libevent vs. libev vs. libuv"
+---
 What's the difference between libevent, libev, and libuv?
 
 [Marc Lehmann on Stack Overflow](http://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent):

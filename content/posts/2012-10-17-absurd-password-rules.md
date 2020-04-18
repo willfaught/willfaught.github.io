@@ -1,9 +1,9 @@
-+++
-date = "2012-10-17T23:44:00+00:00"
-draft = false
-tags = ["technology"]
-title = "Absurd password rules"
-+++
+---
+date: "2012-10-17T23:44:00+00:00"
+draft: false
+tags: ["technology"]
+title: "Absurd password rules"
+---
 Good lord:
 
 >**Password Length**
