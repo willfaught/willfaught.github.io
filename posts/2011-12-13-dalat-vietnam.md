@@ -1,0 +1,8 @@
+---
+date: "2011-12-13T10:53:00+00:00"
+draft: false
+tags: ["travel", "vietnam", "dalat"]
+title: "Dalat, Vietnam"
+---
+I rode an open tour bus from Saigon to Dalat. It took about six or seven hours, and we arrived in the evening. I passed the time listening to podcasts, watching *My Cousin Vinnie* on my laptop, and chatting with a Thai girl, Pla, sitting next to me. She was going to Dalat for a weekend vacation with her two friends. She was really friendly and invited me to join her and her friends in their taxi after we arrived at the bus station. Having no plan, I agreed and went with them to their hotel. I got a room, and then joined them for dinner and walking around the night market area. I was dismayed to find that Dalat's climate was much cooler than Saigon's. Perhaps I had gotten rid of my long underwear and cardigan too soon. The girls did a city tour the next day, and I joined them for that as well. The tour wasn't great, taking us to several touristy places, but we rode a cable car that gave us a great view of the city and the surrounding hills and forest. The city itself is interesting to see, being cleaner and more colorful than Saigon, a welcome change. When we got back, I e-mailed an Easy Rider guide named Hien about whom I had read good things on TripAdvisor about doing a six day ride from Dalat to Hoi An, a city north of Dalat and the central highlands. Fortunately, he was going to return to Dalat that day and could meet me the next morning. I changed hotels to something cheaper and was sorry to say goodbye to the girls. Hien and I met the next morning. We agreed on the tour and the price, and then we were off.
+
