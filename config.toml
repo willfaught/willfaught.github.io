@@ -1,7 +1,7 @@
 title = "Will Do"
-theme = "solar-theme-hugo"
+theme = "solar"
 paginate = 10
-pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+pygmentsStyle = "solarized-dark"
 copyright = "© 2020 Will Faught"
 
 [params]
