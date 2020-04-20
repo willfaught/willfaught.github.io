@@ -6,7 +6,6 @@ title: "The two faces of the agile manifesto"
 ---
 From https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile:
 
-
 Robin Message on the mismatch between the parts of the [agile manifesto](http://agilemanifesto.org) concerned with technical craft and those concerned with project management:
 
 >So, to summarise, almost every method and technique that was represented at the Agile manifesto was concerned with technical craft. XP is a methodology for software development, and as such, seven of the twelve practices are about how the software is written (pair programming, TDD, continuous integration, refactoring, simple design, system metaphor, coding standards). The craft/Pragmatic contingent weren’t designing a methodology for a team per se; they were concerned with how the software was written. But Scrum? Go read the Scrum Guide. It’s not long, I’ll wait. [...]

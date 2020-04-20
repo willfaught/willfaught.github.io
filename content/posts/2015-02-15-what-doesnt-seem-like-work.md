@@ -1,7 +1,6 @@
 ---
 date: "2015-02-15T21:02:34+00:00"
 draft: false
-tags: 
 title: "What Doesn't Seem Like Work?"
 ---
 From http://www.paulgraham.com/work.html:

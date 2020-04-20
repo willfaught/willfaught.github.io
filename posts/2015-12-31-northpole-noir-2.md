@@ -5,7 +5,6 @@ tags: ["steam", "sale", "northpole noir"]
 title: "Northpole Noir"
 ---
 
-
 Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked up 89 games:
 
   * Aliens versus Predator Classic 2000
@@ -97,8 +96,6 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
   * Wargame: European Escalation
   * Waves
   * Yargis - Space Melee Deluxe Edition
-
-
 
 All but one of them were under $4. Many were under $3, $2, and $1. Total cost: $213.57.
 

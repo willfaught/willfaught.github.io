@@ -1,7 +1,6 @@
 ---
 date: "2017-08-28T00:46:05+00:00"
 draft: false
-tags: 
 title: "Potential Half-Life 3 plot outed by series writer Marc Laidlaw"
 ---
 From https://arstechnica.com/?p=1153463:

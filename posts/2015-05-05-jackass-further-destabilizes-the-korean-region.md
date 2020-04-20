@@ -6,9 +6,7 @@ title: "Jackass further destabilizes the Korean region"
 ---
 From http://cir.ca/s/CMLB:
 
-
-
 Biggest dumbass in the world:
 
-> I thought that my entrance [into North Korea]… illegally, I acknowledge… [could lead to] some great event happening… Hopefully that event could have a good effect in the relations between the North and South [Koreas].
+>I thought that my entrance [into North Korea]… illegally, I acknowledge… [could lead to] some great event happening… Hopefully that event could have a good effect in the relations between the North and South [Koreas].
 

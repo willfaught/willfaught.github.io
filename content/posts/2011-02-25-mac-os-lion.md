@@ -15,6 +15,4 @@ title: "Mac OS Lion"
   * Easy file sharing with any Mac on your network
   * Server with wiki
 
-
-
 These are substantial new features that I would love to have. This is the kind of innovation I admire.

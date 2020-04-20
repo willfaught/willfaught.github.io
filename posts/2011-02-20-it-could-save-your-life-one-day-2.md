@@ -6,4 +6,3 @@ title: "It could save your life one day"
 ---
 From http://www.wikihow.com/Survive-a-Long-Fall:
 
-

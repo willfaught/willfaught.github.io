@@ -6,7 +6,6 @@ title: "Ingenious paper sizes"
 ---
 From https://en.wikipedia.org/wiki/Paper_size:
 
-
 The U.S. uses its own own standard paper sizes: letter, legal, tabloid, and so on. Europe uses an ingenious system:
 
 >The base A0 size of paper is defined as having an area of 1 m<sup>2</sup> and a side ratio of 1 by √2 [...]

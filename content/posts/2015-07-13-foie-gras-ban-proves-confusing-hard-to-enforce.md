@@ -1,7 +1,6 @@
 ---
 date: "2015-07-13T07:29:44+00:00"
 draft: false
-tags: 
 title: "Foie gras ban proves confusing, hard to enforce"
 ---
 From http://m.sfgate.com/food/article/Foie-gras-ban-proves-confusing-hard-to-enforce-3676731.php:

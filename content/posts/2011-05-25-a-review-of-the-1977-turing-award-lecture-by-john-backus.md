@@ -8,6 +8,6 @@ From http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD692.html:
 
 By [Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra). I've never seen shit talking in scholarly criticism before:
 
-> If that indication is correct, his objection is less against von Neumann programs than against his own clumsy way of trying to understand them.
+>If that indication is correct, his objection is less against von Neumann programs than against his own clumsy way of trying to understand them.
 
 Some of that classic Dijkstra charm.

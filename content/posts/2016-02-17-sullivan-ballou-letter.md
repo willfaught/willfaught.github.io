@@ -1,7 +1,6 @@
 ---
 date: "2016-02-17T20:53:58+00:00"
 draft: false
-tags: 
 title: "Sullivan Ballou Letter"
 ---
 From http://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html:

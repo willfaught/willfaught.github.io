@@ -6,7 +6,6 @@ title: "Valve humiliated your corporate culture"
 ---
 From https://web.archive.org/web/20120913001404/http://michaelochurch.wordpress.com:80/2012/08/09/dont-look-now-but-valve-just-humiliated-your-corporate-culture/:
 
-
 Michael Church on the self-organizing employees of Valve:
 
 >The game company Valve has gotten a lot of press recently for, among other things, its unusual corporate culture in which employees are free to move to whatever project they choose. There’s no “transfer process” to go through when an employee decides to move to another team. They just move. This is symbolized by placing wheels under each desk. People are free to move as they are capable. Employees are trusted with their time and energy. And it works.

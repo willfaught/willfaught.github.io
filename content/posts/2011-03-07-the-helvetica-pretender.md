@@ -6,4 +6,3 @@ title: "The Helvetica pretender"
 ---
 From http://www.ms-studio.com/articles.html:
 
-

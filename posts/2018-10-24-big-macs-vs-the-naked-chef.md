@@ -6,7 +6,6 @@ title: "Big Macs vs. The Naked Chef"
 ---
 From https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/:
 
-
 Joel Spolsky:
 
 >But the rules and procedures only work when nothing goes wrong. Various “data-backed Web site” consulting companies sprouted up in the last couple of years and filled their ranks by teaching rank amateurs the fourteen things you need to know to create a data-backed Web site (“here’s a select statement, kid, build a Web site”).

@@ -6,11 +6,9 @@ title: "The Cultural Evolution of gofmt"
 ---
 From https://talks.go-zh.org/2015/gofmt-en.slide:
 
-
-
 An interesting overview by Robert Griesemer of the motivation for gofmt, how it has influenced code formatting in other languages, the things that went well, and the lessons learned.
 
 I found this point amusing:
 
-> gofmt's style is nobody's favorite, yet gofmt is everybody's favorite.
+>gofmt's style is nobody's favorite, yet gofmt is everybody's favorite.
 

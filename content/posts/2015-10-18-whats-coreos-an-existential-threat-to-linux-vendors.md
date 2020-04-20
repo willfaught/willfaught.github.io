@@ -6,7 +6,6 @@ title: "What's CoreOS? An existential threat to Linux vendors"
 ---
 From http://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html:
 
-
 Matt Asay, writing for InfoWorld on the shift to minimal server operating systems like CoreOS:
 
 >Linux vendors, particularly Red Hat, have built their businesses on meeting the needs of operations professionals. Developers, as I wrote recently, have been a secondary concern.

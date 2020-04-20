@@ -6,4 +6,4 @@ title: "Quote post"
 ---
 Joel Spolsky:
 
-> It turns out that nobody wrote the automated test to check if Vista provided users with a compelling reason to upgrade from XP.
+>It turns out that nobody wrote the automated test to check if Vista provided users with a compelling reason to upgrade from XP.

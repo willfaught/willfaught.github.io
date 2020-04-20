@@ -4,9 +4,7 @@ draft: false
 tags: ["coding"]
 title: "\"8 Common Mistakes That Get Developers Fired\""
 ---
-From https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/:
-
-Andrew McDermott:
+[Andrew McDermott](https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/):
 
 >A tech employee, who I’ll call Alan, was watching anime porn at work. Not satisfied with simply watching it, he decided it was time to start printing his porn — on a color laser printer, no less.
 >

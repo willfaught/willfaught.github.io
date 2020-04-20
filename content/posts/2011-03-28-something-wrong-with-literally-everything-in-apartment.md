@@ -6,4 +6,3 @@ title: "Something Wrong With Literally Everything In Apartment"
 ---
 From http://www.theonion.com/articles/something-wrong-with-literally-everything-in-apart,19737/:
 
-

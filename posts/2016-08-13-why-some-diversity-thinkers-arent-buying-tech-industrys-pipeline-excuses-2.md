@@ -6,8 +6,6 @@ title: "Why Some Diversity Thinkers Aren't Buying Tech Industry's 'Pipeline' Exc
 ---
 From http://www.npr.org/sections/alltechconsidered/2016/07/19/486511816/why-some-diversity-thinkers-arent-buying-the-tech-industrys-excuses?sc=17&f=1019&utm_source=iosnewsapp&utm_medium=Email&utm_campaign=app:
 
-
-
 “Diversity thinkers”? Who comes up with that terminology?
 
 The pipeline _is_ a valid argument because [that's _exactly_ what’s happening](http://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding).

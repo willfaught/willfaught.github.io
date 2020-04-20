@@ -1,7 +1,6 @@
 ---
 date: "2015-03-29T18:34:27+00:00"
 draft: false
-tags: 
 title: "Texas finds more lethal injection drugs after almost running out"
 ---
 From http://cir.ca/s/F7z:

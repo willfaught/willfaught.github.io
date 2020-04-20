@@ -6,7 +6,6 @@ title: "Open allocation is tech companies' only real option"
 ---
 From https://web.archive.org/web/20120915071935/http://michaelochurch.wordpress.com/2012/09/03/tech-companies-open-allocation-is-your-only-real-option/:
 
-
 Michael Church on [open allocation](https://en.wikipedia.org/wiki/Open_allocation):
 
 >When open allocation is in play, projects compete for engineers, and the result is better projects. When closed allocation is in force, engineers compete for projects, and the result is worse engineers. 

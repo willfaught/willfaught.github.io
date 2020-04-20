@@ -6,5 +6,5 @@ title: "Quote post"
 ---
 Robin Milner:
 
-> Well-typed programs cannot 'go wrong'.
+>Well-typed programs cannot 'go wrong'.
 

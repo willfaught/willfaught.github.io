@@ -6,5 +6,3 @@ title: "No secure deletion for SSDs"
 ---
 From http://lifehacker.com/#!5767469/secure-erase-methods-wont-work-on-your-solid+state-drive:
 
-
-

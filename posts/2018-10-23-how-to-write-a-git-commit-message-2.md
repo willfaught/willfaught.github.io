@@ -6,7 +6,6 @@ title: "How to write a Git commit message"
 ---
 From https://chris.beams.io/posts/git-commit/:
 
-
 Chris Beams:
 
 >A project’s long-term success rests (among other things) on its maintainability, and a maintainer has few tools more powerful than his project’s log. It’s worth taking the time to learn how to care for one properly. What may be a hassle at first soon becomes habit, and eventually a source of pride and productivity for all involved.

@@ -61,6 +61,4 @@ It’s that time of the year again. Hide your wallets! I picked up:
   * Volgarr The Viking
   * Wolfenstein: The New Order
 
-
-
 It looks like I spent a lot, but it was all pretty cheap. Really good savings.
