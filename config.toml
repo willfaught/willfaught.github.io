@@ -1,63 +1,31 @@
-baseURL = "https://willfaught.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "Will Do"
-theme = "hermit"
-pygmentsCodefences = true
-pygmentsUseClasses = true
-# rssLimit = 100
-copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
-enableEmoji = true
-# googleAnalytics = "UA-123-45"
-# disqusShortname = "yourdiscussshortname"
-
-[author]
-  name = "Will Faught"
-
-[blackfriday]
-  hrefTargetBlank = true
-
-[taxonomies]
-  tag = "tags"
-  category = ""
+theme = "solar-theme-hugo"
+paginate = 10
+pygmentsStyle = "solarized-dark" # solarized-light, -dark or -dark256
+copyright = "© 2020 Will Faught"
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
-
-  themeColor = "#494f5c"
-
-  homeSubtitle = "Blog, accounts, and stuff."
-  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-
-  justifyContent = false
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/willfaught"
-
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/willfought"
-
-  [[params.social]]
-    name = "facebook"
-    url = "https://facebook.com/will.faught"
-
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/willfaught"
+  scheme = "preference"
+  description = "Please donate to my relief fund."
 
 [menu]
-
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 10
-
-  [[menu.main]]
-    name = "About"
-    url = "about-hugo/"
-    weight = 20
+  [[menu.prof]]
+    name = "GitHub"
+    url = "https://github.com/willfaught"
+    weight = 1
+  [[menu.prof]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/willfaught"
+    weight = 2
+  [[menu.social]]
+    name = "Twitter"
+    url = "https://twitter.com/willfought"
+    weight = 1
+  [[menu.social]]
+    name = "Facebook"
+    url = "https://facebook.com/will.faught"
+    weight = 2
+  [[menu.xmisc]]
+    name = "Feed"
+    url = "/index.xml"
+    weight = 1

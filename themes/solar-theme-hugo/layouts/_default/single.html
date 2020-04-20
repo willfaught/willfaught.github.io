@@ -1,0 +1,9 @@
+{{ define "main" }}
+	<article class="post">
+		<h1><a href="{{ .Permalink }}">{{ .Title }}</a> {{ if .Draft }}(Draft){{ end }}</h1>
+
+		<div class="post-content">{{ .Content | safeHTML }}</div>
+
+		<p class="meta"><span class="postdate">{{ .Date.Format "January 2, 2006" }}</span></p>
+	</article>
+{{ end }}
