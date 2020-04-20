@@ -4,8 +4,6 @@ draft: false
 tags: ["apple", "mac os lion"]
 title: "Mac OS Lion"
 ---
-
-
 [Mac OS Lion](http://www.apple.com/macosx/lion/) looks promising:
 
   * Choose and organize apps like iOS

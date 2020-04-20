@@ -4,8 +4,6 @@ draft: false
 tags: ["computing"]
 title: "Go isn't so parallel after all"
 ---
-
-
 [Effective Go](http://golang.org/doc/effective_go.html):
 
 > The current implementation of the Go runtime will not parallelize this code by default. It dedicates only a single core to user-level processing. An arbitrary number of goroutines can be blocked in system calls, but by default only one can be executing user-level code at any time. It should be smarter and one day it will be smarter […]

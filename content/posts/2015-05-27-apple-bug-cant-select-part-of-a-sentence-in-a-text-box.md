@@ -4,8 +4,6 @@ draft: false
 tags: ["apple", "bug"]
 title: "Apple bug: Can't select part of a sentence in a text box"
 ---
-
-
 I typed this into the Tumblr app:
 
 > <p>So many great points and examples. This struck a chord.</p>

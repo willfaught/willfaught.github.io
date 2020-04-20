@@ -4,8 +4,6 @@ draft: false
 tags: ["steam", "sale", "northpole noir"]
 title: "Northpole Noir"
 ---
-
-
 Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked up 89 games:
 
   * Aliens versus Predator Classic 2000

@@ -4,8 +4,6 @@ draft: false
 tags: ["ipad", "apple"]
 title: "Skipping iPad 2"
 ---
-
-
 I awaited with great anticipation March 2, the day Apple revealed the iPad 2. I adore my iPad 1, and was intrigued by recent rumors about retina displays, cameras, hot spots, and A5s. Alas, I came away from reading about that day’s announcements feeling ho-hum.
 
 It’s thinner, lighter, faster; it has an additional motion sensor; it has front and rear cameras; you can get it in ugly white as well as sexy black; and it has an eye-popping new type of case that uses magnets to attach.

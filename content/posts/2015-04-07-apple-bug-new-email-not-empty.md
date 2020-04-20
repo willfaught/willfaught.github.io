@@ -4,8 +4,6 @@ draft: false
 tags: ["apple", "bug"]
 title: "Apple bug: New email not empty"
 ---
-
-
 iOS Mail:
 
   * Start a new email draft.
