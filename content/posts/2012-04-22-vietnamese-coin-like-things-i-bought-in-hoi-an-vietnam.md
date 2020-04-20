@@ -1,0 +1,7 @@
+---
+date: "2012-04-22T07:52:49+00:00"
+draft: false
+tags: ["travel", "souvenirs"]
+title: "Vietnamese coin-like things I bought in Hoi An, Vietnam"
+---
+![](/img/2012-04-22-photo-post/51bdc32676ff8a1d566606a5b84a0b71290638b2b536adeb6e89e222a0025a8b.jpg)
