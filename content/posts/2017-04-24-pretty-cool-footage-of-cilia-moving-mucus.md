@@ -1,7 +1,7 @@
 ---
 date: "2017-04-24T18:07:22+00:00"
 draft: false
-title: "Video post"
+title: "Pretty cool footage of cilia moving mucus"
 ---
 {{< youtube NSXbb5KZl_I >}}
 

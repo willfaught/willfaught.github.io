@@ -2,7 +2,7 @@
 date: "2015-12-01T21:59:48+00:00"
 draft: false
 tags: ["steve jobs", "apple", "next", "interview"]
-title: "Video post"
+title: "Steve Jobs interview at NeXT"
 ---
 {{< youtube M6Oxl5dAnR0 >}}
 
