@@ -2,7 +2,7 @@
 date: "2011-10-21T08:03:00+00:00"
 draft: false
 tags: ["seoul", "travel", "south korea"]
-title: "Video post"
+title: "A Korean cultural event I stumbled on"
 ---
 {{< youtube cmSCpF2RPBU >}}
 

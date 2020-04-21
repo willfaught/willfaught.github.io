@@ -2,7 +2,7 @@
 date: "2013-06-03T23:37:02+00:00"
 draft: false
 tags: ["politics"]
-title: "Quote post"
+title: "Erdogan on Twitter"
 ---
 Turkey Prime Minister Recep Tayyip Erdogan:
 
