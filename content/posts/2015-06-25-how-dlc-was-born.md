@@ -1,6 +1,0 @@
----
-date: "2015-06-25T08:02:32+00:00"
-draft: false
-title: "How DLC was born"
----
-[So true.](/img/2015-06-25-photo-post/f95f9766930c473afe9f1668e7d36f779b92ad5cd594943097b21891c44a79f9.jpg)

@@ -1,31 +1,17 @@
+baseurl = "http://localhost:1313"
 title = "Will Do"
-theme = "solar"
-paginate = 10
-pygmentsStyle = "solarized-dark"
-copyright = "© 2020 Will Faught"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "GitHub", URL = "https://github.com/willfaught"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/willfaught"},
+      {Name = "Twitter", URL = "https://twitter.com/willfought"},
+      {Name = "Facebook", URL = "https://www.facebook.com/will.faught"},
+      {Name = "Tumblr", URL = "https://willfaught.tumblr.com"}
+  ]
 
 [params]
-  scheme = "preference"
   description = "Please donate to my relief fund."
-
-[menu]
-  [[menu.prof]]
-    name = "GitHub"
-    url = "https://github.com/willfaught"
-    weight = 1
-  [[menu.prof]]
-    name = "LinkedIn"
-    url = "https://linkedin.com/in/willfaught"
-    weight = 2
-  [[menu.social]]
-    name = "Twitter"
-    url = "https://twitter.com/willfought"
-    weight = 1
-  [[menu.social]]
-    name = "Facebook"
-    url = "https://facebook.com/will.faught"
-    weight = 2
-  [[menu.xmisc]]
-    name = "Feed"
-    url = "/index.xml"
-    weight = 1
+  themeColor = "theme-base-0d"
+  layoutReverse = true

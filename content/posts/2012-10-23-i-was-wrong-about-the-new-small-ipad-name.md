@@ -1,7 +1,0 @@
----
-date: "2012-10-23T23:18:00+00:00"
-draft: false
-tags: ["technology"]
-title: "I was wrong about the new small iPad name"
----
-Damn. :)
