@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313"
+baseurl = "https://modest-kilby-99a5d8.netlify.app"
 title = "Will Do"
 theme = "hyde"
 
