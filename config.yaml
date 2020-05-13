@@ -1,17 +1,26 @@
-baseurl = "https://modest-kilby-99a5d8.netlify.app/"
-title = "Will Do"
-theme = "hyde"
+baseurl: "https://modest-kilby-99a5d8.netlify.app/"
+googleAnalytics: "UA-21098218-1"
+params:
+  description: "Thoughts on life, the world, and programming. Please donate to my relief fund."
+  layoutReverse: true
+  themeColor: "theme-custom"
+theme: "hyde"
+title: "Will Do"
 
-[Menus]
-  main = [
-      {Name = "GitHub", URL = "https://github.com/willfaught"},
-      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/willfaught"},
-      {Name = "Twitter", URL = "https://twitter.com/willfought"},
-      {Name = "Facebook", URL = "https://www.facebook.com/will.faught"},
-      {Name = "Tumblr", URL = "https://willfaught.tumblr.com"}
-  ]
-
-[params]
-  description = "Please donate to my relief fund."
-  themeColor = "theme-base-0d"
-  layoutReverse = true
+Menus:
+  main:
+    - Name: "GitHub"
+      URL: "https://github.com/willfaught"
+      Weight: 1
+    - Name: "LinkedIn"
+      URL: "https://www.linkedin.com/in/willfaught"
+      Weight: 2
+    - Name: "Twitter"
+      URL: "https://twitter.com/willfought"
+      Weight: 3
+    - Name: "Facebook"
+      URL: "https://www.facebook.com/will.faught"
+      Weight: 4
+    - Name: "Tumblr"
+      URL: "https://willfaught.tumblr.com"
+      Weight: 5
