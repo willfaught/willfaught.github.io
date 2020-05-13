@@ -9,6 +9,12 @@
 		<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
 		{{- end -}}
 		{{ .Content }}
+		<p>
+			<small>
+				{{ range $i, $t := .Params.tags -}}{{ if gt $i 0 }}&nbsp;{{ end }}<a href="tags/{{ $t }}/">#{{ $t }}</a> {{- end }}
+				{{ range $i, $c := .Params.categories -}}{{ if gt $i 0 }}&nbsp;{{ end }}<a href="categories/{{ $c }}/">#{{ $c }}</a> {{- end }}
+			</small>
+		</p>
 	</article>
 	{{- end }}
 	{{ if or .Paginator.HasPrev .Paginator.HasNext -}}
