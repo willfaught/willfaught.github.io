@@ -15,12 +15,9 @@ Menus:
     - Name: "LinkedIn"
       URL: "https://www.linkedin.com/in/willfaught"
       Weight: 2
-    - Name: "Twitter"
-      URL: "https://twitter.com/willfought"
-      Weight: 3
-    - Name: "Facebook"
-      URL: "https://www.facebook.com/will.faught"
-      Weight: 4
-    - Name: "Tumblr"
-      URL: "https://willfaught.tumblr.com"
-      Weight: 5
+      #    - Name: "Twitter"
+      #      URL: "https://twitter.com/willfought"
+      #      Weight: 3
+      #    - Name: "Tumblr"
+      #      URL: "https://willfaught.tumblr.com"
+      #      Weight: 4
