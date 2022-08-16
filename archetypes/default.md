@@ -1,10 +1,5 @@
 ---
-audio: []
 date: {{ .Date }}
-description: ""
-draft: false
-images: []
-keywords: []
+draft: true
 title: "{{ replace .Name "-" " " | title }}"
-videos: []
 ---
