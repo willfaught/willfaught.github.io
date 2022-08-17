@@ -1,6 +1,5 @@
 ---
 date: '2015-06-25'
-tags: null
 title: Photo post
 ---
 

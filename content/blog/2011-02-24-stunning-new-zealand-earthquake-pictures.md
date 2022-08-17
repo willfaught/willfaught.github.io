@@ -1,6 +1,5 @@
 ---
 date: '2011-02-24'
-tags: null
 title: Stunning New Zealand earthquake pictures
 ---
 

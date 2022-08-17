@@ -1,7 +1,6 @@
 ---
 date: '2015-02-15'
 link: http://www.paulgraham.com/work.html
-tags: null
 title: What Doesn't Seem Like Work?
 ---
 

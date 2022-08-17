@@ -1,7 +1,6 @@
 ---
 date: '2015-02-22'
 link: http://www.demandanexpirationdate.com
-tags: null
 title: Tell Congress to Put an Expiration Date on Unconstitutional Bulk Surveillance
 ---
 

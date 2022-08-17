@@ -1,6 +1,5 @@
 ---
 date: '2014-11-29'
-tags: null
 title: Apple Pay in Safari
 ---
 

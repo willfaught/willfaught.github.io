@@ -1,7 +1,6 @@
 ---
 date: '2015-01-05'
 link: http://m.fastcodesign.com/1665375/the-6-pillars-of-steve-jobss-design-philosophy
-tags: null
 title: The 6 Pillars Of Steve Jobs's Design Philosophy | Co.Design | business + innovation
   + design
 ---

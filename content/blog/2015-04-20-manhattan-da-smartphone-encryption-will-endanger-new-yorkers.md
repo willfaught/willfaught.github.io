@@ -1,7 +1,6 @@
 ---
 date: '2015-04-20'
 link: http://cir.ca/s/v3EB
-tags: null
 title: 'Manhattan DA: Smartphone encryption will endanger New Yorkers'
 ---
 

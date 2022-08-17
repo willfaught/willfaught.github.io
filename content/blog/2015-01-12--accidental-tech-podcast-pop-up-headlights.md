@@ -1,7 +1,6 @@
 ---
 date: '2015-01-12'
 link: http://atp.fm/99
-tags: null
 title: '→ Accidental Tech Podcast: Pop-Up Headlights'
 ---
 

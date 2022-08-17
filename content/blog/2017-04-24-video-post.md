@@ -1,6 +1,5 @@
 ---
 date: '2017-04-24'
-tags: null
 title: Video post
 ---
 

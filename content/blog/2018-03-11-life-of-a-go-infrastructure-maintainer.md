@@ -1,7 +1,6 @@
 ---
 date: '2018-03-10'
 link: https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5
-tags: null
 title: Life of a Go Infrastructure Maintainer
 ---
 

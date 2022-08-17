@@ -1,7 +1,6 @@
 ---
 date: '2017-04-09'
 link: http://www.rhinocarhire.com/Car-Hire-Blog/August-2009/Which-Countries-Drive-on-the-Left,--a-Handy-Guide.aspx
-tags: null
 title: A Guide to Which Countries Drive on The Left
 ---
 

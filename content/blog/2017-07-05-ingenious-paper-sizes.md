@@ -1,7 +1,6 @@
 ---
 date: '2017-07-04'
 link: https://en.wikipedia.org/wiki/Paper_size
-tags: null
 title: Ingenious paper sizes
 ---
 

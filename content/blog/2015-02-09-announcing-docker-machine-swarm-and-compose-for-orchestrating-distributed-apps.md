@@ -1,7 +1,6 @@
 ---
 date: '2015-02-08'
 link: http://blog.docker.com/2014/12/announcing-docker-machine-swarm-and-compose-for-orchestrating-distributed-apps/
-tags: null
 title: Announcing Docker Machine, Swarm, and Compose for Orchestrating Distributed
   Apps
 ---

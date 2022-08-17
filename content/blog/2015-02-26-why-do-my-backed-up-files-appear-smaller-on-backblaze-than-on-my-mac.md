@@ -1,7 +1,6 @@
 ---
 date: '2015-02-25'
 link: https://help.backblaze.com/entries/23311183-Why-do-my-backed-up-files-appear-smaller-on-Backblaze-than-on-my-Mac-
-tags: null
 title: Why do my backed up files appear smaller on Backblaze than on my Mac?
 ---
 

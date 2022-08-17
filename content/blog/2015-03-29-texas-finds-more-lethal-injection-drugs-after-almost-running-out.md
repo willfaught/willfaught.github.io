@@ -1,7 +1,6 @@
 ---
 date: '2015-03-29'
 link: http://cir.ca/s/F7z
-tags: null
 title: Texas finds more lethal injection drugs after almost running out
 ---
 

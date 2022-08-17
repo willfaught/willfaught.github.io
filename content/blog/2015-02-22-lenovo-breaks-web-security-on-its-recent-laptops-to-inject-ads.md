@@ -1,7 +1,6 @@
 ---
 date: '2015-02-22'
 link: https://www.eff.org/deeplinks/2015/02/further-evidence-lenovo-breaking-https-security-its-laptops
-tags: null
 title: Lenovo breaks web security on its recent laptops to inject ads
 ---
 

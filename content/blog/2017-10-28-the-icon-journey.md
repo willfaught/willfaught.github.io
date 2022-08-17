@@ -1,6 +1,5 @@
 ---
 date: '2017-10-27'
-tags: null
 title: The Icon Journey
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: '2011-08-12'
 link: http://www.nytimes.com/2011/08/07/opinion/sunday/what-happened-to-obamas-passion.html
-tags: null
 title: What Happened to Obama
 ---
 

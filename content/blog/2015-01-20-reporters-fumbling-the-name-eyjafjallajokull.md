@@ -1,7 +1,6 @@
 ---
 date: '2015-01-20'
 link: https://m.youtube.com/watch?v=2Q3YVkm8YJM
-tags: null
 title: Reporters fumbling the name Eyjafjallajokull
 ---
 

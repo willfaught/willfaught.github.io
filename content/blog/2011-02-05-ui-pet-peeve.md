@@ -1,6 +1,5 @@
 ---
 date: '2011-02-05'
-tags: null
 title: UI pet peeve
 ---
 
