@@ -5,6 +5,9 @@
         <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
         <meta name="go-import" content="willfaught.com git https://github.com/willfaught">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/schema.html" . }}
+        {{ template "_internal/twitter_cards.html" . }}
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
         {{ range .AlternativeOutputFormats -}}
         {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
@@ -14,6 +17,16 @@
         {{- else -}}
         <title>{{ .Title }} &middot; {{ .Site.Title }}</title>
         {{- end }}
+        <style type="text/css">
+            blockquote {
+                padding: 0.5rem 1rem;
+                border-left: 0.25rem solid #e9ecef;
+                border-right: 0.25rem solid white;
+            }
+            blockquote p:last-of-type {
+                margin-bottom: 0;
+            }
+        </style>
     </head>    
     <body>
         <header>
@@ -45,5 +58,8 @@
             </div>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+        {{ if .Site.GoogleAnalytics }}
+        {{ template "_internal/google_analytics.html" . }}
+        {{ end }}
     </body>
 </html>

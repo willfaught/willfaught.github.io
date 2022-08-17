@@ -24,10 +24,10 @@
                 </div>
             </div>
             {{ end }}
-            {{ if .PublishDate }}
+            {{ if .Date }}
             <div class="row">
                 <div class="col">
-                    <p class="mx-auto"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+                    <p class="mx-auto text-muted"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
                 </div>
             </div>
             {{ end }}
@@ -43,15 +43,6 @@
                 </div>
             </div>
         </section>
-        {{ end }}
-        {{ if .Site.DisqusShortname }}
-        <footer>
-            <div class="row">
-                <div class="col">
-                    <button class="btn">Show Comments</button>
-                </div>
-            </div>
-        </footer>
         {{ end }}
     </div>
 </article>
