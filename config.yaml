@@ -1,23 +1,10 @@
-baseurl: "https://www.willfaught.com/"
+baseURL: "https://www.willfaught.com/"
 googleAnalytics: "UA-21098218-1"
+languageCode: "en-us"
+paginate: 50
 params:
   description: "Thoughts on life, the world, and programming. Please donate to my relief fund."
-  layoutReverse: true
-  themeColor: "theme-custom"
-theme: "hyde"
+permalinks:
+  blog: /blog/:year/:month/:day/:title/
+theme: "lithe"
 title: "Will Do"
-
-Menus:
-  main:
-    - Name: "GitHub"
-      URL: "https://github.com/willfaught"
-      Weight: 1
-    - Name: "LinkedIn"
-      URL: "https://www.linkedin.com/in/willfaught"
-      Weight: 2
-      #    - Name: "Twitter"
-      #      URL: "https://twitter.com/willfought"
-      #      Weight: 3
-      #    - Name: "Tumblr"
-      #      URL: "https://willfaught.tumblr.com"
-      #      Weight: 4

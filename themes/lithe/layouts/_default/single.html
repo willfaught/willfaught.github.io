@@ -1,0 +1,53 @@
+{{ define "main" }}
+{{ if or .Title .Description .PublishDate .Content .Params.tags .Params.categories }}
+<article>
+    <div class="container">
+        {{ if or .Title .Description .PublishDate }}
+        <header class="text-center">
+            {{ if .Title }}
+            <div class="row">
+                <div class="col">
+                    <p class="display-5 mx-auto" style="max-width:100ch">{{ .Title | markdownify }}</p>
+                </div>
+            </div>
+            {{ end }}
+            {{ if .Description }}
+            <div class="row">
+                <div class="col">
+                    <p class="lead mx-auto" style="max-width:100ch">{{ .Description | markdownify }}</p>
+                </div>
+            </div>
+            {{ end }}
+            {{ if .PublishDate }}
+            <div class="row">
+                <div class="col">
+                    <p class="mx-auto"><time datetime="{{ .PublishDate.Format `2006-01-02` }}">{{ .PublishDate.Format "January 2, 2006" }}</time></p>
+                </div>
+            </div>
+            {{ end }}
+        </header>
+        {{ end }}
+        {{ if .Content }}
+        <section>
+            <div class="row">
+                <div class="col">
+                    <div class="mx-auto" style="max-width:66ch">
+                        {{ .Content }}
+                    </div>
+                </div>
+            </div>
+        </section>
+        {{ end }}
+        {{ if .Site.DisqusShortname }}
+        <footer>
+            <div class="row">
+                <div class="col">
+                    <button class="btn">Show Comments</button>
+                </div>
+            </div>
+        </footer>
+        {{ end }}
+    </div>
+</article>
+{{ end }}
+{{ end }}
