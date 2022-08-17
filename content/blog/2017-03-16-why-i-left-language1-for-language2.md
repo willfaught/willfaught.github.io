@@ -1,6 +1,5 @@
 ---
-date: '2017-03-16T22:16:51+00:00'
-draft: false
+date: '2017-03-16'
 tags:
 - programming
 title: Why I Left [Language_1] For [Language_2]

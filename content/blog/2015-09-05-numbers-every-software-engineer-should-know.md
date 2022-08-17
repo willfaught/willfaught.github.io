@@ -1,6 +1,5 @@
 ---
-date: '2015-09-05T01:58:06+00:00'
-draft: false
+date: '2015-09-04'
 tags:
 - software
 title: Numbers every software engineer should know

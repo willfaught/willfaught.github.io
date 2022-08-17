@@ -1,6 +1,5 @@
 ---
-date: '2015-07-10T07:19:31+00:00'
-draft: false
+date: '2015-07-10'
 tags:
 - golang
 - generics

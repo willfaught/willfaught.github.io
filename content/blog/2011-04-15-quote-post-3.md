@@ -1,6 +1,5 @@
 ---
-date: '2011-04-15T02:46:00+00:00'
-draft: false
+date: '2011-04-14'
 tags:
 - aol
 - funny

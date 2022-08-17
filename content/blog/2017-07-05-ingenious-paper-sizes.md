@@ -1,6 +1,5 @@
 ---
-date: '2017-07-05T03:53:21+00:00'
-draft: false
+date: '2017-07-04'
 tags: null
 title: Ingenious paper sizes
 ---

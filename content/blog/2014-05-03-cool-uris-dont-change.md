@@ -1,6 +1,5 @@
 ---
-date: '2014-05-03T19:13:50+00:00'
-draft: false
+date: '2014-05-03'
 tags:
 - computing
 title: Cool URIs don't change

@@ -1,6 +1,5 @@
 ---
-date: '2015-10-26T01:34:14+00:00'
-draft: false
+date: '2015-10-25'
 tags:
 - coding
 - binpacking

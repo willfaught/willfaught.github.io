@@ -1,6 +1,5 @@
 ---
-date: '2011-04-25T07:07:00+00:00'
-draft: false
+date: '2011-04-25'
 tags:
 - fyi
 - radio

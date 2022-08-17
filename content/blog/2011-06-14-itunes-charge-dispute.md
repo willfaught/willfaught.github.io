@@ -1,6 +1,5 @@
 ---
-date: '2011-06-14T05:09:23+00:00'
-draft: false
+date: '2011-06-13'
 tags:
 - apple
 - stories

@@ -1,6 +1,5 @@
 ---
-date: '2013-04-08T19:35:00+00:00'
-draft: false
+date: '2013-04-08'
 tags:
 - computation
 - reading

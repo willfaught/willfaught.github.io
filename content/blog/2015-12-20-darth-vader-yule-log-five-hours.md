@@ -1,6 +1,5 @@
 ---
-date: '2015-12-20T22:57:15+00:00'
-draft: false
+date: '2015-12-20'
 tags:
 - star wars
 - yule log

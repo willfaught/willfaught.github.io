@@ -1,6 +1,5 @@
 ---
-date: '2016-02-17T20:53:58+00:00'
-draft: false
+date: '2016-02-17'
 tags: null
 title: Sullivan Ballou Letter
 ---

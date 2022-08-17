@@ -1,6 +1,5 @@
 ---
-date: '2014-11-27T18:07:00+00:00'
-draft: false
+date: '2014-11-27'
 tags: null
 title: Steam fall sale
 ---

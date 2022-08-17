@@ -1,6 +1,5 @@
 ---
-date: '2016-06-24T20:39:04+00:00'
-draft: false
+date: '2016-06-24'
 tags:
 - io
 - language

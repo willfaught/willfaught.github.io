@@ -1,6 +1,5 @@
 ---
-date: '2018-10-22T22:34:28+00:00'
-draft: false
+date: '2018-10-22'
 tags:
 - coding
 - scrum

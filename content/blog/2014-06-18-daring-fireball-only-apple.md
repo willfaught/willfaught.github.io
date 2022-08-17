@@ -1,6 +1,5 @@
 ---
-date: '2014-06-18T18:15:58+00:00'
-draft: false
+date: '2014-06-18'
 tags:
 - technology
 title: 'Daring Fireball: Only Apple'

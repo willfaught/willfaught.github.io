@@ -1,6 +1,5 @@
 ---
-date: '2015-12-21T03:24:25+00:00'
-draft: false
+date: '2015-12-20'
 tags:
 - wine
 - reviews

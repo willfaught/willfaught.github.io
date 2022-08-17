@@ -1,6 +1,5 @@
 ---
-date: '2013-03-05T20:01:21+00:00'
-draft: false
+date: '2013-03-05'
 tags:
 - funny
 title: First world problems

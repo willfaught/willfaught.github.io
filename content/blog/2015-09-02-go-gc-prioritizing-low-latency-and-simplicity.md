@@ -1,6 +1,5 @@
 ---
-date: '2015-09-02T21:25:08+00:00'
-draft: false
+date: '2015-09-02'
 tags:
 - golang
 title: 'Go GC: Prioritizing low latency and simplicity'

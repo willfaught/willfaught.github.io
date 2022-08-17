@@ -1,6 +1,5 @@
 ---
-date: '2013-03-21T22:58:29+00:00'
-draft: false
+date: '2013-03-21'
 tags:
 - computation
 title: Finding overlapping axis-aligned rectangles

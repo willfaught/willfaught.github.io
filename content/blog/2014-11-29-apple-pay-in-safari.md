@@ -1,6 +1,5 @@
 ---
-date: '2014-11-29T20:13:13+00:00'
-draft: false
+date: '2014-11-29'
 tags: null
 title: Apple Pay in Safari
 ---

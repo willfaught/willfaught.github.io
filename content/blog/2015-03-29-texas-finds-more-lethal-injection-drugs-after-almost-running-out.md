@@ -1,6 +1,5 @@
 ---
-date: '2015-03-29T18:34:27+00:00'
-draft: false
+date: '2015-03-29'
 tags: null
 title: Texas finds more lethal injection drugs after almost running out
 ---

@@ -1,6 +1,5 @@
 ---
-date: '2011-02-05T16:00:07+00:00'
-draft: false
+date: '2011-02-05'
 tags:
 - msdn
 - documentation

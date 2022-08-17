@@ -1,6 +1,5 @@
 ---
-date: '2011-07-09T06:00:05+00:00'
-draft: false
+date: '2011-07-08'
 tags:
 - opinions
 - computation

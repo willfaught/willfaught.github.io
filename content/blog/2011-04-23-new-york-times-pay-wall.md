@@ -1,6 +1,5 @@
 ---
-date: '2011-04-23T09:19:00+00:00'
-draft: false
+date: '2011-04-23'
 tags:
 - ipad
 - new york times

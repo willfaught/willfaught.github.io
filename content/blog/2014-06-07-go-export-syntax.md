@@ -1,6 +1,5 @@
 ---
-date: '2014-06-07T06:31:09+00:00'
-draft: false
+date: '2014-06-06'
 tags:
 - computing
 title: Go export syntax

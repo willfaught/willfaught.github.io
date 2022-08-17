@@ -1,6 +1,5 @@
 ---
-date: '2015-12-30T09:45:59+00:00'
-draft: false
+date: '2015-12-30'
 tags:
 - spoof
 - carmen sandiego

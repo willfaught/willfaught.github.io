@@ -1,6 +1,5 @@
 ---
-date: '2016-07-14T06:54:14+00:00'
-draft: false
+date: '2016-07-13'
 tags:
 - aphyr
 - redis

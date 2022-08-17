@@ -1,6 +1,5 @@
 ---
-date: '2015-05-27T02:21:14+00:00'
-draft: false
+date: '2015-05-26'
 tags:
 - golang
 title: Struct composition with Go

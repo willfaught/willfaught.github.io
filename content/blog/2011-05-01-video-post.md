@@ -1,6 +1,5 @@
 ---
-date: '2011-05-01T09:39:00+00:00'
-draft: false
+date: '2011-05-01'
 tags:
 - secret passages
 - cool

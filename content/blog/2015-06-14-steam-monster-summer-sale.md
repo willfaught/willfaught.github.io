@@ -1,6 +1,5 @@
 ---
-date: '2015-06-14T04:57:24+00:00'
-draft: false
+date: '2015-06-13'
 tags:
 - games
 title: Steam Monster Summer Sale

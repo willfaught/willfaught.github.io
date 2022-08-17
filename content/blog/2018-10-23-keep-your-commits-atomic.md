@@ -1,6 +1,5 @@
 ---
-date: '2018-10-23T23:02:54+00:00'
-draft: false
+date: '2018-10-23'
 tags:
 - coding
 - git

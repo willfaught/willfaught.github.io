@@ -1,6 +1,5 @@
 ---
-date: '2013-10-19T01:11:00+00:00'
-draft: false
+date: '2013-10-18'
 tags:
 - reading
 title: Because I'm a twentysomething

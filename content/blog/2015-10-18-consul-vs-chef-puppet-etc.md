@@ -1,6 +1,5 @@
 ---
-date: '2015-10-18T01:22:50+00:00'
-draft: false
+date: '2015-10-17'
 tags:
 - hashicorp
 - consul

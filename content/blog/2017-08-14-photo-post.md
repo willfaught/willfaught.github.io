@@ -1,6 +1,5 @@
 ---
-date: '2017-08-14T05:53:52+00:00'
-draft: false
+date: '2017-08-13'
 tags:
 - pg&e
 title: Photo post

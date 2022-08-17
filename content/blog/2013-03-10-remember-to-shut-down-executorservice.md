@@ -1,6 +1,5 @@
 ---
-date: '2013-03-10T00:02:00+00:00'
-draft: false
+date: '2013-03-09'
 tags:
 - computation
 title: Remember to shut down ExecutorService

@@ -1,6 +1,5 @@
 ---
-date: '2015-04-16T16:26:34+00:00'
-draft: false
+date: '2015-04-16'
 tags:
 - insurance
 - money

@@ -1,6 +1,5 @@
 ---
-date: '2018-10-25T07:52:38+00:00'
-draft: false
+date: '2018-10-25'
 tags:
 - coding
 title: Valve humiliated your corporate culture

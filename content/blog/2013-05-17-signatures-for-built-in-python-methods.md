@@ -1,6 +1,5 @@
 ---
-date: '2013-05-17T02:50:38+00:00'
-draft: false
+date: '2013-05-16'
 tags:
 - computation
 title: Signatures for built-in Python methods

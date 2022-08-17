@@ -1,6 +1,5 @@
 ---
-date: '2015-02-14T23:28:37+00:00'
-draft: false
+date: '2015-02-14'
 tags:
 - cluster management
 title: Apache Mesos

@@ -1,6 +1,5 @@
 ---
-date: '2011-04-14T21:04:00+00:00'
-draft: false
+date: '2011-04-14'
 tags:
 - politics
 title: Quote post

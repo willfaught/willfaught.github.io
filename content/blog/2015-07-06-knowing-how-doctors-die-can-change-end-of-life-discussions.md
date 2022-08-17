@@ -1,6 +1,5 @@
 ---
-date: '2015-07-06T23:22:45+00:00'
-draft: false
+date: '2015-07-06'
 tags: null
 title: Knowing How Doctors Die Can Change End-Of-Life Discussions
 ---

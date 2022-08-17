@@ -1,6 +1,5 @@
 ---
-date: '2016-08-17T19:47:53+00:00'
-draft: false
+date: '2016-08-17'
 tags:
 - java
 - programming

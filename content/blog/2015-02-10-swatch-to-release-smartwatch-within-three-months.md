@@ -1,6 +1,5 @@
 ---
-date: '2015-02-10T02:21:05+00:00'
-draft: false
+date: '2015-02-09'
 tags:
 - funny
 title: Swatch to release smartwatch within three months

@@ -1,6 +1,5 @@
 ---
-date: '2011-02-16T08:09:14+00:00'
-draft: false
+date: '2011-02-16'
 tags:
 - facebook
 - blogging

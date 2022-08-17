@@ -1,6 +1,5 @@
 ---
-date: '2011-06-15T06:00:06+00:00'
-draft: false
+date: '2011-06-14'
 tags:
 - interesting
 title: Bed bugs in a wooden bed frame, head board, and box spring

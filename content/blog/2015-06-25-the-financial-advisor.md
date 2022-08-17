@@ -1,6 +1,5 @@
 ---
-date: '2015-06-25T06:53:17+00:00'
-draft: false
+date: '2015-06-24'
 tags:
 - finances
 - financial advisor

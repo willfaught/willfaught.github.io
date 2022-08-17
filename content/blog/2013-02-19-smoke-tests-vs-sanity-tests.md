@@ -1,6 +1,5 @@
 ---
-date: '2013-02-19T02:04:00+00:00'
-draft: false
+date: '2013-02-18'
 tags:
 - computation
 title: Smoke tests vs. sanity tests

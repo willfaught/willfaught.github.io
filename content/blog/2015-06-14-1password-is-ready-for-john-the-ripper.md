@@ -1,6 +1,5 @@
 ---
-date: '2015-06-14T23:50:00+00:00'
-draft: false
+date: '2015-06-14'
 tags:
 - computing
 - security

@@ -1,6 +1,5 @@
 ---
-date: '2013-11-25T08:30:00+00:00'
-draft: false
+date: '2013-11-25'
 tags:
 - playing
 title: Video post

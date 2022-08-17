@@ -1,6 +1,5 @@
 ---
-date: '2016-04-20T07:23:45+00:00'
-draft: false
+date: '2016-04-20'
 tags:
 - programming
 - names

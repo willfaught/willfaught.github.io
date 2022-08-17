@@ -1,6 +1,5 @@
 ---
-date: '2014-06-06T18:20:04+00:00'
-draft: false
+date: '2014-06-06'
 tags:
 - computing
 title: Go isn't so parallel after all

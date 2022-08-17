@@ -1,6 +1,5 @@
 ---
-date: '2017-12-13T21:29:16+00:00'
-draft: false
+date: '2017-12-13'
 tags:
 - journey
 - games

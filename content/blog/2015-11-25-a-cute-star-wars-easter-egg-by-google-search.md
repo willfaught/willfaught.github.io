@@ -1,6 +1,5 @@
 ---
-date: '2015-11-25T22:18:30+00:00'
-draft: false
+date: '2015-11-25'
 tags:
 - star wars
 - google

@@ -1,6 +1,5 @@
 ---
-date: '2016-02-26T05:24:01+00:00'
-draft: false
+date: '2016-02-25'
 tags:
 - coding
 title: The Wrong Abstraction

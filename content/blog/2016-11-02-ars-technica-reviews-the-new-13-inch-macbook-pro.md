@@ -1,6 +1,5 @@
 ---
-date: '2016-11-02T17:54:44+00:00'
-draft: false
+date: '2016-11-02'
 tags:
 - ars technica
 - review

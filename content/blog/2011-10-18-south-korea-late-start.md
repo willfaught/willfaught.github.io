@@ -1,6 +1,5 @@
 ---
-date: '2011-10-18T12:08:00+00:00'
-draft: false
+date: '2011-10-18'
 tags:
 - seoul
 - travel

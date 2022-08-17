@@ -1,6 +1,5 @@
 ---
-date: '2015-08-22T23:33:55+00:00'
-draft: false
+date: '2015-08-22'
 tags:
 - patents
 title: Federal Circuit Strikes Its Own Blow Against Overbroad Software Patents | Electronic

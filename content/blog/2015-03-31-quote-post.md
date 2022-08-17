@@ -1,6 +1,5 @@
 ---
-date: '2015-03-31T04:50:22+00:00'
-draft: false
+date: '2015-03-30'
 tags: null
 title: Quote post
 ---

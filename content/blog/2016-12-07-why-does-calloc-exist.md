@@ -1,6 +1,5 @@
 ---
-date: '2016-12-07T07:06:43+00:00'
-draft: false
+date: '2016-12-06'
 tags:
 - programming
 - c

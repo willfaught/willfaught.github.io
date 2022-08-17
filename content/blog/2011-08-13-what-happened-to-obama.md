@@ -1,6 +1,5 @@
 ---
-date: '2011-08-13T04:51:00+00:00'
-draft: false
+date: '2011-08-12'
 tags: null
 title: What Happened to Obama
 ---

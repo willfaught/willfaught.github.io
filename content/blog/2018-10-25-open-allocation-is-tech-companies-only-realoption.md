@@ -1,6 +1,5 @@
 ---
-date: '2018-10-25T04:14:23+00:00'
-draft: false
+date: '2018-10-24'
 tags:
 - coding
 title: Open allocation is tech companies' only real option

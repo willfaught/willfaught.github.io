@@ -1,6 +1,5 @@
 ---
-date: '2011-03-15T07:55:57+00:00'
-draft: false
+date: '2011-03-15'
 tags:
 - tsunami
 - apple

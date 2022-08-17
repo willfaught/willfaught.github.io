@@ -1,6 +1,5 @@
 ---
-date: '2015-01-20T09:16:39+00:00'
-draft: false
+date: '2015-01-20'
 tags: null
 title: Reporters fumbling the name Eyjafjallajokull
 ---

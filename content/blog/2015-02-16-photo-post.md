@@ -1,6 +1,5 @@
 ---
-date: '2015-02-16T19:19:29+00:00'
-draft: false
+date: '2015-02-16'
 tags:
 - apple
 - bug

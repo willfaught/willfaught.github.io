@@ -1,6 +1,5 @@
 ---
-date: '2012-11-09T00:56:00+00:00'
-draft: false
+date: '2012-11-08'
 tags:
 - computation
 title: 'PHP: a fractal of bad design'

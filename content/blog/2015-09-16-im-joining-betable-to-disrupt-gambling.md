@@ -1,6 +1,5 @@
 ---
-date: '2015-09-16T16:45:24+00:00'
-draft: false
+date: '2015-09-16'
 tags:
 - betable
 - engineering

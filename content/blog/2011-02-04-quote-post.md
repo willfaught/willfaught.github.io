@@ -1,6 +1,5 @@
 ---
-date: '2011-02-04T16:00:07+00:00'
-draft: false
+date: '2011-02-04'
 tags:
 - sicp
 - lisp

@@ -1,6 +1,5 @@
 ---
-date: '2011-06-28T23:36:20+00:00'
-draft: false
+date: '2011-06-28'
 tags:
 - interesting
 - games

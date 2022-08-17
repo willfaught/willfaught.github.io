@@ -1,6 +1,5 @@
 ---
-date: '2012-04-05T04:00:00+00:00'
-draft: false
+date: '2012-04-04'
 tags:
 - seattle
 - seoul

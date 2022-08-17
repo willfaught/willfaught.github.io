@@ -1,6 +1,5 @@
 ---
-date: '2015-03-09T22:24:40+00:00'
-draft: false
+date: '2015-03-09'
 tags: null
 title: Google, Our Patron Saint of the Closed Web | Sealed Abstract
 ---

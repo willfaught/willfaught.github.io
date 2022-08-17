@@ -1,6 +1,5 @@
 ---
-date: '2011-04-19T05:54:12+00:00'
-draft: false
+date: '2011-04-18'
 tags:
 - portal 2
 title: Portal 2 review at IGN

@@ -1,6 +1,5 @@
 ---
-date: '2013-07-17T05:12:40+00:00'
-draft: false
+date: '2013-07-16'
 tags:
 - playing
 title: Steam Summer Sale

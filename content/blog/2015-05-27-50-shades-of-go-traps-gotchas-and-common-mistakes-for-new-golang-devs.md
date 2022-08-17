@@ -1,6 +1,5 @@
 ---
-date: '2015-05-27T02:33:05+00:00'
-draft: false
+date: '2015-05-26'
 tags:
 - golang
 title: '50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs'

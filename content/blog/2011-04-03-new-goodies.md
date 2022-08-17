@@ -1,6 +1,5 @@
 ---
-date: '2011-04-03T10:54:00+00:00'
-draft: false
+date: '2011-04-03'
 tags:
 - macbook air
 - canon s95

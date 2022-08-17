@@ -1,6 +1,5 @@
 ---
-date: '2013-03-21T00:47:00+00:00'
-draft: false
+date: '2013-03-20'
 tags:
 - computation
 - code

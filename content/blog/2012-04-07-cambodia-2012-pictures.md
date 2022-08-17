@@ -1,6 +1,5 @@
 ---
-date: '2012-04-07T03:29:00+00:00'
-draft: false
+date: '2012-04-06'
 tags:
 - travel
 - cambodia

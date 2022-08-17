@@ -1,6 +1,5 @@
 ---
-date: '2015-01-12T17:59:00+00:00'
-draft: false
+date: '2015-01-12'
 tags: null
 title: '→ Accidental Tech Podcast: Pop-Up Headlights'
 ---

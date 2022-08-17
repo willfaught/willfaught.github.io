@@ -1,6 +1,5 @@
 ---
-date: '2015-02-15T21:02:34+00:00'
-draft: false
+date: '2015-02-15'
 tags: null
 title: What Doesn't Seem Like Work?
 ---

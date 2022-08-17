@@ -1,6 +1,5 @@
 ---
-date: '2013-04-12T06:50:00+00:00'
-draft: false
+date: '2013-04-11'
 tags:
 - funny
 - playing

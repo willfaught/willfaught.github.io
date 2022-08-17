@@ -1,6 +1,5 @@
 ---
-date: '2011-05-30T04:25:00+00:00'
-draft: false
+date: '2011-05-29'
 tags:
 - funny
 - cool

@@ -1,6 +1,5 @@
 ---
-date: '2015-04-20T18:54:12+00:00'
-draft: false
+date: '2015-04-20'
 tags: null
 title: 'Manhattan DA: Smartphone encryption will endanger New Yorkers'
 ---

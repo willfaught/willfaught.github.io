@@ -1,6 +1,5 @@
 ---
-date: '2015-01-31T18:52:22+00:00'
-draft: false
+date: '2015-01-31'
 tags:
 - geek
 title: Photo post

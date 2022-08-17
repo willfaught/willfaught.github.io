@@ -1,6 +1,5 @@
 ---
-date: '2015-12-05T07:36:25+00:00'
-draft: false
+date: '2015-12-04'
 tags:
 - ps4
 - steam

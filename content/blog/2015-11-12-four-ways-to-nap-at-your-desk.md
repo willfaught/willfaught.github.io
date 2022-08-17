@@ -1,6 +1,5 @@
 ---
-date: '2015-11-12T06:51:28+00:00'
-draft: false
+date: '2015-11-11'
 tags:
 - work
 - sleep

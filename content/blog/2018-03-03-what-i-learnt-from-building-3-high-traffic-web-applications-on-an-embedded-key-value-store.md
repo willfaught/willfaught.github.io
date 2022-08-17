@@ -1,6 +1,5 @@
 ---
-date: '2018-03-03T01:51:14+00:00'
-draft: false
+date: '2018-03-02'
 tags:
 - coding
 - golang

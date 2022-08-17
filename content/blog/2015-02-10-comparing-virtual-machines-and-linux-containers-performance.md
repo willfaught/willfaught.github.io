@@ -1,6 +1,5 @@
 ---
-date: '2015-02-10T07:15:13+00:00'
-draft: false
+date: '2015-02-09'
 tags:
 - computing
 title: Comparing Virtual Machines and Linux Containers Performance

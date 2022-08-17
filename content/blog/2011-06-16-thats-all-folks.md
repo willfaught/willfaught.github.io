@@ -1,6 +1,5 @@
 ---
-date: '2011-06-16T06:00:00+00:00'
-draft: false
+date: '2011-06-15'
 tags:
 - thesis
 - defense

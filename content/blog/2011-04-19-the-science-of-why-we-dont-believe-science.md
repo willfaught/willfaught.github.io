@@ -1,6 +1,5 @@
 ---
-date: '2011-04-19T02:45:00+00:00'
-draft: false
+date: '2011-04-18'
 tags:
 - politics
 - science

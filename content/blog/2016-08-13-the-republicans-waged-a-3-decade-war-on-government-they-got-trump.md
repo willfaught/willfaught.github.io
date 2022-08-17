@@ -1,6 +1,5 @@
 ---
-date: '2016-08-13T00:19:41+00:00'
-draft: false
+date: '2016-08-12'
 tags:
 - politics
 - republicans

@@ -1,6 +1,5 @@
 ---
-date: '2018-03-11T00:00:26+00:00'
-draft: false
+date: '2018-03-10'
 tags: null
 title: Life of a Go Infrastructure Maintainer
 ---

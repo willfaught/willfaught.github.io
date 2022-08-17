@@ -1,6 +1,5 @@
 ---
-date: '2011-07-19T07:48:44+00:00'
-draft: false
+date: '2011-07-19'
 tags:
 - fyi
 title: Short term health insurance

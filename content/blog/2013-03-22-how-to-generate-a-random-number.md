@@ -1,6 +1,5 @@
 ---
-date: '2013-03-22T00:08:43+00:00'
-draft: false
+date: '2013-03-21'
 tags:
 - funny
 title: How to generate a random number

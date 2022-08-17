@@ -1,6 +1,5 @@
 ---
-date: '2011-02-24T20:00:07+00:00'
-draft: false
+date: '2011-02-24'
 tags:
 - apple
 - keynote

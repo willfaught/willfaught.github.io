@@ -1,6 +1,5 @@
 ---
-date: '2013-01-11T20:27:00+00:00'
-draft: false
+date: '2013-01-11'
 tags:
 - playing
 title: IGN's 2013 PC game predictions

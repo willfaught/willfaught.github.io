@@ -1,6 +1,5 @@
 ---
-date: '2012-10-17T23:44:00+00:00'
-draft: false
+date: '2012-10-17'
 tags:
 - technology
 title: Absurd password rules

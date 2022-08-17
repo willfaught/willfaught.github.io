@@ -1,6 +1,5 @@
 ---
-date: '2019-03-29T16:06:36+00:00'
-draft: false
+date: '2019-03-29'
 tags:
 - coding
 - haskell

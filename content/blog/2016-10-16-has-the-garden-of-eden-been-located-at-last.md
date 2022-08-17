@@ -1,6 +1,5 @@
 ---
-date: '2016-10-16T22:53:11+00:00'
-draft: false
+date: '2016-10-16'
 tags:
 - eden
 - garden

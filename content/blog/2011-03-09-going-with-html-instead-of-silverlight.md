@@ -1,6 +1,5 @@
 ---
-date: '2011-03-09T20:00:07+00:00'
-draft: false
+date: '2011-03-09'
 tags:
 - silverlight
 - html

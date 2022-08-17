@@ -1,6 +1,5 @@
 ---
-date: '2011-04-19T07:13:00+00:00'
-draft: false
+date: '2011-04-19'
 tags:
 - apple
 - samsung

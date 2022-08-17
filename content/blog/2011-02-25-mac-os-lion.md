@@ -1,6 +1,5 @@
 ---
-date: '2011-02-25T20:00:07+00:00'
-draft: false
+date: '2011-02-25'
 tags:
 - apple
 - mac os lion

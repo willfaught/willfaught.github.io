@@ -1,6 +1,5 @@
 ---
-date: '2011-07-08T06:01:06+00:00'
-draft: false
+date: '2011-07-07'
 tags:
 - ideas
 - opinions

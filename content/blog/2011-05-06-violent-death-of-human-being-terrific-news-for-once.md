@@ -1,6 +1,5 @@
 ---
-date: '2011-05-06T02:31:34+00:00'
-draft: false
+date: '2011-05-05'
 tags:
 - the onion
 - funny

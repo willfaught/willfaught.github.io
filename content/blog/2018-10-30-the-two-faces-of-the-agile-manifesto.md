@@ -1,6 +1,5 @@
 ---
-date: '2018-10-30T01:02:19+00:00'
-draft: false
+date: '2018-10-29'
 tags:
 - coding
 - agile

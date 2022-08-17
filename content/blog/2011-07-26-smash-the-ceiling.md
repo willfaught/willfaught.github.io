@@ -1,6 +1,5 @@
 ---
-date: '2011-07-26T15:40:18+00:00'
-draft: false
+date: '2011-07-26'
 tags:
 - interesting
 - opinions

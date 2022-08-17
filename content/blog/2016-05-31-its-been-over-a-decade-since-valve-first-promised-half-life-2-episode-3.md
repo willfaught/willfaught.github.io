@@ -1,6 +1,5 @@
 ---
-date: '2016-05-31T10:32:47+00:00'
-draft: false
+date: '2016-05-31'
 tags:
 - gaming
 - games

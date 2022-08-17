@@ -1,6 +1,5 @@
 ---
-date: '2015-12-15T19:10:44+00:00'
-draft: false
+date: '2015-12-15'
 tags:
 - iphone
 - upgrade

@@ -1,6 +1,5 @@
 ---
-date: '2011-04-13T07:47:00+00:00'
-draft: false
+date: '2011-04-13'
 tags:
 - astronomy
 - funny

@@ -1,6 +1,5 @@
 ---
-date: '2015-09-13T08:19:23+00:00'
-draft: false
+date: '2015-09-13'
 tags:
 - gaming
 title: Xbox One Reveal 2013 Highlights

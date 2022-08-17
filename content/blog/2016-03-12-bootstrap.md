@@ -1,6 +1,5 @@
 ---
-date: '2016-03-12T08:53:40+00:00'
-draft: false
+date: '2016-03-12'
 tags:
 - programming
 - bootstrap

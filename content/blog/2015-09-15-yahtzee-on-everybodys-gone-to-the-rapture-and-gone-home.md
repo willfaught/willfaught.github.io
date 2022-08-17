@@ -1,6 +1,5 @@
 ---
-date: '2015-09-15T17:45:21+00:00'
-draft: false
+date: '2015-09-15'
 tags:
 - gaming
 title: Yahtzee On Everybodys Gone To The Rapture and Gone Home

@@ -1,6 +1,5 @@
 ---
-date: '2014-07-06T07:35:14+00:00'
-draft: false
+date: '2014-07-06'
 tags:
 - random
 title: Zone Improvement Plan

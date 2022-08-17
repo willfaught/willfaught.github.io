@@ -1,6 +1,5 @@
 ---
-date: '2011-04-07T07:17:42+00:00'
-draft: false
+date: '2011-04-07'
 tags:
 - facetime
 - iphone

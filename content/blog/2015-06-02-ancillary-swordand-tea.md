@@ -1,6 +1,5 @@
 ---
-date: '2015-06-02T05:03:44+00:00'
-draft: false
+date: '2015-06-01'
 tags:
 - science fiction
 - ancillary sword

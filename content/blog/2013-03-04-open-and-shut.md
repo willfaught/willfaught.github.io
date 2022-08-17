@@ -1,6 +1,5 @@
 ---
-date: '2013-03-04T16:35:00+00:00'
-draft: false
+date: '2013-03-04'
 tags:
 - technology
 title: Open and Shut

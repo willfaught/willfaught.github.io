@@ -1,6 +1,5 @@
 ---
-date: '2014-06-09T00:02:40+00:00'
-draft: false
+date: '2014-06-08'
 tags:
 - computing
 title: The Glasgow Haskell Compiler

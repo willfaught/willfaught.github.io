@@ -1,6 +1,5 @@
 ---
-date: '2015-06-25T08:02:32+00:00'
-draft: false
+date: '2015-06-25'
 tags: null
 title: Photo post
 ---

@@ -1,6 +1,5 @@
 ---
-date: '2017-04-10T22:02:53+00:00'
-draft: false
+date: '2017-04-10'
 tags:
 - programming
 - javascript

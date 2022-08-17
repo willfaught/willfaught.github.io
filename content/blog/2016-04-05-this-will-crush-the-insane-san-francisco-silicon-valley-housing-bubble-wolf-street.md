@@ -1,6 +1,5 @@
 ---
-date: '2016-04-05T17:33:48+00:00'
-draft: false
+date: '2016-04-05'
 tags:
 - tech
 - san francisco

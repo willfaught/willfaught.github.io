@@ -1,6 +1,5 @@
 ---
-date: '2014-06-01T18:04:18+00:00'
-draft: false
+date: '2014-06-01'
 tags:
 - reading
 title: Why is a minute divided into 60 seconds, an hour into 60 minutes, yet there

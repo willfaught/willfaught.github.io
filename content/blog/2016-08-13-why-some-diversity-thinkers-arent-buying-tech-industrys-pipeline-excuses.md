@@ -1,6 +1,5 @@
 ---
-date: '2016-08-13T07:45:39+00:00'
-draft: false
+date: '2016-08-13'
 tags:
 - technology
 - programming

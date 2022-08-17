@@ -1,6 +1,5 @@
 ---
-date: '2015-09-13T08:43:31+00:00'
-draft: false
+date: '2015-09-13'
 tags: null
 title: The Great American Phone Insurance Rip-Off
 ---

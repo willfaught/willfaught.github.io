@@ -1,6 +1,5 @@
 ---
-date: '2015-10-30T21:25:37+00:00'
-draft: false
+date: '2015-10-30'
 tags:
 - git
 title: Understanding Git conflict markers

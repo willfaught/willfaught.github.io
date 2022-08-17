@@ -1,6 +1,5 @@
 ---
-date: '2011-02-02T16:00:00+00:00'
-draft: false
+date: '2011-02-02'
 tags:
 - haskell
 title: Learn You a Haskell for Great Good!

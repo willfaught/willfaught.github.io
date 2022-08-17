@@ -1,6 +1,5 @@
 ---
-date: '2015-11-10T18:07:48+00:00'
-draft: false
+date: '2015-11-10'
 tags:
 - tech
 title: Housing Prices Spike As Tech Employee Takes Stroll Through Neighborhood - The

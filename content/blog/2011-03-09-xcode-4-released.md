@@ -1,6 +1,5 @@
 ---
-date: '2011-03-09T21:23:42+00:00'
-draft: false
+date: '2011-03-09'
 tags:
 - apple
 - xcode

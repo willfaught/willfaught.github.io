@@ -1,6 +1,5 @@
 ---
-date: '2015-09-05T22:39:40+00:00'
-draft: false
+date: '2015-09-05'
 tags:
 - funny
 title: 2 Kinds of People

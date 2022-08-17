@@ -1,6 +1,5 @@
 ---
-date: '2015-02-16T21:49:18+00:00'
-draft: false
+date: '2015-02-16'
 tags:
 - software engineering
 - hiring

@@ -1,6 +1,5 @@
 ---
-date: '2015-12-02T22:11:19+00:00'
-draft: false
+date: '2015-12-02'
 tags:
 - apps
 - twitter

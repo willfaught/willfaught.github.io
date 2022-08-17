@@ -1,6 +1,5 @@
 ---
-date: '2016-03-12T00:49:07+00:00'
-draft: false
+date: '2016-03-11'
 tags:
 - github
 - programming

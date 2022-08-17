@@ -1,6 +1,5 @@
 ---
-date: '2013-11-08T07:28:00+00:00'
-draft: false
+date: '2013-11-07'
 tags:
 - reading
 title: No Nobel Prize for Math

@@ -1,6 +1,5 @@
 ---
-date: '2015-01-24T19:14:20+00:00'
-draft: false
+date: '2015-01-24'
 tags: null
 title: YouTube's onerous new terms for musicians
 ---

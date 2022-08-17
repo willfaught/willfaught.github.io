@@ -1,6 +1,5 @@
 ---
-date: '2015-02-22T20:58:53+00:00'
-draft: false
+date: '2015-02-22'
 tags: null
 title: Nixon's undelivered moon landing failure speech
 ---

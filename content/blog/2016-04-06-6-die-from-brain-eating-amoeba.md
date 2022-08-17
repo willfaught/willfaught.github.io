@@ -1,6 +1,5 @@
 ---
-date: '2016-04-06T15:45:08+00:00'
-draft: false
+date: '2016-04-06'
 tags:
 - brain
 - amoeba

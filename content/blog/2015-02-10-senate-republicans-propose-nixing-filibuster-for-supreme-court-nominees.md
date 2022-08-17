@@ -1,6 +1,5 @@
 ---
-date: '2015-02-10T02:32:00+00:00'
-draft: false
+date: '2015-02-09'
 tags: null
 title: Senate Republicans propose nixing filibuster for Supreme Court nominees
 ---

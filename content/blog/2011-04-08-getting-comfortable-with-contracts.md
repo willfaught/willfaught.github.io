@@ -1,6 +1,5 @@
 ---
-date: '2011-04-08T20:54:14+00:00'
-draft: false
+date: '2011-04-08'
 tags:
 - business
 title: Getting Comfortable With Contracts

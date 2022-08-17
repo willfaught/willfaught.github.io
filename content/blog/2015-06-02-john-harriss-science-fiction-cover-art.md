@@ -1,6 +1,5 @@
 ---
-date: '2015-06-02T04:16:01+00:00'
-draft: false
+date: '2015-06-01'
 tags:
 - art
 - science fiction

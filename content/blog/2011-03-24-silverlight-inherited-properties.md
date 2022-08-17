@@ -1,6 +1,5 @@
 ---
-date: '2011-03-24T18:34:00+00:00'
-draft: false
+date: '2011-03-24'
 tags:
 - silverlight
 - fyi

@@ -1,6 +1,5 @@
 ---
-date: '2013-05-05T04:47:00+00:00'
-draft: false
+date: '2013-05-04'
 tags:
 - travel
 - asia

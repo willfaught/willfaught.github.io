@@ -1,6 +1,5 @@
 ---
-date: '2013-09-04T06:18:07+00:00'
-draft: false
+date: '2013-09-03'
 tags:
 - computing
 title: VirtualBox

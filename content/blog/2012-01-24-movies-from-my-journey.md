@@ -1,6 +1,5 @@
 ---
-date: '2012-01-24T15:25:42+00:00'
-draft: false
+date: '2012-01-24'
 tags:
 - travel
 - movies

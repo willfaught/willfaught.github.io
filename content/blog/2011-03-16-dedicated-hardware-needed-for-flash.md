@@ -1,6 +1,5 @@
 ---
-date: '2011-03-16T06:32:42+00:00'
-draft: false
+date: '2011-03-15'
 tags:
 - flash
 - tablets

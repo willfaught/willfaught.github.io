@@ -1,6 +1,5 @@
 ---
-date: '2011-06-08T07:23:50+00:00'
-draft: false
+date: '2011-06-08'
 tags:
 - apple
 - interesting

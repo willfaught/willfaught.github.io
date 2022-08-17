@@ -1,6 +1,5 @@
 ---
-date: '2015-06-03T02:05:29+00:00'
-draft: false
+date: '2015-06-02'
 tags:
 - games
 title: The quest to save today’s gaming history from being lost forever

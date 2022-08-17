@@ -1,6 +1,5 @@
 ---
-date: '2016-03-22T00:32:35+00:00'
-draft: false
+date: '2016-03-21'
 tags:
 - programming
 - cnt

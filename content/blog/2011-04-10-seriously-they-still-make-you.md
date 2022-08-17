@@ -1,6 +1,5 @@
 ---
-date: '2011-04-10T02:20:00+00:00'
-draft: false
+date: '2011-04-09'
 tags:
 - flash
 - opinions

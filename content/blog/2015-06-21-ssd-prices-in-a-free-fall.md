@@ -1,6 +1,5 @@
 ---
-date: '2015-06-21T06:37:41+00:00'
-draft: false
+date: '2015-06-20'
 tags: null
 title: SSD Prices In A Free Fall
 ---

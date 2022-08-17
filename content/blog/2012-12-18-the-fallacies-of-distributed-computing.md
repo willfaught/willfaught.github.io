@@ -1,6 +1,5 @@
 ---
-date: '2012-12-18T06:40:28+00:00'
-draft: false
+date: '2012-12-17'
 tags:
 - computation
 title: The fallacies of distributed computing

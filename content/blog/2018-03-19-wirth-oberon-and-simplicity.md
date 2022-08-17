@@ -1,6 +1,5 @@
 ---
-date: '2018-03-19T21:04:27+00:00'
-draft: false
+date: '2018-03-19'
 tags:
 - oberon
 - coding

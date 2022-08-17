@@ -1,6 +1,5 @@
 ---
-date: '2011-02-24T23:06:15+00:00'
-draft: false
+date: '2011-02-24'
 tags: null
 title: Stunning New Zealand earthquake pictures
 ---

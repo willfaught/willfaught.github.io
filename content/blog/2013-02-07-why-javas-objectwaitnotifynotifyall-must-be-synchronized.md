@@ -1,6 +1,5 @@
 ---
-date: '2013-02-07T01:16:00+00:00'
-draft: false
+date: '2013-02-06'
 tags:
 - computation
 title: Why Java's Object.wait/notify/notifyAll must be synchronized

@@ -1,6 +1,5 @@
 ---
-date: '2016-08-18T00:02:42+00:00'
-draft: false
+date: '2016-08-17'
 tags:
 - hashicorp
 - nomad

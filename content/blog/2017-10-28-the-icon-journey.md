@@ -1,6 +1,5 @@
 ---
-date: '2017-10-28T04:58:14+00:00'
-draft: false
+date: '2017-10-27'
 tags: null
 title: The Icon Journey
 ---

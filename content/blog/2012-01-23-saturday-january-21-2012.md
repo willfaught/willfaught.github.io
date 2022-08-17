@@ -1,6 +1,5 @@
 ---
-date: '2012-01-23T15:15:00+00:00'
-draft: false
+date: '2012-01-23'
 tags:
 - travel
 - thailand

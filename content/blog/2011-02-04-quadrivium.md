@@ -1,6 +1,5 @@
 ---
-date: '2011-02-04T00:01:07+00:00'
-draft: false
+date: '2011-02-03'
 tags:
 - quadrivium
 - education

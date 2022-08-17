@@ -1,6 +1,5 @@
 ---
-date: '2015-04-04T19:39:36+00:00'
-draft: false
+date: '2015-04-04'
 tags: null
 title: The Star Wars George Lucas Doesn't Want You To See
 ---

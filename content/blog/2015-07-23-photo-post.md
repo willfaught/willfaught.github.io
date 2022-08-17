@@ -1,6 +1,5 @@
 ---
-date: '2015-07-23T06:33:46+00:00'
-draft: false
+date: '2015-07-22'
 tags:
 - bug
 title: Photo post

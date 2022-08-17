@@ -1,6 +1,5 @@
 ---
-date: '2016-04-06T01:04:57+00:00'
-draft: false
+date: '2016-04-05'
 tags:
 - whatsapp
 - encryption

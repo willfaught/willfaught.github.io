@@ -1,6 +1,5 @@
 ---
-date: '2011-02-01T20:37:00+00:00'
-draft: false
+date: '2011-02-01'
 tags:
 - wolfram alpha
 - internet access

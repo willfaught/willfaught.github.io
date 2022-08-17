@@ -1,6 +1,5 @@
 ---
-date: '2011-03-15T02:32:33+00:00'
-draft: false
+date: '2011-03-14'
 tags:
 - cat
 - tsunami

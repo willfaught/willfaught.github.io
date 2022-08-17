@@ -1,6 +1,5 @@
 ---
-date: '2016-03-19T04:36:16+00:00'
-draft: false
+date: '2016-03-18'
 tags:
 - steve jobs
 title: Wearing a Suit Makes You Think Differently

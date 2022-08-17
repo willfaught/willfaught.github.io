@@ -1,6 +1,5 @@
 ---
-date: '2015-10-04T07:50:08+00:00'
-draft: false
+date: '2015-10-04'
 tags:
 - iphone
 title: How to Get the Best Resale Price for Your iPhone 6, 6 Plus or 5s

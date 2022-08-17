@@ -1,6 +1,5 @@
 ---
-date: '2011-06-07T08:14:00+00:00'
-draft: false
+date: '2011-06-07'
 tags:
 - games
 - quotations

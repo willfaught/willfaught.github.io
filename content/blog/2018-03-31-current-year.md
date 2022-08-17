@@ -1,6 +1,5 @@
 ---
-date: '2018-03-31T07:18:52+00:00'
-draft: false
+date: '2018-03-31'
 tags:
 - coding
 title: Current year

@@ -1,6 +1,5 @@
 ---
-date: '2015-07-20T03:42:57+00:00'
-draft: false
+date: '2015-07-19'
 tags:
 - finance
 title: It’s Time to Kill the Monthly Fee for Small Accounts

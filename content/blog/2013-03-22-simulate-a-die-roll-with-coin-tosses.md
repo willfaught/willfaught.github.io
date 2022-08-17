@@ -1,6 +1,5 @@
 ---
-date: '2013-03-22T00:41:11+00:00'
-draft: false
+date: '2013-03-21'
 tags:
 - computation
 title: Simulate a die roll with coin tosses

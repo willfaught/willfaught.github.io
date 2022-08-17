@@ -1,6 +1,5 @@
 ---
-date: '2013-01-18T08:15:00+00:00'
-draft: false
+date: '2013-01-18'
 tags:
 - computation
 title: Binary tree sequentializations as identities

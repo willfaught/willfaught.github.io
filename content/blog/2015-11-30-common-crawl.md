@@ -1,6 +1,5 @@
 ---
-date: '2015-11-30T21:04:56+00:00'
-draft: false
+date: '2015-11-30'
 tags:
 - web
 - crawl

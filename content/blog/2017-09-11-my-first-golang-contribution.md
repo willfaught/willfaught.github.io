@@ -1,6 +1,5 @@
 ---
-date: '2017-09-11T01:55:39+00:00'
-draft: false
+date: '2017-09-10'
 tags: null
 title: My first Golang contribution
 ---

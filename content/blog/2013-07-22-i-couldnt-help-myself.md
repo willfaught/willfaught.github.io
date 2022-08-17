@@ -1,6 +1,5 @@
 ---
-date: '2013-07-22T07:15:00+00:00'
-draft: false
+date: '2013-07-22'
 tags:
 - playing
 title: I couldn't help myself

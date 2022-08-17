@@ -1,6 +1,5 @@
 ---
-date: '2017-04-10T06:55:47+00:00'
-draft: false
+date: '2017-04-09'
 tags: null
 title: A Guide to Which Countries Drive on The Left
 ---

@@ -1,6 +1,5 @@
 ---
-date: '2011-04-07T19:01:00+00:00'
-draft: false
+date: '2011-04-07'
 tags:
 - pinboard
 - ideas

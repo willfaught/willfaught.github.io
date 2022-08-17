@@ -1,6 +1,5 @@
 ---
-date: '2019-08-03T00:45:40+00:00'
-draft: false
+date: '2019-08-02'
 tags:
 - tech
 title: Wi-Fi 6 is coming

@@ -1,6 +1,5 @@
 ---
-date: '2015-12-01T21:59:48+00:00'
-draft: false
+date: '2015-12-01'
 tags:
 - steve jobs
 - apple

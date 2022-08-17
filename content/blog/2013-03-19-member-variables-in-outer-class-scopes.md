@@ -1,6 +1,5 @@
 ---
-date: '2013-03-19T22:22:46+00:00'
-draft: false
+date: '2013-03-19'
 tags:
 - computation
 title: Member variables in outer class scopes

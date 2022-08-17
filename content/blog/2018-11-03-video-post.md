@@ -1,6 +1,5 @@
 ---
-date: '2018-11-03T22:56:36+00:00'
-draft: false
+date: '2018-11-03'
 tags: null
 title: Video post
 ---

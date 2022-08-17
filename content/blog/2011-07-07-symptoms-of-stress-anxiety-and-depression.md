@@ -1,6 +1,5 @@
 ---
-date: '2011-07-07T09:33:25+00:00'
-draft: false
+date: '2011-07-07'
 tags:
 - anxiety
 - fyi

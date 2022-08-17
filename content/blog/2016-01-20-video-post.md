@@ -1,6 +1,5 @@
 ---
-date: '2016-01-20T22:50:13+00:00'
-draft: false
+date: '2016-01-20'
 tags:
 - egypt
 - pyramid

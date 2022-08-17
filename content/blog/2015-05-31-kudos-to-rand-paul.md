@@ -1,6 +1,5 @@
 ---
-date: '2015-05-31T22:41:47+00:00'
-draft: false
+date: '2015-05-31'
 tags:
 - politics
 - rand paul

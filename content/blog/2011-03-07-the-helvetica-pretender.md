@@ -1,6 +1,5 @@
 ---
-date: '2011-03-07T08:42:11+00:00'
-draft: false
+date: '2011-03-07'
 tags:
 - arial
 - helvetica

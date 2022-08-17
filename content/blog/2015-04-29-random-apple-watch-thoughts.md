@@ -1,6 +1,5 @@
 ---
-date: '2015-04-29T17:09:29+00:00'
-draft: false
+date: '2015-04-29'
 tags:
 - apple
 - watch

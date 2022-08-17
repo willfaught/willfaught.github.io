@@ -1,6 +1,5 @@
 ---
-date: '2014-07-10T16:24:59+00:00'
-draft: false
+date: '2014-07-10'
 tags: null
 title: Log structured storage
 ---

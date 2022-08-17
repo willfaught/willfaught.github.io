@@ -1,6 +1,5 @@
 ---
-date: '2016-04-07T14:39:20+00:00'
-draft: false
+date: '2016-04-07'
 tags:
 - smartphone
 - hardware

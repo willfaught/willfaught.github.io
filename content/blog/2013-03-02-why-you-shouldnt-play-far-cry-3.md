@@ -1,6 +1,5 @@
 ---
-date: '2013-03-02T17:01:00+00:00'
-draft: false
+date: '2013-03-02'
 tags:
 - playing
 title: Why you shouldn't play Far Cry 3

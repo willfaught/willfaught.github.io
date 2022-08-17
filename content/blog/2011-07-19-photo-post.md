@@ -1,6 +1,5 @@
 ---
-date: '2011-07-19T08:44:37+00:00'
-draft: false
+date: '2011-07-19'
 tags:
 - funny
 title: Photo post

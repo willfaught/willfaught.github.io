@@ -1,6 +1,5 @@
 ---
-date: '2011-03-28T05:06:00+00:00'
-draft: false
+date: '2011-03-27'
 tags:
 - rants
 - ads

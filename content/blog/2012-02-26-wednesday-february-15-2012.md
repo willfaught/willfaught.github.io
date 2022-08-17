@@ -1,6 +1,5 @@
 ---
-date: '2012-02-26T17:33:44+00:00'
-draft: false
+date: '2012-02-26'
 tags:
 - travel
 - laos

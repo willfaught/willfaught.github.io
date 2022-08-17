@@ -1,6 +1,5 @@
 ---
-date: '2016-02-03T03:50:08+00:00'
-draft: false
+date: '2016-02-02'
 tags:
 - firewatch
 - gaming

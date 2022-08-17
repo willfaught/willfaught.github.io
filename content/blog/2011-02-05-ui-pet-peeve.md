@@ -1,6 +1,5 @@
 ---
-date: '2011-02-05T09:41:12+00:00'
-draft: false
+date: '2011-02-05'
 tags: null
 title: UI pet peeve
 ---

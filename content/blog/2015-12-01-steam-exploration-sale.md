@@ -1,6 +1,5 @@
 ---
-date: '2015-12-01T07:28:14+00:00'
-draft: false
+date: '2015-11-30'
 tags:
 - steam
 - gaming

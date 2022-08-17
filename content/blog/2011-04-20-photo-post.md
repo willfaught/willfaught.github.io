@@ -1,6 +1,5 @@
 ---
-date: '2011-04-20T22:01:00+00:00'
-draft: false
+date: '2011-04-20'
 tags:
 - penny arcade
 - funny

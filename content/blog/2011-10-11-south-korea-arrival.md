@@ -1,6 +1,5 @@
 ---
-date: '2011-10-11T14:59:00+00:00'
-draft: false
+date: '2011-10-11'
 tags:
 - south korea
 - travel

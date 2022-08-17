@@ -1,6 +1,5 @@
 ---
-date: '2011-05-20T19:00:05+00:00'
-draft: false
+date: '2011-05-20'
 tags:
 - opinions
 - movies

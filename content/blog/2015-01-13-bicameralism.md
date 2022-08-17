@@ -1,6 +1,5 @@
 ---
-date: '2015-01-13T16:05:45+00:00'
-draft: false
+date: '2015-01-13'
 tags: null
 title: Bicameralism
 ---

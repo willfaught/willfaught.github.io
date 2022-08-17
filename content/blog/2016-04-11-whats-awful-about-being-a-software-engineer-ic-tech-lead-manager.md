@@ -1,6 +1,5 @@
 ---
-date: '2016-04-11T23:09:18+00:00'
-draft: false
+date: '2016-04-11'
 tags:
 - programming
 - management

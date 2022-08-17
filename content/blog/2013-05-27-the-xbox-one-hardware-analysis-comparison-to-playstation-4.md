@@ -1,6 +1,5 @@
 ---
-date: '2013-05-27T09:14:00+00:00'
-draft: false
+date: '2013-05-27'
 tags:
 - technology
 - playing

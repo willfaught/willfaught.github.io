@@ -1,6 +1,5 @@
 ---
-date: '2015-12-15T10:01:37+00:00'
-draft: false
+date: '2015-12-15'
 tags:
 - wine
 - tasting

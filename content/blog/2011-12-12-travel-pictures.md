@@ -1,6 +1,5 @@
 ---
-date: '2011-12-12T06:47:06+00:00'
-draft: false
+date: '2011-12-11'
 tags:
 - travel
 - pictures

@@ -1,6 +1,5 @@
 ---
-date: '2016-03-14T21:06:39+00:00'
-draft: false
+date: '2016-03-14'
 tags:
 - textmate
 - base16

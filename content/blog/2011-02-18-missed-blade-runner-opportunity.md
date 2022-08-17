@@ -1,6 +1,5 @@
 ---
-date: '2011-02-18T20:00:06+00:00'
-draft: false
+date: '2011-02-18'
 tags:
 - blade runner
 title: Missed Blade Runner opportunity

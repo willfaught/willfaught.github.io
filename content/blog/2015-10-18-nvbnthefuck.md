@@ -1,6 +1,5 @@
 ---
-date: '2015-10-18T00:36:42+00:00'
-draft: false
+date: '2015-10-17'
 tags:
 - thefuck
 - coding

@@ -1,6 +1,5 @@
 ---
-date: '2014-11-16T06:04:04+00:00'
-draft: false
+date: '2014-11-15'
 tags: null
 title: Sell your iPhone to people
 ---

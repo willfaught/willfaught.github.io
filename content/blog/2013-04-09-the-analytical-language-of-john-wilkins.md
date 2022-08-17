@@ -1,6 +1,5 @@
 ---
-date: '2013-04-09T04:31:00+00:00'
-draft: false
+date: '2013-04-08'
 tags:
 - reading
 title: The Analytical Language of John Wilkins

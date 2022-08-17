@@ -1,6 +1,5 @@
 ---
-date: '2015-01-05T17:01:44+00:00'
-draft: false
+date: '2015-01-05'
 tags: null
 title: The 6 Pillars Of Steve Jobs's Design Philosophy | Co.Design | business + innovation
   + design

@@ -1,6 +1,5 @@
 ---
-date: '2011-05-16T19:12:06+00:00'
-draft: false
+date: '2011-05-16'
 tags:
 - dilbert
 - funny

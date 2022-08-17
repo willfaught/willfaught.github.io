@@ -1,6 +1,5 @@
 ---
-date: '2013-03-03T20:05:00+00:00'
-draft: false
+date: '2013-03-03'
 tags:
 - computation
 title: Method return types should be as specific as possible

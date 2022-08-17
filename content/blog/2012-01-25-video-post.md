@@ -1,6 +1,5 @@
 ---
-date: '2012-01-25T14:56:59+00:00'
-draft: false
+date: '2012-01-25'
 tags:
 - travel
 - videos

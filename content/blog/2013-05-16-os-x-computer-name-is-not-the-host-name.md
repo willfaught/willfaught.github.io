@@ -1,6 +1,5 @@
 ---
-date: '2013-05-16T04:54:17+00:00'
-draft: false
+date: '2013-05-15'
 tags:
 - computation
 title: OS X computer name is not the host name

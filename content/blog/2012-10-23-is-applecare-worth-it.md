@@ -1,6 +1,5 @@
 ---
-date: '2012-10-23T23:20:00+00:00'
-draft: false
+date: '2012-10-23'
 tags:
 - technology
 title: Is AppleCare worth it?

@@ -1,6 +1,5 @@
 ---
-date: '2016-03-05T06:44:24+00:00'
-draft: false
+date: '2016-03-04'
 tags:
 - equity
 - startups

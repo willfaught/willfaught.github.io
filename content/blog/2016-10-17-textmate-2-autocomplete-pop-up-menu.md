@@ -1,6 +1,5 @@
 ---
-date: '2016-10-17T08:34:43+00:00'
-draft: false
+date: '2016-10-17'
 tags:
 - textmate
 - autocomplete

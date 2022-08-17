@@ -1,6 +1,5 @@
 ---
-date: '2013-05-05T02:06:58+00:00'
-draft: false
+date: '2013-05-04'
 tags:
 - computation
 title: OS X Terminal meta key

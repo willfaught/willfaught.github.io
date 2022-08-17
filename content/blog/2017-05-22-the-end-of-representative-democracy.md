@@ -1,6 +1,5 @@
 ---
-date: '2017-05-22T16:59:04+00:00'
-draft: false
+date: '2017-05-22'
 tags: null
 title: The end of representative democracy
 ---

@@ -1,6 +1,5 @@
 ---
-date: '2015-02-12T21:11:13+00:00'
-draft: false
+date: '2015-02-12'
 tags:
 - gamergate
 title: I'm Brianna Wu, And I'm Risking My Life Standing Up To Gamergate | Bustle

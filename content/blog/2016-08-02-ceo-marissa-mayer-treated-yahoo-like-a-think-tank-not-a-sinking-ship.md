@@ -1,6 +1,5 @@
 ---
-date: '2016-08-02T04:14:13+00:00'
-draft: false
+date: '2016-08-01'
 tags:
 - technology
 - yahoo

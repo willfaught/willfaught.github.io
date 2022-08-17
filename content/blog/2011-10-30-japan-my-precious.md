@@ -1,6 +1,5 @@
 ---
-date: '2011-10-30T15:28:00+00:00'
-draft: false
+date: '2011-10-30'
 tags:
 - travel
 - japan

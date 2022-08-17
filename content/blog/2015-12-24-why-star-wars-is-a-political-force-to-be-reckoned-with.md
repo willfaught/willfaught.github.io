@@ -1,6 +1,5 @@
 ---
-date: '2015-12-24T01:00:23+00:00'
-draft: false
+date: '2015-12-23'
 tags:
 - star wars
 title: Why Star Wars is a political Force to be reckoned with

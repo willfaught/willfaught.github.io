@@ -1,6 +1,5 @@
 ---
-date: '2013-05-09T05:26:00+00:00'
-draft: false
+date: '2013-05-08'
 tags:
 - computation
 title: The best OS X VNC client

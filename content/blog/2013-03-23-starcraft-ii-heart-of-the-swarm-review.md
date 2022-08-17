@@ -1,6 +1,5 @@
 ---
-date: '2013-03-23T22:19:00+00:00'
-draft: false
+date: '2013-03-23'
 tags:
 - playing
 title: 'StarCraft II: Heart of the Swarm review'

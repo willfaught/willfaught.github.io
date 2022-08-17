@@ -1,6 +1,5 @@
 ---
-date: '2015-08-15T21:55:29+00:00'
-draft: false
+date: '2015-08-15'
 tags:
 - coding
 title: Notes on Distributed Systems for Young Bloods

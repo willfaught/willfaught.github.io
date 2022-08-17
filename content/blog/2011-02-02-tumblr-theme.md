@@ -1,6 +1,5 @@
 ---
-date: '2011-02-02T00:00:07+00:00'
-draft: false
+date: '2011-02-01'
 tags:
 - tumblr
 title: Tumblr theme

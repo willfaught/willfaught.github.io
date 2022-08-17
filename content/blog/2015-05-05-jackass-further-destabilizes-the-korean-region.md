@@ -1,6 +1,5 @@
 ---
-date: '2015-05-05T07:51:35+00:00'
-draft: false
+date: '2015-05-05'
 tags:
 - north korea
 - south korea

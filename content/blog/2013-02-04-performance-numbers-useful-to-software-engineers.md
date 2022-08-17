@@ -1,6 +1,5 @@
 ---
-date: '2013-02-04T01:19:00+00:00'
-draft: false
+date: '2013-02-03'
 tags:
 - computation
 title: Performance numbers useful to software engineers

@@ -1,6 +1,5 @@
 ---
-date: '2015-04-21T05:57:42+00:00'
-draft: false
+date: '2015-04-20'
 tags:
 - apple
 title: Lost iOS Safari tabs

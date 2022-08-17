@@ -1,6 +1,5 @@
 ---
-date: '2015-02-09T06:01:26+00:00'
-draft: false
+date: '2015-02-08'
 tags: null
 title: Announcing Docker Machine, Swarm, and Compose for Orchestrating Distributed
   Apps

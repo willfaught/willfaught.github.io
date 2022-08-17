@@ -1,6 +1,5 @@
 ---
-date: '2018-10-31T06:00:24+00:00'
-draft: false
+date: '2018-10-30'
 tags:
 - coding
 - management

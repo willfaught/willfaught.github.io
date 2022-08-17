@@ -1,6 +1,5 @@
 ---
-date: '2011-04-16T00:28:00+00:00'
-draft: false
+date: '2011-04-15'
 tags:
 - xkcd
 - funny

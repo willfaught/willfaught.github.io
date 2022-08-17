@@ -1,6 +1,5 @@
 ---
-date: '2015-02-26T06:28:37+00:00'
-draft: false
+date: '2015-02-25'
 tags: null
 title: Why do my backed up files appear smaller on Backblaze than on my Mac?
 ---

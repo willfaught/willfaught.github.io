@@ -1,6 +1,5 @@
 ---
-date: '2012-02-06T14:09:18+00:00'
-draft: false
+date: '2012-02-06'
 tags:
 - movies
 title: The Girl with the Dragon Tattoo

@@ -1,6 +1,5 @@
 ---
-date: '2011-09-10T03:14:48+00:00'
-draft: false
+date: '2011-09-09'
 tags:
 - interesting
 title: Video post

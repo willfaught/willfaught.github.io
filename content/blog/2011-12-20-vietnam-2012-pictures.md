@@ -1,6 +1,5 @@
 ---
-date: '2011-12-20T16:07:00+00:00'
-draft: false
+date: '2011-12-20'
 tags:
 - travel
 - vietnam

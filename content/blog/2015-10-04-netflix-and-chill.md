@@ -1,6 +1,5 @@
 ---
-date: '2015-10-04T21:59:18+00:00'
-draft: false
+date: '2015-10-04'
 tags:
 - meme
 - netflix

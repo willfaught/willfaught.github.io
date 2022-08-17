@@ -1,6 +1,5 @@
 ---
-date: '2014-12-30T18:57:27+00:00'
-draft: false
+date: '2014-12-30'
 tags: null
 title: Effectively managing memory at Gmail scale - HTML5 Rocks
 ---

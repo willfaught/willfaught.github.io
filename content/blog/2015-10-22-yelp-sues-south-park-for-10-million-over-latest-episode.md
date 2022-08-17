@@ -1,6 +1,5 @@
 ---
-date: '2015-10-22T08:01:22+00:00'
-draft: false
+date: '2015-10-22'
 tags:
 - south park
 - yelp

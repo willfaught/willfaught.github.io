@@ -1,6 +1,5 @@
 ---
-date: '2011-04-25T06:06:00+00:00'
-draft: false
+date: '2011-04-24'
 tags:
 - metafont
 - donald knuth

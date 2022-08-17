@@ -1,6 +1,5 @@
 ---
-date: '2014-11-29T20:22:00+00:00'
-draft: false
+date: '2014-11-29'
 tags:
 - computing
 title: Bash prompt

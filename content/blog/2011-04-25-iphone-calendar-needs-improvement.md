@@ -1,6 +1,5 @@
 ---
-date: '2011-04-25T02:43:00+00:00'
-draft: false
+date: '2011-04-24'
 tags:
 - calendar
 - iphone

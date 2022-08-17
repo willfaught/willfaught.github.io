@@ -1,6 +1,5 @@
 ---
-date: '2011-07-28T08:13:50+00:00'
-draft: false
+date: '2011-07-28'
 tags:
 - cool
 title: Original Stormtrooper costumes

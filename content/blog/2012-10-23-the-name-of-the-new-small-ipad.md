@@ -1,6 +1,5 @@
 ---
-date: '2012-10-23T00:09:00+00:00'
-draft: false
+date: '2012-10-22'
 tags:
 - technology
 title: The name of the new small iPad

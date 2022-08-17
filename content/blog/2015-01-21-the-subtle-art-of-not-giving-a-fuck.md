@@ -1,6 +1,5 @@
 ---
-date: '2015-01-21T19:43:19+00:00'
-draft: false
+date: '2015-01-21'
 tags: null
 title: The Subtle Art of Not Giving a Fuck
 ---

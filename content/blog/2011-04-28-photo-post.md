@@ -1,6 +1,5 @@
 ---
-date: '2011-04-28T02:16:33+00:00'
-draft: false
+date: '2011-04-27'
 tags:
 - basic instructions
 - funny

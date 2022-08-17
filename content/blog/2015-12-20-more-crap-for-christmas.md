@@ -1,6 +1,5 @@
 ---
-date: '2015-12-20T23:09:23+00:00'
-draft: false
+date: '2015-12-20'
 tags:
 - christmas
 - caganer

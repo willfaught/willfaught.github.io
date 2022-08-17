@@ -1,6 +1,5 @@
 ---
-date: '2013-03-23T00:13:46+00:00'
-draft: false
+date: '2013-03-22'
 tags:
 - computation
 title: Hacking a Google Interview

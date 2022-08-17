@@ -1,6 +1,5 @@
 ---
-date: '2015-07-13T07:29:44+00:00'
-draft: false
+date: '2015-07-13'
 tags: null
 title: Foie gras ban proves confusing, hard to enforce
 ---

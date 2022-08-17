@@ -1,6 +1,5 @@
 ---
-date: '2015-10-24T07:15:00+00:00'
-draft: false
+date: '2015-10-24'
 tags: null
 title: (unknown post type)
 ---

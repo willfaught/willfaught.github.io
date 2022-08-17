@@ -1,6 +1,5 @@
 ---
-date: '2015-05-31T23:49:41+00:00'
-draft: false
+date: '2015-05-31'
 tags:
 - apple
 - tv

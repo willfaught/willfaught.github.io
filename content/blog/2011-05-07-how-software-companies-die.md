@@ -1,6 +1,5 @@
 ---
-date: '2011-05-07T01:58:45+00:00'
-draft: false
+date: '2011-05-06'
 tags:
 - interesting
 - computation

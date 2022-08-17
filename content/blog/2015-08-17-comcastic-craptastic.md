@@ -1,6 +1,5 @@
 ---
-date: '2015-08-17T00:10:05+00:00'
-draft: false
+date: '2015-08-16'
 tags:
 - comcastic
 - craptastic

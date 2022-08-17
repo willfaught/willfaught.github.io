@@ -1,6 +1,5 @@
 ---
-date: '2011-04-06T20:53:00+00:00'
-draft: false
+date: '2011-04-06'
 tags:
 - penny arcade
 - star wars

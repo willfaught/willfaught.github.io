@@ -1,6 +1,5 @@
 ---
-date: '2011-03-30T23:51:00+00:00'
-draft: false
+date: '2011-03-30'
 tags:
 - microsoft
 - funny

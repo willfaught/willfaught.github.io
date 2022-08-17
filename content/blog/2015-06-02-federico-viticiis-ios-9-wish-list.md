@@ -1,6 +1,5 @@
 ---
-date: '2015-06-02T14:49:11+00:00'
-draft: false
+date: '2015-06-02'
 tags:
 - apple
 - ios

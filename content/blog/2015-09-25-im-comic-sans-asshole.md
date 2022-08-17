@@ -1,6 +1,5 @@
 ---
-date: '2015-09-25T19:07:18+00:00'
-draft: false
+date: '2015-09-25'
 tags:
 - comic sans
 - fonts

@@ -1,6 +1,5 @@
 ---
-date: '2015-05-27T03:43:34+00:00'
-draft: false
+date: '2015-05-26'
 tags:
 - golang
 title: Go Is Unapologetically Flawed, Here’s Why We Use It

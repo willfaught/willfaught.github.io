@@ -1,6 +1,5 @@
 ---
-date: '2011-04-29T08:58:53+00:00'
-draft: false
+date: '2011-04-29'
 tags:
 - opinions
 title: Disclaimer

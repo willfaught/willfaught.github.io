@@ -1,6 +1,5 @@
 ---
-date: '2015-08-01T04:47:42+00:00'
-draft: false
+date: '2015-07-31'
 tags:
 - finance
 title: 'Jack Bogle''s advice for a rocky market: Follow Ben Franklin'

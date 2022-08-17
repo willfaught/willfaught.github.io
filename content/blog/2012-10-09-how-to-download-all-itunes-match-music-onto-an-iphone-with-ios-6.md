@@ -1,6 +1,5 @@
 ---
-date: '2012-10-09T05:53:00+00:00'
-draft: false
+date: '2012-10-08'
 tags:
 - technology
 title: How to download all iTunes Match music onto an iPhone with iOS 6

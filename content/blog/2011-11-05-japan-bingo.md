@@ -1,6 +1,5 @@
 ---
-date: '2011-11-05T15:56:00+00:00'
-draft: false
+date: '2011-11-05'
 tags:
 - japan
 - tokyo

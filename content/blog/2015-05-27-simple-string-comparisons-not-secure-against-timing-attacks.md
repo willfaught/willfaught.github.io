@@ -1,6 +1,5 @@
 ---
-date: '2015-05-27T02:40:56+00:00'
-draft: false
+date: '2015-05-26'
 tags:
 - coding
 title: Simple string comparisons not secure against timing attacks

@@ -1,6 +1,5 @@
 ---
-date: '2011-03-11T20:00:08+00:00'
-draft: false
+date: '2011-03-11'
 tags:
 - feynman
 - interview

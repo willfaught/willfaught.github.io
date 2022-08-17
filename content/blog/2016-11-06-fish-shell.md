@@ -1,6 +1,5 @@
 ---
-date: '2016-11-06T02:17:16+00:00'
-draft: false
+date: '2016-11-05'
 tags:
 - fish
 - shell

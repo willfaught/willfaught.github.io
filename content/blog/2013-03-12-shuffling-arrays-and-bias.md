@@ -1,6 +1,5 @@
 ---
-date: '2013-03-12T00:31:00+00:00'
-draft: false
+date: '2013-03-11'
 tags:
 - computation
 title: Shuffling arrays and bias

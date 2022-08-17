@@ -1,6 +1,5 @@
 ---
-date: '2015-08-22T22:46:48+00:00'
-draft: false
+date: '2015-08-22'
 tags:
 - taxes
 title: Board Game

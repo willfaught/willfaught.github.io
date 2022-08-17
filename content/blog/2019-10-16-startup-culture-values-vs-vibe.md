@@ -1,6 +1,5 @@
 ---
-date: '2019-10-16T22:20:26+00:00'
-draft: false
+date: '2019-10-16'
 tags:
 - culture
 - startup
