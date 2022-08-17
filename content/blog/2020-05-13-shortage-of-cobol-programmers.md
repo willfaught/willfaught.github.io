@@ -2,7 +2,7 @@
 categories:
 - code
 - world
-date: 2020-05-13 02:23:00+00:00
+date: '2020-05-13T02:23:00+00:00'
 description: Never let a good crisis go to waste when you can cover your ass.
 keywords:
 - cobol
