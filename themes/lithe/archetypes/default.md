@@ -3,7 +3,8 @@ categories: []
 date: {{ .Date }}
 description: ""
 draft: true
+link: ""
 series: []
 tags: []
-title: ""
+title: "{{ replace .Name "-" " " | title }}"
 ---
