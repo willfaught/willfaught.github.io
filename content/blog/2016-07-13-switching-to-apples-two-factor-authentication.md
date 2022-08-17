@@ -1,9 +1,15 @@
 ---
-date: "2016-07-13T05:11:00+00:00"
+date: '2016-07-13T05:11:00+00:00'
 draft: false
-tags: ["apple", "icloud", "2fa", "security", "verification"]
-title: "Switching to Apple's two-factor authentication"
+tags:
+- apple
+- icloud
+- 2fa
+- security
+- verification
+title: Switching to Apple's two-factor authentication
 ---
+
 From https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/:
 
 Dan Moren, writing for Six Colors:

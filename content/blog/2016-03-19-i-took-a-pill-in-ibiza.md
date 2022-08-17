@@ -1,9 +1,13 @@
 ---
-date: "2016-03-19T04:53:03+00:00"
+date: '2016-03-19T04:53:03+00:00'
 draft: false
-tags: ["mike posner", "ibiza", "lyrics"]
-title: "I Took a Pill in Ibiza"
+tags:
+- mike posner
+- ibiza
+- lyrics
+title: I Took a Pill in Ibiza
 ---
+
 From https://medium.com/@MikePosner/i-took-a-pill-in-ibiza-2f7de1406c6d#.xi2v8fulw:
 
 Mike Posner on the popularity of the remix of his song *I Took a Pill in Ibiza*:

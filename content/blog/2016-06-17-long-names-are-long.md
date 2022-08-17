@@ -1,9 +1,13 @@
 ---
-date: "2016-06-17T06:58:57+00:00"
+date: '2016-06-17T06:58:57+00:00'
 draft: false
-tags: ["programming", "naming", "variables"]
-title: "Long Names Are Long"
+tags:
+- programming
+- naming
+- variables
+title: Long Names Are Long
 ---
+
 From http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/:
 
 Bob Nystrom:

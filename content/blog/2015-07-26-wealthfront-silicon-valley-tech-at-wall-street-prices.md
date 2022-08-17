@@ -1,9 +1,12 @@
 ---
-date: "2015-07-26T06:06:32+00:00"
+date: '2015-07-26T06:06:32+00:00'
 draft: false
-tags: ["finance", "wealthfront"]
-title: "Wealthfront: Silicon Valley Tech at Wall Street Prices"
+tags:
+- finance
+- wealthfront
+title: 'Wealthfront: Silicon Valley Tech at Wall Street Prices'
 ---
+
 From https://medium.com/@blakeross/wealthfront-silicon-valley-tech-at-wall-street-prices-fdd2e5f54905:
 
 Blake Ross:
@@ -17,4 +20,3 @@ Blake Ross:
 >This is all a great deal for Wealthfront. If they hook enough young professionals early, the company gets to invest their money for the rest of their lives, skimming a larger and larger portion off the top as it compounds. Heck, I like this model enough that I consider investing in Wealthfront, Inc. at least twice a year.
 
 Really interesting. I’m new to all of this.
-

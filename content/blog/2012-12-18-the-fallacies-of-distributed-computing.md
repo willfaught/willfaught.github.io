@@ -1,9 +1,11 @@
 ---
-date: "2012-12-18T06:40:28+00:00"
+date: '2012-12-18T06:40:28+00:00'
 draft: false
-tags: ["computation"]
-title: "The fallacies of distributed computing"
+tags:
+- computation
+title: The fallacies of distributed computing
 ---
+
 From http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing:
 
 >1. The network is reliable.

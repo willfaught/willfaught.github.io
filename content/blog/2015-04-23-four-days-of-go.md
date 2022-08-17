@@ -1,9 +1,12 @@
 ---
-date: "2015-04-23T19:06:31+00:00"
+date: '2015-04-23T19:06:31+00:00'
 draft: false
-tags: ["coding", "golang"]
-title: "Four Days of Go"
+tags:
+- coding
+- golang
+title: Four Days of Go
 ---
+
 From http://www.evanmiller.org/four-days-of-go.html:
 
 A funny and perceptive take on the Go programming language and the Go team.

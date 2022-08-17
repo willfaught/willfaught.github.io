@@ -1,9 +1,11 @@
 ---
-date: "2011-09-10T02:16:00+00:00"
+date: '2011-09-10T02:16:00+00:00'
 draft: false
-tags: ["interesting"]
-title: "David Card, wheelchair M.D."
+tags:
+- interesting
+title: David Card, wheelchair M.D.
 ---
+
 From http://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php:
 
 I just stumbled across a seattlepi.com article about Dr. David Card, who was my primary care doctor in Seattle:

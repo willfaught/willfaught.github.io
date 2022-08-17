@@ -1,9 +1,12 @@
 ---
-date: "2018-10-23T21:59:07+00:00"
+date: '2018-10-23T21:59:07+00:00'
 draft: false
-tags: ["coding", "git"]
-title: "How to write a Git commit message"
+tags:
+- coding
+- git
+title: How to write a Git commit message
 ---
+
 From https://chris.beams.io/posts/git-commit/:
 
 Chris Beams:

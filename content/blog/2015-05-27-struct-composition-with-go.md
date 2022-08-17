@@ -1,9 +1,11 @@
 ---
-date: "2015-05-27T02:21:14+00:00"
+date: '2015-05-27T02:21:14+00:00'
 draft: false
-tags: ["golang"]
-title: "Struct composition with Go"
+tags:
+- golang
+title: Struct composition with Go
 ---
+
 From http://dave.cheney.net/2015/05/22/struct-composition-with-go?utm_source=golangweekly&utm_medium=email:
 
 Dave Cheney on bridging from one Golang interface to another:

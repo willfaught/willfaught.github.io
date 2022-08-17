@@ -1,9 +1,12 @@
 ---
-date: "2015-04-16T16:47:19+00:00"
+date: '2015-04-16T16:47:19+00:00'
 draft: false
-tags: ["insurance", "money"]
-title: "Is Life Insurance A Smart Investment?"
+tags:
+- insurance
+- money
+title: Is Life Insurance A Smart Investment?
 ---
+
 From http://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp:
 
 Damning of whole life insurance:
@@ -21,4 +24,3 @@ Damning of whole life insurance:
 >Sure, you say, but the permanent life insurance policy guarantees that return. I’m not guaranteed an 8% return in the market. That’s true. If you have no tolerance for risk, you can put the extra $8,890 a year in a savings account. You’ll earn 1% annually, assuming interest rates never go up from today’s historic lows. After 20 years, you’ll have $208,671. That’s still more than the permanent policy’s guaranteed cash value of $181,630.
 
 Great article.
-

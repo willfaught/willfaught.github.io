@@ -1,9 +1,11 @@
 ---
-date: "2013-03-23T22:19:00+00:00"
+date: '2013-03-23T22:19:00+00:00'
 draft: false
-tags: ["playing"]
-title: "StarCraft II: Heart of the Swarm review"
+tags:
+- playing
+title: 'StarCraft II: Heart of the Swarm review'
 ---
+
 From http://www.quartertothree.com/fp/2013/03/14/does-starcraft-ii-really-need-heart-of-the-swarm/:
 
 Tom Chick:

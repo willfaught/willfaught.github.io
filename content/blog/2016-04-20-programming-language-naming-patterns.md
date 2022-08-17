@@ -1,9 +1,15 @@
 ---
-date: "2016-04-20T07:23:45+00:00"
+date: '2016-04-20T07:23:45+00:00'
 draft: false
-tags: ["programming", "names", "scheme", "perl", "forth"]
-title: "Programming Language Naming Patterns"
+tags:
+- programming
+- names
+- scheme
+- perl
+- forth
+title: Programming Language Naming Patterns
 ---
+
 From http://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns:
 
 On the classification of programming language names:

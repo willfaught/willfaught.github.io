@@ -1,9 +1,11 @@
 ---
-date: "2018-10-25T04:14:23+00:00"
+date: '2018-10-25T04:14:23+00:00'
 draft: false
-tags: ["coding"]
-title: "Open allocation is tech companies' only real option"
+tags:
+- coding
+title: Open allocation is tech companies' only real option
 ---
+
 From https://web.archive.org/web/20120915071935/http://michaelochurch.wordpress.com/2012/09/03/tech-companies-open-allocation-is-your-only-real-option/:
 
 Michael Church on [open allocation](https://en.wikipedia.org/wiki/Open_allocation):

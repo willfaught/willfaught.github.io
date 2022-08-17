@@ -1,9 +1,14 @@
 ---
-date: "2015-10-18T01:22:50+00:00"
+date: '2015-10-18T01:22:50+00:00'
 draft: false
-tags: ["hashicorp", "consul", "chef", "puppet"]
-title: "Consul vs. Chef, Puppet, etc."
+tags:
+- hashicorp
+- consul
+- chef
+- puppet
+title: Consul vs. Chef, Puppet, etc.
 ---
+
 From https://www.consul.io/intro/vs/chef-puppet.html:
 
 HashiCorp on Consul versus Chef, Puppet, etc.:

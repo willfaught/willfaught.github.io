@@ -1,9 +1,16 @@
 ---
-date: "2016-07-14T06:54:14+00:00"
+date: '2016-07-14T06:54:14+00:00'
 draft: false
-tags: ["aphyr", "redis", "jepsen", "database", "programming", "coding"]
-title: "Aphyr tests Redis with Jepsen"
+tags:
+- aphyr
+- redis
+- jepsen
+- database
+- programming
+- coding
+title: Aphyr tests Redis with Jepsen
 ---
+
 From https://aphyr.com/posts/283-call-me-maybe-redis:
 
 Aphyr on Redis correctness:

@@ -1,8 +1,8 @@
 ---
-date: "2014-11-16T06:04:04+00:00"
+date: '2014-11-16T06:04:04+00:00'
 draft: false
-tags: 
-title: "Sell your iPhone to people"
+tags: null
+title: Sell your iPhone to people
 ---
 
 You make _a lot_ more money selling your old iPhone to people than to businesses like [Gazelle](http://gazelle.com) _if_ the phone is in good condition. I just sold my iPhone 51 for $320 to someone I met through Craigslist at a Starbucks near my home. Gazelle would have given me $170. That’s almost double!
@@ -12,4 +12,3 @@ This was my process: I searched Craigslist for similar phones to learn roughly w
 - * *
 
   1. Black, 64 GB, AT&T, unlocked, great condition, with the original box, charger, and EarPods and my red leather Apple case. ↩
-

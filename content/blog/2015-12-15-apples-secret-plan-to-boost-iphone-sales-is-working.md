@@ -1,9 +1,13 @@
 ---
-date: "2015-12-15T19:10:44+00:00"
+date: '2015-12-15T19:10:44+00:00'
 draft: false
-tags: ["iphone", "upgrade", "applecare"]
-title: "Apple's Secret Plan to Boost iPhone Sales is Working"
+tags:
+- iphone
+- upgrade
+- applecare
+title: Apple's Secret Plan to Boost iPhone Sales is Working
 ---
+
 From http://fortune.com/2015/12/15/apple-iphone-upgrade-program/:
 
 Philip Elmer-DeWitt writing for Fortune:

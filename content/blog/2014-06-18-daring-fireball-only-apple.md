@@ -1,9 +1,11 @@
 ---
-date: "2014-06-18T18:15:58+00:00"
+date: '2014-06-18T18:15:58+00:00'
 draft: false
-tags: ["technology"]
-title: "Daring Fireball: Only Apple"
+tags:
+- technology
+title: 'Daring Fireball: Only Apple'
 ---
+
 From http://daringfireball.net/2014/06/only_apple:
 
 John Gruber:

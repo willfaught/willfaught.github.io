@@ -1,9 +1,16 @@
 ---
-date: "2016-04-20T16:58:23+00:00"
+date: '2016-04-20T16:58:23+00:00'
 draft: false
-tags: ["programming", "ideas", "future", "pointer", "instruction", "languages"]
-title: "Frighteningly Ambitious Programming Language Ideas"
+tags:
+- programming
+- ideas
+- future
+- pointer
+- instruction
+- languages
+title: Frighteningly Ambitious Programming Language Ideas
 ---
+
 From http://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html:
 
 Jon Purdy:

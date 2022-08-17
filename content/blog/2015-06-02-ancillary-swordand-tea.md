@@ -1,9 +1,12 @@
 ---
-date: "2015-06-02T05:03:44+00:00"
+date: '2015-06-02T05:03:44+00:00'
 draft: false
-tags: ["science fiction", "ancillary sword"]
-title: "Ancillary Sword...and tea"
+tags:
+- science fiction
+- ancillary sword
+title: Ancillary Sword...and tea
 ---
+
 From http://www.amazon.com/gp/aw/cr/0316246654/:
 
 Neil Hepworth on Amazon reviewed _Ancillary Sword_ :
@@ -15,4 +18,3 @@ And:
 >In summary, all the interesting ideas were taken out (replaced by tea)
 
 Did he mention the tea?
-

@@ -1,9 +1,11 @@
 ---
-date: "2013-01-11T20:27:00+00:00"
+date: '2013-01-11T20:27:00+00:00'
 draft: false
-tags: ["playing"]
-title: "IGN's 2013 PC game predictions"
+tags:
+- playing
+title: IGN's 2013 PC game predictions
 ---
+
 From http://www.ign.com/articles/2013/01/10/10-bold-pc-predictions-for-2013:
 
 >Half-Life 3 will be announced as a multiplatform title as soon as Sony and Microsoft unveil their next-generation hardware plans.

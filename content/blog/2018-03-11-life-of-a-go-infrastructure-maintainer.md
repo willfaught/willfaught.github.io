@@ -1,9 +1,10 @@
 ---
-date: "2018-03-11T00:00:26+00:00"
+date: '2018-03-11T00:00:26+00:00'
 draft: false
-tags: 
-title: "Life of a Go Infrastructure Maintainer"
+tags: null
+title: Life of a Go Infrastructure Maintainer
 ---
+
 From https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5:
 
 Hyrum Wright:

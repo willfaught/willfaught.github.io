@@ -1,9 +1,12 @@
 ---
-date: "2018-10-24T06:16:58+00:00"
+date: '2018-10-24T06:16:58+00:00'
 draft: false
-tags: ["coding", "agile"]
-title: "Good agile, bad agile"
+tags:
+- coding
+- agile
+title: Good agile, bad agile
 ---
+
 From http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html:
 
 Steve Yegge:

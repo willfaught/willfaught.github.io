@@ -1,9 +1,12 @@
 ---
-date: "2016-01-04T03:20:45+00:00"
+date: '2016-01-04T03:20:45+00:00'
 draft: false
-tags: ["golang", "programming"]
-title: "The Legacy of Go"
+tags:
+- golang
+- programming
+title: The Legacy of Go
 ---
+
 From http://dave.cheney.net/2015/11/15/the-legacy-of-go:
 
 Dave Cheney:

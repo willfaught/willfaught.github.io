@@ -1,9 +1,11 @@
 ---
-date: "2013-02-07T01:16:00+00:00"
+date: '2013-02-07T01:16:00+00:00'
 draft: false
-tags: ["computation"]
-title: "Why Java's Object.wait/notify/notifyAll must be synchronized"
+tags:
+- computation
+title: Why Java's Object.wait/notify/notifyAll must be synchronized
 ---
+
 From http://www.velocityreviews.com/forums/t149170-why-synchronized-with-wait-notify.html:
 
 Best explanation I've seen yet of why Java's `Object.wait`/`notify`/`notifyAll` must be synchronized on the same `Object` instance, by Chris Smith:

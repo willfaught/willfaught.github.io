@@ -1,9 +1,13 @@
 ---
-date: "2018-10-22T22:34:28+00:00"
+date: '2018-10-22T22:34:28+00:00'
 draft: false
-tags: ["coding", "scrum", "agile"]
-title: "Scrum disempowers developers"
+tags:
+- coding
+- scrum
+- agile
+title: Scrum disempowers developers
 ---
+
 From https://news.ycombinator.com/item?id=17186591:
 
 A reply to someone saying someone else had a bad experience with Scrum because they did Scrum wrong:

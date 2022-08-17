@@ -1,9 +1,12 @@
 ---
-date: "2017-04-12T19:57:19+00:00"
+date: '2017-04-12T19:57:19+00:00'
 draft: false
-tags: ["programming", "javascript"]
-title: "JavaScript Doesn't Need Class"
+tags:
+- programming
+- javascript
+title: JavaScript Doesn't Need Class
 ---
+
 From http://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html:
 
 Ian Elliot:

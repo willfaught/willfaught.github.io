@@ -1,9 +1,11 @@
 ---
-date: "2012-11-09T00:56:00+00:00"
+date: '2012-11-09T00:56:00+00:00'
 draft: false
-tags: ["computation"]
-title: "PHP: a fractal of bad design"
+tags:
+- computation
+title: 'PHP: a fractal of bad design'
 ---
+
 From http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/:
 
 Alex Munroe:

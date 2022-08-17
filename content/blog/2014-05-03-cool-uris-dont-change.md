@@ -1,9 +1,11 @@
 ---
-date: "2014-05-03T19:13:50+00:00"
+date: '2014-05-03T19:13:50+00:00'
 draft: false
-tags: ["computing"]
-title: "Cool URIs don't change"
+tags:
+- computing
+title: Cool URIs don't change
 ---
+
 From http://www.w3.org/Provider/Style/URI.html:
 
 Tim Berners-Lee:

@@ -1,9 +1,13 @@
 ---
-date: "2018-10-31T06:00:24+00:00"
+date: '2018-10-31T06:00:24+00:00'
 draft: false
-tags: ["coding", "management", "holacracy"]
-title: "Why GitHub added management"
+tags:
+- coding
+- management
+- holacracy
+title: Why GitHub added management
 ---
+
 From https://www.theglobeandmail.com/report-on-business/small-business/startups/why-github-finally-abandoned-its-bossless-workplace/article31718152/:
 
 Melissa Mittelman on why GitHub added management to its workforce:

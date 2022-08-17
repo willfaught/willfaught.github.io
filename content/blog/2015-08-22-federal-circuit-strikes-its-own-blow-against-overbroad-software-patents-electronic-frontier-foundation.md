@@ -1,9 +1,12 @@
 ---
-date: "2015-08-22T23:33:55+00:00"
+date: '2015-08-22T23:33:55+00:00'
 draft: false
-tags: ["patents"]
-title: "Federal Circuit Strikes Its Own Blow Against Overbroad Software Patents | Electronic Frontier Foundation"
+tags:
+- patents
+title: Federal Circuit Strikes Its Own Blow Against Overbroad Software Patents | Electronic
+  Frontier Foundation
 ---
+
 From https://www.eff.org/deeplinks/2015/06/federal-circuit-strikes-its-own-blow-against-overbroad-software-patents:
 
 >Imagine the Wright brothers, after they invented their airplane, filed for a patent claiming “a machine for flying.” Essentially claiming a machine for what it does rather than how it does it. This is known as “functional claiming.”
@@ -21,4 +24,3 @@ _Face palm._ Why am I not surprised.
 >but did so with an important caveat. That caveat allowed inventors to claim their inventions functionally, yet the scope of the patent rights would be limited to only what the inventor actually structurally described in the patent specification (or its equivalents). The Wright brothers could claim their “machine for flying,” limited to what they actually described and things that were essentially the same, but they couldn’t stop someone from building the Space Shuttle.
 
 Oh good, at least it _looked_ like they were thinking.
-

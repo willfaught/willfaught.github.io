@@ -1,9 +1,13 @@
 ---
-date: "2015-04-22T04:39:55+00:00"
+date: '2015-04-22T04:39:55+00:00'
 draft: false
-tags: ["eff", "tpp", "congress"]
-title: "Trans-Pacific Partnership Agreement"
+tags:
+- eff
+- tpp
+- congress
+title: Trans-Pacific Partnership Agreement
 ---
+
 From https://www.eff.org/issues/tpp:
 
 Electronic Frontier Foundation:

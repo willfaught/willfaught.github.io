@@ -1,9 +1,12 @@
 ---
-date: "2011-05-26T19:17:36+00:00"
+date: '2011-05-26T19:17:36+00:00'
 draft: false
-tags: ["computation", "interesting"]
-title: "How to Start a Startup"
+tags:
+- computation
+- interesting
+title: How to Start a Startup
 ---
+
 From http://paulgraham.com/start.html:
 
 Paul Graham:

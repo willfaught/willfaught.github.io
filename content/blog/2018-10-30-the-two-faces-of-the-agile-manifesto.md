@@ -1,9 +1,13 @@
 ---
-date: "2018-10-30T01:02:19+00:00"
+date: '2018-10-30T01:02:19+00:00'
 draft: false
-tags: ["coding", "agile", "scrum"]
-title: "The two faces of the agile manifesto"
+tags:
+- coding
+- agile
+- scrum
+title: The two faces of the agile manifesto
 ---
+
 From https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile:
 
 Robin Message on the mismatch between the parts of the [agile manifesto](http://agilemanifesto.org) concerned with technical craft and those concerned with project management:

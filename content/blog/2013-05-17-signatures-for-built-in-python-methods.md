@@ -1,9 +1,11 @@
 ---
-date: "2013-05-17T02:50:38+00:00"
+date: '2013-05-17T02:50:38+00:00'
 draft: false
-tags: ["computation"]
-title: "Signatures for built-in Python methods"
+tags:
+- computation
+title: Signatures for built-in Python methods
 ---
+
 From http://mail.python.org/pipermail/python-list/2012-June/624923.html:
 
 Ian Kelly:

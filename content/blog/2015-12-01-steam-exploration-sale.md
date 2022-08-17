@@ -1,9 +1,14 @@
 ---
-date: "2015-12-01T07:28:14+00:00"
+date: '2015-12-01T07:28:14+00:00'
 draft: false
-tags: ["steam", "gaming", "playing", "games"]
-title: "Steam Exploration Sale"
+tags:
+- steam
+- gaming
+- playing
+- games
+title: Steam Exploration Sale
 ---
+
 From http://store.steampowered.com:
 
 It’s that time of the year again. Hide your wallets! I picked up: 
@@ -62,4 +67,3 @@ It’s that time of the year again. Hide your wallets! I picked up:
   * Wolfenstein: The New Order
 
 It looks like I spent a lot, but it was all pretty cheap. Really good savings.
-

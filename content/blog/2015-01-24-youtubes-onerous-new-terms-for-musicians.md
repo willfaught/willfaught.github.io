@@ -1,9 +1,10 @@
 ---
-date: "2015-01-24T19:14:20+00:00"
+date: '2015-01-24T19:14:20+00:00'
 draft: false
-tags: 
-title: "YouTube's onerous new terms for musicians"
+tags: null
+title: YouTube's onerous new terms for musicians
 ---
+
 From http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube:
 
 Zoe Keating:

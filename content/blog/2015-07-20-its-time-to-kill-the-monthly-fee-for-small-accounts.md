@@ -1,9 +1,11 @@
 ---
-date: "2015-07-20T03:42:57+00:00"
+date: '2015-07-20T03:42:57+00:00'
 draft: false
-tags: ["finance"]
-title: "It’s Time to Kill the Monthly Fee for Small Accounts"
+tags:
+- finance
+title: It’s Time to Kill the Monthly Fee for Small Accounts
 ---
+
 From https://medium.com/@adamnash/it-s-time-to-kill-the-monthly-fee-for-small-accounts-51d37177bfe7:
 
 Adam Nash:

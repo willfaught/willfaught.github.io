@@ -1,9 +1,12 @@
 ---
-date: "2015-12-21T03:24:25+00:00"
+date: '2015-12-21T03:24:25+00:00'
 draft: false
-tags: ["wine", "reviews"]
-title: "Wine tasting is bullshit. Here's why."
+tags:
+- wine
+- reviews
+title: Wine tasting is bullshit. Here's why.
 ---
+
 From http://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276:
 
 Robbie Gonzales, writing for io9:

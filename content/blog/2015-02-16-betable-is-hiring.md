@@ -1,8 +1,11 @@
 ---
-date: "2015-02-16T21:49:18+00:00"
+date: '2015-02-16T21:49:18+00:00'
 draft: false
-tags: ["software engineering", "hiring", "betable"]
-title: "Betable is hiring"
+tags:
+- software engineering
+- hiring
+- betable
+title: Betable is hiring
 ---
 
 Betable — where I work — is looking to hire a senior software engineer in San Francisco:
@@ -25,4 +28,3 @@ Betable — where I work — is looking to hire a senior software engineer in Sa
 Contact me if you’re interested.
 
 (We’re also hiring non-senior engineers too.)
-

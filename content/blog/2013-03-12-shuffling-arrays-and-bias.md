@@ -1,9 +1,11 @@
 ---
-date: "2013-03-12T00:31:00+00:00"
+date: '2013-03-12T00:31:00+00:00'
 draft: false
-tags: ["computation"]
-title: "Shuffling arrays and bias"
+tags:
+- computation
+title: Shuffling arrays and bias
 ---
+
 From http://adrianquark.blogspot.com/2008/09/how-to-shuffle-array-correctly.html:
 
 Adrian Quark proving the Fisher–Yates shuffle is unbiased:

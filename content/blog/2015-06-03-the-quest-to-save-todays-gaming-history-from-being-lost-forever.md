@@ -1,9 +1,11 @@
 ---
-date: "2015-06-03T02:05:29+00:00"
+date: '2015-06-03T02:05:29+00:00'
 draft: false
-tags: ["games"]
-title: "The quest to save today’s gaming history from being lost forever"
+tags:
+- games
+title: The quest to save today’s gaming history from being lost forever
 ---
+
 From http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3:
 
 Kyle Orland on the challenges of preserving video games as historic art:
@@ -15,4 +17,3 @@ Kyle Orland on the challenges of preserving video games as historic art:
 >But paradoxically, an Atari 2600 cartridge that’s nearly 40 years old is much easier to preserve at this point than many games released in the last decade. Thanks to changes in the way games are being distributed, protected, and played in the Internet era, large parts of what will become tomorrow’s video game history could be lost forever. If we’re not careful, that is.
 
 It’s a tough problem. I like the idea of a DMCA exemption for abandoned video games.
-

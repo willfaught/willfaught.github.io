@@ -1,9 +1,11 @@
 ---
-date: "2017-06-21T14:54:12+00:00"
+date: '2017-06-21T14:54:12+00:00'
 draft: false
-tags: 
-title: "Swift Creator Chris Lattner Leaves Tesla After Only Six Months in the Job - Mac Rumors"
+tags: null
+title: Swift Creator Chris Lattner Leaves Tesla After Only Six Months in the Job -
+  Mac Rumors
 ---
+
 From https://www.macrumors.com/2017/06/21/swift-creator-chris-lattner-quits-tesla/:
 
 Chris Lattner:

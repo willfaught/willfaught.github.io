@@ -1,9 +1,12 @@
 ---
-date: "2018-10-29T20:04:37+00:00"
+date: '2018-10-29T20:04:37+00:00'
 draft: false
-tags: ["coding", "management"]
-title: "Google's management upheaval"
+tags:
+- coding
+- management
+title: Google's management upheaval
 ---
+
 From https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/:
 
 James Whittaker on Google's reaction to Facebook becoming more valuable to advertisers than Google:

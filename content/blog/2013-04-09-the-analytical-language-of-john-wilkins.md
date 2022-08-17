@@ -1,9 +1,11 @@
 ---
-date: "2013-04-09T04:31:00+00:00"
+date: '2013-04-09T04:31:00+00:00'
 draft: false
-tags: ["reading"]
-title: "The Analytical Language of John Wilkins"
+tags:
+- reading
+title: The Analytical Language of John Wilkins
 ---
+
 From http://www.crockford.com/wrrrld/wilkins.html:
 
 I was delighted to find a short story by Jorge Luis Borges that I hadn't read before. I love his writings, and if you're a software engineer, I bet you'd like them too:

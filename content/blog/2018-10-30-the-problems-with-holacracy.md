@@ -1,9 +1,12 @@
 ---
-date: "2018-10-30T18:08:43+00:00"
+date: '2018-10-30T18:08:43+00:00'
 draft: false
-tags: ["coding", "management"]
-title: "The problems with holacracy"
+tags:
+- coding
+- management
+title: The problems with holacracy
 ---
+
 From https://medium.com/battle-room/holacracy-and-the-mirage-of-the-boss-less-workplace-lessons-from-the-failures-at-github-medium-4355993926d4:
 
 Vladimir Oane explains [holacracy](https://en.wikipedia.org/wiki/Holacracy):

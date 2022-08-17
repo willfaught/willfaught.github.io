@@ -1,9 +1,10 @@
 ---
-date: "2015-03-09T22:24:40+00:00"
+date: '2015-03-09T22:24:40+00:00'
 draft: false
-tags: 
-title: "Google, Our Patron Saint of the Closed Web | Sealed Abstract"
+tags: null
+title: Google, Our Patron Saint of the Closed Web | Sealed Abstract
 ---
+
 From http://sealedabstract.com/rants/google-our-patron-saint-of-the-closed-web/:
 
 Drew Crawford on Google's application for the `.dev` domain:

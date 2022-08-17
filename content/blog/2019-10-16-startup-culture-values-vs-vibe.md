@@ -1,9 +1,12 @@
 ---
-date: "2019-10-16T22:20:26+00:00"
+date: '2019-10-16T22:20:26+00:00'
 draft: false
-tags: ["culture", "startup"]
-title: "Startup Culture:  Values vs. Vibe"
+tags:
+- culture
+- startup
+title: 'Startup Culture:  Values vs. Vibe'
 ---
+
 From https://chrismoody.com/startup-culture/:
 
 Chris Moody on what part of company culture is actually important:

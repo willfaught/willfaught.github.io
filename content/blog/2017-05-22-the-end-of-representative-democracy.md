@@ -1,9 +1,10 @@
 ---
-date: "2017-05-22T16:59:04+00:00"
+date: '2017-05-22T16:59:04+00:00'
 draft: false
-tags: 
-title: "The end of representative democracy"
+tags: null
+title: The end of representative democracy
 ---
+
 From http://blog.dilbert.com/post/160770453201:
 
 Scott Adams:

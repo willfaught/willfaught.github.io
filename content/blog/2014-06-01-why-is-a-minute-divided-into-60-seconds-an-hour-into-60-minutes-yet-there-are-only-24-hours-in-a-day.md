@@ -1,9 +1,12 @@
 ---
-date: "2014-06-01T18:04:18+00:00"
+date: '2014-06-01T18:04:18+00:00'
 draft: false
-tags: ["reading"]
-title: "Why is a minute divided into 60 seconds, an hour into 60 minutes, yet there are only 24 hours in a day?"
+tags:
+- reading
+title: Why is a minute divided into 60 seconds, an hour into 60 minutes, yet there
+  are only 24 hours in a day?
 ---
+
 From http://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/:
 
 A fascinating explanation of the origin of the modern units of time.

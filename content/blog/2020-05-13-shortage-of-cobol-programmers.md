@@ -2,8 +2,8 @@
 categories:
 - code
 - world
-date: 2020-05-13T02:23:00.000+00:00
-description: "Never let a good crisis go to waste when you can cover your ass."
+date: 2020-05-13 02:23:00+00:00
+description: Never let a good crisis go to waste when you can cover your ass.
 keywords:
 - cobol
 - coronavirus
@@ -16,8 +16,8 @@ tags:
 - cobol
 - coronavirus
 title: Shortage of COBOL programmers
-
 ---
+
 [Alicia Lee, writing for CNN](https://www.cnn.com/2020/04/08/business/coronavirus-cobol-programmers-new-jersey-trnd/index.html):
 
 > On top of ventilators, face masks and health care workers, you can now add COBOL programmers to the list of what several states urgently need as they battle the coronavirus pandemic.

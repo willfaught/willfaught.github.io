@@ -1,9 +1,11 @@
 ---
-date: "2015-09-02T21:25:08+00:00"
+date: '2015-09-02T21:25:08+00:00'
 draft: false
-tags: ["golang"]
-title: "Go GC: Prioritizing low latency and simplicity"
+tags:
+- golang
+title: 'Go GC: Prioritizing low latency and simplicity'
 ---
+
 From http://blog.golang.org/go15gc:
 
 Go blog:

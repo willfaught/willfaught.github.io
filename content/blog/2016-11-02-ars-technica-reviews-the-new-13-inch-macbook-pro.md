@@ -1,9 +1,18 @@
 ---
-date: "2016-11-02T17:54:44+00:00"
+date: '2016-11-02T17:54:44+00:00'
 draft: false
-tags: ["ars technica", "review", "mac", "macbook", "macbook pro", "apple", "laptop", "notebook"]
-title: "Ars Technica reviews the new 13-inch MacBook Pro"
+tags:
+- ars technica
+- review
+- mac
+- macbook
+- macbook pro
+- apple
+- laptop
+- notebook
+title: Ars Technica reviews the new 13-inch MacBook Pro
 ---
+
 From http://arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/4/:
 
 Andrew Cunningham, writing for Ars Technica:

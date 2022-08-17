@@ -1,9 +1,11 @@
 ---
-date: "2014-06-09T00:02:40+00:00"
+date: '2014-06-09T00:02:40+00:00'
 draft: false
-tags: ["computing"]
-title: "The Glasgow Haskell Compiler"
+tags:
+- computing
+title: The Glasgow Haskell Compiler
 ---
+
 From http://www.aosabook.org/en/ghc.html:
 
 An interesting overview of the **Glasgow Haskell Compiler**. I had no idea about some of this stuff.

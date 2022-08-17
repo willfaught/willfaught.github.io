@@ -1,9 +1,11 @@
 ---
-date: "2015-05-27T03:43:34+00:00"
+date: '2015-05-27T03:43:34+00:00'
 draft: false
-tags: ["golang"]
-title: "Go Is Unapologetically Flawed, Here’s Why We Use It"
+tags:
+- golang
+title: Go Is Unapologetically Flawed, Here’s Why We Use It
 ---
+
 From http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/?utm_source=golangweekly&utm_medium=email:
 
 A critique of the Golang language, tools, creators, and community by Tyler Treat:
@@ -13,4 +15,3 @@ A critique of the Golang language, tools, creators, and community by Tyler Treat
 >A language can have considerable depth while still retaining its simplicity. I wish this were the ideal Go embraced, not one of negativity, of pessimism, of “no.” The question is not how can we protect developers from themselves, it’s how can we make them more productive? How can we enable them to solve problems? But just because people are solving problems with Go today does not mean we can’t do better. There is always room for improvement. There is never room for complacency.
 
 So many great points and examples. This struck a chord.
-

@@ -1,9 +1,11 @@
 ---
-date: "2013-10-19T01:11:00+00:00"
+date: '2013-10-19T01:11:00+00:00'
 draft: false
-tags: ["reading"]
-title: "Because I'm a twentysomething"
+tags:
+- reading
+title: Because I'm a twentysomething
 ---
+
 From http://todaywasmeaningful.wordpress.com/2013/08/06/because-im-a-twentysomething/:
 
 Jessica at Today Was Meaningful:
@@ -13,4 +15,3 @@ Jessica at Today Was Meaningful:
 >here. right here.
 
 Great advice.
-

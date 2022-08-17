@@ -1,9 +1,12 @@
 ---
-date: "2018-10-24T07:23:19+00:00"
+date: '2018-10-24T07:23:19+00:00'
 draft: false
-tags: ["coding", "agile"]
-title: "Big Macs vs. The Naked Chef"
+tags:
+- coding
+- agile
+title: Big Macs vs. The Naked Chef
 ---
+
 From https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/:
 
 Joel Spolsky:

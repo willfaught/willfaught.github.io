@@ -1,9 +1,12 @@
 ---
-date: "2015-11-19T17:26:57+00:00"
+date: '2015-11-19T17:26:57+00:00'
 draft: false
-tags: ["golang", "programming"]
-title: "Why Go Is Not Good :: Will Yager"
+tags:
+- golang
+- programming
+title: 'Why Go Is Not Good :: Will Yager'
 ---
+
 From http://yager.io/programming/go.html:
 
 Will Yager on Golang:
@@ -17,4 +20,3 @@ Will Yager on Golang:
 >I’ve also included some comparisons to both Rust and Haskell (which I consider to be good languages). This is to show that all the problems listed here have already been solved.
 
 I completely agree with every point. I’m pleased yet annoyed that he wrote it before I could.
-

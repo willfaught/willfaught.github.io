@@ -1,9 +1,12 @@
 ---
-date: "2011-06-01T06:00:06+00:00"
+date: '2011-06-01T06:00:06+00:00'
 draft: false
-tags: ["funny", "computation"]
-title: "How To Write Unmaintainable Code"
+tags:
+- funny
+- computation
+title: How To Write Unmaintainable Code
 ---
+
 From http://www.thc.org/root/phun/unmaintain.html:
 
 Insidious and hilarious stuff:

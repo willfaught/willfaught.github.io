@@ -1,9 +1,11 @@
 ---
-date: "2012-10-23T23:20:00+00:00"
+date: '2012-10-23T23:20:00+00:00'
 draft: false
-tags: ["technology"]
-title: "Is AppleCare worth it?"
+tags:
+- technology
+title: Is AppleCare worth it?
 ---
+
 From http://www.marco.org/2012/03/07/which-ipad-3-should-i-get:
 
 Marco Arment:

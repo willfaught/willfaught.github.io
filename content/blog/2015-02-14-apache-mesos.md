@@ -1,9 +1,11 @@
 ---
-date: "2015-02-14T23:28:37+00:00"
+date: '2015-02-14T23:28:37+00:00'
 draft: false
-tags: ["cluster management"]
-title: "Apache Mesos"
+tags:
+- cluster management
+title: Apache Mesos
 ---
+
 From http://mesos.apache.org:
 
 >Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.

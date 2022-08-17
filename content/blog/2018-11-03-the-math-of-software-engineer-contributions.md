@@ -1,9 +1,12 @@
 ---
-date: "2018-11-03T06:00:12+00:00"
+date: '2018-11-03T06:00:12+00:00'
 draft: false
-tags: ["coding", "management"]
-title: "The math of software engineer contributions"
+tags:
+- coding
+- management
+title: The math of software engineer contributions
 ---
+
 From https://web.archive.org/web/20120211164647/https://michaelochurch.wordpress.com/2012/01/26/the-trajectory-of-a-software-engineer-and-where-it-all-goes-wrong/:
 
 Michael Church on the "math" of software engineer contributions in an organization:

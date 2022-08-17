@@ -1,9 +1,12 @@
 ---
-date: "2011-07-26T15:40:18+00:00"
+date: '2011-07-26T15:40:18+00:00'
 draft: false
-tags: ["interesting", "opinions"]
-title: "Smash the Ceiling"
+tags:
+- interesting
+- opinions
+title: Smash the Ceiling
 ---
+
 From http://www.newyorker.com/talk/financial/2011/08/01/110801ta_talk_surowiecki:
 
 James Surowiecki:

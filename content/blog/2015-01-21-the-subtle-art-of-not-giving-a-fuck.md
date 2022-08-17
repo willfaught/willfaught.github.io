@@ -1,9 +1,10 @@
 ---
-date: "2015-01-21T19:43:19+00:00"
+date: '2015-01-21T19:43:19+00:00'
 draft: false
-tags: 
-title: "The Subtle Art of Not Giving a Fuck"
+tags: null
+title: The Subtle Art of Not Giving a Fuck
 ---
+
 From http://markmanson.net/not-giving-a-fuck:
 
 Mark Manson on not giving a fuck:
@@ -19,4 +20,3 @@ Mark Manson on not giving a fuck:
 >Indeed, the ability to reserve our fucks for only the most fuckworthy of situations would surely make life a hell of a lot easier. Failure would be less terrifying. Rejection less painful. Unpleasant necessities more pleasant and the unsavory shit sandwiches a little bit more savory. I mean, if we could only give a few less fucks, or a few more consciously-directed fucks, then life would feel pretty fucking easy.
 
 Great piece. Quite funny.
-

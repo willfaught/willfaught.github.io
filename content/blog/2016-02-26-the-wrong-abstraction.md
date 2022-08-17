@@ -1,9 +1,11 @@
 ---
-date: "2016-02-26T05:24:01+00:00"
+date: '2016-02-26T05:24:01+00:00'
 draft: false
-tags: ["coding"]
-title: "The Wrong Abstraction"
+tags:
+- coding
+title: The Wrong Abstraction
 ---
+
 From http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction:
 
 Great tip from Sandi Metz on how abstractions can worsen code:

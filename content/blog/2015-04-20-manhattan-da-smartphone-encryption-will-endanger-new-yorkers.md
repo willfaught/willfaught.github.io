@@ -1,9 +1,10 @@
 ---
-date: "2015-04-20T18:54:12+00:00"
+date: '2015-04-20T18:54:12+00:00'
 draft: false
-tags: 
-title: "Manhattan DA: Smartphone encryption will endanger New Yorkers"
+tags: null
+title: 'Manhattan DA: Smartphone encryption will endanger New Yorkers'
 ---
+
 From http://cir.ca/s/v3EB:
 
 Cyrus Vance:

@@ -1,9 +1,19 @@
 ---
-date: "2016-08-18T00:02:42+00:00"
+date: '2016-08-18T00:02:42+00:00'
 draft: false
-tags: ["hashicorp", "nomad", "cluster", "management", "deploy", "deployment", "manage", "container", "docker"]
-title: "Million container challenge"
+tags:
+- hashicorp
+- nomad
+- cluster
+- management
+- deploy
+- deployment
+- manage
+- container
+- docker
+title: Million container challenge
 ---
+
 From https://www.hashicorp.com/c1m.html:
 
 >Cluster schedulers promise us ease of deployment with ultimate scalability. We designed an ambitious challenge to test these promises: schedule one million containers. We call this the Million Container Challenge (C1M).

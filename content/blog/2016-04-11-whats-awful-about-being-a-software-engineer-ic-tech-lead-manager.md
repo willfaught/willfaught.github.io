@@ -1,9 +1,12 @@
 ---
-date: "2016-04-11T23:09:18+00:00"
+date: '2016-04-11T23:09:18+00:00'
 draft: false
-tags: ["programming", "management"]
-title: "What's awful about being a software engineer IC, tech lead & manager"
+tags:
+- programming
+- management
+title: What's awful about being a software engineer IC, tech lead & manager
 ---
+
 From http://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1:
 
 Brett Slatner on the trials and tribulations of being a software engineering individual contributor, tech lead, and manager:

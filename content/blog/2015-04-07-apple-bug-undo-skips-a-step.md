@@ -1,8 +1,10 @@
 ---
-date: "2015-04-07T19:44:58+00:00"
+date: '2015-04-07T19:44:58+00:00'
 draft: false
-tags: ["apple", "bug"]
-title: "Apple bug: Undo skips a step"
+tags:
+- apple
+- bug
+title: 'Apple bug: Undo skips a step'
 ---
 
 OS X Notes:
@@ -13,4 +15,3 @@ OS X Notes:
   * Undo twice.
 
 The space remains.
-

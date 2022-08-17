@@ -1,8 +1,9 @@
 ---
-date: "2014-06-06T18:20:04+00:00"
+date: '2014-06-06T18:20:04+00:00'
 draft: false
-tags: ["computing"]
-title: "Go isn't so parallel after all"
+tags:
+- computing
+title: Go isn't so parallel after all
 ---
 
 [Effective Go](http://golang.org/doc/effective_go.html):
@@ -14,4 +15,3 @@ So, at best, the default Go runtime can be called non-blocking, but not parallel
 >Either run your job with environment variable GOMAXPROCS set to the number of cores to use or import the runtime package and call runtime.GOMAXPROCS(NCPU). A helpful value might be runtime.NumCPU(), which reports the number of logical CPUs on the local machine.
 
 Why doesn't that happen by default?
-

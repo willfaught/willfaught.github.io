@@ -1,9 +1,14 @@
 ---
-date: "2015-10-18T01:20:08+00:00"
+date: '2015-10-18T01:20:08+00:00'
 draft: false
-tags: ["consul", "zookeeper", "etcd", "hashicorp"]
-title: "Consul vs. ZooKeeper, doozerd, etcd"
+tags:
+- consul
+- zookeeper
+- etcd
+- hashicorp
+title: Consul vs. ZooKeeper, doozerd, etcd
 ---
+
 From https://www.consul.io/intro/vs/zookeeper.html:
 
 HashiCorp on Consul versus ZooKeeper, doozerd, and etcd:

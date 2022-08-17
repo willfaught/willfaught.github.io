@@ -1,9 +1,11 @@
 ---
-date: "2013-03-02T17:01:00+00:00"
+date: '2013-03-02T17:01:00+00:00'
 draft: false
-tags: ["playing"]
-title: "Why you shouldn't play Far Cry 3"
+tags:
+- playing
+title: Why you shouldn't play Far Cry 3
 ---
+
 From http://www.cracked.com/blog/3-reasons-you-shouldnt-play-best-video-game-year/:
 
 Packed with funny lines like this:

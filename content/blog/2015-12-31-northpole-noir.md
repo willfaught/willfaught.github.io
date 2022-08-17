@@ -1,8 +1,11 @@
 ---
-date: "2015-12-31T01:01:22+00:00"
+date: '2015-12-31T01:01:22+00:00'
 draft: false
-tags: ["steam", "sale", "northpole noir"]
-title: "Northpole Noir"
+tags:
+- steam
+- sale
+- northpole noir
+title: Northpole Noir
 ---
 
 Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked up 89 games:
@@ -100,4 +103,3 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
 All but one of them were under $4. Many were under $3, $2, and $1. Total cost: $213.57.
 
 I have a problem.
-

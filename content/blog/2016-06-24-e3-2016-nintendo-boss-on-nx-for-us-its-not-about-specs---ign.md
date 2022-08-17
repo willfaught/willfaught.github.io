@@ -1,9 +1,21 @@
 ---
-date: "2016-06-24T16:27:58+00:00"
+date: '2016-06-24T16:27:58+00:00'
 draft: false
-tags: ["gaming", "games", "nintendo", "nx", "microsoft", "xbox", "xbox one", "ign", "vr", "virtual reality", "teraflops"]
-title: "E3 2016: Nintendo Boss on NX: 'For Us, It's Not About Specs' - IGN"
+tags:
+- gaming
+- games
+- nintendo
+- nx
+- microsoft
+- xbox
+- xbox one
+- ign
+- vr
+- virtual reality
+- teraflops
+title: 'E3 2016: Nintendo Boss on NX: ''For Us, It''s Not About Specs'' - IGN'
 ---
+
 From http://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs:
 
 Alex Osborn, writing for IGN:

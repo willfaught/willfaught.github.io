@@ -1,9 +1,13 @@
 ---
-date: "2017-04-10T22:02:53+00:00"
+date: '2017-04-10T22:02:53+00:00'
 draft: false
-tags: ["programming", "javascript", "golang"]
-title: "The JavaScript Minefield"
+tags:
+- programming
+- javascript
+- golang
+title: The JavaScript Minefield
 ---
+
 From http://walkercoderanger.com/blog/2014/02/javascript-minefield/:
 
 Jeff Walker:

@@ -1,9 +1,12 @@
 ---
-date: "2017-04-12T19:27:35+00:00"
+date: '2017-04-12T19:27:35+00:00'
 draft: false
-tags: ["programming", "javascript"]
-title: "JavaScript Garden"
+tags:
+- programming
+- javascript
+title: JavaScript Garden
 ---
+
 From http://bonsaiden.github.io/JavaScript-Garden/:
 
 Ivo Wetzel:

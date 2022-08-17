@@ -1,8 +1,10 @@
 ---
-date: "2011-02-25T20:00:07+00:00"
+date: '2011-02-25T20:00:07+00:00'
 draft: false
-tags: ["apple", "mac os lion"]
-title: "Mac OS Lion"
+tags:
+- apple
+- mac os lion
+title: Mac OS Lion
 ---
 
 [Mac OS Lion](http://www.apple.com/macosx/lion/) looks promising:
@@ -17,4 +19,3 @@ title: "Mac OS Lion"
   * Server with wiki
 
 These are substantial new features that I would love to have. This is the kind of innovation I admire.
-

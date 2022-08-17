@@ -1,9 +1,11 @@
 ---
-date: "2018-12-11T03:14:20+00:00"
+date: '2018-12-11T03:14:20+00:00'
 draft: false
-tags: ["coding"]
-title: "\"8 Common Mistakes That Get Developers Fired\""
+tags:
+- coding
+title: '"8 Common Mistakes That Get Developers Fired"'
 ---
+
 From https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/:
 
 Andrew McDermott:

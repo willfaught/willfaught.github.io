@@ -1,9 +1,15 @@
 ---
-date: "2016-03-30T18:45:42+00:00"
+date: '2016-03-30T18:45:42+00:00'
 draft: false
-tags: ["cockroach", "cockroachdb", "sql", "beta", "newsql"]
-title: "CockroachDB Skitters into Beta | Blog | Cockroach Labs"
+tags:
+- cockroach
+- cockroachdb
+- sql
+- beta
+- newsql
+title: CockroachDB Skitters into Beta | Blog | Cockroach Labs
 ---
+
 From https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/:
 
 I've been looking forward to this. NewSQL seems like the future. NoSQL has impressive strengths, but managing denormalization is a pain in the ass.

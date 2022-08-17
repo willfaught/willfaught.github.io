@@ -1,9 +1,13 @@
 ---
-date: "2015-10-18T00:11:50+00:00"
+date: '2015-10-18T00:11:50+00:00'
 draft: false
-tags: ["jsconf", "javascript", "betable"]
-title: "Things I learned at JSConf.eu 2015"
+tags:
+- jsconf
+- javascript
+- betable
+title: Things I learned at JSConf.eu 2015
 ---
+
 From https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe:
 
 Thor Spieker, fellow Betable engineer, on his experience at JSConf 2015:

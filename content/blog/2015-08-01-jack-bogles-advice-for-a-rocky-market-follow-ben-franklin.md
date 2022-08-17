@@ -1,9 +1,11 @@
 ---
-date: "2015-08-01T04:47:42+00:00"
+date: '2015-08-01T04:47:42+00:00'
 draft: false
-tags: ["finance"]
-title: "Jack Bogle's advice for a rocky market: Follow Ben Franklin"
+tags:
+- finance
+title: 'Jack Bogle''s advice for a rocky market: Follow Ben Franklin'
 ---
+
 From http://www.cnbc.com/2014/01/31/-advice-for-a-rocky-market-follow-ben-franklin.html:
 
 Jack Bogle:

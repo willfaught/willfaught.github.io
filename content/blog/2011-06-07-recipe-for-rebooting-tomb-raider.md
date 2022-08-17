@@ -1,9 +1,13 @@
 ---
-date: "2011-06-07T08:14:00+00:00"
+date: '2011-06-07T08:14:00+00:00'
 draft: false
-tags: ["games", "quotations", "opinions"]
-title: "Recipe for Rebooting Tomb Raider"
+tags:
+- games
+- quotations
+- opinions
+title: Recipe for Rebooting Tomb Raider
 ---
+
 From http://ps3.ign.com/articles/117/1173370p1.html:
 
 >So what steps is Crystal Dynamics [the game maker] taking to reinvent Tomb Raider? 

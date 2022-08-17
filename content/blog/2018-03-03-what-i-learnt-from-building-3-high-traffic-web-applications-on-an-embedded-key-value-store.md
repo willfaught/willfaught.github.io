@@ -1,9 +1,14 @@
 ---
-date: "2018-03-03T01:51:14+00:00"
+date: '2018-03-03T01:51:14+00:00'
 draft: false
-tags: ["coding", "golang", "performance"]
-title: "What I learnt from building 3 high traffic web applications on an embedded key value store."
+tags:
+- coding
+- golang
+- performance
+title: What I learnt from building 3 high traffic web applications on an embedded
+  key value store.
 ---
+
 From https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f:
 
 Anthony Alaribe:

@@ -1,9 +1,12 @@
 ---
-date: "2018-10-23T23:02:54+00:00"
+date: '2018-10-23T23:02:54+00:00'
 draft: false
-tags: ["coding", "git"]
-title: "Keep your commits atomic"
+tags:
+- coding
+- git
+title: Keep your commits atomic
 ---
+
 From https://www.freshconsulting.com/atomic-commits/:
 
 Sean Patterson:

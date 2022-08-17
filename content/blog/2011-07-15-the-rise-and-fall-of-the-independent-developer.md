@@ -1,9 +1,12 @@
 ---
-date: "2011-07-15T23:12:46+00:00"
+date: '2011-07-15T23:12:46+00:00'
 draft: false
-tags: ["computation", "interesting"]
-title: "The Rise and Fall of the Independent Developer"
+tags:
+- computation
+- interesting
+title: The Rise and Fall of the Independent Developer
 ---
+
 From http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/:
 
 Rings true to me:
