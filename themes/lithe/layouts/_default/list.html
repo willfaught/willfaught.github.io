@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ if not (or .Title .Description .PublishDate .Content .Pages) }}
+{{ if not (or .Title .Description .Date .Content .Pages) }}
 <p class="display-5 text-center">Nothing here</p>
 {{ else }}
 <section>
@@ -9,7 +9,13 @@
             {{ if .Title }}
             <div class="row">
                 <div class="col">
-                    <p class="display-5 mx-auto" style="max-width:100ch">{{ .Title | markdownify }}</p>
+                    <p class="display-5 mx-auto" style="max-width:100ch">
+                        {{ if .Params.link }}
+                        <a href="{{ .Params.link }}">{{ .Title | markdownify }}</a>
+                        {{ else }}
+                        {{ .Title | markdownify }}
+                        {{ end }}
+                    </p>
                 </div>
             </div>
             {{ end }}
@@ -23,7 +29,7 @@
             {{ if .PublishDate }}
             <div class="row">
                 <div class="col">
-                    <p class="mx-auto"><time datetime="{{ .PublishDate.Format `2006-01-02` }}">{{ .PublishDate.Format "January 2, 2006" }}</time></p>
+                    <p class="mx-auto"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
                 </div>
             </div>
             {{ end }}

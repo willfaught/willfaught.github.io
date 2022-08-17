@@ -1,5 +1,3 @@
 ---
-date: "2022-08-12"
 title: "Blog"
 ---
-It’s been this way for a while. COBOL programmers are paid quite well because large dinosaur organizations (banks, schools, governments) still use systems that require it, but there aren’t a lot of people left who already know how to do the work. At some point in the past, some vendor convinced these organizations that it was worth the long-term investment to buy these really expensive systems. It turns out that technology evolves pretty quickly (who knew?), so these systems were left in the dust. Now these organizations are trying to build modern systems on top of this creaky technology, and it’s just terrible. This is why government websites are so bad. My state’s unemployment website says it’s unavailable after 10 PM every night. Can you imagine Facebook or Twitter being unavailable, ever? That crap rarely flies when private money is at stake. Rather than admit their mistake and swallow the cost of these bad products, the organizations try to make it work as long as possible, never mind the downsides.
