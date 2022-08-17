@@ -1,5 +1,6 @@
 ---
 date: '2015-06-24'
+link: http://dilbert.com/strip/2014-12-15
 tags:
 - finances
 - financial advisor
@@ -8,7 +9,5 @@ tags:
 - money
 title: The Financial Advisor
 ---
-
-From http://dilbert.com/strip/2014-12-15:
 
 He meant to say he didn't accept the premise of the question.

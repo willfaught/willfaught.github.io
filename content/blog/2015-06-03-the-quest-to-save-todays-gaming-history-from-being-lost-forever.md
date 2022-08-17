@@ -1,11 +1,10 @@
 ---
 date: '2015-06-02'
+link: http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3
 tags:
 - games
 title: The quest to save today’s gaming history from being lost forever
 ---
-
-From http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3:
 
 Kyle Orland on the challenges of preserving video games as historic art:
 

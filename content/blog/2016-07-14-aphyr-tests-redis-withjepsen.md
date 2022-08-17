@@ -1,5 +1,6 @@
 ---
 date: '2016-07-13'
+link: https://aphyr.com/posts/283-call-me-maybe-redis
 tags:
 - aphyr
 - redis
@@ -9,8 +10,6 @@ tags:
 - coding
 title: Aphyr tests Redis with Jepsen
 ---
-
-From https://aphyr.com/posts/283-call-me-maybe-redis:
 
 Aphyr on Redis correctness:
 

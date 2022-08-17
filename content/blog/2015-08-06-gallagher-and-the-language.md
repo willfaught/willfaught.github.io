@@ -1,10 +1,9 @@
 ---
 date: '2015-08-06'
+link: https://www.youtube.com/watch?v=yDFQXxWIyvQ
 tags:
 - language
 title: Gallagher and the Language
 ---
-
-From https://www.youtube.com/watch?v=yDFQXxWIyvQ:
 
 English makes no sense.

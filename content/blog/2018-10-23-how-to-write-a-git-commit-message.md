@@ -1,12 +1,11 @@
 ---
 date: '2018-10-23'
+link: https://chris.beams.io/posts/git-commit/
 tags:
 - coding
 - git
 title: How to write a Git commit message
 ---
-
-From https://chris.beams.io/posts/git-commit/:
 
 Chris Beams:
 

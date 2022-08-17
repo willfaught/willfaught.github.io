@@ -1,11 +1,10 @@
 ---
 date: '2015-09-15'
+link: http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/14547-Yahtzee-On-Everybodys-Gone-To-The-Rapture-and-Gone-Home
 tags:
 - gaming
 title: Yahtzee On Everybodys Gone To The Rapture and Gone Home
 ---
-
-From http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/14547-Yahtzee-On-Everybodys-Gone-To-The-Rapture-and-Gone-Home:
 
 Ben Croshaw on the problem with walking simulator games:
 

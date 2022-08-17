@@ -1,12 +1,11 @@
 ---
 date: '2016-01-03'
+link: http://dave.cheney.net/2015/11/15/the-legacy-of-go
 tags:
 - golang
 - programming
 title: The Legacy of Go
 ---
-
-From http://dave.cheney.net/2015/11/15/the-legacy-of-go:
 
 Dave Cheney:
 

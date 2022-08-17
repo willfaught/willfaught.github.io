@@ -1,13 +1,12 @@
 ---
 date: '2015-10-17'
+link: http://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html
 tags:
 - coreos
 - redhat
 - linux
 title: What's CoreOS? An existential threat to Linux vendors
 ---
-
-From http://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html:
 
 Matt Asay, writing for InfoWorld on the shift to minimal server operating systems like CoreOS:
 

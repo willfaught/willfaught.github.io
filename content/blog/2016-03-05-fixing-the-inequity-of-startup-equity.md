@@ -1,5 +1,6 @@
 ---
 date: '2016-03-04'
+link: https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e#.87fry2ooz
 tags:
 - equity
 - startups
@@ -8,8 +9,6 @@ tags:
 - programming
 title: Fixing the Inequity of Startup Equity
 ---
-
-From https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e#.87fry2ooz:
 
 >Stock options are valuable compensation for startup employees. The high potential upside of these options motivates employees to turn down larger salaries at bigger companies and work at startups. It seems obvious, then, to expect that employees should own their vested options outright, even if they leave the company. Stock options are compensation for work that’s already been done. Returning them to the company when you leave would be inequitable.
 >

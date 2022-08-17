@@ -1,10 +1,9 @@
 ---
 date: '2017-05-22'
+link: http://blog.dilbert.com/post/160770453201
 tags: null
 title: The end of representative democracy
 ---
-
-From http://blog.dilbert.com/post/160770453201:
 
 Scott Adams:
 

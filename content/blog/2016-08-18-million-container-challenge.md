@@ -1,5 +1,6 @@
 ---
 date: '2016-08-17'
+link: https://www.hashicorp.com/c1m.html
 tags:
 - hashicorp
 - nomad
@@ -12,8 +13,6 @@ tags:
 - docker
 title: Million container challenge
 ---
-
-From https://www.hashicorp.com/c1m.html:
 
 >Cluster schedulers promise us ease of deployment with ultimate scalability. We designed an ambitious challenge to test these promises: schedule one million containers. We call this the Million Container Challenge (C1M).
 >

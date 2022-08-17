@@ -1,11 +1,10 @@
 ---
 date: '2015-09-02'
+link: http://blog.golang.org/go15gc
 tags:
 - golang
 title: 'Go GC: Prioritizing low latency and simplicity'
 ---
-
-From http://blog.golang.org/go15gc:
 
 Go blog:
 

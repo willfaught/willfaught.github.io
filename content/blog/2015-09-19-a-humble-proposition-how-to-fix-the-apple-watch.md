@@ -1,12 +1,11 @@
 ---
 date: '2015-09-19'
+link: https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html
 tags:
 - apple
 - watch
 title: 'A Humble Proposition: How to Fix the Apple Watch'
 ---
-
-From https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html:
 
 David Pogue on the shortcomings of the Apple Watch:
 

@@ -1,11 +1,10 @@
 ---
 date: '2015-07-19'
+link: https://medium.com/@adamnash/it-s-time-to-kill-the-monthly-fee-for-small-accounts-51d37177bfe7
 tags:
 - finance
 title: It’s Time to Kill the Monthly Fee for Small Accounts
 ---
-
-From https://medium.com/@adamnash/it-s-time-to-kill-the-monthly-fee-for-small-accounts-51d37177bfe7:
 
 Adam Nash:
 

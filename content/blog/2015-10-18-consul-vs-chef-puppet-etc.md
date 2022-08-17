@@ -1,5 +1,6 @@
 ---
 date: '2015-10-17'
+link: https://www.consul.io/intro/vs/chef-puppet.html
 tags:
 - hashicorp
 - consul
@@ -7,8 +8,6 @@ tags:
 - puppet
 title: Consul vs. Chef, Puppet, etc.
 ---
-
-From https://www.consul.io/intro/vs/chef-puppet.html:
 
 HashiCorp on Consul versus Chef, Puppet, etc.:
 

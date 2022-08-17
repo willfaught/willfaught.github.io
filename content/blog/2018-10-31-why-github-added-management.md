@@ -1,13 +1,12 @@
 ---
 date: '2018-10-30'
+link: https://www.theglobeandmail.com/report-on-business/small-business/startups/why-github-finally-abandoned-its-bossless-workplace/article31718152/
 tags:
 - coding
 - management
 - holacracy
 title: Why GitHub added management
 ---
-
-From https://www.theglobeandmail.com/report-on-business/small-business/startups/why-github-finally-abandoned-its-bossless-workplace/article31718152/:
 
 Melissa Mittelman on why GitHub added management to its workforce:
 

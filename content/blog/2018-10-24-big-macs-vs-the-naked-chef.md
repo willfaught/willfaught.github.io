@@ -1,12 +1,11 @@
 ---
 date: '2018-10-24'
+link: https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/
 tags:
 - coding
 - agile
 title: Big Macs vs. The Naked Chef
 ---
-
-From https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/:
 
 Joel Spolsky:
 

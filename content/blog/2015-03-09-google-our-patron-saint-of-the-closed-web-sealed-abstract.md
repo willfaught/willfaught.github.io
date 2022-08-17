@@ -1,10 +1,9 @@
 ---
 date: '2015-03-09'
+link: http://sealedabstract.com/rants/google-our-patron-saint-of-the-closed-web/
 tags: null
 title: Google, Our Patron Saint of the Closed Web | Sealed Abstract
 ---
-
-From http://sealedabstract.com/rants/google-our-patron-saint-of-the-closed-web/:
 
 Drew Crawford on Google's application for the `.dev` domain:
 

@@ -1,11 +1,10 @@
 ---
 date: '2014-06-08'
+link: http://www.aosabook.org/en/ghc.html
 tags:
 - computing
 title: The Glasgow Haskell Compiler
 ---
-
-From http://www.aosabook.org/en/ghc.html:
 
 An interesting overview of the **Glasgow Haskell Compiler**. I had no idea about some of this stuff.
 

@@ -1,11 +1,10 @@
 ---
 date: '2018-12-10'
+link: https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/
 tags:
 - coding
 title: '"8 Common Mistakes That Get Developers Fired"'
 ---
-
-From https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/:
 
 Andrew McDermott:
 

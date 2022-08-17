@@ -1,13 +1,12 @@
 ---
 date: '2018-10-29'
+link: https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile
 tags:
 - coding
 - agile
 - scrum
 title: The two faces of the agile manifesto
 ---
-
-From https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile:
 
 Robin Message on the mismatch between the parts of the [agile manifesto](http://agilemanifesto.org) concerned with technical craft and those concerned with project management:
 

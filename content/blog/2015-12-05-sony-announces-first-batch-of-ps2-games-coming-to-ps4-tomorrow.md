@@ -1,5 +1,6 @@
 ---
 date: '2015-12-04'
+link: http://m.ign.com/articles/2015/12/04/sony-announces-first-batch-of-ps2-games-coming-to-ps4-tomorrow?utm_source=IGN%20hub%20page&utm_medium=IGN%20(front%20page)&utm_content=26&utm_campaign=Blogroll
 tags:
 - ps4
 - steam
@@ -7,8 +8,6 @@ tags:
 - grand theft auto
 title: Sony Announces First Batch of PS2 Games Coming to PS4 Tomorrow
 ---
-
-From http://m.ign.com/articles/2015/12/04/sony-announces-first-batch-of-ps2-games-coming-to-ps4-tomorrow?utm_source=IGN%20hub%20page&utm_medium=IGN%20(front%20page)&utm_content=26&utm_campaign=Blogroll:
 
 >"I’m excited to announce that starting tomorrow, you will be able to purchase and play PS2 games on your PS4 via PlayStation Store in the Americas and Europe," SCE Worldwide Studios president Shuhei Yoshida said in a post on PlayStation Blog.
 >

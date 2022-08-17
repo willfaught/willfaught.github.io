@@ -1,12 +1,11 @@
 ---
 date: '2015-07-25'
+link: https://medium.com/@blakeross/wealthfront-silicon-valley-tech-at-wall-street-prices-fdd2e5f54905
 tags:
 - finance
 - wealthfront
 title: 'Wealthfront: Silicon Valley Tech at Wall Street Prices'
 ---
-
-From https://medium.com/@blakeross/wealthfront-silicon-valley-tech-at-wall-street-prices-fdd2e5f54905:
 
 Blake Ross:
 

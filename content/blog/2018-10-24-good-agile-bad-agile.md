@@ -1,12 +1,11 @@
 ---
 date: '2018-10-23'
+link: http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html
 tags:
 - coding
 - agile
 title: Good agile, bad agile
 ---
-
-From http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html:
 
 Steve Yegge:
 

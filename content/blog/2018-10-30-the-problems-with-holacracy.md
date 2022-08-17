@@ -1,12 +1,11 @@
 ---
 date: '2018-10-30'
+link: https://medium.com/battle-room/holacracy-and-the-mirage-of-the-boss-less-workplace-lessons-from-the-failures-at-github-medium-4355993926d4
 tags:
 - coding
 - management
 title: The problems with holacracy
 ---
-
-From https://medium.com/battle-room/holacracy-and-the-mirage-of-the-boss-less-workplace-lessons-from-the-failures-at-github-medium-4355993926d4:
 
 Vladimir Oane explains [holacracy](https://en.wikipedia.org/wiki/Holacracy):
 

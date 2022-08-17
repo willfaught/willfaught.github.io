@@ -1,11 +1,10 @@
 ---
 date: '2015-05-26'
+link: http://security.stackexchange.com/questions/83660/simple-string-comparisons-not-secure-against-timing-attacks
 tags:
 - coding
 title: Simple string comparisons not secure against timing attacks
 ---
-
-From http://security.stackexchange.com/questions/83660/simple-string-comparisons-not-secure-against-timing-attacks:
 
 Stack Exchange user cpast explains the security flaw in doing simple string comparisons for passwords and other sensitive information that enables timing attacks:
 

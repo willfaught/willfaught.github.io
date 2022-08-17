@@ -1,12 +1,11 @@
 ---
 date: '2013-05-27'
+link: http://www.anandtech.com/show/6972/xbox-one-hardware-compared-to-playstation-4
 tags:
 - technology
 - playing
 title: 'The Xbox One: Hardware Analysis & Comparison to PlayStation 4'
 ---
-
-From http://www.anandtech.com/show/6972/xbox-one-hardware-compared-to-playstation-4:
 
 An excellent Xbox One hardware and software analysis by Anand Lal Shimpi:
 

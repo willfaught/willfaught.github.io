@@ -1,10 +1,9 @@
 ---
 date: '2012-02-06'
+link: http://www.reelviews.net/php_review_template.php?identifier=2398
 tags:
 - movies
 title: The Girl with the Dragon Tattoo
 ---
-
-From http://www.reelviews.net/php_review_template.php?identifier=2398:
 
 A really well-written review of the 2011 American movie by James Berardinelli.

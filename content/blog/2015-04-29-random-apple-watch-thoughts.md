@@ -1,12 +1,11 @@
 ---
 date: '2015-04-29'
+link: http://www.caseyliss.com/2015/4/12/random-apple-watch-thoughts
 tags:
 - apple
 - watch
 title: Random Apple Watch Thoughts
 ---
-
-From http://www.caseyliss.com/2015/4/12/random-apple-watch-thoughts:
 
 Casey Liss on the Apple Watch:
 

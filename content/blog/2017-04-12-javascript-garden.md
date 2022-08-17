@@ -1,12 +1,11 @@
 ---
 date: '2017-04-12'
+link: http://bonsaiden.github.io/JavaScript-Garden/
 tags:
 - programming
 - javascript
 title: JavaScript Garden
 ---
-
-From http://bonsaiden.github.io/JavaScript-Garden/:
 
 Ivo Wetzel:
 

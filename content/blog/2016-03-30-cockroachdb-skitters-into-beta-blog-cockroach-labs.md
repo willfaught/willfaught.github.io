@@ -1,5 +1,6 @@
 ---
 date: '2016-03-30'
+link: https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/
 tags:
 - cockroach
 - cockroachdb
@@ -8,8 +9,6 @@ tags:
 - newsql
 title: CockroachDB Skitters into Beta | Blog | Cockroach Labs
 ---
-
-From https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/:
 
 I've been looking forward to this. NewSQL seems like the future. NoSQL has impressive strengths, but managing denormalization is a pain in the ass.
 

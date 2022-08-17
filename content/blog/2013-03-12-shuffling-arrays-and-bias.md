@@ -1,11 +1,10 @@
 ---
 date: '2013-03-11'
+link: http://adrianquark.blogspot.com/2008/09/how-to-shuffle-array-correctly.html
 tags:
 - computation
 title: Shuffling arrays and bias
 ---
-
-From http://adrianquark.blogspot.com/2008/09/how-to-shuffle-array-correctly.html:
 
 Adrian Quark proving the Fisher–Yates shuffle is unbiased:
 

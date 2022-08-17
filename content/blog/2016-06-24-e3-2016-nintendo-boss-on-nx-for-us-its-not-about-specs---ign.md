@@ -1,5 +1,6 @@
 ---
 date: '2016-06-24'
+link: http://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs
 tags:
 - gaming
 - games
@@ -14,8 +15,6 @@ tags:
 - teraflops
 title: 'E3 2016: Nintendo Boss on NX: ''For Us, It''s Not About Specs'' - IGN'
 ---
-
-From http://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs:
 
 Alex Osborn, writing for IGN:
 

@@ -1,10 +1,9 @@
 ---
 date: '2015-01-24'
+link: http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
 tags: null
 title: YouTube's onerous new terms for musicians
 ---
-
-From http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube:
 
 Zoe Keating:
 

@@ -1,5 +1,6 @@
 ---
 date: '2016-06-24'
+link: http://iolanguage.org
 tags:
 - io
 - language
@@ -8,7 +9,5 @@ tags:
 - coding
 title: io language
 ---
-
-From http://iolanguage.org:
 
 Io looks like a nifty language.

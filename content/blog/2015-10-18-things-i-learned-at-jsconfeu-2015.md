@@ -1,13 +1,12 @@
 ---
 date: '2015-10-17'
+link: https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe
 tags:
 - jsconf
 - javascript
 - betable
 title: Things I learned at JSConf.eu 2015
 ---
-
-From https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe:
 
 Thor Spieker, fellow Betable engineer, on his experience at JSConf 2015:
 

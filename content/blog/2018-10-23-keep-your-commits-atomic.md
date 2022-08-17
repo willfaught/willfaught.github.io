@@ -1,12 +1,11 @@
 ---
 date: '2018-10-23'
+link: https://www.freshconsulting.com/atomic-commits/
 tags:
 - coding
 - git
 title: Keep your commits atomic
 ---
-
-From https://www.freshconsulting.com/atomic-commits/:
 
 Sean Patterson:
 

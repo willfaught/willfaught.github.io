@@ -1,10 +1,9 @@
 ---
 date: '2017-04-09'
+link: http://www.rhinocarhire.com/Car-Hire-Blog/August-2009/Which-Countries-Drive-on-the-Left,--a-Handy-Guide.aspx
 tags: null
 title: A Guide to Which Countries Drive on The Left
 ---
-
-From http://www.rhinocarhire.com/Car-Hire-Blog/August-2009/Which-Countries-Drive-on-the-Left,--a-Handy-Guide.aspx:
 
 >Most countries which were British colonies still drive on the left hand side of the road including huge land masses such as India, Australia and Southern Africa as well as the Caribbean. Europe generally drives on the right hand side apart from the United Kingdom, Ireland, Malta and Cyprus. Guyana (formerly a British colony) is the only country in South America to drive on the left.
 

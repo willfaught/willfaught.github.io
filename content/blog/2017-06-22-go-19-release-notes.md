@@ -1,13 +1,12 @@
 ---
 date: '2017-06-22'
+link: https://tip.golang.org/doc/go1.9
 tags:
 - go
 - golang
 - '1.9'
 title: Go 1.9 Release Notes
 ---
-
-From https://tip.golang.org/doc/go1.9:
 
 My little suggestion:
 

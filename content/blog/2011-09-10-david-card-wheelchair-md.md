@@ -1,11 +1,10 @@
 ---
 date: '2011-09-09'
+link: http://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php
 tags:
 - interesting
 title: David Card, wheelchair M.D.
 ---
-
-From http://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php:
 
 I just stumbled across a seattlepi.com article about Dr. David Card, who was my primary care doctor in Seattle:
 

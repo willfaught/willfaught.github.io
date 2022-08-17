@@ -1,10 +1,9 @@
 ---
 date: '2014-12-22'
+link: http://cir.ca/s/1xGB
 tags: null
 title: North Korea hit with Internet outage days after being linked to Sony hack
 ---
-
-From http://cir.ca/s/1xGB:
 
 >The hack could cost Sony as much as $100 million, which would go toward the investigation
 

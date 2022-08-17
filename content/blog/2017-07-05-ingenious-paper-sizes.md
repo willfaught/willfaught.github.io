@@ -1,10 +1,9 @@
 ---
 date: '2017-07-04'
+link: https://en.wikipedia.org/wiki/Paper_size
 tags: null
 title: Ingenious paper sizes
 ---
-
-From https://en.wikipedia.org/wiki/Paper_size:
 
 The U.S. uses its own own standard paper sizes: letter, legal, tabloid, and so on. Europe uses an ingenious system:
 

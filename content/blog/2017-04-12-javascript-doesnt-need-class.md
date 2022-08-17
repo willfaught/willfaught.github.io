@@ -1,12 +1,11 @@
 ---
 date: '2017-04-12'
+link: http://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html
 tags:
 - programming
 - javascript
 title: JavaScript Doesn't Need Class
 ---
-
-From http://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html:
 
 Ian Elliot:
 

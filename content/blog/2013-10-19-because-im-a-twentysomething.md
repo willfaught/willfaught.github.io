@@ -1,11 +1,10 @@
 ---
 date: '2013-10-18'
+link: http://todaywasmeaningful.wordpress.com/2013/08/06/because-im-a-twentysomething/
 tags:
 - reading
 title: Because I'm a twentysomething
 ---
-
-From http://todaywasmeaningful.wordpress.com/2013/08/06/because-im-a-twentysomething/:
 
 Jessica at Today Was Meaningful:
 

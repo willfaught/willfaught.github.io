@@ -1,11 +1,10 @@
 ---
 date: '2016-03-18'
+link: http://www.theatlantic.com/business/archive/2015/04/wearing-a-suit-makes-people-think-differently/391802/
 tags:
 - steve jobs
 title: Wearing a Suit Makes You Think Differently
 ---
-
-From http://www.theatlantic.com/business/archive/2015/04/wearing-a-suit-makes-people-think-differently/391802/:
 
 There's a fun little Steve Jobs reference at the end:
 

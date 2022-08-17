@@ -1,13 +1,12 @@
 ---
 date: '2018-10-22'
+link: https://news.ycombinator.com/item?id=17186591
 tags:
 - coding
 - scrum
 - agile
 title: Scrum disempowers developers
 ---
-
-From https://news.ycombinator.com/item?id=17186591:
 
 A reply to someone saying someone else had a bad experience with Scrum because they did Scrum wrong:
 

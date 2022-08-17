@@ -1,12 +1,11 @@
 ---
 date: '2015-06-01'
+link: http://www.amazon.com/gp/aw/cr/0316246654/
 tags:
 - science fiction
 - ancillary sword
 title: Ancillary Sword...and tea
 ---
-
-From http://www.amazon.com/gp/aw/cr/0316246654/:
 
 Neil Hepworth on Amazon reviewed _Ancillary Sword_ :
 

@@ -1,12 +1,11 @@
 ---
 date: '2015-04-16'
+link: http://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp
 tags:
 - insurance
 - money
 title: Is Life Insurance A Smart Investment?
 ---
-
-From http://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp:
 
 Damning of whole life insurance:
 

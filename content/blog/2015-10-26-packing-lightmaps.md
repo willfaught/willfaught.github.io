@@ -1,5 +1,6 @@
 ---
 date: '2015-10-25'
+link: http://www.blackpawn.com/texts/lightmaps/default.html
 tags:
 - coding
 - binpacking
@@ -7,8 +8,6 @@ tags:
 - lightmaps
 title: Packing Lightmaps
 ---
-
-From http://www.blackpawn.com/texts/lightmaps/default.html:
 
 Jim Scott at blackpawn.com:
 

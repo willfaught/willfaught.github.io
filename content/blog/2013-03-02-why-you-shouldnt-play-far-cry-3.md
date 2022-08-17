@@ -1,11 +1,10 @@
 ---
 date: '2013-03-02'
+link: http://www.cracked.com/blog/3-reasons-you-shouldnt-play-best-video-game-year/
 tags:
 - playing
 title: Why you shouldn't play Far Cry 3
 ---
-
-From http://www.cracked.com/blog/3-reasons-you-shouldnt-play-best-video-game-year/:
 
 Packed with funny lines like this:
 

@@ -1,11 +1,10 @@
 ---
 date: '2017-03-16'
+link: https://medium.com/@igorhorst/why-i-left-language-1-for-language-2-1d2fa418cd4c#.7w24d4dst
 tags:
 - programming
 title: Why I Left [Language_1] For [Language_2]
 ---
-
-From https://medium.com/@igorhorst/why-i-left-language-1-for-language-2-1d2fa418cd4c#.7w24d4dst:
 
 Igor Horst:
 

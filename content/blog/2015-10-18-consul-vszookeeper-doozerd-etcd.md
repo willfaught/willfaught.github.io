@@ -1,5 +1,6 @@
 ---
 date: '2015-10-17'
+link: https://www.consul.io/intro/vs/zookeeper.html
 tags:
 - consul
 - zookeeper
@@ -7,8 +8,6 @@ tags:
 - hashicorp
 title: Consul vs. ZooKeeper, doozerd, etcd
 ---
-
-From https://www.consul.io/intro/vs/zookeeper.html:
 
 HashiCorp on Consul versus ZooKeeper, doozerd, and etcd:
 

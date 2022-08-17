@@ -1,12 +1,11 @@
 ---
 date: '2011-05-26'
+link: http://paulgraham.com/start.html
 tags:
 - computation
 - interesting
 title: How to Start a Startup
 ---
-
-From http://paulgraham.com/start.html:
 
 Paul Graham:
 

@@ -1,12 +1,11 @@
 ---
 date: '2011-07-26'
+link: http://www.newyorker.com/talk/financial/2011/08/01/110801ta_talk_surowiecki
 tags:
 - interesting
 - opinions
 title: Smash the Ceiling
 ---
-
-From http://www.newyorker.com/talk/financial/2011/08/01/110801ta_talk_surowiecki:
 
 James Surowiecki:
 

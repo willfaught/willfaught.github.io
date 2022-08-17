@@ -1,11 +1,10 @@
 ---
 date: '2016-02-25'
+link: http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 tags:
 - coding
 title: The Wrong Abstraction
 ---
-
-From http://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction:
 
 Great tip from Sandi Metz on how abstractions can worsen code:
 

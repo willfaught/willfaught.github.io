@@ -1,13 +1,12 @@
 ---
 date: '2017-04-10'
+link: http://walkercoderanger.com/blog/2014/02/javascript-minefield/
 tags:
 - programming
 - javascript
 - golang
 title: The JavaScript Minefield
 ---
-
-From http://walkercoderanger.com/blog/2014/02/javascript-minefield/:
 
 Jeff Walker:
 

@@ -1,11 +1,10 @@
 ---
 date: '2012-10-23'
+link: http://www.marco.org/2012/03/07/which-ipad-3-should-i-get
 tags:
 - technology
 title: Is AppleCare worth it?
 ---
-
-From http://www.marco.org/2012/03/07/which-ipad-3-should-i-get:
 
 Marco Arment:
 

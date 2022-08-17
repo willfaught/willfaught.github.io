@@ -1,11 +1,10 @@
 ---
 date: '2014-06-18'
+link: http://daringfireball.net/2014/06/only_apple
 tags:
 - technology
 title: 'Daring Fireball: Only Apple'
 ---
-
-From http://daringfireball.net/2014/06/only_apple:
 
 John Gruber:
 

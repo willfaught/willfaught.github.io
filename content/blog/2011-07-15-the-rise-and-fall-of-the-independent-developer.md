@@ -1,12 +1,11 @@
 ---
 date: '2011-07-15'
+link: http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/
 tags:
 - computation
 - interesting
 title: The Rise and Fall of the Independent Developer
 ---
-
-From http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/:
 
 Rings true to me:
 

@@ -1,10 +1,9 @@
 ---
 date: '2016-02-17'
+link: http://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html
 tags: null
 title: Sullivan Ballou Letter
 ---
-
-From http://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html:
 
 A beautiful and heartfelt letter from a Civil War soldier to his wife shortly before his death:
 

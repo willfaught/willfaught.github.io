@@ -1,5 +1,6 @@
 ---
 date: '2016-07-12'
+link: https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/
 tags:
 - apple
 - icloud
@@ -8,8 +9,6 @@ tags:
 - verification
 title: Switching to Apple's two-factor authentication
 ---
-
-From https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/:
 
 Dan Moren, writing for Six Colors:
 

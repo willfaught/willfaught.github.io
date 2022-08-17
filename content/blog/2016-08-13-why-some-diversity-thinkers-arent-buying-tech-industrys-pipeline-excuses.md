@@ -1,5 +1,6 @@
 ---
 date: '2016-08-13'
+link: http://www.npr.org/sections/alltechconsidered/2016/07/19/486511816/why-some-diversity-thinkers-arent-buying-the-tech-industrys-excuses?sc=17&f=1019&utm_source=iosnewsapp&utm_medium=Email&utm_campaign=app
 tags:
 - technology
 - programming
@@ -14,8 +15,6 @@ tags:
 - tech
 title: Why Some Diversity Thinkers Aren't Buying Tech Industry's 'Pipeline' Excuses
 ---
-
-From http://www.npr.org/sections/alltechconsidered/2016/07/19/486511816/why-some-diversity-thinkers-arent-buying-the-tech-industrys-excuses?sc=17&f=1019&utm_source=iosnewsapp&utm_medium=Email&utm_campaign=app:
 
 “Diversity thinkers”? Who comes up with that terminology?
 

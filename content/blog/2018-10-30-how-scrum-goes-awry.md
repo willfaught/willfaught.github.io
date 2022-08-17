@@ -1,13 +1,12 @@
 ---
 date: '2018-10-29'
+link: https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile
 tags:
 - coding
 - agile
 - scrum
 title: How Scrum goes awry
 ---
-
-From https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile:
 
 Robin Message on how Scrum goes awry:
 

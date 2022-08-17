@@ -1,12 +1,11 @@
 ---
 date: '2015-04-23'
+link: http://www.evanmiller.org/four-days-of-go.html
 tags:
 - coding
 - golang
 title: Four Days of Go
 ---
-
-From http://www.evanmiller.org/four-days-of-go.html:
 
 A funny and perceptive take on the Go programming language and the Go team.
 

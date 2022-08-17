@@ -1,11 +1,10 @@
 ---
 date: '2014-05-03'
+link: http://www.w3.org/Provider/Style/URI.html
 tags:
 - computing
 title: Cool URIs don't change
 ---
-
-From http://www.w3.org/Provider/Style/URI.html:
 
 Tim Berners-Lee:
 

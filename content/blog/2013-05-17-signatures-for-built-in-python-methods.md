@@ -1,11 +1,10 @@
 ---
 date: '2013-05-16'
+link: http://mail.python.org/pipermail/python-list/2012-June/624923.html
 tags:
 - computation
 title: Signatures for built-in Python methods
 ---
-
-From http://mail.python.org/pipermail/python-list/2012-June/624923.html:
 
 Ian Kelly:
 

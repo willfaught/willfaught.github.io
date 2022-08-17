@@ -1,5 +1,6 @@
 ---
 date: '2016-04-07'
+link: https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug
 tags:
 - smartphone
 - hardware
@@ -7,8 +8,6 @@ tags:
 - modular
 title: 'Smartphones Are Boring: Here’s What Happens Next'
 ---
-
-From https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug:
 
 Joanna Stern, writing for the Wall Street Journal:
 

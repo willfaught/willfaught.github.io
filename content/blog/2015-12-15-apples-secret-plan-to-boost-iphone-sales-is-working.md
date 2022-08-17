@@ -1,13 +1,12 @@
 ---
 date: '2015-12-15'
+link: http://fortune.com/2015/12/15/apple-iphone-upgrade-program/
 tags:
 - iphone
 - upgrade
 - applecare
 title: Apple's Secret Plan to Boost iPhone Sales is Working
 ---
-
-From http://fortune.com/2015/12/15/apple-iphone-upgrade-program/:
 
 Philip Elmer-DeWitt writing for Fortune:
 

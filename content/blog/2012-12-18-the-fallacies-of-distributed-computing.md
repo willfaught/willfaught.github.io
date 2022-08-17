@@ -1,11 +1,10 @@
 ---
 date: '2012-12-17'
+link: http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
 tags:
 - computation
 title: The fallacies of distributed computing
 ---
-
-From http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing:
 
 >1. The network is reliable.
 >2. Latency is zero.

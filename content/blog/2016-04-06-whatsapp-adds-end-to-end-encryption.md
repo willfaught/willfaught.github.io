@@ -1,12 +1,11 @@
 ---
 date: '2016-04-05'
+link: https://blog.whatsapp.com/10000618/end-to-end-encryption
 tags:
 - whatsapp
 - encryption
 title: WhatsApp adds end-to-end encryption
 ---
-
-From https://blog.whatsapp.com/10000618/end-to-end-encryption:
 
 WhatsApp:
 

@@ -1,12 +1,11 @@
 ---
 date: '2015-11-19'
+link: http://yager.io/programming/go.html
 tags:
 - golang
 - programming
 title: 'Why Go Is Not Good :: Will Yager'
 ---
-
-From http://yager.io/programming/go.html:
 
 Will Yager on Golang:
 

@@ -1,13 +1,12 @@
 ---
 date: '2016-03-18'
+link: https://medium.com/@MikePosner/i-took-a-pill-in-ibiza-2f7de1406c6d#.xi2v8fulw
 tags:
 - mike posner
 - ibiza
 - lyrics
 title: I Took a Pill in Ibiza
 ---
-
-From https://medium.com/@MikePosner/i-took-a-pill-in-ibiza-2f7de1406c6d#.xi2v8fulw:
 
 Mike Posner on the popularity of the remix of his song *I Took a Pill in Ibiza*:
 

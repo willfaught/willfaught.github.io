@@ -1,13 +1,12 @@
 ---
 date: '2016-12-06'
+link: https://vorpus.org/blog/why-does-calloc-exist/
 tags:
 - programming
 - c
 - calloc
 title: Why does calloc exist?
 ---
-
-From https://vorpus.org/blog/why-does-calloc-exist/:
 
 Nathaniel J. Smith on the purpose of calloc:
 

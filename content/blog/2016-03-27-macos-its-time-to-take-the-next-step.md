@@ -1,5 +1,6 @@
 ---
 date: '2016-03-26'
+link: https://blog.prototypr.io/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.my414arfi
 tags:
 - apple
 - os x
@@ -9,8 +10,6 @@ tags:
 - filesystems
 title: 'macOS: It’s time to take the next step'
 ---
-
-From https://blog.prototypr.io/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.my414arfi:
 
 Andrew Ambrosino hits the nail on the head:
 

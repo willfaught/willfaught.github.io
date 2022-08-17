@@ -1,5 +1,6 @@
 ---
 date: '2016-04-20'
+link: http://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html
 tags:
 - programming
 - ideas
@@ -9,8 +10,6 @@ tags:
 - languages
 title: Frighteningly Ambitious Programming Language Ideas
 ---
-
-From http://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html:
 
 Jon Purdy:
 

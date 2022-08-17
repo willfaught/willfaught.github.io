@@ -1,11 +1,10 @@
 ---
 date: '2015-05-26'
+link: http://dave.cheney.net/2015/05/22/struct-composition-with-go?utm_source=golangweekly&utm_medium=email
 tags:
 - golang
 title: Struct composition with Go
 ---
-
-From http://dave.cheney.net/2015/05/22/struct-composition-with-go?utm_source=golangweekly&utm_medium=email:
 
 Dave Cheney on bridging from one Golang interface to another:
 

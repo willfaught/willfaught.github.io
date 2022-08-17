@@ -1,13 +1,12 @@
 ---
 date: '2015-04-21'
+link: https://www.eff.org/issues/tpp
 tags:
 - eff
 - tpp
 - congress
 title: Trans-Pacific Partnership Agreement
 ---
-
-From https://www.eff.org/issues/tpp:
 
 Electronic Frontier Foundation:
 

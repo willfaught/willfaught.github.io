@@ -1,12 +1,11 @@
 ---
 date: '2018-11-02'
+link: https://web.archive.org/web/20120211164647/https://michaelochurch.wordpress.com/2012/01/26/the-trajectory-of-a-software-engineer-and-where-it-all-goes-wrong/
 tags:
 - coding
 - management
 title: The math of software engineer contributions
 ---
-
-From https://web.archive.org/web/20120211164647/https://michaelochurch.wordpress.com/2012/01/26/the-trajectory-of-a-software-engineer-and-where-it-all-goes-wrong/:
 
 Michael Church on the "math" of software engineer contributions in an organization:
 

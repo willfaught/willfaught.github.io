@@ -1,11 +1,10 @@
 ---
 date: '2015-07-31'
+link: http://www.cnbc.com/2014/01/31/-advice-for-a-rocky-market-follow-ben-franklin.html
 tags:
 - finance
 title: 'Jack Bogle''s advice for a rocky market: Follow Ben Franklin'
 ---
-
-From http://www.cnbc.com/2014/01/31/-advice-for-a-rocky-market-follow-ben-franklin.html:
 
 Jack Bogle:
 

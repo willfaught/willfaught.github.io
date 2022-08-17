@@ -1,13 +1,12 @@
 ---
 date: '2011-06-07'
+link: http://ps3.ign.com/articles/117/1173370p1.html
 tags:
 - games
 - quotations
 - opinions
 title: Recipe for Rebooting Tomb Raider
 ---
-
-From http://ps3.ign.com/articles/117/1173370p1.html:
 
 >So what steps is Crystal Dynamics [the game maker] taking to reinvent Tomb Raider? 
 >

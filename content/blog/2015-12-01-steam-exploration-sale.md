@@ -1,5 +1,6 @@
 ---
 date: '2015-11-30'
+link: http://store.steampowered.com
 tags:
 - steam
 - gaming
@@ -7,8 +8,6 @@ tags:
 - games
 title: Steam Exploration Sale
 ---
-
-From http://store.steampowered.com:
 
 It’s that time of the year again. Hide your wallets! I picked up: 
 

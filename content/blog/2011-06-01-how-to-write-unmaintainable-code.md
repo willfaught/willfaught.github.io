@@ -1,12 +1,11 @@
 ---
 date: '2011-05-31'
+link: http://www.thc.org/root/phun/unmaintain.html
 tags:
 - funny
 - computation
 title: How To Write Unmaintainable Code
 ---
-
-From http://www.thc.org/root/phun/unmaintain.html:
 
 Insidious and hilarious stuff:
 

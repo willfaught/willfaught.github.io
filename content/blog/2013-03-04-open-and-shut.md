@@ -1,11 +1,10 @@
 ---
 date: '2013-03-04'
+link: http://daringfireball.net/2013/03/open_and_shut
 tags:
 - technology
 title: Open and Shut
 ---
-
-From http://daringfireball.net/2013/03/open_and_shut:
 
 John Gruber:
 

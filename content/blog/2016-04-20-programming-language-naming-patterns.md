@@ -1,5 +1,6 @@
 ---
 date: '2016-04-20'
+link: http://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns
 tags:
 - programming
 - names
@@ -8,8 +9,6 @@ tags:
 - forth
 title: Programming Language Naming Patterns
 ---
-
-From http://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns:
 
 On the classification of programming language names:
 

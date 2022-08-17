@@ -1,5 +1,6 @@
 ---
 date: '2016-04-05'
+link: http://wolfstreet.com/2016/02/25/bust-royale-for-insane-san-francisco-silicon-valley-housing-markets/
 tags:
 - tech
 - san francisco
@@ -8,8 +9,6 @@ tags:
 title: This Will Crush the Insane San Francisco & Silicon Valley Housing Bubble |
   Wolf Street
 ---
-
-From http://wolfstreet.com/2016/02/25/bust-royale-for-insane-san-francisco-silicon-valley-housing-markets/:
 
 >Venture capital is getting nervous. And the flood of new money has become a trickle. As money dries up, startups have to tighten their belts and lower their burn rates in order to live another day. In the process, big hiring plans are shelved.
 >
