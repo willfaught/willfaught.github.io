@@ -1,4 +1,5 @@
 baseurl: https://www.willfaught.com/
+copyright: "&copy; Will Faught"
 languagecode: en-us
 markup:
   highlight:
