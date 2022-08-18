@@ -1,15 +1,15 @@
-baseURL: "https://www.willfaught.com/"
-languageCode: "en-us"
+baseURL: https://www.willfaught.com/
+languageCode: en-us
 markup:
   highlight:
     style: vs
 paginate: 50
 params:
-  description: "Thoughts on life, the world, and programming. Please donate to my relief fund."
+  description: Thoughts on life, the world, and programming. Please donate to my relief fund.
   # TODO: images:
   # TODO: - foo.jpg
-  title: "Will Do"
+  title: Will Do
 permalinks:
   blog: /blog/:year/:month/:day/:title/
-theme: "lithe"
-title: "Will Do"
+theme: lithe
+title: Will Do
