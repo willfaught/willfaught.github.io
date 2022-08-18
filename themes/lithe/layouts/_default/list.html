@@ -40,11 +40,12 @@
         </section>
         {{ end }}
         {{ if .Pages }}
+        {{ $p := .Paginate (.Pages.ByDate.Reverse.GroupByDate "January 2006") }}
         <section>
             <div class="row">
                 <div class="col">
                     <div class="mx-auto text-center" style="max-width:100ch">
-                        {{ range (.Paginate (.Pages.ByDate.Reverse.GroupByDate "January 2006")).PageGroups }}
+                        {{ range $p.PageGroups }}
                         <h6><p>{{ .Key }}</p></h6>
                         {{ range .Pages }}
                         <p>
@@ -60,6 +61,7 @@
                 </div>
             </div>
         </section>
+        {{ if $p.HasNext }}
         <footer>
             <div class="row">
                 <div class="col">
@@ -69,6 +71,7 @@
                 </div>
             </div>
         </footer>
+        {{ end }}
         {{ end }}
     </div>
 </section>
