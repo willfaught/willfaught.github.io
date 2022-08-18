@@ -10,25 +10,25 @@ title: "Better Error Handling in Go"
 
 In Java, methods can fail by declaring that they can throw an exception, and then throwing an exception:
 
-{{< highlight "java" >}}
+```java
 void a() throws Exception {
     throw new Exception("s");
 }
-{{< /highlight >}}
+```
 
 Callers must check for thrown exceptions by explicitly trying to catch them:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
     // ...
 }
-{{< /highlight >}}
+```
 
 Callers can specify code that finally runs after the "try" and "catch" clauses run:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
@@ -36,13 +36,13 @@ try {
 } finally {
     // ...
 }
-{{< /highlight >}}
+```
 
 Code in the "finally" clause may throw an exception, which overrides any exception thrown by the "catch" clause.
 
 Callers can distinguish between different kinds of exceptions:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
@@ -52,31 +52,31 @@ try {
         // ...
     }
 }
-{{< /highlight >}}
+```
 
 Callers can compose and decompose exceptions:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
     throw new Exception("a: " + e.getMessage(), e);
 }
-{{< /highlight >}}
+```
 
 Sometimes, a caller can't usefully handle an exception, so it throws it to its caller:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
     throw e;
 }
-{{< /highlight >}}
+```
 
 Where exceptions are thrown extensively, but can't be handled usefully, catching exceptions can be a chore:
 
-{{< highlight "java" >}}
+```java
 try {
     a();
 } catch (Exception e) {
@@ -92,19 +92,19 @@ try {
 } catch (Exception e) {
     throw e;
 }
-{{< /highlight >}}
+```
 
 Many calls, especially in programs that perform lots of I/O, can't usefully handle an exception, and are thereby mired in try/catch boilerplate code, which can be tedious and error-prone to write, and can clutter and obscure the rest of the code.
 
 Fortunately, a method can declare that it too can throw an exception, and default exception handling automatically throws an uncaught exception to its caller:
 
-{{< highlight "java" >}}
+```java
 void x() throws Exception {
     a();
     b();
     c();
 }
-{{< /highlight >}}
+```
 
 When an exception is thrown, control flow jumps to the nearest encompassing try/catch statement in the call chain (I'm simplifying). Any intermediate calls in the call chain not made inside a try statement are skipped entirely (I'm simplifying). Debugging shows the same behavior.
 
