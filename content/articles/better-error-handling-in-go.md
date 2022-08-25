@@ -2,6 +2,7 @@
 categories: ["code"]
 date: 2022-08-17T16:49:07-07:00
 description: "A design that removes boilerplate code for error and context handling"
+draft: true
 tags: ["go"]
 title: "Default Error And Context Handling For Go"
 ---
