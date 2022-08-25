@@ -6,9 +6,21 @@ tags: ["go"]
 title: "Default Error And Context Handling For Go"
 ---
 
-In 2018, [Russ Cox](https://github.com/rsc), technical lead for the Go Team, [proposed](https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md) a new way to handle errors in Go:
+In 2018, [Russ Cox](https://github.com/rsc), technical leader for the Go Team, [proposed](https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md) a new way to handle errors in Go:
 
 >One way that Go programs fail to scale well is in the writing of error-checking and error-handling code. In general Go programs have too much code checking errors and not enough code handling them. (This will be illustrated below.) The draft design aims to address this problem by introducing lighter-weight syntax for error checks than the current idiomatic assignment-and-if-statement combination.
+
+The design was [rejected](https://github.com/golang/go/wiki/Go2ErrorHandlingFeedback) by the community.
+
+In 2019, [Robert Griesemer](https://github.com/griesemer), member of the Go Team, [proposed](https://github.com/golang/go/issues/32437) another new way to handle errors in Go:
+
+>We propose a new built-in function called `try`, designed specifically to eliminate the boilerplate `if` statements typically associated with error handling in Go. No other language changes are suggested. We advocate using the existing `defer` statement and standard library functions to help with augmenting or wrapping of errors. This minimal approach addresses most common scenarios while adding very little complexity to the language. The `try` built-in is easy to explain, straightforward to implement, orthogonal to other language constructs, and fully backward-compatible. It also leaves open a path to extending the mechanism, should we wish to do so in the future.
+
+Robert [decided](https://github.com/golang/go/issues/32437#issuecomment-512035919) to withdraw the proposal after some negative feedback from the community:
+
+>As far as technical feedback, this discussion has helpfully identified some important considerations we missed, most notably the implications for adding debugging prints and analyzing code coverage.
+>
+>More importantly, we have heard clearly the many people who argued that this proposal was not targeting a worthwhile problem. We still believe that error handling in Go is not perfect and can be meaningfully improved, but it is clear that we as a community need to talk more about what specific aspects of error handling are problems that we should address.
 
 While the particulars of that design were rejected, I agree that the problem he identified is real, and worth solving. I describe a design below that I've been turning over in my head since then.
 
@@ -205,9 +217,42 @@ func x() error {
 }
 ```
 
-### 
+### Summary
 
-##### Default error handling
+In effect, Go already has the equivalent of Java's throw/try/catch/finally functionality:
+
+```go
+defer f() // finally
+err := a() // try
+if err != nil { // catch
+    return err // throw
+```
+
+Go doesn't need new language features to do these things. Like Java's exceptions, Go's errors are normal values. Unlike Java's special exception handling syntax and semantics, Go's error handling syntax and semantics isn't special; it's normal Go code: ifs, returns, comparisons, type assertions, and so on.
+
+However, Java has default handling and assertions for exceptions, and Go doesn't have comparable things for errors, resulting in lots of boilerplate error handling code. Try and assert calls enable these things in a backward-compatible way that works with existing and new code. They add little clutter to the syntax. They appear close to the function value in a call expression, making it clear how the call works. Their behavior is simple and obvious and similar to exceptions in popular, successful languages like Java or Python.
+
+### Infection of explicit values
+
+Error handling is threading error values up through a stack of function calls, and sometimes inspecting and manipulating them. If one function far down the call stack gives an error that can't be handled there, it should be passed up the stack, and so every intermediate function should also handle errors. Error conditions, reporting, and handling are such ubiquitous concerns that they span many problem domains and code designs. In a sense, errors "infect" code, spreading from function signature to function signature, worming their way into, and inhabiting, most code; they're "cancerous". Code is supposed to proceed in lockstep with error values, checking for non-nil errors at every opportunity to stop, clean up, and return.
+
+There is another type like this: contexts. Context handling is threading context values through a tree of function calls, sometimes inspecting and manipulating them. If one function far up the call stack takes a context, it should be passed down the stack, and so every intermediate function should also handle contexts. Context state, cancellation, and handling are such ubiquitous concerns that they span many problem domains and code designs. In a sense, contexts "infect" code, spreading from function signature to function signature, worming their way into, and inhabiting, most code; they're "cancerous". Code is supposed to proceed in lockstep with the context, checking for cancellation at every opportunity to stop, clean up, and return.
+
+Errors and contexts are two sides of the same coin: threading and handling values up and down the call stack.
+
+We find ourselves in a place where, in the general case, functions' first parameter is a context, and last result is an error:
+
+```go
+func(context.Context, ...) (..., error)
+```
+
+Like with errors, many functions can't usefully handle a context they're given, only pass it along to callees.
+
+Having to explicitly include these parameters and results, and thread the values down and up through the call chain, is often boilerplate that is tedious to read and to write, and can clutter and obscure the rest of the code.
+
+## The solution
+
+### Default error handling
 
 Default error handling can be enabled by a `?` operator in a call, which is called a **try call**:
 
@@ -347,38 +392,7 @@ Try/catch syntax with keywords would be more consistent with return syntax in te
 
 Not necessarily. There have been many discussions about improving Go's error handling, so much so that the Go Team proposed a solution among its first round of Go 2 proposals. Go just added lots of new syntax and semantics for generics, because it was determined to be an important feature, where the pros out-weighed the cons. You have to make the same judgement here, weighing the pros and cons.
 
-##### Summary
-
-In effect, Go already has the equivalent of Java's throw/try/catch/finally functionality:
-
-```go
-defer f() // finally
-err := a() // try
-if err != nil { // catch
-    return err // throw
-```
-
-Go doesn't need new language features to do these things. Like Java's exceptions, Go's errors are normal values. Unlike Java's special exception handling syntax and semantics, Go's error handling syntax and semantics isn't special; it's normal Go code: ifs, returns, comparisons, type assertions, and so on.
-
-However, Java has default handling and assertions for exceptions, and Go doesn't have comparable things for errors, resulting in lots of boilerplate error handling code. Try and assert calls enable these things in a backward-compatible way that works with existing and new code. They add little clutter to the syntax. They appear close to the function value in a call expression, making it clear how the call works. Their behavior is simple and obvious and similar to exceptions in popular, successful languages like Java or Python.
-
-##### How deep the rabbit hole goes
-
-Error handling is threading error values up through a stack of function calls, and sometimes inspecting and manipulating them. If one function far down the call stack gives an error that can't be handled there, it should be passed up the stack, and so every intermediate function should also handle errors. Error conditions, reporting, and handling are such ubiquitous concerns that they span many problem domains and code designs. In a sense, errors "infect" code, spreading from function signature to function signature, worming their way into, and inhabiting, most code; they're "cancerous". Code is supposed to proceed in lockstep with error values, checking for non-nil errors at every opportunity to stop, clean up, and return.
-
-There is another type like this: contexts. Context handling is threading context values through a tree of function calls, sometimes inspecting and manipulating them. If one function far up the call stack takes a context, it should be passed down the stack, and so every intermediate function should also handle contexts. Context state, cancellation, and handling are such ubiquitous concerns that they span many problem domains and code designs. In a sense, contexts "infect" code, spreading from function signature to function signature, worming their way into, and inhabiting, most code; they're "cancerous". Code is supposed to proceed in lockstep with the context, checking for cancellation at every opportunity to stop, clean up, and return.
-
-Errors and contexts are two sides of the same coin: threading and handling values up and down the call stack.
-
-We find ourselves in a place where, in the general case, functions' first parameter is a context, and last result is an error:
-
-```go
-func(context.Context, ...) (..., error)
-```
-
-Like with errors, many functions can't usefully handle a context they're given, only pass it along to callees.
-
-Having to explicitly include these parameters and results, and thread the values down and up through the call chain, is often boilerplate that is tedious to read and to write, and can clutter and obscure the rest of the code.
+# TODO snipped intro
 
 Since Go isn't geared for functional programming, monads and the like are off the table, which leaves implicit state. In this approach, every function has an implicit first parameter for a context and an implicit last result for an error. A function call uses the caller's context as the callee's context, and a function return handles the callee's error result, causing the caller to return the error immediately for a non-nil value, along with zero values for the other results.
 
