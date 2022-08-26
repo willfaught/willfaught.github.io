@@ -3,6 +3,9 @@ copyright: "&copy; Will Faught"
 languagecode: en-us
 enablerobotstxt: true
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   highlight:
     style: vs
 paginate: 50
