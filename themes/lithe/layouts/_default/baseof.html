@@ -26,6 +26,19 @@
             blockquote p:last-of-type {
                 margin-bottom: 0;
             }
+            html {
+                height: 100%;
+            }
+            .egg {
+                bottom: 0.5rem;
+                display: none; /* TODO */
+                position: absolute;
+                right: 0.5rem;
+            }
+            .egg a {
+                color: gainsboro;
+                text-decoration: none;
+            }
         </style>
     </head>    
     <body>
@@ -57,6 +70,7 @@
                 </div>
             </div>
         </footer>
+        <div class="egg"><a href="{{ ref . `pi.html` }}">&pi;</a></div>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
         {{ if .Site.GoogleAnalytics }}
         {{ template "_internal/google_analytics.html" . }}
