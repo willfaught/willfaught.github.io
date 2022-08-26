@@ -3,6 +3,7 @@ categories: []
 date: {{ .Date }}
 description: ""
 draft: true
+keywords: []
 link: ""
 series: []
 tags: []
