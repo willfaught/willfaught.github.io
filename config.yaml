@@ -13,7 +13,6 @@ params:
   description: Thoughts on life, the world, and programming. Please donate to my relief fund.
   # TODO: images:
   # TODO: - foo.jpg
-  title: Will Do
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 theme: lithe
