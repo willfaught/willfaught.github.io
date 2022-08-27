@@ -2,8 +2,8 @@
 <div class="container">
     <div class="row">
         <div class="col text-center">
-            <p class="display-1">{{ .Site.Title }}</p>
-            <p class="lead">{{ .Site.Params.description }}</p>
+            <p class="display-1">{{ .Site.Title | markdownify }}</p>
+            <p class="lead">{{ .Site.Params.description | markdownify }}</p>
         </div>
     </div>
     <div class="row">
