@@ -10,7 +10,7 @@ markup:
     style: vs
 paginate: 50
 params:
-  description: Thoughts on life, the world, and programming. Please donate to my relief fund.
+  description: Thoughts on code, life, and the world. Please donate to my relief fund.
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 theme: lithe
