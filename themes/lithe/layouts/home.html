@@ -1,8 +1,9 @@
 {{ define "main" }}
 <div class="container">
     <div class="row">
-        <div class="col d-flex justify-content-center">
+        <div class="col text-center">
             <p class="display-1">{{ .Site.Title }}</p>
+            <p class="lead">{{ .Site.Params.description }}</p>
         </div>
     </div>
     <div class="row">
