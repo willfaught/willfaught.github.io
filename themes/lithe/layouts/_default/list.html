@@ -1,31 +1,27 @@
 {{ define "main" }}
-{{ if not (or .Title .Description .Date .Content .Pages) }}
-<p class="display-5 text-center">Nothing Here</p>
+{{ if not (or .Title .Description .Content .Pages) }}
+<p class="display-5 fw-bold text-center">Nothing Here</p>
 {{ else }}
 <section>
     <div class="container">
         {{ if or .Title .Description }}
-        <header class="text-center">
-            {{ if .Title }}
-            <div class="row">
+        <header>
+            <div class="row text-center">
                 <div class="col">
-                    <p class="display-5 mx-auto" style="max-width:100ch">
+                    {{ if .Title }}
+                    <p class="display-5 fw-bold" style="max-width:100ch">
                         {{ if .Params.link }}
                         <a href="{{ .Params.link }}">{{ .Title | markdownify }}</a>
                         {{ else }}
                         {{ .Title | markdownify }}
                         {{ end }}
                     </p>
+                    {{ end }}
+                    {{ if .Description }}
+                    <p class="lead" style="max-width:100ch">{{ .Description | markdownify }}</p>
+                    {{ end }}
                 </div>
             </div>
-            {{ end }}
-            {{ if .Description }}
-            <div class="row">
-                <div class="col">
-                    <p class="lead mx-auto" style="max-width:100ch">{{ .Description | markdownify }}</p>
-                </div>
-            </div>
-            {{ end }}
         </header>
         {{ end }}
         {{ if .Content }}
@@ -46,7 +42,7 @@
                 <div class="col">
                     <div class="mx-auto text-center" style="max-width:100ch">
                         {{ range $p.PageGroups }}
-                        <h6><p>{{ .Key }}</p></h6>
+                        <h5><p>{{ .Key }}</p></h5>
                         {{ range .Pages }}
                         <p>
                             <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
@@ -61,12 +57,12 @@
                 </div>
             </div>
         </section>
-        {{ if $p.HasNext }}
+        {{ if or $p.HasPrev $p.HasNext }}
         <footer>
             <div class="row">
                 <div class="col">
-                    <div class="d-flex justify-content-center mb-3 mt-4">
-                        {{ template "_internal/pagination.html" . }}
+                    <div class="d-flex justify-content-center pt-3">
+                        {{ template "partials/pagination.html" . }}
                     </div>
                 </div>
             </div>

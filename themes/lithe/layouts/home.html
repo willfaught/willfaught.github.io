@@ -1,28 +1,49 @@
 {{ define "main" }}
+{{ if or .Site.Title .Site.Params.description }}
 <div class="container">
-    <div class="row">
-        <div class="col text-center">
-            <p class="display-1">{{ .Site.Title | markdownify }}</p>
+    <div class="row text-center">
+        <div class="col">
+            {{ if .Site.Title }}
+            <p class="display-1 fw-bold">{{ .Site.Title | markdownify }}</p>
+            {{ end }}
+            {{ if .Site.Params.description }}
             <p class="lead">{{ .Site.Params.description | markdownify }}</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col text-center">
-            <p>You can find me here too:</p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col text-center">
-            <p>
-                <a href="https://github.com/willfaught">GitHub</a><br/>
-                <a href="https://www.linkedin.com/in/willfaught">LinkedIn</a>
-            </p>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col text-center">
-            <p>In addition to the menu, you can also explore pages by <a href="{{ ref . `/categories/` }}">category</a> or <a href="{{ ref . `/tags/` }}">tag</a>.</p>
+            {{ end }}
         </div>
     </div>
 </div>
+{{ end }}
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <div class="my-3 rounded-4" style="background-image: url('/cover.jpg'); background-position: center; background-size: cover; height: 20rem; max-width: 100%"></div>
+        </div>
+    </div>
+</div>
+<div class="container py-3">
+    <div class="d-flex justify-content-center row">
+        <div class="col-12 col-xl-10">
+            <div class="d-flex justify-content-evenly align-items-center row">
+                <div class="col-12 col-md-6">
+                    <p class="display-5 fw-bold lh-1">Hi, there! I&rsquo;m Will.</p>
+                    <p class="lead">I live in California, where I grew up. I have Bachelor's and Master's degrees in Computer Science from California Polytechnic State University, California. I'm a software engineer professionally. I put my thoughts here sometimes.</p>
+                </div>
+                <div class="col-12 col-md-6 text-center">
+                    <img alt="Avatar" class="img-fluid rounded-4" src="/avatar.jpg" style="max-height:20rem">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{ if .Site.Params.social }}
+<div class="container py-3">
+    <div class="row">
+        <div class="col text-center">
+            {{ range .Site.Params.social }}
+            <a href="{{ .link }}"><i class="bi bi-{{ .icon }} display-6 px-2"></i></a>
+            {{ end }}
+        </div>
+    </div>
+</div>
+{{ end }}
 {{ end }}

@@ -1,36 +1,30 @@
 {{ define "main" }}
-{{ if or .Title .Description .PublishDate .Content .Params.tags .Params.categories }}
+{{ if not (or .Title .Description .Date .Content) }}
+<p class="display-5 fw-bold text-center">Nothing Here</p>
+{{ else }}
 <article>
     <div class="container">
         {{ if or .Title .Description .Date }}
-        <header class="text-center">
-            {{ if .Title }}
-            <div class="row">
+        <header>
+            <div class="row text-center">
                 <div class="col">
-                    <p class="display-5 mx-auto" style="max-width:100ch">
+                    {{ if .Title }}
+                    <p class="display-5 fw-bold" style="max-width:100ch">
                         {{ if .Params.link }}
                         <a href="{{ .Params.link }}">{{ .Title | markdownify }}</a>
                         {{ else }}
                         {{ .Title | markdownify }}
                         {{ end }}
                     </p>
+                    {{ end }}
+                    {{ if .Description }}
+                    <p class="lead" style="max-width:100ch">{{ .Description | markdownify }}</p>
+                    {{ end }}
+                    {{ if .Date }}
+                    <p class="text-muted"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+                    {{ end }}
                 </div>
             </div>
-            {{ end }}
-            {{ if .Description }}
-            <div class="row">
-                <div class="col">
-                    <p class="lead mx-auto" style="max-width:100ch">{{ .Description | markdownify }}</p>
-                </div>
-            </div>
-            {{ end }}
-            {{ if .Date }}
-            <div class="row">
-                <div class="col">
-                    <p class="mx-auto text-muted"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
-                </div>
-            </div>
-            {{ end }}
         </header>
         {{ end }}
         {{ if .Content }}

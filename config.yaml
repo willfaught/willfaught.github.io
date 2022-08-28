@@ -1,5 +1,5 @@
-baseurl: https://www.willfaught.com/
-copyright: "&copy; Will Faught"
+baseurl: https://www.willfaught.com
+copyright: © Will Faught
 languagecode: en-us
 enablerobotstxt: true
 markup:
@@ -10,7 +10,22 @@ markup:
     style: vs
 paginate: 50
 params:
-  description: Thoughts on code, life, and the world. Please donate to my relief fund.
+  description: Thoughts on technology, the world, and life.
+  goimport:
+    domain: willfaught.com
+    modules:
+    - cuckle
+    - ebnf
+    - gockle
+    - turbine
+    prefix: github.com/willfaught
+    scheme: https
+    type: git
+  social:
+  - icon: github
+    link: https://github.com/willfaught
+  - icon: linkedin
+    link: https://www.linkedin.com/in/willfaught
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 theme: lithe
