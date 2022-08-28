@@ -48,8 +48,8 @@
         </style>
     </head>    
     <body>
-        <header>
-            <div class="container">
+        <div class="container">
+            <header>
                 <div class="row">
                     <div class="col">
                         <nav class="d-flex my-3 justify-content-center">
@@ -66,22 +66,20 @@
                         </nav>
                     </div>
                 </div>
-            </div>
-        </header>
-        <main>
-            {{ block "main" . }}{{- end }}
-        </main>
-        <footer>
-            <div class="container py-3">
-                <div class="row">
+            </header>
+            <main>
+                {{ block "main" . }}{{- end }}
+            </main>
+            <footer>
+                <div class="row py-3">
                     <div class="col text-center text-muted">{{ .Site.Copyright | markdownify }}</div>
                 </div>
-            </div>
-        </footer>
-        <div class="egg"><a href="{{ ref . `pi.html` }}">&pi;</a></div>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-        {{ if .Site.GoogleAnalytics }}
-        {{ template "_internal/google_analytics.html" . }}
-        {{ end }}
+            </footer>
+            <div class="egg"><a href="{{ ref . `pi.html` }}">&pi;</a></div>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+            {{ if .Site.GoogleAnalytics }}
+            {{ template "_internal/google_analytics.html" . }}
+            {{ end }}
+        </div>
     </body>
 </html>

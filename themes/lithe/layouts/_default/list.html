@@ -3,73 +3,71 @@
 <p class="display-5 fw-bold text-center">Nothing Here</p>
 {{ else }}
 <section>
-    <div class="container">
-        {{ if or .Title .Description }}
-        <header>
-            <div class="row text-center">
-                <div class="col">
-                    {{ if .Title }}
-                    <p class="display-5 fw-bold" style="max-width:100ch">
-                        {{ if .Params.link }}
-                        <a href="{{ .Params.link }}">{{ .Title | markdownify }}</a>
-                        {{ else }}
-                        {{ .Title | markdownify }}
+    {{ if or .Title .Description }}
+    <header>
+        <div class="row text-center">
+            <div class="col">
+                {{ if .Title }}
+                <p class="display-5 fw-bold" style="max-width:100ch">
+                    {{ if .Params.link }}
+                    <a href="{{ .Params.link }}">{{ .Title | markdownify }}</a>
+                    {{ else }}
+                    {{ .Title | markdownify }}
+                    {{ end }}
+                </p>
+                {{ end }}
+                {{ if .Description }}
+                <p class="lead" style="max-width:100ch">{{ .Description | markdownify }}</p>
+                {{ end }}
+            </div>
+        </div>
+    </header>
+    {{ end }}
+    {{ if .Content }}
+    <section>
+        <div class="row">
+            <div class="col">
+                <div class="mx-auto" style="max-width:66ch">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    {{ if .Pages }}
+    {{ $p := .Paginate (.Pages.ByDate.Reverse.GroupByDate "January 2006") }}
+    <section>
+        <div class="row">
+            <div class="col">
+                <div class="mx-auto text-center" style="max-width:100ch">
+                    {{ range $p.PageGroups }}
+                    <h5><p>{{ .Key }}</p></h5>
+                    {{ range .Pages }}
+                    <p>
+                        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+                        {{ if .Description }}
+                        <br/>{{ .Description | markdownify }}
                         {{ end }}
                     </p>
                     {{ end }}
-                    {{ if .Description }}
-                    <p class="lead" style="max-width:100ch">{{ .Description | markdownify }}</p>
                     {{ end }}
+                    </ul>
                 </div>
             </div>
-        </header>
-        {{ end }}
-        {{ if .Content }}
-        <section>
-            <div class="row">
-                <div class="col">
-                    <div class="mx-auto" style="max-width:66ch">
-                        {{ .Content }}
-                    </div>
+        </div>
+    </section>
+    {{ if or $p.HasPrev $p.HasNext }}
+    <footer>
+        <div class="row">
+            <div class="col">
+                <div class="d-flex justify-content-center pt-3">
+                    {{ template "partials/pagination.html" . }}
                 </div>
             </div>
-        </section>
-        {{ end }}
-        {{ if .Pages }}
-        {{ $p := .Paginate (.Pages.ByDate.Reverse.GroupByDate "January 2006") }}
-        <section>
-            <div class="row">
-                <div class="col">
-                    <div class="mx-auto text-center" style="max-width:100ch">
-                        {{ range $p.PageGroups }}
-                        <h5><p>{{ .Key }}</p></h5>
-                        {{ range .Pages }}
-                        <p>
-                            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-                            {{ if .Description }}
-                            <br/>{{ .Description | markdownify }}
-                            {{ end }}
-                        </p>
-                        {{ end }}
-                        {{ end }}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-        {{ if or $p.HasPrev $p.HasNext }}
-        <footer>
-            <div class="row">
-                <div class="col">
-                    <div class="d-flex justify-content-center pt-3">
-                        {{ template "partials/pagination.html" . }}
-                    </div>
-                </div>
-            </div>
-        </footer>
-        {{ end }}
-        {{ end }}
-    </div>
+        </div>
+    </footer>
+    {{ end }}
+    {{ end }}
 </section>
 {{ end }}
 {{ end }}
