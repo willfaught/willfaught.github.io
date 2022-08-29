@@ -4,10 +4,10 @@ title: Trippy
 ---
 
 <div id="grid-container">
-    <pre id="grid">
+    <div id="grid">
         <div id="grid-bg"></div>
         <div id="grid-content"></div>
-    </pre>
+    </div>
 </div>
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
@@ -18,7 +18,7 @@ title: Trippy
         background: #222;
     }
 
-    div#grid-container {
+    #grid-container {
         margin: 0px;
         height: calc(100vh - 0px);
         width: calc(100vw - 0px);
@@ -26,7 +26,7 @@ title: Trippy
         background: #222;
     }
 
-    div#grid-bg {
+    #grid-bg {
         display: block;
         position: absolute;
         top: 0;
@@ -38,18 +38,19 @@ title: Trippy
         mix-blend-mode: multiply;
     }
 
-    pre#grid {
+    #grid {
         width: 100%;
         height: 100%;
         margin: 0;
         font-size: 8px;
-        font-family: 'Press Start 2P';
+        font-family: 'Press Start 2P', monospace;
         display: table-cell;
         color: #FFF;
         position: relative;
         background: #000;
         mix-blend-mode: lighten;
     }
+
 </style>
 <script>
     const gridElem = document.querySelector('#grid');

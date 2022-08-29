@@ -38,9 +38,7 @@
         </style>
     </head>
     <body>
-        <main>
-            {{ .Content }}
-        </main>
+        {{ .Content }}
         {{ if .Params.next }}
         <div class="egg"><a href="/pi/{{ .Params.next }}/">&pi;</a></div>
         {{ end }}
