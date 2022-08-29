@@ -29,11 +29,11 @@
         </div>
     </div>
 </div>
-{{ if .Site.Params.social }}
+{{ if .Site.Social }}
 <div class="py-3 row">
     <div class="col text-center">
-        {{ range .Site.Params.social }}
-        <a href="{{ .link }}"><i class="bi bi-{{ .icon }} display-6 px-2"></i></a>
+        {{ range $k, $v := .Site.Social }}
+        <a href="{{ $v }}"><i class="bi bi-{{ $k }} display-6 px-2"></i></a>
         {{ end }}
     </div>
 </div>

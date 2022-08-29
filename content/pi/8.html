@@ -1,0 +1,317 @@
+---
+next: 9
+title: Dots
+---
+
+<script type="vertex" id="vs">
+    #version 300 es
+    
+    uniform vec2 u_mouse;
+    
+    layout (location=0) in vec3 aPosition;
+    layout (location=1) in vec3 aVelocity;
+    layout (location=2) in float mass;
+
+    out vec3 vPosition;
+    out vec3 vVelocity;
+
+    void main() {
+        vec3 position = aPosition;
+        vec3 velocity = aVelocity;
+        vec3 vmouse = vec3(u_mouse.xy, u_mouse.x);
+        vec3 acceleration =  vmouse - aPosition;
+        float dist = distance(acceleration, vmouse);
+        float gravity = (0.000997 * mass) / (dist * dist / 0.24);
+        acceleration *= gravity;
+        velocity += acceleration;
+        velocity *= 0.96;
+        vPosition = position + velocity;
+        vVelocity = velocity;
+        gl_PointSize = mass * 1.0;
+        gl_Position = vec4(aPosition, 1.0);
+    }
+</script>
+<script type="fragment" id="fs">
+    #version 300 es
+    precision highp float;
+    float density = 2.0;
+    const float LOG2 = 1.442695;
+    // https://www.geeks3d.com/20100228/fog-in-glsl-webgl/
+    out vec4 fragColor;
+    void main() {
+        float z = gl_FragCoord.z / gl_FragCoord.w;
+        float fogFactor = exp2(-density * density * z * z * z * LOG2);
+        fogFactor = clamp(fogFactor, 0.0, 1.0);
+        vec4 fogColor = vec4(1.0, 0.0, 1.0, 1.0);
+        fragColor = mix(fogColor, vec4(0.0, 1.0, 1.0, 1.0), fogFactor);
+    }
+</script>
+<canvas id="webgl-canvas"></canvas>
+<style>
+    html,
+    body {
+        margin: 0;
+        overflow: hidden;
+        height: 100%;
+    }
+</style>
+<script>
+    let gl = createContext('webgl-canvas', (gl, cvs) => {
+        gl.clearColor(0.1, 0.1, 0.1, 1);
+        gl.blendFunc(gl.ONE, gl.ONE_MINUS_SRC_ALPHA);
+    });
+
+    const TWO_PI = 2.0 * Math.PI;
+    const vsSource = document.getElementById("vs").text.trim();
+    const fsSource = document.getElementById("fs").text.trim();
+
+    const vShader = createShaderFromText(vsSource, gl.VERTEX_SHADER);
+    const fShader = createShaderFromText(fsSource, gl.FRAGMENT_SHADER);
+
+    const program = createProgram(vShader, fShader, ["vPosition", "vVelocity"]);
+    gl.useProgram(program);
+
+    const mouse = { x: 0.0, y: 0.0 };
+
+    const mouseLoc = gl.getUniformLocation(program, "u_mouse");
+    gl.uniform2fv(mouseLoc, [mouse.x, mouse.y]);
+
+    const NUM_POINTS = 1000000;
+    const PRIMITIVE_TYPE = gl.POINTS;
+
+    const particleProps = createParticleData(NUM_POINTS);
+
+    const particles = createModel(particleProps);
+    const particlesCopy = createModel(particleProps);
+
+    let currentVAO = particles.vao;
+    let currentTF = particlesCopy.tf;
+
+    function draw() {
+
+        gl.clear(gl.COLOR_BUFFER_BIT);
+
+        gl.bindVertexArray(currentVAO);
+        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, currentTF);
+
+        if (currentTF === particles.tf) {
+            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, particles.buffers.position);
+            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, particles.buffers.velocity);
+        } else {
+            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, particlesCopy.buffers.position);
+            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, particlesCopy.buffers.velocity);
+        }
+
+        gl.beginTransformFeedback(PRIMITIVE_TYPE);
+        gl.drawArrays(PRIMITIVE_TYPE, 0, NUM_POINTS);
+        gl.endTransformFeedback();
+
+        if (currentVAO === particles.vao) {
+            currentVAO = particlesCopy.vao;
+            currentTF = particles.tf;
+        } else {
+            currentVAO = particles.vao;
+            currentTF = particlesCopy.tf;
+        }
+
+        gl.bindVertexArray(null);
+        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, null);
+
+        requestAnimationFrame(draw);
+    }
+
+    function init() {
+
+        window.document.addEventListener('mousemove', function (e) {
+
+            mouse.x = (e.pageX / window.innerWidth) * 2.0 - 1.0;
+            mouse.y = (e.pageY / window.innerHeight) * 2.0 - 1.0;
+            gl.uniform2fv(mouseLoc, [mouse.x, -mouse.y]);
+        });
+
+        requestAnimationFrame(draw);
+    }
+
+    window.onload = init;
+
+    function getPoint() {
+        // https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/
+        var u = Math.random();
+        var v = Math.random();
+        var theta = u * TWO_PI;
+        var phi = Math.acos(2.0 * v - 1.0);
+        var r = Math.cbrt(Math.random());
+        var sinTheta = Math.sin(theta);
+        var cosTheta = Math.cos(theta);
+        var sinPhi = Math.sin(phi);
+        var cosPhi = Math.cos(phi);
+        var x = r * sinPhi * cosTheta;
+        var y = r * sinPhi * sinTheta;
+        var z = r * cosPhi;
+        return { x, y, z };
+    }
+
+    function createParticleData(number) {
+
+        const positionData = new Float32Array(number * 3);
+        const velocityData = new Float32Array(number * 3);
+        const massData = new Float32Array(number);
+
+        for (var i = 0; i < number; ++i) {
+            const vec3i = i * 3;
+            const p = getPoint();
+            positionData[vec3i] = p.x;
+            positionData[vec3i + 1] = p.y;
+            positionData[vec3i + 2] = p.z;
+            massData[i] = Math.random();
+        }
+
+        return {
+            attributes: [
+                {
+                    name: "position",
+                    vertices: new Float32Array(positionData),
+                    target: gl.ARRAY_BUFFER,
+                    usage: gl.STREAM_COPY,
+                    attribIndex: 0,
+                    attribSize: 3,
+                    attribType: gl.FLOAT,
+                    attribNormalized: false,
+                    attribStride: 0,
+                    attribOffset: 0
+                },
+                {
+                    name: "velocity",
+                    vertices: new Float32Array(velocityData),
+                    target: gl.ARRAY_BUFFER,
+                    usage: gl.STREAM_COPY,
+                    attribIndex: 1,
+                    attribSize: 3,
+                    attribType: gl.FLOAT,
+                    attribNormalized: false,
+                    attribStride: 0,
+                    attribOffset: 0
+                },
+                {
+                    name: "mass",
+                    vertices: new Float32Array(massData),
+                    target: gl.ARRAY_BUFFER,
+                    usage: gl.STREAM_COPY,
+                    attribIndex: 2,
+                    attribSize: 1,
+                    attribType: gl.FLOAT,
+                    attribNormalized: false,
+                    attribStride: 0,
+                    attribOffset: 0
+                },
+            ],
+            count: number
+        };
+    }
+
+    function createModel(props) {
+
+        const buffers = {};
+
+        const vao = gl.createVertexArray();
+        gl.bindVertexArray(vao);
+
+        // create buffers per each attribute of model (as defined in props)
+        props.attributes.forEach(attr => {
+            buffers[attr.name] = createAttribute(attr);
+        });
+
+        // create transform feedback
+        const tf = gl.createTransformFeedback();
+        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, tf);
+
+        gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, buffers['position']);
+        gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, buffers['velocity']);
+
+        return {
+            vao,
+            buffers,
+            tf
+        }
+    }
+
+    function createAttribute(props) {
+
+        const { vertices, target, usage, attribIndex, attribSize,
+            attribType, attribNormalized, attribStride, attribOffset } = props;
+
+        const buffer = gl.createBuffer();
+
+        gl.bindBuffer(target, buffer);
+        gl.bufferData(target, vertices, usage);
+        gl.vertexAttribPointer(
+            attribIndex,
+            attribSize,
+            attribType,
+            attribNormalized,
+            attribStride,
+            attribOffset
+        );
+        gl.enableVertexAttribArray(attribIndex);
+        gl.bindBuffer(target, null);
+
+        return buffer;
+    }
+
+    function createShaderFromText(shaderText, shaderType) {
+        const shader = gl.createShader(shaderType);
+        gl.shaderSource(shader, shaderText);
+        gl.compileShader(shader);
+
+        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
+            console.error(gl.getShaderInfoLog(shader));
+            return null;
+        }
+
+        return shader;
+    }
+
+    function createProgram(vertexShader, fragmentShader, varyings) {
+
+        const program = gl.createProgram();
+
+        gl.attachShader(program, vertexShader);
+        gl.attachShader(program, fragmentShader);
+        gl.deleteShader(vertexShader);
+        gl.deleteShader(fragmentShader);
+        gl.transformFeedbackVaryings(program, varyings, gl.SEPARATE_ATTRIBS);
+        gl.linkProgram(program);
+
+        if (!gl.getProgramParameter(program, gl.LINK_STATUS)) {
+            console.error(gl.getProgramInfoLog(program));
+            return null;
+        }
+
+        return program;
+    }
+
+    function createContext(canvasId, settingsCallback) {
+        const canvas = document.getElementById("webgl-canvas", {
+            powerPreference: "high-performance"
+        });
+
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+
+        const ctx = canvas.getContext("webgl2");
+
+
+        if (!ctx) {
+            console.error("WebGL 2 not available");
+            document.body.innerHTML =
+                "This example requires WebGL 2 which is unavailable on this system.";
+        }
+
+        if (typeof settingsCallback === 'function') {
+            settingsCallback(ctx, canvas);
+        }
+        return ctx;
+    }
+</script>
+
+<!-- From https://speckyboy.com/texture-pattern-effects-css-js/ -->

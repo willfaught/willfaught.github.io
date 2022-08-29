@@ -1,0 +1,197 @@
+---
+next: 8
+title: Tree
+---
+
+<canvas id="c"></canvas>
+<style>
+    body {
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ffee00;
+    }
+
+    canvas {
+        vertical-align: middle;
+    }
+</style>
+<script>
+    function buildTree({
+        branchingLimit = 10,
+        branchCount = 1,
+        tree = []
+    }) {
+        if (branchingLimit > 0) {
+            const branches = [...Array(branchCount).keys()].map(b => (
+                buildTree({
+                    branchingLimit: branchingLimit - 1,
+                    branchCount: 1 + Math.ceil(Math.random() * 2),
+                    tree
+                })
+            ))
+            return tree.concat(branches)
+        }
+        return tree
+    }
+
+    function reset(canvas) {
+        var width = window.innerWidth
+        var height = window.innerHeight
+        canvas.width = width
+        canvas.height = height
+        return {
+            ctx: canvas.getContext('2d'),
+            width,
+            height
+        }
+    }
+
+    function getRandom(arr) {
+        return arr[Math.floor(Math.random() * arr.length)]
+    }
+
+    function drawTree({
+        context,
+        width,
+        height,
+        tree,
+        x,
+        y,
+        colors,
+        depth = 0,
+        branchLength = Math.min(width, height) / 4
+    }) {
+        if (!tree) {
+            return
+        }
+        const minDimension = Math.min(width, height)
+        tree.forEach(branch => {
+            const newBranchLength = branchLength / (1 + Math.random() / 1.4)
+            const variance = minDimension / 45 + Math.random() * minDimension / 20
+            const directionX = Math.random() > .5 ? -1 : 1
+            const newX = x + directionX * (depth ? variance : 1)
+            const directionY = depth > 3
+                ? Math.random() > .8
+                    ? 1
+                    : -1
+                : -1
+            const newY = y + directionY * newBranchLength
+            const color = depth < 1
+                ? colors.root
+                : depth < 2
+                    ? getRandom([
+                        getRandom(colors.branches),
+                        colors.root
+                    ])
+                    : getRandom(colors.branches)
+            context.strokeStyle = color
+            context.lineCap = 'round'
+            context.lineWidth = 5
+            context.beginPath()
+            context.moveTo(x, y)
+            context.lineTo(newX, newY)
+            context.stroke()
+            drawTree({
+                context,
+                width,
+                height,
+                tree: branch,
+                x: newX,
+                y: newY,
+                colors,
+                depth: depth + 1,
+                branchLength: newBranchLength
+            })
+        })
+    }
+
+    function drawBackground(context, width, height, colors) {
+        const lineLength = width / 30 + Math.random() * width / 5
+        const lineWidth = 3
+        const variance = 2 + Math.random() * 50
+        let x = -lineLength
+        let y = lineWidth
+        while (y < height) {
+            const stepY = height / 100 + Math.random() * height / 30
+            while (x < width) {
+                const stepX = 10 + Math.random() * width / 20
+                const directionY = Math.random() > .5 ? -1 : 1
+                context.strokeStyle = getRandom(colors)
+                context.lineCap = 'round'
+                context.lineWidth = lineWidth
+                context.beginPath()
+                context.moveTo(x, y + directionY * stepY)
+                context.lineTo(x + lineLength, y + directionY * variance)
+                context.stroke()
+                x += stepX
+            }
+            x = -lineLength
+            y += stepY
+        }
+    }
+
+    let branchCount = 0
+    const branchingLimit = 9
+
+    function draw() {
+        const { ctx, width, height } = reset(c)
+
+        const backgroundColors = [
+            'rgba(255, 105, 180, .25)'
+        ]
+
+        drawBackground(ctx, width, height, backgroundColors)
+
+        if (branchCount++ > branchingLimit) {
+            branchCount = 0
+        }
+        const tree = buildTree({
+            branchingLimit: branchCount
+        })
+
+        const treeColors = {
+            root: 'brown',
+            branches: [
+                'rgba(0, 255, 0, .75)',
+                'rgba(0, 40, 0, .75)',
+                'rgba(0, 80, 0, .75)',
+                'rgba(0, 120, 0, .75)',
+                'rgba(0, 160, 0, .75)',
+                'rgba(0, 200, 0, .75)',
+                'rgba(20, 200, 0, .75)',
+                'rgba(40, 200, 0, .75)',
+                'rgba(60, 200, 0, .75)',
+                'rgba(150, 200, 0, .75)',
+                'rgba(200, 200, 0, .75)',
+                'rgba(200, 160, 0, .75)',
+                'rgba(200, 120, 0, .75)'
+            ]
+        }
+
+        drawTree({
+            context: ctx,
+            width,
+            height,
+            tree,
+            x: width / 2,
+            y: height,
+            colors: treeColors
+        })
+    }
+
+    const throttle = 10
+    let counter = 0
+
+    function loop() {
+        if (!(counter++ % throttle)) {
+            draw()
+        }
+        requestAnimationFrame(loop)
+    }
+
+    requestAnimationFrame(loop)
+</script>
+
+<!-- From https://speckyboy.com/texture-pattern-effects-css-js/ -->

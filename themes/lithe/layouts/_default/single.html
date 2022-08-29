@@ -1,9 +1,9 @@
 {{ define "main" }}
-{{ if not (or .Title .Description .Date .Content) }}
+{{ if not (or .Title .Description .PublishDate .Content) }}
 <p class="display-5 fw-bold text-center">Nothing Here</p>
 {{ else }}
 <article>
-    {{ if or .Title .Description .Date }}
+    {{ if or .Title .Description .PublishDate }}
     <header>
         <div class="row text-center">
             <div class="col">
@@ -19,8 +19,8 @@
                 {{ if .Description }}
                 <p class="lead" style="max-width:100ch">{{ .Description | markdownify }}</p>
                 {{ end }}
-                {{ if .Date }}
-                <p class="text-muted"><time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+                {{ if .PublishDate }}
+                <p class="text-muted"><time datetime="{{ .PublishDate.Format `2006-01-02` }}">{{ .PublishDate.Format "January 2, 2006" }}</time></p>
                 {{ end }}
             </div>
         </div>

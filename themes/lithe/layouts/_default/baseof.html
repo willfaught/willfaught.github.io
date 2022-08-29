@@ -23,7 +23,7 @@
         {{- else -}}
         <title>{{ .Title | markdownify | plainify }} &middot; {{ .Site.Title | markdownify | plainify }}</title>
         {{- end }}
-        <style type="text/css">
+        <style>
             blockquote {
                 padding: 0.5rem 1rem;
                 border-left: 0.25rem solid #e9ecef;
@@ -37,7 +37,6 @@
             }
             .egg {
                 bottom: 0.5rem;
-                display: none; /* TODO */
                 position: absolute;
                 right: 0.5rem;
             }
@@ -54,14 +53,11 @@
                     <div class="col">
                         <nav class="d-flex my-3 justify-content-center">
                             <ul class="nav nav-pills">
-                                <li class="nav-item"><a href="/" class="nav-link{{if .IsHome }} active{{end}}">Home</a></li>
-                                <li class="nav-item"><a href="/blog/" class="nav-link{{if eq .Section `blog` }} active{{end}}">Blog</a></li>
-                                <!-- TODO
-                                <li class="nav-item"><a href="/articles/" class="nav-link{{if eq .Section `articles` }} active{{end}}">Articles</a></li>
-                                <li class="nav-item"><a href="/projects/" class="nav-link{{if eq .Section `projects` }} active{{end}}">Projects</a></li>
-                                -->
-                                <li class="nav-item"><a href="{{ ref . `/categories/` }}" class="nav-link{{if eq .Section `categories` }} active{{end}}">Categories</a></li>
-                                <li class="nav-item"><a href="{{ ref . `/tags/` }}" class="nav-link{{if eq .Section `tags` }} active{{end}}">Tags</a></li>
+                                {{ $p := . }}
+                                {{ range .Site.Menus.main }}
+                                {{ $active := or (and (eq .URL `/`) (eq $p.RelPermalink `/`)) (and (ne .URL `/`) (hasPrefix $p.RelPermalink .URL)) }}
+                                <li class="nav-item"><a href="{{ .URL }}" class="nav-link{{if $active }} active{{ end }}">{{ .Name }}</a></li>
+                                {{ end }}
                             </ul>
                         </nav>
                     </div>
@@ -75,7 +71,7 @@
                     <div class="col text-center text-muted">{{ .Site.Copyright | markdownify }}</div>
                 </div>
             </footer>
-            <div class="egg"><a href="{{ ref . `pi.html` }}">&pi;</a></div>
+            <div class="egg"><a href="{{ ref . `/pi/` }}">&pi;</a></div>
             <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
             {{ if .Site.GoogleAnalytics }}
             {{ template "_internal/google_analytics.html" . }}
