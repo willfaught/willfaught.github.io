@@ -21,21 +21,19 @@
     </header>
     {{ end }}
     {{ if .Pages }}
-    <section>
-        <div class="row">
-            <div class="col">
-                <div class="mx-auto text-center" style="max-width:66ch">
-                    <ul class="list-inline">
-                        {{ range (sort .Pages "Title") }}
-                        <li class="list-inline-item">
-                            <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-                        </li>
-                        {{ end }}
-                    </ul>
-                </div>
+    <div class="row">
+        <div class="col">
+            <div class="mx-auto text-center" style="max-width:66ch">
+                <ul class="list-inline">
+                    {{ range (sort .Pages "Title") }}
+                    <li class="list-inline-item">
+                        <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
             </div>
         </div>
-    </section>
+    </div>
     {{ end }}
 </section>
 {{ end }}
