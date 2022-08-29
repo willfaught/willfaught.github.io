@@ -1,5 +1,11 @@
 <!doctype html>
-<html lang="{{ .Site.LanguageCode }}">
+{{ $type := "WebPage" }}
+{{ if and (not .IsSection) (eq .Section "blog") }}
+{{ $type = "BlogPosting" }}
+{{ else if and (not .IsSection) (or (eq .Section "articles") (eq .Section "projects")) }}
+{{ $type = "Article" }}
+{{ end }}
+<html itemscope itemtype="https://schema.org/{{ $type }}" lang="{{ .Site.LanguageCode }}">
     <head>
         <meta charset="utf-8">
         <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
@@ -55,6 +61,7 @@
                 color: gainsboro;
                 text-decoration: none;
             }
+
         </style>
     </head>
     <body>
@@ -66,10 +73,8 @@
                             <ul class="nav nav-pills">
                                 {{ $p := . }}
                                 {{ range .Site.Menus.main }}
-                                {{ $active := or (and (eq .URL `/`) (eq $p.RelPermalink `/`)) (and (ne .URL `/`) (hasPrefix
-                            $p.RelPermalink .URL)) }}
-                                <li class="nav-item"><a href="{{ .URL }}" class="nav-link{{if $active }} active{{ end }}">{{
-                                    .Name }}</a></li>
+                                {{ $active := or (and (eq .URL `/`) (eq $p.RelPermalink `/`)) (and (ne .URL `/`) (hasPrefix $p.RelPermalink .URL)) }}
+                                <li class="nav-item"><a href="{{ .URL }}" class="nav-link{{if $active }} active{{ end }}">{{ .Name }}</a></li>
                                 {{ end }}
                             </ul>
                         </nav>
@@ -77,7 +82,7 @@
                 </div>
             </header>
             <main>
-                {{ block "main" . }}{{- end }}
+                {{ block "main" . }}{{ end }}
             </main>
             <footer>
                 <div class="row py-3">
