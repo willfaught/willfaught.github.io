@@ -1,6 +1,8 @@
 {{ define "main" }}
 {{ if not (or .Title .Description .Content .Pages) }}
-<p class="display-5 fw-bold text-center">Nothing Here</p>
+<section>
+    <h1 class="display-5 fw-bold text-center">Nothing Here</h1>
+</section>
 {{ else }}
 <section>
     {{ if or .Title .Description }}
@@ -46,7 +48,7 @@
                     <p>
                         <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
                         {{ if .Description }}
-                        <br/>{{ .Description | markdownify }}
+                        <br />{{ .Description | markdownify }}
                         {{ end }}
                     </p>
                     {{ end }}
