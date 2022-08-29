@@ -26,15 +26,13 @@
     </header>
     {{ end }}
     {{ if .Content }}
-    <section>
-        <div class="row">
-            <div class="col">
-                <div class="mx-auto" style="max-width:66ch">
-                    {{ .Content }}
-                </div>
+    <div class="row">
+        <div class="col">
+            <div class="mx-auto" style="max-width:66ch">
+                {{ .Content }}
             </div>
         </div>
-    </section>
+    </div>
     {{ end }}
     {{ if .Pages }}
     {{ $p := .Paginate (.Pages.ByDate.Reverse.GroupByDate "January 2006") }}
