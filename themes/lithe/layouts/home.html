@@ -2,11 +2,11 @@
 {{ if or .Site.Title .Site.Params.description }}
 <div class="row text-center">
     <div class="col">
-        {{ if .Site.Title }}
-        <h1 class="display-1 fw-bold">{{ .Site.Title | markdownify }}</h1>
+        {{ if .Title }}
+        <h1 class="display-1 fw-bold">{{ .Title | markdownify }}</h1>
         {{ end }}
-        {{ if .Site.Params.description }}
-        <p class="lead">{{ .Site.Params.description | markdownify }}</p>
+        {{ if .Description }}
+        <p class="lead">{{ .Description | markdownify }}</p>
         {{ end }}
     </div>
 </div>
@@ -20,8 +20,8 @@
     <div class="col-12 col-xl-10">
         <div class="d-flex justify-content-evenly align-items-center row">
             <div class="col-12 col-md-6">
-                <p class="display-5 fw-bold lh-1">Hi, there! I&rsquo;m Will.</p>
-                <p class="lead">I live in California, where I grew up. I have Bachelor&rsquo;s and Master&rsquo;s degrees in Computer Science from California Polytechnic State University, California. I&rsquo;m a software engineer professionally. I put my thoughts here sometimes.</p>
+                <p class="display-5 fw-bold lh-1">{{ .Params.greeting | markdownify }}</p>
+                <p class="lead">{{ .Params.blurb | markdownify }}</p>
             </div>
             <div class="col-12 col-md-6 text-center">
                 <img alt="Avatar" class="img-fluid rounded-4" src="/avatar.jpg" style="max-height:20rem">

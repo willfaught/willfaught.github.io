@@ -1,0 +1,11 @@
+{{ if .Site.Params.goimport }}
+{{ $c := .Site.Params.goimport }}
+{{ range .Site.Params.goimport.modules }}
+<meta name="go-import" content="{{ path.Join $c.domain . }} {{ $c.type }} {{ $c.scheme }}://{{ path.Join $c.prefix . }}">
+{{ end }}
+{{ end }}
+<meta name="msapplication-TileColor" content="#0d6efd">
+<meta name="theme-color" content="#0d6efd">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{{ template "_internal/opengraph.html" . }}
+{{ template "_internal/twitter_cards.html" . }}

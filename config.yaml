@@ -39,7 +39,6 @@ menu:
     url: /tags/
 paginate: 50
 params:
-  description: Thoughts on technology, the world, and life.
   goimport:
     domain: willfaught.com
     modules:
