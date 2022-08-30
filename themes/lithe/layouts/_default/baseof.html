@@ -1,11 +1,5 @@
 <!doctype html>
-{{ $type := "WebPage" }}
-{{ if and (not .IsSection) (eq .Section "blog") }}
-{{ $type = "BlogPosting" }}
-{{ else if and (not .IsSection) (or (eq .Section "articles") (eq .Section "projects")) }}
-{{ $type = "Article" }}
-{{ end }}
-<html itemscope itemtype="https://schema.org/{{ $type }}" lang="{{ .Site.LanguageCode }}">
+<html lang="{{ .Site.LanguageCode }}">
     <head>
         <meta charset="utf-8">
         <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}">
@@ -19,7 +13,6 @@
         <meta name="theme-color" content="#0d6efd">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         {{ template "_internal/opengraph.html" . }}
-        {{ template "_internal/schema.html" . }}
         {{ template "_internal/twitter_cards.html" . }}
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
