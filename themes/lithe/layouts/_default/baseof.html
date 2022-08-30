@@ -31,10 +31,12 @@
         {{ range .AlternativeOutputFormats }}
         {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
         {{ end }}
-        {{ if .IsHome }}
-        <title>{{ .Site.Title | markdownify | plainify }}</title>
-        {{ else }}
+        {{ if and .Title .Site.Title }}
         <title>{{ .Title | markdownify | plainify }} &middot; {{ .Site.Title | markdownify | plainify }}</title>
+        {{ else if .Title }}
+        <title>{{ .Title | markdownify | plainify }}</title>
+        {{ else if .Site.Title }}
+        <title>{{ .Site.Title | markdownify | plainify }}</title>
         {{ end }}
         <style>
             blockquote {
