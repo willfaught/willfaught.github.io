@@ -38,17 +38,6 @@ menu:
     weight: 6
     url: /tags/
 paginate: 50
-params:
-  goimport:
-    domain: willfaught.com
-    modules:
-    - cuckle
-    - ebnf
-    - gockle
-    - turbine
-    prefix: github.com/willfaught
-    scheme: https
-    type: git
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 social:

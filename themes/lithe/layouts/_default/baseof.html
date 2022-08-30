@@ -11,13 +11,16 @@
         {{ if or .Keywords .Params.tags .Params.categories }}
         <meta content="{{ delimit (sort (union (union .Keywords .Params.tags) .Params.categories)) `, ` }}" name="keywords">
         {{ end }}
-        {{ partial "meta" . }}
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet">
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        {{ template "_internal/opengraph.html" . }}
+        {{ template "_internal/twitter_cards.html" . }}
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" rel="stylesheet">
+        <link crossorigin="anonymous" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css" rel="stylesheet">
+        <link href="/style.css" rel="stylesheet">
         {{ range .AlternativeOutputFormats }}
-        {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+        {{ printf `<link href="%s" rel="%s" title="%s" type="%s">` .Permalink .Rel $.Site.Title .MediaType.Type | safeHTML }}
         {{ end }}
-        {{ partial "link" . }}
+        {{ partial "head" . }}
         {{ if and (and .Title .Site.Title) (or (not (eq .Title .Site.Title)) (not .IsHome)) }}
         <title>{{ .Title | markdownify | plainify }} &middot; {{ .Site.Title | markdownify | plainify }}</title>
         {{ else if .Title }}
@@ -25,28 +28,6 @@
         {{ else if .Site.Title }}
         <title>{{ .Site.Title | markdownify | plainify }}</title>
         {{ end }}
-        <style>
-            blockquote {
-                padding: 0.5rem 1rem;
-                border-left: 0.25rem solid #e9ecef;
-                border-right: 0.25rem solid white;
-            }
-
-            blockquote p:last-of-type {
-                margin-bottom: 0;
-            }
-
-            body,
-            html {
-                height: 100%
-            }
-
-            .egg a {
-                color: #efefef;
-                text-decoration: none;
-            }
-
-        </style>
     </head>
     <body class="d-flex flex-column">
         <div class="container flex-fill">
