@@ -3,7 +3,7 @@
 <div class="row text-center">
     <div class="col">
         {{ if .Site.Title }}
-        <p class="display-1 fw-bold">{{ .Site.Title | markdownify }}</p>
+        <h1 class="display-1 fw-bold">{{ .Site.Title | markdownify }}</h1>
         {{ end }}
         {{ if .Site.Params.description }}
         <p class="lead">{{ .Site.Params.description | markdownify }}</p>
