@@ -41,6 +41,7 @@ paginate: 50
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 social:
+  envelope: mailto:pushes.kingdom_0e@icloud.com
   github: https://github.com/willfaught
   linkedin: https://www.linkedin.com/in/willfaught
 theme: lithe
