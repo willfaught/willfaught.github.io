@@ -21,10 +21,10 @@ menu:
     name: Blog
     weight: 2
     url: /blog/
-  # - identifier: articles
-  #   name: Articles
-  #   weight: 3
-  #   url: /articles/
+  - identifier: articles
+    name: Articles
+    weight: 3
+    url: /articles/
   # - identifier: projects
   #   name: Projects
   #   weight: 4
