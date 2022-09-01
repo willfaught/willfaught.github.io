@@ -1,10 +1,18 @@
 ---
-categories: ["code"]
+categories:
+- code
 date: 2022-08-17T16:49:07-07:00
-description: "A design that removes boilerplate code for error and context handling"
+description: A design that removes boilerplate code for error and context handling.
 draft: true
-tags: ["go"]
-title: "Default Error And Context Handling For Go"
+tags:
+- contexts
+- design
+- errors
+- exceptions
+- go
+- handling
+- java
+title: Default Error And Context Handling For Go
 ---
 
 In 2018, [Russ Cox](https://github.com/rsc), technical leader for the Go Team, [proposed](https://go.googlesource.com/proposal/+/master/design/go2draft-error-handling-overview.md) a new way to handle errors in Go:
