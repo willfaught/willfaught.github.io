@@ -4,6 +4,7 @@ categories:
 date: 2022-04-02T12:45:03-07:00
 description: A design for adding generic types to the Go programming language.
 tags:
+- design
 - generics
 - go
 - languages
