@@ -8,7 +8,7 @@ tags:
 - go
 - languages
 - types
-title: Go Generics
+title: Generics For Go
 ---
 
 (Obviously for Go 1.17.)
