@@ -3,7 +3,6 @@ categories:
 - code
 - world
 date: '2020-05-12'
-description: Never let a good crisis go to waste when you can cover your ass.
 keywords:
 - cobol
 - coronavirus
