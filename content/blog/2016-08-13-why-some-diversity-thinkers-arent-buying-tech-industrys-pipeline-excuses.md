@@ -1,5 +1,5 @@
 ---
-date: '2016-08-13'
+date: '2016-08-13T00:45:39-07:00'
 link: http://www.npr.org/sections/alltechconsidered/2016/07/19/486511816/why-some-diversity-thinkers-arent-buying-the-tech-industrys-excuses?sc=17&f=1019&utm_source=iosnewsapp&utm_medium=Email&utm_campaign=app
 tags:
 - technology

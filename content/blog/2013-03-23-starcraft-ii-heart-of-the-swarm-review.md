@@ -1,5 +1,5 @@
 ---
-date: '2013-03-23'
+date: '2013-03-23T15:19:00-07:00'
 link: http://www.quartertothree.com/fp/2013/03/14/does-starcraft-ii-really-need-heart-of-the-swarm/
 tags:
 - playing

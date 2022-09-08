@@ -1,5 +1,5 @@
 ---
-date: '2011-03-30'
+date: '2011-03-30T16:51:00-07:00'
 tags:
 - microsoft
 - funny

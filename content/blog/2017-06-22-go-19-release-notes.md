@@ -1,5 +1,5 @@
 ---
-date: '2017-06-22'
+date: '2017-06-22T03:07:56-07:00'
 link: https://tip.golang.org/doc/go1.9
 tags:
 - go

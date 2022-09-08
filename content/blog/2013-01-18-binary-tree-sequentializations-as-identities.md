@@ -1,5 +1,5 @@
 ---
-date: '2013-01-18'
+date: '2013-01-18T00:15:00-08:00'
 link: http://en.wikipedia.org/wiki/Tree_traversal
 tags:
 - computation

@@ -1,5 +1,5 @@
 ---
-date: '2011-04-09'
+date: '2011-04-09T19:20:00-07:00'
 link: http://www.baldessarini.com/
 tags:
 - flash

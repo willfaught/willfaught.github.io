@@ -1,5 +1,5 @@
 ---
-date: '2013-03-21'
+date: '2013-03-21T15:58:29-07:00'
 link: http://stackoverflow.com/questions/3324880/axisaligned-rectangles-intersection
 tags:
 - computation

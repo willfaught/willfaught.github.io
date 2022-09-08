@@ -1,5 +1,5 @@
 ---
-date: '2012-01-12'
+date: '2012-01-12T09:17:00-08:00'
 tags:
 - travel
 - thailand

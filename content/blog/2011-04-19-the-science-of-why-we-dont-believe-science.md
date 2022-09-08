@@ -1,5 +1,5 @@
 ---
-date: '2011-04-18'
+date: '2011-04-18T19:45:00-07:00'
 link: http://m.motherjones.com/politics/2011/03/denial-science-chris-mooney
 tags:
 - politics

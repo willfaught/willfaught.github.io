@@ -1,5 +1,5 @@
 ---
-date: '2015-12-04'
+date: '2015-12-04T23:36:25-08:00'
 link: http://m.ign.com/articles/2015/12/04/sony-announces-first-batch-of-ps2-games-coming-to-ps4-tomorrow?utm_source=IGN%20hub%20page&utm_medium=IGN%20(front%20page)&utm_content=26&utm_campaign=Blogroll
 tags:
 - ps4

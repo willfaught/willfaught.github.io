@@ -1,5 +1,5 @@
 ---
-date: '2015-04-29'
+date: '2015-04-29T10:09:29-07:00'
 link: http://www.caseyliss.com/2015/4/12/random-apple-watch-thoughts
 tags:
 - apple

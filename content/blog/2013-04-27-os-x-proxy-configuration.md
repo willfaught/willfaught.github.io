@@ -1,5 +1,5 @@
 ---
-date: '2013-04-27'
+date: '2013-04-27T14:47:00-07:00'
 tags:
 - computation
 title: OS X proxy configuration

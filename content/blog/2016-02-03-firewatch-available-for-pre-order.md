@@ -1,5 +1,5 @@
 ---
-date: '2016-02-02'
+date: '2016-02-02T19:50:08-08:00'
 link: http://store.steampowered.com/app/383870/
 tags:
 - firewatch

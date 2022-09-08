@@ -1,5 +1,5 @@
 ---
-date: '2017-05-22'
+date: '2017-05-22T09:59:04-07:00'
 link: http://blog.dilbert.com/post/160770453201
 title: The end of representative democracy
 ---

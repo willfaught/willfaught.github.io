@@ -1,5 +1,5 @@
 ---
-date: '2015-04-16'
+date: '2015-04-16T09:47:19-07:00'
 link: http://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp
 tags:
 - insurance

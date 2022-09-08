@@ -1,5 +1,5 @@
 ---
-date: '2013-11-07'
+date: '2013-11-07T23:28:00-08:00'
 link: http://www.snopes.com/science/nobel.asp
 tags:
 - reading

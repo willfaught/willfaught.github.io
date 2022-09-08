@@ -1,5 +1,5 @@
 ---
-date: '2016-07-12'
+date: '2016-07-12T22:11:00-07:00'
 link: https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/
 tags:
 - apple

@@ -1,5 +1,5 @@
 ---
-date: '2011-06-12'
+date: '2011-06-12T23:00:06-07:00'
 tags:
 - questions
 title: UIs in movies and TV shows

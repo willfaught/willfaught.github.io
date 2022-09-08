@@ -1,5 +1,5 @@
 ---
-date: '2011-10-13'
+date: '2011-10-13T03:45:00-07:00'
 tags:
 - travel
 - itinerary

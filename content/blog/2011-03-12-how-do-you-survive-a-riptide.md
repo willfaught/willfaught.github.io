@@ -1,5 +1,5 @@
 ---
-date: '2011-03-12'
+date: '2011-03-12T12:00:08-08:00'
 link: http://www.rd.com/health/how-to-save-your-own-life-12-emergency-situations/3/
 tags:
 - safety

@@ -1,5 +1,5 @@
 ---
-date: '2011-03-08'
+date: '2011-03-08T12:00:08-08:00'
 tags:
 - ssd
 title: No secure deletion for SSDs

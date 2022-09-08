@@ -1,5 +1,5 @@
 ---
-date: '2017-02-21'
+date: '2017-02-21T20:36:54-08:00'
 link: https://lobste.rs
 title: Just discovered lobste.rs
 ---

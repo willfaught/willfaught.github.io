@@ -1,5 +1,5 @@
 ---
-date: '2018-10-29'
+date: '2018-10-29T18:02:19-07:00'
 link: https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile
 tags:
 - coding

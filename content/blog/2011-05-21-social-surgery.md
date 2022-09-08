@@ -1,5 +1,5 @@
 ---
-date: '2011-05-21'
+date: '2011-05-21T12:00:06-07:00'
 tags:
 - ideas
 title: Social surgery

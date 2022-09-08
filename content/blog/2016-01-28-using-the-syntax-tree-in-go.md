@@ -1,5 +1,5 @@
 ---
-date: '2016-01-27'
+date: '2016-01-27T22:08:14-08:00'
 link: http://www.lshift.net/blog/2011/04/30/using-the-syntax-tree-in-go/
 tags:
 - golang

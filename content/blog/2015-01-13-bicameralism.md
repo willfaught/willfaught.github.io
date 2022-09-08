@@ -1,5 +1,5 @@
 ---
-date: '2015-01-13'
+date: '2015-01-13T08:05:45-08:00'
 link: http://en.m.wikipedia.org/wiki/Bicameralism
 title: Bicameralism
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2015-07-31'
+date: '2015-07-31T21:47:42-07:00'
 link: http://www.cnbc.com/2014/01/31/-advice-for-a-rocky-market-follow-ben-franklin.html
 tags:
 - finance

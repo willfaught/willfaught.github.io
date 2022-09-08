@@ -1,5 +1,5 @@
 ---
-date: '2016-02-17'
+date: '2016-02-17T12:53:58-08:00'
 link: http://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html
 title: Sullivan Ballou Letter
 ---

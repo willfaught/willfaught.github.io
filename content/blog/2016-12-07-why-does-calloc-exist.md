@@ -1,5 +1,5 @@
 ---
-date: '2016-12-06'
+date: '2016-12-06T23:06:43-08:00'
 link: https://vorpus.org/blog/why-does-calloc-exist/
 tags:
 - programming

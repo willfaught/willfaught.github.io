@@ -1,5 +1,5 @@
 ---
-date: '2015-10-17'
+date: '2015-10-17T18:22:50-07:00'
 link: https://www.consul.io/intro/vs/chef-puppet.html
 tags:
 - hashicorp

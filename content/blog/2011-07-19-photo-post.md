@@ -1,5 +1,5 @@
 ---
-date: '2011-07-19'
+date: '2011-07-19T01:44:37-07:00'
 tags:
 - funny
 title: Photo post

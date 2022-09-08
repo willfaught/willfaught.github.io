@@ -1,5 +1,5 @@
 ---
-date: '2013-04-27'
+date: '2013-04-27T14:54:53-07:00'
 tags:
 - computation
 title: Homebrew and the OS X $PATH

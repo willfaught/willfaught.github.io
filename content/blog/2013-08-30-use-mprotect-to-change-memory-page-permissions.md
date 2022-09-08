@@ -1,5 +1,5 @@
 ---
-date: '2013-08-30'
+date: '2013-08-30T00:07:02-07:00'
 link: http://linux.die.net/man/2/mprotect
 tags:
 - computing

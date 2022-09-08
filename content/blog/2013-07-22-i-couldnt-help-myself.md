@@ -1,5 +1,5 @@
 ---
-date: '2013-07-22'
+date: '2013-07-22T00:15:00-07:00'
 tags:
 - playing
 title: I couldn't help myself

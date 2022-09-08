@@ -1,5 +1,5 @@
 ---
-date: '2011-04-24'
+date: '2011-04-24T19:43:00-07:00'
 tags:
 - calendar
 - iphone

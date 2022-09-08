@@ -1,5 +1,5 @@
 ---
-date: '2013-05-27'
+date: '2013-05-27T02:14:00-07:00'
 link: http://www.anandtech.com/show/6972/xbox-one-hardware-compared-to-playstation-4
 tags:
 - technology

@@ -1,5 +1,5 @@
 ---
-date: '2016-08-17'
+date: '2016-08-17T12:47:53-07:00'
 link: https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 tags:
 - java

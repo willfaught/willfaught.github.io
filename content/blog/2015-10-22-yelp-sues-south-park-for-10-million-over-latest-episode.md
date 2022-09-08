@@ -1,5 +1,5 @@
 ---
-date: '2015-10-22'
+date: '2015-10-22T01:01:22-07:00'
 link: http://nbc.com.co/yelp-sues-south-park-for-10-million-over-episode/
 tags:
 - south park

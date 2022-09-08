@@ -1,5 +1,5 @@
 ---
-date: '2017-04-10'
+date: '2017-04-10T15:02:53-07:00'
 link: http://walkercoderanger.com/blog/2014/02/javascript-minefield/
 tags:
 - programming

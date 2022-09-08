@@ -1,5 +1,5 @@
 ---
-date: '2011-04-15'
+date: '2011-04-15T17:28:00-07:00'
 link: http://xkcd.com/886/
 tags:
 - xkcd

@@ -1,5 +1,5 @@
 ---
-date: '2011-04-20'
+date: '2011-04-20T15:01:00-07:00'
 tags:
 - penny arcade
 - funny

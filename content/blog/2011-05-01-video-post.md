@@ -1,5 +1,5 @@
 ---
-date: '2011-05-01'
+date: '2011-05-01T02:39:00-07:00'
 tags:
 - secret passages
 - cool

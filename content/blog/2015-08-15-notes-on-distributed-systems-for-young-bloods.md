@@ -1,5 +1,5 @@
 ---
-date: '2015-08-15'
+date: '2015-08-15T14:55:29-07:00'
 link: http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
 tags:
 - coding

@@ -1,5 +1,5 @@
 ---
-date: '2015-07-13'
+date: '2015-07-13T00:29:44-07:00'
 link: http://m.sfgate.com/food/article/Foie-gras-ban-proves-confusing-hard-to-enforce-3676731.php
 title: Foie gras ban proves confusing, hard to enforce
 ---

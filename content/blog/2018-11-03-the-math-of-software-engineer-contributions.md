@@ -1,5 +1,5 @@
 ---
-date: '2018-11-02'
+date: '2018-11-02T23:00:12-07:00'
 link: https://web.archive.org/web/20120211164647/https://michaelochurch.wordpress.com/2012/01/26/the-trajectory-of-a-software-engineer-and-where-it-all-goes-wrong/
 tags:
 - coding

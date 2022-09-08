@@ -1,5 +1,5 @@
 ---
-date: '2015-09-25'
+date: '2015-09-25T12:07:18-07:00'
 link: http://www.mcsweeneys.net/articles/im-comic-sans-asshole
 tags:
 - comic sans

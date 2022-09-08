@@ -1,5 +1,5 @@
 ---
-date: '2011-02-24'
+date: '2011-02-24T15:06:15-08:00'
 title: Stunning New Zealand earthquake pictures
 ---
 

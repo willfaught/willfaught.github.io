@@ -1,5 +1,5 @@
 ---
-date: '2015-07-22'
+date: '2015-07-22T23:33:46-07:00'
 tags:
 - bug
 title: Photo post

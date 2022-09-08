@@ -1,5 +1,5 @@
 ---
-date: '2011-05-25'
+date: '2011-05-25T16:31:32-07:00'
 link: http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD692.html
 tags:
 - computation

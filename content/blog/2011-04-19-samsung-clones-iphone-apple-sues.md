@@ -1,5 +1,5 @@
 ---
-date: '2011-04-19'
+date: '2011-04-19T00:13:00-07:00'
 link: http://arstechnica.com/apple/news/2011/04/bad-touchwiz-apple-sues-samsung-for-patent-violations.ars
 tags:
 - apple

@@ -1,5 +1,5 @@
 ---
-date: '2016-07-13'
+date: '2016-07-13T23:54:14-07:00'
 link: https://aphyr.com/posts/283-call-me-maybe-redis
 tags:
 - aphyr

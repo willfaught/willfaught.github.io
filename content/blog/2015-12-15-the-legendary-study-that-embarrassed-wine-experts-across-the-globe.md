@@ -1,5 +1,5 @@
 ---
-date: '2015-12-15'
+date: '2015-12-15T02:01:37-08:00'
 link: http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html
 tags:
 - wine

@@ -1,5 +1,5 @@
 ---
-date: '2015-04-20'
+date: '2015-04-20T11:54:12-07:00'
 link: http://cir.ca/s/v3EB
 title: 'Manhattan DA: Smartphone encryption will endanger New Yorkers'
 ---

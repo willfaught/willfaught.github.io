@@ -1,5 +1,5 @@
 ---
-date: '2012-04-22'
+date: '2012-04-22T00:58:35-07:00'
 tags:
 - travel
 - souvenirs

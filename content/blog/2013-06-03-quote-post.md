@@ -1,5 +1,5 @@
 ---
-date: '2013-06-03'
+date: '2013-06-03T16:37:02-07:00'
 tags:
 - politics
 title: Quote post

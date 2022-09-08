@@ -1,5 +1,5 @@
 ---
-date: '2016-04-20'
+date: '2016-04-20T00:23:45-07:00'
 link: http://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns
 tags:
 - programming

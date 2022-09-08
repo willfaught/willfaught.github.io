@@ -1,5 +1,5 @@
 ---
-date: '2017-08-13'
+date: '2017-08-13T22:53:52-07:00'
 tags:
 - pg&e
 title: Photo post

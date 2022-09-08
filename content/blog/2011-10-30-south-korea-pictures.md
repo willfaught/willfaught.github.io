@@ -1,5 +1,5 @@
 ---
-date: '2011-10-30'
+date: '2011-10-30T02:56:37-07:00'
 tags:
 - travel
 - south korea

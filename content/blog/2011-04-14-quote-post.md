@@ -1,5 +1,5 @@
 ---
-date: '2011-04-14'
+date: '2011-04-14T14:04:00-07:00'
 tags:
 - politics
 title: Quote post

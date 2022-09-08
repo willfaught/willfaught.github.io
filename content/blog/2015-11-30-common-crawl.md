@@ -1,5 +1,5 @@
 ---
-date: '2015-11-30'
+date: '2015-11-30T13:04:56-08:00'
 link: http://commoncrawl.org
 tags:
 - web

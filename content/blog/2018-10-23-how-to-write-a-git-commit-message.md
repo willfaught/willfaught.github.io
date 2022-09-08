@@ -1,5 +1,5 @@
 ---
-date: '2018-10-23'
+date: '2018-10-23T14:59:07-07:00'
 link: https://chris.beams.io/posts/git-commit/
 tags:
 - coding

@@ -1,5 +1,5 @@
 ---
-date: '2016-04-07'
+date: '2016-04-07T07:39:20-07:00'
 link: https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug
 tags:
 - smartphone

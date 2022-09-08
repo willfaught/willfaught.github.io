@@ -1,5 +1,5 @@
 ---
-date: '2015-10-25'
+date: '2015-10-25T18:34:14-07:00'
 link: http://www.blackpawn.com/texts/lightmaps/default.html
 tags:
 - coding

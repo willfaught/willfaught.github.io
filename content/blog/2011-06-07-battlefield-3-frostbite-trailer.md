@@ -1,5 +1,5 @@
 ---
-date: '2011-06-07'
+date: '2011-06-07T00:58:00-07:00'
 link: http://www.ign.com/videos/2011/06/06/battlefield-3-e3-2011-frostbite-trailer?objectid=82317
 tags:
 - games

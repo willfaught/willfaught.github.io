@@ -1,5 +1,5 @@
 ---
-date: '2018-03-19'
+date: '2018-03-19T14:04:27-07:00'
 link: http://gmacd.net/simplicity/2013/04/25/wirth-oberon-and-simplicity.html
 tags:
 - oberon

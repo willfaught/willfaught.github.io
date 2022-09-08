@@ -1,5 +1,5 @@
 ---
-date: '2015-01-20'
+date: '2015-01-20T01:16:39-08:00'
 link: https://m.youtube.com/watch?v=2Q3YVkm8YJM
 title: Reporters fumbling the name Eyjafjallajokull
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2011-02-02'
+date: '2011-02-02T16:00:06-08:00'
 tags:
 - omnifocus
 - iphone

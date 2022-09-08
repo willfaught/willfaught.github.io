@@ -1,5 +1,5 @@
 ---
-date: '2012-10-23'
+date: '2012-10-23T16:20:00-07:00'
 link: http://www.marco.org/2012/03/07/which-ipad-3-should-i-get
 tags:
 - technology

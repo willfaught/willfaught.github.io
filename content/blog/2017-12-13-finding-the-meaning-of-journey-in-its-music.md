@@ -1,5 +1,5 @@
 ---
-date: '2017-12-13'
+date: '2017-12-13T13:29:16-08:00'
 link: https://www.youtube.com/watch?v=KeKnkaB0MBE
 tags:
 - journey

@@ -1,5 +1,5 @@
 ---
-date: '2015-09-13'
+date: '2015-09-13T01:19:23-07:00'
 link: http://youtu.be/KbWgUO-Rqcw
 tags:
 - gaming

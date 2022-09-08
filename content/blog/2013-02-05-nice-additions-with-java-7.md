@@ -1,5 +1,5 @@
 ---
-date: '2013-02-05'
+date: '2013-02-05T01:02:00-08:00'
 tags:
 - computation
 title: Nice additions with Java 7

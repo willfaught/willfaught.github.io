@@ -1,5 +1,5 @@
 ---
-date: '2011-04-13'
+date: '2011-04-13T00:47:00-07:00'
 tags:
 - astronomy
 - funny

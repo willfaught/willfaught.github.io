@@ -1,5 +1,5 @@
 ---
-date: '2014-06-01'
+date: '2014-06-01T11:04:18-07:00'
 link: http://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/
 tags:
 - reading

@@ -1,5 +1,5 @@
 ---
-date: '2016-03-04'
+date: '2016-03-04T22:44:24-08:00'
 link: https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e#.87fry2ooz
 tags:
 - equity

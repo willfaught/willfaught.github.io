@@ -1,5 +1,5 @@
 ---
-date: '2015-06-24'
+date: '2015-06-24T22:51:57-07:00'
 link: http://20somethingfinance.com/roth-retirement-accounts-are-overrated/
 tags:
 - finance

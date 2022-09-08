@@ -1,5 +1,5 @@
 ---
-date: '2011-03-15'
+date: '2011-03-15T00:55:57-07:00'
 link: http://kevinrose.com/blogg/2011/3/14/apples-role-in-japan-during-the-tohoku-earthquake.html
 tags:
 - tsunami

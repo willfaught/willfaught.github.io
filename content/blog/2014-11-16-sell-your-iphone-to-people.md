@@ -1,5 +1,5 @@
 ---
-date: '2014-11-15'
+date: '2014-11-15T22:04:04-08:00'
 title: Sell your iPhone to people
 ---
 

@@ -1,5 +1,5 @@
 ---
-date: '2018-10-22'
+date: '2018-10-22T15:34:28-07:00'
 link: https://news.ycombinator.com/item?id=17186591
 tags:
 - coding

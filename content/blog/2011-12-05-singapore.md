@@ -1,5 +1,5 @@
 ---
-date: '2011-12-05'
+date: '2011-12-05T07:39:00-08:00'
 tags:
 - travel
 - singapore

@@ -1,5 +1,5 @@
 ---
-date: '2013-05-13'
+date: '2013-05-13T23:35:37-07:00'
 tags:
 - computation
 title: Exit status-colored Bash prompt

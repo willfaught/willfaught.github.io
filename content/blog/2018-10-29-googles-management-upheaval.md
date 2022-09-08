@@ -1,5 +1,5 @@
 ---
-date: '2018-10-29'
+date: '2018-10-29T13:04:37-07:00'
 link: https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/
 tags:
 - coding

@@ -1,5 +1,5 @@
 ---
-date: '2015-08-22'
+date: '2015-08-22T16:33:55-07:00'
 link: https://www.eff.org/deeplinks/2015/06/federal-circuit-strikes-its-own-blow-against-overbroad-software-patents
 tags:
 - patents

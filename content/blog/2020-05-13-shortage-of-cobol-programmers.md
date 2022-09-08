@@ -2,7 +2,7 @@
 categories:
 - code
 - world
-date: '2020-05-12'
+date: '2020-05-12T19:23:00-07:00'
 keywords:
 - cobol
 - coronavirus

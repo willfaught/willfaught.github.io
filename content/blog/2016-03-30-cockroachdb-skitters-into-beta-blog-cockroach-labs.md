@@ -1,5 +1,5 @@
 ---
-date: '2016-03-30'
+date: '2016-03-30T11:45:42-07:00'
 link: https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/
 tags:
 - cockroach

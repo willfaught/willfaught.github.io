@@ -1,5 +1,5 @@
 ---
-date: '2011-05-31'
+date: '2011-05-31T23:00:06-07:00'
 link: http://www.thc.org/root/phun/unmaintain.html
 tags:
 - funny

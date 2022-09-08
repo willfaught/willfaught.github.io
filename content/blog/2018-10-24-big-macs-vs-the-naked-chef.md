@@ -1,5 +1,5 @@
 ---
-date: '2018-10-24'
+date: '2018-10-24T00:23:19-07:00'
 link: https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/
 tags:
 - coding

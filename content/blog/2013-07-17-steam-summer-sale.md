@@ -1,5 +1,5 @@
 ---
-date: '2013-07-16'
+date: '2013-07-16T22:12:40-07:00'
 tags:
 - playing
 title: Steam Summer Sale

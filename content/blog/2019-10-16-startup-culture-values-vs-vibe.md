@@ -1,5 +1,5 @@
 ---
-date: '2019-10-16'
+date: '2019-10-16T15:20:26-07:00'
 link: https://chrismoody.com/startup-culture/
 tags:
 - culture

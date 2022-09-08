@@ -1,5 +1,5 @@
 ---
-date: '2011-03-15'
+date: '2011-03-15T23:32:42-07:00'
 link: http://www.businessinsider.com/flash-video-on-tablets-the-real-reason-why-its-not-happened-2011-3
 tags:
 - flash

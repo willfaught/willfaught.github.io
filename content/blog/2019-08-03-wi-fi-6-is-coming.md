@@ -1,5 +1,5 @@
 ---
-date: '2019-08-02'
+date: '2019-08-02T17:45:40-07:00'
 link: https://9to5mac.com/guides/wi-fi-6/
 tags:
 - tech

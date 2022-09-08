@@ -1,5 +1,5 @@
 ---
-date: '2015-02-14'
+date: '2015-02-14T15:28:37-08:00'
 link: http://mesos.apache.org
 tags:
 - cluster management

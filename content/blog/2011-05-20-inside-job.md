@@ -1,5 +1,5 @@
 ---
-date: '2011-05-20'
+date: '2011-05-20T12:00:05-07:00'
 tags:
 - opinions
 - movies

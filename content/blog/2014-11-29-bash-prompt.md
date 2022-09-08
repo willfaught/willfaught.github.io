@@ -1,5 +1,5 @@
 ---
-date: '2014-11-29'
+date: '2014-11-29T12:22:00-08:00'
 tags:
 - computing
 title: Bash prompt

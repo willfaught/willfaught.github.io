@@ -1,5 +1,5 @@
 ---
-date: '2015-05-26'
+date: '2015-05-26T19:26:24-07:00'
 link: https://talks.go-zh.org/2015/gofmt-en.slide
 tags:
 - golang

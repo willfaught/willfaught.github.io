@@ -1,5 +1,5 @@
 ---
-date: '2015-01-31'
+date: '2015-01-31T10:52:22-08:00'
 tags:
 - geek
 title: Photo post

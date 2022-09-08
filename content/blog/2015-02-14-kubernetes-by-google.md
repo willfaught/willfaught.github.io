@@ -1,5 +1,5 @@
 ---
-date: '2015-02-14'
+date: '2015-02-14T15:20:34-08:00'
 link: http://kubernetes.io
 tags:
 - cluster management

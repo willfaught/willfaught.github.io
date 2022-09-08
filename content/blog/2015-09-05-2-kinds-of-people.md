@@ -1,5 +1,5 @@
 ---
-date: '2015-09-05'
+date: '2015-09-05T15:39:40-07:00'
 link: http://2kindsofpeople.tumblr.com/
 tags:
 - funny

@@ -1,5 +1,5 @@
 ---
-date: '2015-06-02'
+date: '2015-06-02T19:05:29-07:00'
 link: http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3
 tags:
 - games

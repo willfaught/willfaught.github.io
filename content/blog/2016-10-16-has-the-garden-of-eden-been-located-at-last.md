@@ -1,5 +1,5 @@
 ---
-date: '2016-10-16'
+date: '2016-10-16T15:53:11-07:00'
 link: http://www.ldolphin.org/eden/
 tags:
 - eden

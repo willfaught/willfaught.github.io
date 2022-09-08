@@ -1,5 +1,5 @@
 ---
-date: '2011-08-15'
+date: '2011-08-15T00:22:52-07:00'
 tags:
 - cool
 title: Video post

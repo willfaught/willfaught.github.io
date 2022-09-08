@@ -1,5 +1,5 @@
 ---
-date: '2015-06-14'
+date: '2015-06-14T16:50:00-07:00'
 link: https://blog.agilebits.com/2012/07/31/1password-is-ready-for-john-the-ripper/
 tags:
 - computing

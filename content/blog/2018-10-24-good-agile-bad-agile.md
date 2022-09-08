@@ -1,5 +1,5 @@
 ---
-date: '2018-10-23'
+date: '2018-10-23T23:16:58-07:00'
 link: http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html
 tags:
 - coding

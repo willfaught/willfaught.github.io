@@ -1,5 +1,5 @@
 ---
-date: '2013-01-31'
+date: '2013-01-31T00:01:00-08:00'
 tags:
 - computation
 title: Longest contiguous subarray

@@ -1,5 +1,5 @@
 ---
-date: '2013-04-08'
+date: '2013-04-08T21:31:00-07:00'
 link: http://www.crockford.com/wrrrld/wilkins.html
 tags:
 - reading

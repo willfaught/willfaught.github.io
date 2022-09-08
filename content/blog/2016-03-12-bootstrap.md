@@ -1,5 +1,5 @@
 ---
-date: '2016-03-12'
+date: '2016-03-12T00:53:40-08:00'
 link: https://github.com/willfaught/bootstrap
 tags:
 - programming

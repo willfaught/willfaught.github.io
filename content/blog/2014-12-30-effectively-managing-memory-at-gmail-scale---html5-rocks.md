@@ -1,5 +1,5 @@
 ---
-date: '2014-12-30'
+date: '2014-12-30T10:57:27-08:00'
 link: http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/
 title: Effectively managing memory at Gmail scale - HTML5 Rocks
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2011-06-10'
+date: '2011-06-10T23:00:06-07:00'
 link: http://www.fieggen.com/shoelace/slipping.htm
 tags:
 - fyi

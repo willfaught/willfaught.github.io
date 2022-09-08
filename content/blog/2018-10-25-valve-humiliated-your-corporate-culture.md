@@ -1,5 +1,5 @@
 ---
-date: '2018-10-25'
+date: '2018-10-25T00:52:38-07:00'
 link: https://web.archive.org/web/20120913001404/http://michaelochurch.wordpress.com:80/2012/08/09/dont-look-now-but-valve-just-humiliated-your-corporate-culture/
 tags:
 - coding

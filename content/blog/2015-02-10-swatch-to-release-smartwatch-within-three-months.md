@@ -1,5 +1,5 @@
 ---
-date: '2015-02-09'
+date: '2015-02-09T18:21:05-08:00'
 link: http://cir.ca/s/5WR
 tags:
 - funny

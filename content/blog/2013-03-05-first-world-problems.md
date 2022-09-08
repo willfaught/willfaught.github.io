@@ -1,5 +1,5 @@
 ---
-date: '2013-03-05'
+date: '2013-03-05T12:01:21-08:00'
 link: http://www.quickmeme.com/First-World-Problems/
 tags:
 - funny

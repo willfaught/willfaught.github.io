@@ -1,5 +1,5 @@
 ---
-date: '2012-02-06'
+date: '2012-02-06T06:09:18-08:00'
 link: http://www.reelviews.net/php_review_template.php?identifier=2398
 tags:
 - movies

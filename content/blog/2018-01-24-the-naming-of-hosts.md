@@ -1,5 +1,5 @@
 ---
-date: '2018-01-24'
+date: '2018-01-24T11:10:38-08:00'
 link: https://tools.ietf.org/html/rfc2100
 tags:
 - coding

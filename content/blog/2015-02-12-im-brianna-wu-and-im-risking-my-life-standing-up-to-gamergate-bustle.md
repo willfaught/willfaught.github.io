@@ -1,5 +1,5 @@
 ---
-date: '2015-02-12'
+date: '2015-02-12T13:11:13-08:00'
 link: http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
 tags:
 - gamergate

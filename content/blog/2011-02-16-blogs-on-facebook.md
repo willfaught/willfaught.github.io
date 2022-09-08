@@ -1,5 +1,5 @@
 ---
-date: '2011-02-16'
+date: '2011-02-16T00:09:14-08:00'
 tags:
 - facebook
 - blogging

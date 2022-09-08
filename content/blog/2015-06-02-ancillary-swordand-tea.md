@@ -1,5 +1,5 @@
 ---
-date: '2015-06-01'
+date: '2015-06-01T22:03:44-07:00'
 link: http://www.amazon.com/gp/aw/cr/0316246654/
 tags:
 - science fiction

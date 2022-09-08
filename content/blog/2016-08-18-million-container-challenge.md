@@ -1,5 +1,5 @@
 ---
-date: '2016-08-17'
+date: '2016-08-17T17:02:42-07:00'
 link: https://www.hashicorp.com/c1m.html
 tags:
 - hashicorp

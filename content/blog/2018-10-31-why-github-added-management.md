@@ -1,5 +1,5 @@
 ---
-date: '2018-10-30'
+date: '2018-10-30T23:00:24-07:00'
 link: https://www.theglobeandmail.com/report-on-business/small-business/startups/why-github-finally-abandoned-its-bossless-workplace/article31718152/
 tags:
 - coding

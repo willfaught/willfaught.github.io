@@ -1,5 +1,5 @@
 ---
-date: '2015-07-25'
+date: '2015-07-25T23:06:32-07:00'
 link: https://medium.com/@blakeross/wealthfront-silicon-valley-tech-at-wall-street-prices-fdd2e5f54905
 tags:
 - finance

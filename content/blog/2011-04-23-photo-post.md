@@ -1,5 +1,5 @@
 ---
-date: '2011-04-23'
+date: '2011-04-23T02:27:00-07:00'
 tags:
 - wondermark
 - funny

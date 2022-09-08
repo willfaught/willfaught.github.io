@@ -1,5 +1,5 @@
 ---
-date: '2013-04-11'
+date: '2013-04-11T23:50:00-07:00'
 link: http://www.quickmeme.com/Always-Online-Adam-Orth/
 tags:
 - funny

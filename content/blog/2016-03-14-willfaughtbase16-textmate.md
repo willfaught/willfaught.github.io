@@ -1,5 +1,5 @@
 ---
-date: '2016-03-14'
+date: '2016-03-14T14:06:39-07:00'
 link: https://github.com/willfaught/base16-textmate
 tags:
 - textmate

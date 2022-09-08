@@ -1,5 +1,5 @@
 ---
-date: '2015-08-16'
+date: '2015-08-16T17:10:05-07:00'
 tags:
 - comcastic
 - craptastic

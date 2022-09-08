@@ -1,5 +1,5 @@
 ---
-date: '2011-02-25'
+date: '2011-02-25T12:00:07-08:00'
 tags:
 - apple
 - mac os lion

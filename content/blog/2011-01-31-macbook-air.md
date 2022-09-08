@@ -1,5 +1,5 @@
 ---
-date: '2011-01-31'
+date: '2011-01-31T00:10:18-08:00'
 tags:
 - macbook air
 - apple

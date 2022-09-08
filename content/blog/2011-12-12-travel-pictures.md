@@ -1,5 +1,5 @@
 ---
-date: '2011-12-11'
+date: '2011-12-11T22:47:06-08:00'
 tags:
 - travel
 - pictures

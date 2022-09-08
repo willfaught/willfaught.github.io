@@ -1,5 +1,5 @@
 ---
-date: '2016-03-18'
+date: '2016-03-18T21:53:03-07:00'
 link: https://medium.com/@MikePosner/i-took-a-pill-in-ibiza-2f7de1406c6d#.xi2v8fulw
 tags:
 - mike posner

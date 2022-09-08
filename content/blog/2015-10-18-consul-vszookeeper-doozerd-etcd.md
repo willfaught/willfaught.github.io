@@ -1,5 +1,5 @@
 ---
-date: '2015-10-17'
+date: '2015-10-17T18:20:08-07:00'
 link: https://www.consul.io/intro/vs/zookeeper.html
 tags:
 - consul

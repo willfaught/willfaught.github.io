@@ -1,5 +1,5 @@
 ---
-date: '2012-12-27'
+date: '2012-12-27T17:37:00-08:00'
 tags:
 - computation
 - code

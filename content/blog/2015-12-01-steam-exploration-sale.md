@@ -1,5 +1,5 @@
 ---
-date: '2015-11-30'
+date: '2015-11-30T23:28:14-08:00'
 link: http://store.steampowered.com
 tags:
 - steam

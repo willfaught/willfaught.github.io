@@ -1,5 +1,5 @@
 ---
-date: '2016-07-11'
+date: '2016-07-11T19:08:21-07:00'
 link: https://play.golang.org/p/RBZAIs6lW9
 tags:
 - golang

@@ -1,5 +1,5 @@
 ---
-date: '2014-07-06'
+date: '2014-07-06T00:35:14-07:00'
 link: http://en.wikipedia.org/wiki/ZIP_code
 tags:
 - random

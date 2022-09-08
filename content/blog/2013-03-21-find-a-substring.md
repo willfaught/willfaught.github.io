@@ -1,5 +1,5 @@
 ---
-date: '2013-03-20'
+date: '2013-03-20T19:36:23-07:00'
 tags:
 - computation
 - code

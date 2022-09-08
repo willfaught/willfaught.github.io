@@ -1,5 +1,5 @@
 ---
-date: '2015-02-03'
+date: '2015-02-03T19:35:36-08:00'
 link: http://en.m.wikipedia.org/wiki/Combat_medic#Geneva_convention_protection
 tags:
 - interesting

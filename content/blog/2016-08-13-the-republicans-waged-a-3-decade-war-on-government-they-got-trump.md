@@ -1,5 +1,5 @@
 ---
-date: '2016-08-12'
+date: '2016-08-12T17:19:41-07:00'
 link: http://www.vox.com/2016/7/18/12210500/diagnosed-dysfunction-republican-party
 tags:
 - politics

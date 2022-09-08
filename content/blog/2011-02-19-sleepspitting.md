@@ -1,5 +1,5 @@
 ---
-date: '2011-02-19'
+date: '2011-02-19T12:00:07-08:00'
 tags:
 - sleep
 title: Sleepspitting

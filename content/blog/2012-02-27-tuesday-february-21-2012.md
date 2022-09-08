@@ -1,5 +1,5 @@
 ---
-date: '2012-02-27'
+date: '2012-02-27T01:32:00-08:00'
 tags:
 - travel
 - cambodia

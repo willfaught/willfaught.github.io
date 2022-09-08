@@ -1,5 +1,5 @@
 ---
-date: '2015-12-02'
+date: '2015-12-02T14:11:19-08:00'
 link: https://get.fabric.io
 tags:
 - apps

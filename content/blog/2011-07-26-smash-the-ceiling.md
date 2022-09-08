@@ -1,5 +1,5 @@
 ---
-date: '2011-07-26'
+date: '2011-07-26T08:40:18-07:00'
 link: http://www.newyorker.com/talk/financial/2011/08/01/110801ta_talk_surowiecki
 tags:
 - interesting

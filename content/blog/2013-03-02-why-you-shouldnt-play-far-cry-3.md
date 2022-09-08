@@ -1,5 +1,5 @@
 ---
-date: '2013-03-02'
+date: '2013-03-02T09:01:00-08:00'
 link: http://www.cracked.com/blog/3-reasons-you-shouldnt-play-best-video-game-year/
 tags:
 - playing

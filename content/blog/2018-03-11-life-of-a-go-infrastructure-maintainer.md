@@ -1,5 +1,5 @@
 ---
-date: '2018-03-10'
+date: '2018-03-10T16:00:26-08:00'
 link: https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5
 title: Life of a Go Infrastructure Maintainer
 ---

@@ -1,5 +1,5 @@
 ---
-date: '2011-04-27'
+date: '2011-04-27T19:16:33-07:00'
 tags:
 - basic instructions
 - funny

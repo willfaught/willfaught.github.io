@@ -1,5 +1,5 @@
 ---
-date: '2014-12-22'
+date: '2014-12-22T18:34:00-08:00'
 link: http://cir.ca/s/1xGB
 title: North Korea hit with Internet outage days after being linked to Sony hack
 ---

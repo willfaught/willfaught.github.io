@@ -1,5 +1,5 @@
 ---
-date: '2017-10-27'
+date: '2017-10-27T21:58:14-07:00'
 title: The Icon Journey
 ---
 

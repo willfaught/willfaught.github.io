@@ -1,5 +1,5 @@
 ---
-date: '2017-10-31'
+date: '2017-10-31T12:41:53-07:00'
 link: https://www.theverge.com/2017/10/31/16580976/super-mario-run-nintendo-downloads-profit
 title: Super Mario Run’s 200 million downloads didn’t result in ‘acceptable profit’
   for Nintendo - The Verge

@@ -1,5 +1,5 @@
 ---
-date: '2011-04-06'
+date: '2011-04-06T13:53:00-07:00'
 tags:
 - penny arcade
 - star wars

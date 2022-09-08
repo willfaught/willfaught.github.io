@@ -1,5 +1,5 @@
 ---
-date: '2017-04-12'
+date: '2017-04-12T12:27:35-07:00'
 link: http://bonsaiden.github.io/JavaScript-Garden/
 tags:
 - programming

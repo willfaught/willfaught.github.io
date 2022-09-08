@@ -1,5 +1,5 @@
 ---
-date: '2014-06-06'
+date: '2014-06-06T23:31:09-07:00'
 tags:
 - computing
 title: Go export syntax

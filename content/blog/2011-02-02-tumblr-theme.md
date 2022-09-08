@@ -1,5 +1,5 @@
 ---
-date: '2011-02-01'
+date: '2011-02-01T16:00:07-08:00'
 tags:
 - tumblr
 title: Tumblr theme

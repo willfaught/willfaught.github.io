@@ -1,5 +1,5 @@
 ---
-date: '2013-03-21'
+date: '2013-03-21T18:35:47-07:00'
 tags:
 - computation
 title: The beauty of XOR

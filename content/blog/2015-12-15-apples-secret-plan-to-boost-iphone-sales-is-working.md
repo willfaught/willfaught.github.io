@@ -1,5 +1,5 @@
 ---
-date: '2015-12-15'
+date: '2015-12-15T11:10:44-08:00'
 link: http://fortune.com/2015/12/15/apple-iphone-upgrade-program/
 tags:
 - iphone

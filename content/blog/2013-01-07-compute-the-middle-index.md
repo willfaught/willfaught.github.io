@@ -1,5 +1,5 @@
 ---
-date: '2013-01-06'
+date: '2013-01-06T18:02:00-08:00'
 tags:
 - computation
 title: Compute the middle index

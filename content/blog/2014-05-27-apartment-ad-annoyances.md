@@ -1,5 +1,5 @@
 ---
-date: '2014-05-26'
+date: '2014-05-26T19:53:02-07:00'
 tags:
 - living
 title: Apartment ad annoyances

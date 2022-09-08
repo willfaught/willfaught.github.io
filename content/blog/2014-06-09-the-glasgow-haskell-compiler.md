@@ -1,5 +1,5 @@
 ---
-date: '2014-06-08'
+date: '2014-06-08T17:02:40-07:00'
 link: http://www.aosabook.org/en/ghc.html
 tags:
 - computing

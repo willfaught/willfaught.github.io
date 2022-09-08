@@ -1,5 +1,5 @@
 ---
-date: '2011-07-10'
+date: '2011-07-10T23:00:05-07:00'
 tags:
 - ideas
 - computation

@@ -1,5 +1,5 @@
 ---
-date: '2016-04-20'
+date: '2016-04-20T09:58:23-07:00'
 link: http://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html
 tags:
 - programming

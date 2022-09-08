@@ -1,5 +1,5 @@
 ---
-date: '2014-11-29'
+date: '2014-11-29T12:13:13-08:00'
 title: Apple Pay in Safari
 ---
 

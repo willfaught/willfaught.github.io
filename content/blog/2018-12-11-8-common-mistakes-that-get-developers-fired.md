@@ -1,5 +1,5 @@
 ---
-date: '2018-12-10'
+date: '2018-12-10T19:14:20-08:00'
 link: https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/
 tags:
 - coding

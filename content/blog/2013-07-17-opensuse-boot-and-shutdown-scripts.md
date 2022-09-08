@@ -1,5 +1,5 @@
 ---
-date: '2013-07-16'
+date: '2013-07-16T22:15:10-07:00'
 tags:
 - computing
 title: OpenSUSE boot and shutdown scripts

@@ -1,5 +1,5 @@
 ---
-date: '2014-04-01'
+date: '2014-04-01T14:25:52-07:00'
 tags:
 - computing
 title: Print equilateral diamonds

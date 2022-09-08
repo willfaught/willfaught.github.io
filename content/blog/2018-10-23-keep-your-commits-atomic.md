@@ -1,5 +1,5 @@
 ---
-date: '2018-10-23'
+date: '2018-10-23T16:02:54-07:00'
 link: https://www.freshconsulting.com/atomic-commits/
 tags:
 - coding

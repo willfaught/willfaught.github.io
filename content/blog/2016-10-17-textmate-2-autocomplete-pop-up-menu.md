@@ -1,5 +1,5 @@
 ---
-date: '2016-10-17'
+date: '2016-10-17T01:34:43-07:00'
 tags:
 - textmate
 - autocomplete

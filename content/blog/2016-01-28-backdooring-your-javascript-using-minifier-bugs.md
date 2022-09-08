@@ -1,5 +1,5 @@
 ---
-date: '2016-01-28'
+date: '2016-01-28T11:23:51-08:00'
 link: https://zyan.scripts.mit.edu/blog/backdooring-js/
 tags:
 - programming

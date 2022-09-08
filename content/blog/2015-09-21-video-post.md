@@ -1,5 +1,5 @@
 ---
-date: '2015-09-20'
+date: '2015-09-20T23:45:18-07:00'
 tags:
 - far cry 4
 title: Video post

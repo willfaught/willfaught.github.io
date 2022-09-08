@@ -1,5 +1,5 @@
 ---
-date: '2016-06-24'
+date: '2016-06-24T09:27:58-07:00'
 link: http://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs
 tags:
 - gaming

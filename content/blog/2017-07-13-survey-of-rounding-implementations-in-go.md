@@ -1,5 +1,5 @@
 ---
-date: '2017-07-13'
+date: '2017-07-13T16:58:11-07:00'
 link: https://www.cockroachlabs.com/blog/rounding-implementations-in-go/
 tags:
 - golang

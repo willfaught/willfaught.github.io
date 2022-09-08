@@ -1,5 +1,5 @@
 ---
-date: '2011-03-24'
+date: '2011-03-24T11:34:00-07:00'
 tags:
 - silverlight
 - fyi

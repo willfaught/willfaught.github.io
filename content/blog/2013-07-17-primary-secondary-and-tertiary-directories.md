@@ -1,5 +1,5 @@
 ---
-date: '2013-07-16'
+date: '2013-07-16T22:21:39-07:00'
 tags:
 - computing
 title: Primary, secondary, and tertiary directories

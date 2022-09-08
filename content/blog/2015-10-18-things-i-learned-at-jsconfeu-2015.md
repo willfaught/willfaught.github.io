@@ -1,5 +1,5 @@
 ---
-date: '2015-10-17'
+date: '2015-10-17T17:11:50-07:00'
 link: https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe
 tags:
 - jsconf

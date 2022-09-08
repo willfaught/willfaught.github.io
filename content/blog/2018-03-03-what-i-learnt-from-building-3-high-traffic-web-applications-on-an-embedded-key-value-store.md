@@ -1,5 +1,5 @@
 ---
-date: '2018-03-02'
+date: '2018-03-02T17:51:14-08:00'
 link: https://hackernoon.com/what-i-learnt-from-building-3-high-traffic-web-applications-on-an-embedded-key-value-store-68d47249774f
 tags:
 - coding

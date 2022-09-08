@@ -1,5 +1,5 @@
 ---
-date: '2015-02-16'
+date: '2015-02-16T13:49:18-08:00'
 tags:
 - software engineering
 - hiring

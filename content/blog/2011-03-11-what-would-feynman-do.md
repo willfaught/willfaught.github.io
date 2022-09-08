@@ -1,5 +1,5 @@
 ---
-date: '2011-03-11'
+date: '2011-03-11T12:00:08-08:00'
 link: http://blogs.msdn.com/b/ericlippert/archive/2011/02/14/what-would-feynman-do.aspx?PageIndex=1
 tags:
 - feynman

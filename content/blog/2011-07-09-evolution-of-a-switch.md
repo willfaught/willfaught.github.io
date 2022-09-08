@@ -1,5 +1,5 @@
 ---
-date: '2011-07-08'
+date: '2011-07-08T23:00:05-07:00'
 tags:
 - opinions
 - computation

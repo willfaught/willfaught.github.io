@@ -1,5 +1,5 @@
 ---
-date: '2015-04-21'
+date: '2015-04-21T21:39:55-07:00'
 link: https://www.eff.org/issues/tpp
 tags:
 - eff
