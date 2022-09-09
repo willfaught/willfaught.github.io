@@ -14,7 +14,7 @@ title: "The Mythical Corset Oppression"
 
 ["How Victorian Men Taught Us to Hate Corsets: The Biggest Lie in Fashion History"](https://www.youtube.com/watch?v=zNwTqanp0Aw)
 
-<div style="margin-bottom: 1rem">{{< youtube "zNwTqanp0Aw" >}}
+<div style="margin-bottom: 1rem">{{< youtube "zNwTqanp0Aw" >}}</div>
 
 ["how actresses talk about wearing corsets in movies"](https://www.youtube.com/watch?v=l8fg5Q8liS0)
 
