@@ -37,6 +37,9 @@ menu:
     name: Tags
     weight: 6
     url: /tags/
+module:
+  imports:
+  - path: github.com/willfaught/paige
 paginate: 50
 permalinks:
   blog: /blog/:year/:month/:day/:title/
@@ -44,7 +47,6 @@ social:
   envelope: mailto:pushes.kingdom_0e@icloud.com
   github: https://github.com/willfaught
   linkedin: https://www.linkedin.com/in/willfaught
-theme: paige
 timezone: America/Los_Angeles
 title: Will Do
 titlecasestyle: Go
