@@ -25,10 +25,10 @@ menu:
     name: Articles
     weight: 3
     url: /articles/
-  # - identifier: projects
-  #   name: Projects
-  #   weight: 4
-  #   url: /projects]/
+# - identifier: projects
+#   name: Projects
+#   weight: 4
+#   url: /projects/
   - identifier: categories
     name: Categories
     weight: 5
