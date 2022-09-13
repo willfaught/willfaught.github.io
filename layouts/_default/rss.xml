@@ -65,7 +65,7 @@
       <author>{{ . }}</author>
       {{ end }}
       {{ if .Content }}
-      <description>{{ printf "<![CDATA[%s]]" .Content | safeHTML }}</description>
+      <description>{{ printf "<![CDATA[%s]]>" .Content | safeHTML }}</description>
       {{ else if .Summary }}
       <description>{{ .Summary | html }}</description>
       {{ else if .Description }}
