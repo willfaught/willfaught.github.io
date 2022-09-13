@@ -75,7 +75,7 @@
       <author>{{ . }}</author>
       {{- end }}
       {{ if or .Description .Summary -}}
-      <description>{{ if .Description }}{{ .Description | markdownify }}{{ else }}{{ .Summary | html }}{{ end }}</description>
+      <description>{{ if .Description }}{{ .Description | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
       {{- end }}
     </item>
     {{- end }}
