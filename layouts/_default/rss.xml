@@ -73,10 +73,14 @@
       {{- end }}
       {{ with $author -}}
       <author>{{ . }}</author>
-      {{- end }}
-      {{ if or .Description .Summary -}}
-      <description>{{ if .Description }}{{ .Description | html }}{{ else }}{{ .Summary | html }}{{ end }}</description>
-      {{- end }}
+      {{- end -}}
+      {{- if .Content -}}
+      <description>{{ .Content | html }}</description>
+      {{- else if .Summary -}}
+      <description>{{ .Summary | html }}</description>
+      {{- else if .Description -}}
+      <description>{{ .Description | html }}</description>
+      {{- end -}}
     </item>
     {{- end }}
     {{- end }}
