@@ -2,7 +2,7 @@
 date: '2015-09-20T23:45:18-07:00'
 tags:
 - far cry 4
-title: Video post
+title: Can't Discover The Sunken Truck In Far Cry 4
 ---
 
 {{< youtube nutSYGMp6_M >}}
