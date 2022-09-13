@@ -24,14 +24,6 @@
 {{- $title = .Site.Title -}}
 {{- end -}}
 {{- end -}}
-{{- $author := "" -}}
-{{- if and .Site.Author.email .Site.Author.name -}}
-{{- $author = printf "%s (%s)" .Site.Author.email .Site.Author.name -}}
-{{- else if .Site.Author.email -}}
-{{- $author = .Site.Author.email -}}
-{{- else -}}
-{{- $author = .Site.Author.name -}}
-{{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -43,10 +35,10 @@
     {{ with .Site.LanguageCode -}}
     <language>{{ . }}</language>
     {{- end }}
-    {{ with $author -}}
+    {{ with .Site.Author.email -}}
     <managingEditor>{{ . }}</managingEditor>
     {{- end }}
-    {{ with $author -}}
+    {{ with .Site.Author.email -}}
     <webMaster>{{ . }}</webMaster>
     {{- end }}
     {{ with .Site.Copyright -}}
@@ -71,7 +63,7 @@
       {{ with .Date -}}
       <pubDate>{{ .Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- end }}
-      {{ with $author -}}
+      {{ with .Site.Author.email -}}
       <author>{{ . }}</author>
       {{- end -}}
       {{- if .Content -}}
