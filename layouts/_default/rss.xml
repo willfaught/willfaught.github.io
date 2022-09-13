@@ -37,8 +37,6 @@
     {{- end }}
     {{ with .Site.Author.email -}}
     <managingEditor>{{ . }}</managingEditor>
-    {{- end }}
-    {{ with .Site.Author.email -}}
     <webMaster>{{ . }}</webMaster>
     {{- end }}
     {{ with .Site.Copyright -}}
