@@ -4,7 +4,7 @@ tags:
 - aol
 - funny
 - arianna huffington
-title: Quote post
+title: Quite A Snack
 ---
 
 Eric D. Snider:

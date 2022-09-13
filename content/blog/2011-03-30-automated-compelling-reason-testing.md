@@ -3,7 +3,7 @@ date: '2011-03-30T16:51:00-07:00'
 tags:
 - microsoft
 - funny
-title: Quote post
+title: Automated Compelling Reason Testing
 ---
 
 Joel Spolsky:

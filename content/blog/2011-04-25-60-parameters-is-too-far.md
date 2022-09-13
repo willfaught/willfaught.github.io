@@ -3,7 +3,7 @@ date: '2011-04-24T23:06:00-07:00'
 tags:
 - metafont
 - donald knuth
-title: Quote post
+title: 60 Parameters Is Too Far
 ---
 
 Donald Knuth:

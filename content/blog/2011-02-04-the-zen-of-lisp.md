@@ -4,7 +4,7 @@ tags:
 - sicp
 - lisp
 - universal machine
-title: Quote post
+title: The Zen Of Lisp
 ---
 
 <a href="https://web.archive.org/web/20170825143412/https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html">Structure and Interpretation of Computer Programs:</a>
