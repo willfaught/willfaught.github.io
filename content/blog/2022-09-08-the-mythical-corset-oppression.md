@@ -1,9 +1,9 @@
 ---
-categories: ["world"]
+categories: [world]
 date: 2022-09-08T14:42:45-07:00
-description: "It turns out that women know what they're doing when they dress themselves"
-tags: ["corset", "myth", "oppression"]
-title: "The Mythical Corset Oppression"
+description: It turns out that women know what they're doing when they dress themselves.
+tags: [corset, myth, oppression]
+title: The Mythical Corset Oppression
 ---
 
 ## Videos
