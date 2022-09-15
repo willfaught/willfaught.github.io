@@ -6,7 +6,7 @@ tags:
 - hardware
 - camera
 - modular
-title: 'Smartphones Are Boring: Here''s What Happens Next'
+title: 'Smartphones Are Boring: Here's What Happens Next'
 ---
 
 Joanna Stern, writing for the Wall Street Journal:
