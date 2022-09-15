@@ -9,7 +9,7 @@ title: The Problems With Holacracy
 
 Vladimir Oane explains [holacracy](https://en.wikipedia.org/wiki/Holacracy):
 
->Holacracy is a system designed to move companies away from rigid corporate structures and toward decentralized management and dynamic composition. As envisioned, under a holacracy teams largely self-organize, and individuals operate with a fair amount of autonomy. Ideally, this puts work at the forefront and lets a company's organizational structure support that work, rather than the other way around. As Tom Thomison, a partner at HolacracyOne — the company teaching this system — puts it, “Nothing gets in the way of the work.”
+>Holacracy is a system designed to move companies away from rigid corporate structures and toward decentralized management and dynamic composition. As envisioned, under a holacracy teams largely self-organize, and individuals operate with a fair amount of autonomy. Ideally, this puts work at the forefront and lets a company's organizational structure support that work, rather than the other way around. As Tom Thomison, a partner at HolacracyOne — the company teaching this system — puts it, "Nothing gets in the way of the work.”
 
 It didn't work out so well for some notable examples:
 
@@ -24,4 +24,4 @@ The reasons given for why it failed for them:
 
 He goes into detail for each. On the problem of shared ownership in particular:
 
->An attraction to shared ownership is as old as time. The choice members of each community had to make at some point was: Should they empower a gifted, driven, powerful member of the community in a leadership position? Or should they create a society in which all citizens are “equal” (note, a discussion of equality is beyond the purpose of this article)? The former approach can lead to dictatorship, the latter to mediocrity. The former optimizes for upside, the latter protects against the downside. So which one should a company choose?
+>An attraction to shared ownership is as old as time. The choice members of each community had to make at some point was: Should they empower a gifted, driven, powerful member of the community in a leadership position? Or should they create a society in which all citizens are "equal” (note, a discussion of equality is beyond the purpose of this article)? The former approach can lead to dictatorship, the latter to mediocrity. The former optimizes for upside, the latter protects against the downside. So which one should a company choose?
