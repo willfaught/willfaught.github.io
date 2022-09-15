@@ -4,7 +4,7 @@ link: https://chrismoody.com/startup-culture/
 tags:
 - culture
 - startup
-title: 'Startup Culture:  Values vs. Vibe'
+title: 'Startup Culture: Values vs. Vibe'
 ---
 
 Chris Moody on what part of company culture is actually important:
