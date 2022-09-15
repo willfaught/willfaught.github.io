@@ -4,7 +4,7 @@ link: http://www.macstories.net/stories/ios-9-wishes/
 tags:
 - apple
 - ios
-title: Federico Viticii's iOS 9 wish list
+title: Federico Viticii's IOS 9 Wish List
 ---
 
 Great list. I'd love to see all of these.

@@ -6,7 +6,7 @@ tags:
 - consul
 - chef
 - puppet
-title: Consul vs. Chef, Puppet, etc.
+title: Consul Vs. Chef, Puppet, Etc.
 ---
 
 HashiCorp on Consul versus Chef, Puppet, etc.:

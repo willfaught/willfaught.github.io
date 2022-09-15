@@ -3,7 +3,7 @@ date: '2015-09-04T18:58:06-07:00'
 link: http://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
 tags:
 - software
-title: Numbers every software engineer should know
+title: Numbers Every Software Engineer Should Know
 ---
 
 Jeff Dean:

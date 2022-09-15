@@ -5,7 +5,7 @@ tags:
 - games
 - quotations
 - opinions
-title: Recipe for Rebooting Tomb Raider
+title: Recipe For Rebooting Tomb Raider
 ---
 
 >So what steps is Crystal Dynamics [the game maker] taking to reinvent Tomb Raider? 

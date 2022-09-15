@@ -5,7 +5,7 @@ tags:
 - programming
 - c
 - calloc
-title: Why does calloc exist?
+title: Why Does Calloc Exist?
 ---
 
 Nathaniel J. Smith on the purpose of calloc:

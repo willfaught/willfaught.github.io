@@ -4,7 +4,7 @@ link: http://cir.ca/s/CMLB
 tags:
 - north korea
 - south korea
-title: Jackass further destabilizes the Korean region
+title: Jackass Further Destabilizes The Korean Region
 ---
 
 Biggest dumbass in the world:

@@ -7,7 +7,7 @@ tags:
 - bible
 - archeology
 - adam
-title: Has the Garden of Eden been located at last?
+title: Has The Garden Of Eden Been Located At Last?
 ---
 
 A really compelling investigation of whether Eden existed and where. There's a really good telling of it all (but with less detail) in a Myth Hunters episode (currently available on Netflix).

@@ -4,7 +4,7 @@ link: http://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1
 tags:
 - programming
 - management
-title: What's awful about being a software engineer IC, tech lead & manager
+title: What's Awful About Being A Software Engineer IC, Tech Lead & Manager
 ---
 
 Brett Slatner on the trials and tribulations of being a software engineering individual contributor, tech lead, and manager:

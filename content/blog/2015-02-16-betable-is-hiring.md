@@ -4,7 +4,7 @@ tags:
 - software engineering
 - hiring
 - betable
-title: Betable is hiring
+title: Betable Is Hiring
 ---
 
 Betable — where I work — is looking to hire a senior software engineer in San Francisco:

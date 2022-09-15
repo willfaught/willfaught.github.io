@@ -8,7 +8,7 @@ tags:
 - appkit
 - apps
 - filesystems
-title: 'macOS: It’s time to take the next step'
+title: 'MacOS: It''s Time To Take The Next Step'
 ---
 
 Andrew Ambrosino hits the nail on the head:

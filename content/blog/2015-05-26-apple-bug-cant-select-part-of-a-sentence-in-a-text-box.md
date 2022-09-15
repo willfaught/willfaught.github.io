@@ -3,7 +3,7 @@ date: '2015-05-26T20:51:55-07:00'
 tags:
 - apple
 - bug
-title: 'Apple bug: Can''t select part of a sentence in a text box'
+title: 'Apple Bug: Can''t Select Part Of A Sentence In A Text Box'
 ---
 
 I typed this into the Tumblr app:

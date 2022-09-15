@@ -4,7 +4,7 @@ link: http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD692.html
 tags:
 - computation
 - interesting
-title: A review of the 1977 Turing Award Lecture by John Backus
+title: A Review Of The 1977 Turing Award Lecture By John Backus
 ---
 
 By [Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra). I've never seen shit talking in scholarly criticism before:

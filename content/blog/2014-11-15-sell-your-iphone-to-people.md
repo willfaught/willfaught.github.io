@@ -1,6 +1,6 @@
 ---
 date: '2014-11-15T22:04:04-08:00'
-title: Sell your iPhone to people
+title: Sell Your IPhone To People
 ---
 
 You make _a lot_ more money selling your old iPhone to people than to businesses like [Gazelle](http://gazelle.com) _if_ the phone is in good condition. I just sold my iPhone 51 for $320 to someone I met through Craigslist at a Starbucks near my home. Gazelle would have given me $170. That’s almost double!

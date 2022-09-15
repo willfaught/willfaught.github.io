@@ -12,7 +12,7 @@ tags:
 - software
 - swift
 - raise the bar
-title: Golang raised the bar
+title: Golang Raised The Bar
 ---
 
 Golang raised the bar for new language distributions:

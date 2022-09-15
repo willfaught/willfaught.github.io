@@ -4,7 +4,7 @@ link: http://dave.cheney.net/2015/11/15/the-legacy-of-go
 tags:
 - golang
 - programming
-title: The Legacy of Go
+title: The Legacy Of Go
 ---
 
 Dave Cheney:

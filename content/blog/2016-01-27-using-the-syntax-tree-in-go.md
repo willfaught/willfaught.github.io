@@ -5,7 +5,7 @@ tags:
 - golang
 - programming
 - ast
-title: Using the syntax tree in Go
+title: Using The Syntax Tree In Go
 ---
 
 A very nice tutorial for transforming Golang ASTs by Tim Clark.

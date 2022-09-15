@@ -2,7 +2,7 @@
 date: '2014-04-01T21:37:34-07:00'
 tags:
 - computing
-title: Float binary representation
+title: Float Binary Representation
 ---
 
 Produce the binary representation of a float *f* where 0 < *f* < 1. Examples:

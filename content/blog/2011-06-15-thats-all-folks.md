@@ -5,7 +5,7 @@ tags:
 - defense
 - dissertation
 - stories
-title: That's all, folks!
+title: That's All, Folks!
 ---
 
 I concluded my Master of Science in Computer Science dissertation with the following words, which in retrospect seems remarkable: "Yada, yada, yada — everything I just said."

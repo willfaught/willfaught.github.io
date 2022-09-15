@@ -7,7 +7,7 @@ tags:
 - 2fa
 - security
 - verification
-title: Switching to Apple's two-factor authentication
+title: Switching To Apple's Two-Factor Authentication
 ---
 
 Dan Moren, writing for Six Colors:

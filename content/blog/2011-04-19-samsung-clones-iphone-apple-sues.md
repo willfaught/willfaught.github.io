@@ -5,7 +5,7 @@ tags:
 - apple
 - samsung
 - opinions
-title: Samsung clones iPhone, Apple sues
+title: Samsung Clones IPhone, Apple Sues
 ---
 
 It's like an iPhone from an alternate, yet similar, universe. Ars nailed the image comparison.

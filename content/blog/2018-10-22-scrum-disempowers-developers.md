@@ -5,7 +5,7 @@ tags:
 - coding
 - scrum
 - agile
-title: Scrum disempowers developers
+title: Scrum Disempowers Developers
 ---
 
 A reply to someone saying someone else had a bad experience with Scrum because they did Scrum wrong:

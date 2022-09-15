@@ -5,7 +5,7 @@ tags:
 - coreos
 - redhat
 - linux
-title: What's CoreOS? An existential threat to Linux vendors
+title: What's CoreOS? An Existential Threat To Linux Vendors
 ---
 
 Matt Asay, writing for InfoWorld on the shift to minimal server operating systems like CoreOS:

@@ -4,7 +4,7 @@ link: https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch
 tags:
 - apple
 - watch
-title: 'A Humble Proposition: How to Fix the Apple Watch'
+title: 'A Humble Proposition: How To Fix The Apple Watch'
 ---
 
 David Pogue on the shortcomings of the Apple Watch:

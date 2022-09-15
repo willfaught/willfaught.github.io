@@ -5,8 +5,8 @@ tags:
 - coding
 - golang
 - performance
-title: What I learnt from building 3 high traffic web applications on an embedded
-  key value store.
+title: What I Learnt From Building 3 High Traffic Web Applications On An Embedded
+  Key Value Store.
 ---
 
 Anthony Alaribe:

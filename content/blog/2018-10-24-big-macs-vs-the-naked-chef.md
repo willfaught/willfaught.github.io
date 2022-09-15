@@ -4,7 +4,7 @@ link: https://www.joelonsoftware.com/2001/01/18/big-macs-vs-the-naked-chef/
 tags:
 - coding
 - agile
-title: Big Macs vs. The Naked Chef
+title: Big Macs Vs. The Naked Chef
 ---
 
 Joel Spolsky:

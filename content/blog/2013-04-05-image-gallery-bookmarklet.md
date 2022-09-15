@@ -3,7 +3,7 @@ date: '2013-04-05T13:35:00-07:00'
 tags:
 - computation
 - code
-title: Image gallery bookmarklet
+title: Image Gallery Bookmarklet
 ---
 
 Display all images in a web page in a gallery:

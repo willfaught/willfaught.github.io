@@ -4,7 +4,7 @@ link: http://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276
 tags:
 - wine
 - reviews
-title: Wine tasting is bullshit. Here's why.
+title: Wine Tasting Is Bullshit. Here's Why.
 ---
 
 Robbie Gonzales, writing for io9:

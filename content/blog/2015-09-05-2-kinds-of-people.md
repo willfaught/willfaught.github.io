@@ -3,7 +3,7 @@ date: '2015-09-05T15:39:40-07:00'
 link: http://2kindsofpeople.tumblr.com/
 tags:
 - funny
-title: 2 Kinds of People
+title: 2 Kinds Of People
 ---
 
 Pretty funny.

@@ -4,7 +4,7 @@ link: https://www.freshconsulting.com/atomic-commits/
 tags:
 - coding
 - git
-title: Keep your commits atomic
+title: Keep Your Commits Atomic
 ---
 
 Sean Patterson:

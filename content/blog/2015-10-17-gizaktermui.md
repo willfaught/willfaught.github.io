@@ -5,7 +5,7 @@ tags:
 - golang
 - weather report
 - terminal
-title: gizak/termui
+title: Gizak/termui
 ---
 
 Pretty neat weather report app for the terminal, written in Golang.

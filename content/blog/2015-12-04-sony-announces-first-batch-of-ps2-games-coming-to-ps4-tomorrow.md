@@ -6,7 +6,7 @@ tags:
 - steam
 - gaming
 - grand theft auto
-title: Sony Announces First Batch of PS2 Games Coming to PS4 Tomorrow
+title: Sony Announces First Batch Of PS2 Games Coming To PS4 Tomorrow
 ---
 
 >"I’m excited to announce that starting tomorrow, you will be able to purchase and play PS2 games on your PS4 via PlayStation Store in the Americas and Europe," SCE Worldwide Studios president Shuhei Yoshida said in a post on PlayStation Blog.

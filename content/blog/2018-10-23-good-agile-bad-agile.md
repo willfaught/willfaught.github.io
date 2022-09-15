@@ -4,7 +4,7 @@ link: http://steve-yegge.blogspot.com/2006/09/good-agile-bad-agile_27.html
 tags:
 - coding
 - agile
-title: Good agile, bad agile
+title: Good Agile, Bad Agile
 ---
 
 Steve Yegge:

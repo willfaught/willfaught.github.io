@@ -3,7 +3,7 @@ date: '2015-05-26T19:21:14-07:00'
 link: http://dave.cheney.net/2015/05/22/struct-composition-with-go?utm_source=golangweekly&utm_medium=email
 tags:
 - golang
-title: Struct composition with Go
+title: Struct Composition With Go
 ---
 
 Dave Cheney on bridging from one Golang interface to another:

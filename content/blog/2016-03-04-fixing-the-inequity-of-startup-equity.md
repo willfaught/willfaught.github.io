@@ -7,7 +7,7 @@ tags:
 - stock
 - engineers
 - programming
-title: Fixing the Inequity of Startup Equity
+title: Fixing The Inequity Of Startup Equity
 ---
 
 >Stock options are valuable compensation for startup employees. The high potential upside of these options motivates employees to turn down larger salaries at bigger companies and work at startups. It seems obvious, then, to expect that employees should own their vested options outright, even if they leave the company. Stock options are compensation for work that’s already been done. Returning them to the company when you leave would be inequitable.

@@ -7,7 +7,7 @@ tags:
 - programming
 - software
 - coding
-title: io language
+title: Io Language
 ---
 
 Io looks like a nifty language.

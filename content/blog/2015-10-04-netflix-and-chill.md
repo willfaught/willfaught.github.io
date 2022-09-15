@@ -5,7 +5,7 @@ tags:
 - meme
 - netflix
 - chill
-title: Netflix and Chill
+title: Netflix And Chill
 ---
 
 Just heard about this for the first time.

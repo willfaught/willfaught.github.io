@@ -4,7 +4,7 @@ link: https://www.google.com/search?q=a%20long%20time%20ago%20in%20a%20galaxy%20
 tags:
 - star wars
 - google
-title: A cute Star Wars Easter egg by Google search
+title: A Cute Star Wars Easter Egg By Google Search
 ---
 
 Search for "a long time ago in a galaxy far, far away".

@@ -3,7 +3,7 @@ date: '2015-09-02T14:25:08-07:00'
 link: http://blog.golang.org/go15gc
 tags:
 - golang
-title: 'Go GC: Prioritizing low latency and simplicity'
+title: 'Go GC: Prioritizing Low Latency And Simplicity'
 ---
 
 Go blog:

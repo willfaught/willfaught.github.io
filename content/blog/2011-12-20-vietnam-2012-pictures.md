@@ -5,7 +5,7 @@ tags:
 - travel
 - vietnam
 - pictures
-title: Vietnam 2012 pictures
+title: Vietnam 2012 Pictures
 ---
 
 Warning: Some are graphic.

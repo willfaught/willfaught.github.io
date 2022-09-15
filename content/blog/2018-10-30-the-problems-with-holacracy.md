@@ -4,7 +4,7 @@ link: https://medium.com/battle-room/holacracy-and-the-mirage-of-the-boss-less-w
 tags:
 - coding
 - management
-title: The problems with holacracy
+title: The Problems With Holacracy
 ---
 
 Vladimir Oane explains [holacracy](https://en.wikipedia.org/wiki/Holacracy):

@@ -5,7 +5,7 @@ tags:
 - feynman
 - interview
 - software
-title: What would Feynman do?
+title: What Would Feynman Do?
 ---
 
 How well would the late Nobel-Prize-winning physicist Dr. Richard P. Feynman do in a technical interview at a software company?

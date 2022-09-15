@@ -4,7 +4,7 @@ link: https://medium.com/@blakeross/wealthfront-silicon-valley-tech-at-wall-stre
 tags:
 - finance
 - wealthfront
-title: 'Wealthfront: Silicon Valley Tech at Wall Street Prices'
+title: 'Wealthfront: Silicon Valley Tech At Wall Street Prices'
 ---
 
 Blake Ross:

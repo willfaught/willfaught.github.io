@@ -6,7 +6,7 @@ link: https://reddit.com/r/Breath_of_the_Wild/comments/b7baiv/early_game_players
 tags:
 - games
 - zelda
-title: Early BotW players know what's up
+title: Early BotW Players Know What's Up
 ---
 
 This is so spot on.

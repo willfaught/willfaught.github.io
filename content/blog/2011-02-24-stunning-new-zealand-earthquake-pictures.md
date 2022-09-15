@@ -1,6 +1,6 @@
 ---
 date: '2011-02-24T15:06:15-08:00'
-title: Stunning New Zealand earthquake pictures
+title: Stunning New Zealand Earthquake Pictures
 ---
 
 From http://www.boston.com/bigpicture/2011/02/christchurch_earthquake.html:

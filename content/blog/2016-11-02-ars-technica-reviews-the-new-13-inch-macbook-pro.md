@@ -10,7 +10,7 @@ tags:
 - apple
 - laptop
 - notebook
-title: Ars Technica reviews the new 13-inch MacBook Pro
+title: Ars Technica Reviews The New 13-Inch MacBook Pro
 ---
 
 Andrew Cunningham, writing for Ars Technica:

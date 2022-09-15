@@ -5,7 +5,7 @@ tags:
 - apple
 - os x
 - sparse bundle
-title: Changing the size or case-sensitivity of a sparse bundle
+title: Changing The Size Or Case-Sensitivity Of A Sparse Bundle
 ---
 
 A great resource for resizing sparse bundles in OS X.

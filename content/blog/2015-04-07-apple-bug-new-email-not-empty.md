@@ -3,7 +3,7 @@ date: '2015-04-07T12:46:44-07:00'
 tags:
 - apple
 - bug
-title: 'Apple bug: New email not empty'
+title: 'Apple Bug: New Email Not Empty'
 ---
 
 iOS Mail:

@@ -5,7 +5,7 @@ tags:
 - flash
 - tablets
 - smartphones
-title: Dedicated hardware needed for Flash
+title: Dedicated Hardware Needed For Flash
 ---
 
 Ken Tindell:

@@ -4,7 +4,7 @@ link: http://www.marketwatch.com/story/10-things-your-life-insurance-agent-wont-
 tags:
 - insurance
 - money
-title: 10 things life insurance agents won’t say
+title: 10 Things Life Insurance Agents Won't Say
 ---
 
 Sounds like whole life insurance isn't such a great deal compared to term life insurance and investing the price difference yourself.

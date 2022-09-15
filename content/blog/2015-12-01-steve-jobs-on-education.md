@@ -5,7 +5,7 @@ tags:
 - apple
 - next
 - interview
-title: Steve Jobs on Education
+title: Steve Jobs On Education
 ---
 
 {{< youtube M6Oxl5dAnR0 >}}

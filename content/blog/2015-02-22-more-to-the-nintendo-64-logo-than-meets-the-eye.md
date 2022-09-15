@@ -1,7 +1,7 @@
 ---
 date: '2015-02-22T10:27:46-08:00'
 link: http://www.funnyjunk.com/funny_pictures/2079852/Nintendo
-title: More to the Nintendo 64 logo than meets the eye
+title: More To The Nintendo 64 Logo Than Meets The Eye
 ---
 
 So clever.

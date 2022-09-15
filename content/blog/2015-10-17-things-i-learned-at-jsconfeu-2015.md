@@ -5,7 +5,7 @@ tags:
 - jsconf
 - javascript
 - betable
-title: Things I learned at JSConf.eu 2015
+title: Things I Learned At JSConf.eu 2015
 ---
 
 Thor Spieker, fellow Betable engineer, on his experience at JSConf 2015:

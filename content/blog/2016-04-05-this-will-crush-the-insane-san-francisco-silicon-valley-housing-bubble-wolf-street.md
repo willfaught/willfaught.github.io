@@ -6,7 +6,7 @@ tags:
 - san francisco
 - bubble
 - investing
-title: This Will Crush the Insane San Francisco & Silicon Valley Housing Bubble |
+title: This Will Crush The Insane San Francisco & Silicon Valley Housing Bubble |
   Wolf Street
 ---
 

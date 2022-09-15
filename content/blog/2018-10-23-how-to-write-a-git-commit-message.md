@@ -4,7 +4,7 @@ link: https://chris.beams.io/posts/git-commit/
 tags:
 - coding
 - git
-title: How to write a Git commit message
+title: How To Write A Git Commit Message
 ---
 
 Chris Beams:

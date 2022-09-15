@@ -4,7 +4,7 @@ link: https://blog.whatsapp.com/10000618/end-to-end-encryption
 tags:
 - whatsapp
 - encryption
-title: WhatsApp adds end-to-end encryption
+title: WhatsApp Adds End-To-End Encryption
 ---
 
 WhatsApp:

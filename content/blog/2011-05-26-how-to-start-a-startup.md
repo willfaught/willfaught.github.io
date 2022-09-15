@@ -4,7 +4,7 @@ link: http://paulgraham.com/start.html
 tags:
 - computation
 - interesting
-title: How to Start a Startup
+title: How To Start A Startup
 ---
 
 Paul Graham:

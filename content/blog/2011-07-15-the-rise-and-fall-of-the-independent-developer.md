@@ -4,7 +4,7 @@ link: http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer
 tags:
 - computation
 - interesting
-title: The Rise and Fall of the Independent Developer
+title: The Rise And Fall Of The Independent Developer
 ---
 
 Rings true to me:

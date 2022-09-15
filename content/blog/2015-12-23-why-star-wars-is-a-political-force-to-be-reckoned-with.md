@@ -3,7 +3,7 @@ date: '2015-12-23T17:00:23-08:00'
 link: http://www.theguardian.com/film/2015/dec/17/why-star-wars-is-a-political-force-to-be-reckoned-with
 tags:
 - star wars
-title: Why Star Wars is a political Force to be reckoned with
+title: Why Star Wars Is A Political Force To Be Reckoned With
 ---
 
 Zoe Williams, writing for The Guardian:

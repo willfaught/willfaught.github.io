@@ -5,7 +5,7 @@ tags:
 - oberon
 - coding
 - golang
-title: Wirth, Oberon and Simplicity
+title: Wirth, Oberon And Simplicity
 ---
 
 >The use of self-compilation speed as a benchmark seems like a great way to target and then maintain a balance between complexity and the performance benefits of optimizations in a compiler. Complex optimizations where the cost of optimization in terms of code complexity, outweigh the benefits of faster binaries could be clearly recognised with such a metric. An interesting idea for seeing the tradeoffs between compiler design/implementation complexity and speed.

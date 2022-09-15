@@ -5,7 +5,7 @@ tags:
 - tsunami
 - apple
 - japan
-title: Apple, tsunami fallout haven
+title: Apple, Tsunami Fallout Haven
 ---
 
 A moving account of a Japanese Apple store sheltering people made homeless by the tsunami and helping them contact loved ones via their wifi network and computers.

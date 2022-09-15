@@ -7,7 +7,7 @@ tags:
 - apple
 - microsoft
 - adobe
-title: The Helvetica pretender
+title: The Helvetica Pretender
 ---
 
 From http://www.ms-studio.com/articles.html:

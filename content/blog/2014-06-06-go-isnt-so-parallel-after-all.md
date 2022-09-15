@@ -2,7 +2,7 @@
 date: '2014-06-06T11:20:04-07:00'
 tags:
 - computing
-title: Go isn't so parallel after all
+title: Go Isn't So Parallel After All
 ---
 
 [Effective Go](http://golang.org/doc/effective_go.html):

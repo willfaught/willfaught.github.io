@@ -6,7 +6,7 @@ tags:
 - shell
 - unix
 - zsh
-title: fish shell
+title: Fish Shell
 ---
 
 I got a laugh learning about the fish shell on its main page.

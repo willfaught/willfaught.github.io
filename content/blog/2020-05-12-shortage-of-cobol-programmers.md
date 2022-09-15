@@ -14,7 +14,7 @@ keywords:
 tags:
 - cobol
 - coronavirus
-title: Shortage of COBOL programmers
+title: Shortage Of COBOL Programmers
 ---
 
 [Alicia Lee, writing for CNN](https://www.cnn.com/2020/04/08/business/coronavirus-cobol-programmers-new-jersey-trnd/index.html):

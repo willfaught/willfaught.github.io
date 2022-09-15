@@ -5,7 +5,7 @@ tags:
 - ideas
 - dissertation
 - thesis
-title: Interoperation for Lazy and Eager Evaluation
+title: Interoperation For Lazy And Eager Evaluation
 ---
 
 My dissertation for Master of Science in Computer Science was just approved and published by California Polytechnic State University, San Luis Obispo, CA.

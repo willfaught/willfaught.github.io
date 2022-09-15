@@ -4,7 +4,7 @@ link: http://www.next-gen.biz/features/phil-harrison-future
 tags:
 - interesting
 - games
-title: Phil Harrison on the future
+title: Phil Harrison On The Future
 ---
 
 Good interview. Interesting thoughts on the future of gaming.

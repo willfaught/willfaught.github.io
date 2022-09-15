@@ -5,7 +5,7 @@ tags:
 - christmas
 - caganer
 - poop
-title: More crap for Christmas
+title: More Crap For Christmas
 ---
 
 Incredible that this isn't a joke.

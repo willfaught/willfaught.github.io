@@ -5,7 +5,7 @@ tags:
 - mike posner
 - ibiza
 - lyrics
-title: I Took a Pill in Ibiza
+title: I Took A Pill In Ibiza
 ---
 
 Mike Posner on the popularity of the remix of his song *I Took a Pill in Ibiza*:

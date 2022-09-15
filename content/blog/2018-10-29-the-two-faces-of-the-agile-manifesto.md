@@ -5,7 +5,7 @@ tags:
 - coding
 - agile
 - scrum
-title: The two faces of the agile manifesto
+title: The Two Faces Of The Agile Manifesto
 ---
 
 Robin Message on the mismatch between the parts of the [agile manifesto](http://agilemanifesto.org) concerned with technical craft and those concerned with project management:

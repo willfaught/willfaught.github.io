@@ -3,7 +3,7 @@ date: '2012-11-08T16:56:00-08:00'
 link: http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/
 tags:
 - computation
-title: 'PHP: a fractal of bad design'
+title: 'PHP: A Fractal Of Bad Design'
 ---
 
 Alex Munroe:

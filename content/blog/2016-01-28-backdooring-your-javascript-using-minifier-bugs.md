@@ -5,7 +5,7 @@ tags:
 - programming
 - javascript
 - minifiers
-title: Backdooring your JavaScript using minifier bugs
+title: Backdooring Your JavaScript Using Minifier Bugs
 ---
 
 An interesting idea of exploiting bugs in code minifiers, inspired from compiler exploits.

@@ -1,6 +1,6 @@
 ---
 date: '2014-11-27T10:07:00-08:00'
-title: Steam fall sale
+title: Steam Fall Sale
 ---
 
 Damn you, Steam, for making me give you money! Today I bought:

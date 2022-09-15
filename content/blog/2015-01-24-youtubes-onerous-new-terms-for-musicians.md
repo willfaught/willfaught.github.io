@@ -1,7 +1,7 @@
 ---
 date: '2015-01-24T11:14:20-08:00'
 link: http://zoekeating.tumblr.com/post/108898194009/what-should-i-do-about-youtube
-title: YouTube's onerous new terms for musicians
+title: YouTube's Onerous New Terms For Musicians
 ---
 
 Zoe Keating:

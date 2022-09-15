@@ -4,7 +4,7 @@ link: http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wi
 tags:
 - wine
 - tasting
-title: The Legendary Study That Embarrassed Wine Experts Across the Globe
+title: The Legendary Study That Embarrassed Wine Experts Across The Globe
 ---
 
 Unsurprisingly, wine tasting is full of shit:

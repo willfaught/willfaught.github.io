@@ -4,7 +4,7 @@ tags:
 - penny arcade
 - star wars
 - funny
-title: The Star Wars fan's burden
+title: The Star Wars Fan's Burden
 ---
 
 From http://www.penny-arcade.com/comic/2011/4/6/another-round/:

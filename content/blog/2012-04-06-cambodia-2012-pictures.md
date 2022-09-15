@@ -4,7 +4,7 @@ tags:
 - travel
 - cambodia
 - pictures
-title: Cambodia 2012 pictures
+title: Cambodia 2012 Pictures
 ---
 
 From https://www.dropbox.com/gallery/18866064/1/Cambodia%202012?h=a248de:

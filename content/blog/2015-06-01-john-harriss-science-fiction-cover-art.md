@@ -4,7 +4,7 @@ link: https://www.google.com/search?q=john+harris+book+cover+art&client=safari&h
 tags:
 - art
 - science fiction
-title: John Harris's science fiction cover art
+title: John Harris's Science Fiction Cover Art
 ---
 
 I thought the *Ancillary Justice* cover art looked familiar. Gorgeous work.

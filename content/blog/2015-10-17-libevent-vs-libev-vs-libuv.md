@@ -4,7 +4,7 @@ tags:
 - libevent
 - libev
 - libuv
-title: libevent vs. libev vs. libuv
+title: Libevent Vs. Libev Vs. Libuv
 ---
 
 What's the difference between libevent, libev, and libuv?

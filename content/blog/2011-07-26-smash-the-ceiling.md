@@ -4,7 +4,7 @@ link: http://www.newyorker.com/talk/financial/2011/08/01/110801ta_talk_surowieck
 tags:
 - interesting
 - opinions
-title: Smash the Ceiling
+title: Smash The Ceiling
 ---
 
 James Surowiecki:

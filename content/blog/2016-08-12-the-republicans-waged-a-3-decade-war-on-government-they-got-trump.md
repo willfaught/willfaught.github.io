@@ -7,7 +7,7 @@ tags:
 - democrats
 - donald trump
 - hillary clinton
-title: The Republicans waged a 3-decade war on government. They got Trump.
+title: The Republicans Waged A 3-Decade War On Government. They Got Trump.
 ---
 
 Great bird's-eye view of politics from a few decades ago through to the presidential election after this coming one. The Republican Party needs to get its shit together.

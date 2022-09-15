@@ -6,7 +6,7 @@ tags:
 - zookeeper
 - etcd
 - hashicorp
-title: Consul vs. ZooKeeper, doozerd, etcd
+title: Consul Vs. ZooKeeper, Doozerd, Etcd
 ---
 
 HashiCorp on Consul versus ZooKeeper, doozerd, and etcd:

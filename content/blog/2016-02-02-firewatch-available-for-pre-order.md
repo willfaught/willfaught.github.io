@@ -5,7 +5,7 @@ tags:
 - firewatch
 - gaming
 - steam
-title: Firewatch available for pre-order
+title: Firewatch Available For Pre-Order
 ---
 
 Firewatch became available for pre-order today. You can get 10% off on Steam.

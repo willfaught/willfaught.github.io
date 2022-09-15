@@ -6,7 +6,7 @@ tags:
 - programming
 - reactions
 - voting
-title: New GitHub Reactions for  Pull Requests, Issues, and Comments
+title: New GitHub Reactions For  Pull Requests, Issues, And Comments
 ---
 
 Finally.

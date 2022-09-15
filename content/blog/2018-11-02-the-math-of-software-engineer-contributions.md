@@ -4,7 +4,7 @@ link: https://web.archive.org/web/20120211164647/https://michaelochurch.wordpres
 tags:
 - coding
 - management
-title: The math of software engineer contributions
+title: The Math Of Software Engineer Contributions
 ---
 
 Michael Church on the "math" of software engineer contributions in an organization:

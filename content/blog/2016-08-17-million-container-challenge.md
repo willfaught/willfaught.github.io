@@ -11,7 +11,7 @@ tags:
 - manage
 - container
 - docker
-title: Million container challenge
+title: Million Container Challenge
 ---
 
 >Cluster schedulers promise us ease of deployment with ultimate scalability. We designed an ambitious challenge to test these promises: schedule one million containers. We call this the Million Container Challenge (C1M).

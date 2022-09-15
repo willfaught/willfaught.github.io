@@ -4,7 +4,7 @@ link: https://blogs.msdn.microsoft.com/jw_on_tech/2012/03/13/why-i-left-google/
 tags:
 - coding
 - management
-title: Google's management upheaval
+title: Google's Management Upheaval
 ---
 
 James Whittaker on Google's reaction to Facebook becoming more valuable to advertisers than Google:

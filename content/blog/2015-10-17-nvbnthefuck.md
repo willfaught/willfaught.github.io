@@ -4,7 +4,7 @@ link: https://github.com/nvbn/thefuck
 tags:
 - thefuck
 - coding
-title: nvbn/thefuck
+title: Nvbn/thefuck
 ---
 
 Brilliant.

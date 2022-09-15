@@ -5,7 +5,7 @@ tags:
 - apple
 - netflix
 - nintendo
-title: Apple, Netflix, and Nintendo
+title: Apple, Netflix, And Nintendo
 ---
 
 It's kinda crazy how high Apple's stock is right now (currently $339). I wish I had invested more in it when it was only $90. I only considered buying their stock at the time because I believed in what they were doing, and didn't really care about dividends or stock price fluctuations.

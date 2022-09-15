@@ -5,7 +5,7 @@ tags:
 - politics
 - science
 - opinions
-title: The Science of Why We Don't Believe Science
+title: The Science Of Why We Don't Believe Science
 ---
 
 Fascinating. Ironically, this confirms what I thought about conservatives.

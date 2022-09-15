@@ -5,7 +5,7 @@ tags:
 - coding
 - agile
 - scrum
-title: How Scrum goes awry
+title: How Scrum Goes Awry
 ---
 
 Robin Message on how Scrum goes awry:

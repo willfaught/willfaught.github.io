@@ -4,7 +4,7 @@ link: http://fuzz-box.blogspot.com/2011/05/how-software-companies-die.html
 tags:
 - interesting
 - computation
-title: How software companies die
+title: How Software Companies Die
 ---
 
 Busy little bees.

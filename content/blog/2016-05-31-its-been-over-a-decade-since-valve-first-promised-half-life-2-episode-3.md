@@ -7,7 +7,7 @@ tags:
 - video games
 - valve
 - half life
-title: 'It’s been over a decade since Valve first promised Half-Life 2: Episode 3'
+title: 'It''s Been Over A Decade Since Valve First Promised Half-Life 2: Episode 3'
 ---
 
 Ars reader Bad Monkey in a comment on an Ars post about it being 10 years since Valve announced Half-Life 2 Episode 3 and then left us hanging:

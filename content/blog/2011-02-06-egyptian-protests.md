@@ -4,7 +4,7 @@ tags:
 - egypt
 - mubarak
 - protest
-title: Egyptian protests
+title: Egyptian Protests
 ---
 
 It's been fascinating following the political unrest in Egypt the past couple weeks. I'm very excited for the Egyptian people and hope Mubarak will be ousted. I was struck when looking at pictures of the protests at how westernized their clothing was. I'd say that most of the people were dressed that way, although most of them are probably young. I hope this is all sorted out in time for me to tour there.

@@ -3,7 +3,7 @@ date: '2015-05-26T19:33:05-07:00'
 link: http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#close_http_conn
 tags:
 - golang
-title: '50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs'
+title: '50 Shades Of Go: Traps, Gotchas, And Common Mistakes For New Golang Devs'
 ---
 
 Kyle Quest has a lot of good tips for Golang newcomers, and arguably even intermediate ones:

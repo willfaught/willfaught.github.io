@@ -8,7 +8,7 @@ tags:
 - database
 - programming
 - coding
-title: Aphyr tests Redis with Jepsen
+title: Aphyr Tests Redis With Jepsen
 ---
 
 Aphyr on Redis correctness:

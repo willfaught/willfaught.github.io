@@ -4,7 +4,7 @@ link: https://github.com/facebookgo/generics
 tags:
 - golang
 - generics
-title: facebookgo/generics
+title: Facebookgo/generics
 ---
 
 Finally!

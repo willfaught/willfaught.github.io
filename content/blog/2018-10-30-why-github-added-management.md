@@ -5,7 +5,7 @@ tags:
 - coding
 - management
 - holacracy
-title: Why GitHub added management
+title: Why GitHub Added Management
 ---
 
 Melissa Mittelman on why GitHub added management to its workforce:
