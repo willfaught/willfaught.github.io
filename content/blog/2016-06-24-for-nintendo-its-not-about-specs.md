@@ -13,7 +13,7 @@ tags:
 - vr
 - virtual reality
 - teraflops
-title: 'E3 2016: Nintendo Boss On NX: ''For Us, It''s Not About Specs'' - IGN'
+title: For Nintendo, It's Not About Specs
 ---
 
 Alex Osborn, writing for IGN:
