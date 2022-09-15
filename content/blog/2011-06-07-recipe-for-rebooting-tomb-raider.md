@@ -8,7 +8,7 @@ tags:
 title: Recipe For Rebooting Tomb Raider
 ---
 
->So what steps is Crystal Dynamics [the game maker] taking to reinvent Tomb Raider? 
+>So what steps is Crystal Dynamics [the game maker] taking to reinvent Tomb Raider?
 >
 >...
 >

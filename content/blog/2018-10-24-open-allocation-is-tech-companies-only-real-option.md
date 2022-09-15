@@ -8,7 +8,7 @@ title: Open Allocation Is Tech Companies' Only Real option
 
 Michael Church on [open allocation](https://en.wikipedia.org/wiki/Open_allocation):
 
->When open allocation is in play, projects compete for engineers, and the result is better projects. When closed allocation is in force, engineers compete for projects, and the result is worse engineers. 
+>When open allocation is in play, projects compete for engineers, and the result is better projects. When closed allocation is in force, engineers compete for projects, and the result is worse engineers.
 >
 >When you manage people like children, that's what they become. Traditional, 20th-century management (so-called "Theory X") is based on the principle that people are lazy and need to be intimidated into working hard, and that they're unethical and need to be terrified of the consequences of stealing from the company, with a definition of "stealing" that includes "poaching" clients and talent, education on company time, and putting their career goals over the company's objectives. In this mentality, the only way to get something decent out of a worker is to scare him by threatening to turn off his income– suddenly and without appeal. Micromanagement and Theory X are what I call the Aztec Syndrome: the belief in many companies that if there isn't a continual indulgence in sacrifice and suffering, the sun will stop rising.
 

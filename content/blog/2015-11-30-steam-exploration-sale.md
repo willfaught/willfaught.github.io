@@ -9,7 +9,7 @@ tags:
 title: Steam Exploration Sale
 ---
 
-It's that time of the year again. Hide your wallets! I picked up: 
+It's that time of the year again. Hide your wallets! I picked up:
 
   * AI War: Fleet Command
   * Aliens vs Predator

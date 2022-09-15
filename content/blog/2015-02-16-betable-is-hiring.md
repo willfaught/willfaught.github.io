@@ -18,7 +18,7 @@ Betable — where I work — is looking to hire a senior software engineer in Sa
 >  3. Advanced technical proficiency with Amazon Web Services, Rackspace or other cloud services;
 >  4. Design and develop RESTful web services;
 >  5. Experience implementing integrations with at least two (2) different third-party payment gateways and developing and integrating anti-fraud tools;
->  6. At least five (5) years building backend web services, including a low-level understanding and proficiency in programming languages like Java, Go or Node.js; 
+>  6. At least five (5) years building backend web services, including a low-level understanding and proficiency in programming languages like Java, Go or Node.js;
 >  7. At least five (5) years of experience developing game-related APIs, including game wallets, and accounting;
 >  8. Background writing unit and integration tests for web services; and
 >  9. Experience developing accounting and reporting systems.
