@@ -4,7 +4,7 @@ link: http://yager.io/programming/go.html
 tags:
 - golang
 - programming
-title: 'Why Go Is Not Good :: Will Yager'
+title: '"Why Go Is Not Good"'
 ---
 
 Will Yager on Golang:
