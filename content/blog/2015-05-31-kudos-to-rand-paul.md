@@ -6,4 +6,4 @@ tags:
 title: Kudos To Rand Paul
 ---
 
-For filibustering—for 13 hours!—the renewal of the NSA’s “authority” to spy on Americans.
+For filibustering—for 13 hours!—the renewal of the NSA's “authority” to spy on Americans.

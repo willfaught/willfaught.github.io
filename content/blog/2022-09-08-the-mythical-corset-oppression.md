@@ -38,7 +38,7 @@ title: The Mythical Corset Oppression
 
 ## Articles
 
-- [Bridgerton Keeps Perpetuating One of Hollywood’s Most Stubborn Myths](https://slate.com/culture/2022/03/bridgerton-season-2-netflix-corset-simone-ashley.html)
+- [Bridgerton Keeps Perpetuating One of Hollywood's Most Stubborn Myths](https://slate.com/culture/2022/03/bridgerton-season-2-netflix-corset-simone-ashley.html)
 - [Everything You Know About Corsets Is False](https://www.collectorsweekly.com/articles/everything-you-know-about-corsets-is-false/)
 - [Five Myths About Corsets And The Truth Behind Corsetry](https://www.cosplaycentral.com/themes/historical/feature/5-myths-about-corsets)
 - [Make No (Whale)Bones About It: Debunking those Corsetry Myths](https://www.lancasterhistory.org/debunkingcorsetrymyths/)

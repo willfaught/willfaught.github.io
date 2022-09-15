@@ -13,7 +13,7 @@ title: 'MacOS: It''s Time To Take The Next Step'
 
 Andrew Ambrosino hits the nail on the head:
 
->With the release of macOS should come innovation that positions the OS for the next decade of innovation, and it’s all about common threads that run through the ecosystem. Specifically, macOS 11 should introduce a common framework for presentation, a brand new model for content, and a common thread for people.
+>With the release of macOS should come innovation that positions the OS for the next decade of innovation, and it's all about common threads that run through the ecosystem. Specifically, macOS 11 should introduce a common framework for presentation, a brand new model for content, and a common thread for people.
 
 >[...]
 

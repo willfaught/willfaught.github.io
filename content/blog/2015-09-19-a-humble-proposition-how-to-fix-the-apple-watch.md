@@ -9,18 +9,18 @@ title: 'A Humble Proposition: How To Fix The Apple Watch'
 
 David Pogue on the shortcomings of the Apple Watch:
 
->On the Watch’s weird software layout, as noted earlier, apps aren’t anywhere at all. No matter where you start, you can’t swipe your way to the Home screen.
+>On the Watch's weird software layout, as noted earlier, apps aren't anywhere at all. No matter where you start, you can't swipe your way to the Home screen.
 
->The only way to find them is to click the Watch’s crown.
+>The only way to find them is to click the Watch's crown.
 
 >OK, we could probably learn that: Clicking the crown is like clicking the Home button. Clicking it always opens the Home screen.
 
->Except that it doesn’t. If you’re in Glances or Notifications, pressing the crown once takes you back to the watch face; a second press opens the Home screen.
+>Except that it doesn't. If you're in Glances or Notifications, pressing the crown once takes you back to the watch face; a second press opens the Home screen.
 
 >Well, we could probably learn that: The first crown-click opens the watch face, and the second crown-click opens the Home screen.
-Except that’s not always how it works, either.
+Except that's not always how it works, either.
 
->If you’re in an app, like Mail, the logic is reversed. This time, the first crown-click opens the Home screen, and the second crown-click opens the watch face!
+>If you're in an app, like Mail, the logic is reversed. This time, the first crown-click opens the Home screen, and the second crown-click opens the watch face!
 
 >How is anyone supposed to learn that?
 

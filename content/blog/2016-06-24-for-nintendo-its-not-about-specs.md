@@ -24,6 +24,6 @@ In other words, not good. I stopped expecting good hardware from Nintendo a long
 
 If "it's not about teraflops", then I guess they're not going to make VR games, since one of the reasons Microsoft is making the Xbox One Scorpio is because [VR game developers told them they need six teraflops to make good VR games](http://www.ign.com/articles/2016/06/15/e3-2016-xbox-boss-talks-vr-scorpio-specs-and-console-upgrade-cycle):
 
->"When we went out and talked to VR developers, the capability and the hardware spec that they need to deliver a console-like experience to VR was a requirement of 6 teraflops, which clearly, today’s consoles—PlayStation 4 and Xbox One—don’t have," he said, suggesting the current PS4 isn't well suited for VR.
+>"When we went out and talked to VR developers, the capability and the hardware spec that they need to deliver a console-like experience to VR was a requirement of 6 teraflops, which clearly, today's consoles—PlayStation 4 and Xbox One—don't have," he said, suggesting the current PS4 isn't well suited for VR.
 
 Ugh. Nintendo, just stop making consoles and put your games on PlayStation and Xbox already. Fine, make gimmicky controllers if you want to, but you don't need your own console to do that.

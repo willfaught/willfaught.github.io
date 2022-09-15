@@ -9,7 +9,7 @@ title: The Problems With Holacracy
 
 Vladimir Oane explains [holacracy](https://en.wikipedia.org/wiki/Holacracy):
 
->Holacracy is a system designed to move companies away from rigid corporate structures and toward decentralized management and dynamic composition. As envisioned, under a holacracy teams largely self-organize, and individuals operate with a fair amount of autonomy. Ideally, this puts work at the forefront and lets a company’s organizational structure support that work, rather than the other way around. As Tom Thomison, a partner at HolacracyOne — the company teaching this system — puts it, “Nothing gets in the way of the work.”
+>Holacracy is a system designed to move companies away from rigid corporate structures and toward decentralized management and dynamic composition. As envisioned, under a holacracy teams largely self-organize, and individuals operate with a fair amount of autonomy. Ideally, this puts work at the forefront and lets a company's organizational structure support that work, rather than the other way around. As Tom Thomison, a partner at HolacracyOne — the company teaching this system — puts it, “Nothing gets in the way of the work.”
 
 It didn't work out so well for some notable examples:
 

@@ -7,6 +7,6 @@ tags:
 title: Definitely Real Quotes
 ---
 
->They’re real and they’re spectacular.
+>They're real and they're spectacular.
 >
 >— Karl Marx

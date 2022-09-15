@@ -9,11 +9,11 @@ title: Random Apple Watch Thoughts
 
 Casey Liss on the Apple Watch:
 
->The Apple Watch strikes me as the next great frontier. In much the same way putting a computer with a built-in GPS in our pocket opened whole new doors, I suspect the Apple Watch will eventually do the same. I see that this is the future. I don’t doubt it.
+>The Apple Watch strikes me as the next great frontier. In much the same way putting a computer with a built-in GPS in our pocket opened whole new doors, I suspect the Apple Watch will eventually do the same. I see that this is the future. I don't doubt it.
 >
 >But is it worth spending, at a minimum, $400 today?
 >
->I’m unconvinced.
+>I'm unconvinced.
 
 After trying a few on and using one a couple times, I find myself thinking the same thing. I can see the potential, but it's just not quite there yet. For a company that is known for successfully swooping into a new market at exactly the right time, this is an unexpected blunder. I think we all expected to be more blown away by the Watch, but everyone seems to be struggling to justify the price.
 

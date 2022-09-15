@@ -6,4 +6,4 @@ tags:
 title: VirtualBox
 ---
 
-I’m glad to see a viable open source virtual machine.
+I'm glad to see a viable open source virtual machine.

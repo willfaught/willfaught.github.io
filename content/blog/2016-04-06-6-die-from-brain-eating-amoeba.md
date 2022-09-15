@@ -8,8 +8,8 @@ tags:
 title: 6 Die From Brain-Eating Amoeba
 ---
 
->It sounds like science fiction but it’s true: A killer amoeba living in lakes enters the body through the nose and attacks the brain where it feeds until you die.
+>It sounds like science fiction but it's true: A killer amoeba living in lakes enters the body through the nose and attacks the brain where it feeds until you die.
 
-Thanks a lot, brain-eating amoebas, now I can’t submerge my head anywhere.
+Thanks a lot, brain-eating amoebas, now I can't submerge my head anywhere.
 
 Terrifying.

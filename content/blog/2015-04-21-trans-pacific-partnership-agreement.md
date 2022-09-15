@@ -12,7 +12,7 @@ Electronic Frontier Foundation:
 
 >The Trans-Pacific Partnership (TPP) is a secretive, multinational trade agreement that threatens to extend restrictive intellectual property (IP) laws across the globe and rewrite international rules on its enforcement. The main problems are two-fold:
 >
->(1) Intellectual Property Chapter: Leaked draft texts of the agreement show that the IP chapter would have extensive negative ramifications for users’ freedom of speech, right to privacy and due process, and hinder peoples' abilities to innovate.
+>(1) Intellectual Property Chapter: Leaked draft texts of the agreement show that the IP chapter would have extensive negative ramifications for users' freedom of speech, right to privacy and due process, and hinder peoples' abilities to innovate.
 >
 >(2) Lack of Transparency: The entire process has shut out multi-stakeholder participation and is shrouded in secrecy.
 

@@ -10,11 +10,11 @@ title: Apple's Secret Plan To Boost IPhone Sales Is Working
 
 Philip Elmer-DeWitt writing for Fortune:
 
->What they couldn’t foresee was whether Apple’s customers would see the benefits to the buyer. Piper Jaffray’s Gene Munster, for example, predicted that 15% of new iPhone customers would opt for what is, in effect, a 24-month lease.
+>What they couldn't foresee was whether Apple's customers would see the benefits to the buyer. Piper Jaffray's Gene Munster, for example, predicted that 15% of new iPhone customers would opt for what is, in effect, a 24-month lease.
 >
 >[...]
 >
->For 24 relatively low monthly payments—anywhere from $32.41 to $44.91—customers get AppleCare+ phone support/damage insurance (a $11/month value) and the option to trade up to an iPhone 7 (or whatever it’s called) a year from now.
+>For 24 relatively low monthly payments—anywhere from $32.41 to $44.91—customers get AppleCare+ phone support/damage insurance (a $11/month value) and the option to trade up to an iPhone 7 (or whatever it's called) a year from now.
 
 It's not so much a lease as a financed purchase. After 24 months, you've fully paid for the iPhone and the AppleCare+ warranty. If you choose to upgrade after a year, you've only paid for half of the iPhone, and its value has only dropped by about half, so that's a wash.
 

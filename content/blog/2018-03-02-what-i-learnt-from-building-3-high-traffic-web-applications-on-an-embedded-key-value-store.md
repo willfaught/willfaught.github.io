@@ -11,7 +11,7 @@ title: What I Learnt From Building 3 High Traffic Web Applications On An Embedde
 
 Anthony Alaribe:
 
->Firstly, a NoSQL key value store is fast, much faster than a comparable relational database. Its speed comes from its simplicity. A key value database stores a data record using one primary key. The key means the record is uniquely identifiable, and can be directly accessed. Other than this, it’s up to the developer to architect any more complexity in accessing data.
+>Firstly, a NoSQL key value store is fast, much faster than a comparable relational database. Its speed comes from its simplicity. A key value database stores a data record using one primary key. The key means the record is uniquely identifiable, and can be directly accessed. Other than this, it's up to the developer to architect any more complexity in accessing data.
 >
 >![the dark side](https://cdn-images-1.medium.com/max/800/1*zTzSNjtU-kudy78iZss1vw.png)
 

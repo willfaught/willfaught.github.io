@@ -8,7 +8,7 @@ title: Because I'm A Twentysomething
 
 Jessica at Today Was Meaningful:
 
->don’t change your journey so that it matches someone elses. we need to walk different paths so the whole world can be explored. revel in the differences. and enjoy where you are.
+>don't change your journey so that it matches someone elses. we need to walk different paths so the whole world can be explored. revel in the differences. and enjoy where you are.
 >
 >here. right here.
 

@@ -28,8 +28,8 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
   * DreadOut
   * Duke Nukem Kill-A-Ton Collection
   * Dustforce
-  * Five Nights at Freddy’s 3
-  * Five Nights at Freddy’s 4
+  * Five Nights at Freddy's 3
+  * Five Nights at Freddy's 4
   * Flame Over
   * Gateways
   * Geometry Wars
@@ -39,7 +39,7 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
   * Gunman Clive
   * Gunpoint
   * HER STORY
-  * Hack ‘n’ Slash
+  * Hack 'n' Slash
   * Half Minute Hero: Super Mega Neo Climax Ultimate Boy
   * Heavy Bullets Launch
   * Hexcells Infinite
@@ -67,7 +67,7 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
   * Replay - VHS is not dead
   * Retro City Rampage
   * Risen
-  * Rock Boshers DX: Director’s Cut
+  * Rock Boshers DX: Director's Cut
   * STARWHAL
   * Sanctum 2
   * Serious Sam 3 BFE
@@ -78,7 +78,7 @@ Hide your wallets! The _Northpole Noir_ Steam winter sale is upon us. I picked u
   * Shank 2
   * Shatter
   * Shower With Your Dad Simulator 2015
-  * Sid Meier’s Pirates!
+  * Sid Meier's Pirates!
   * Skullgirls
   * SpaceChem
   * Stacking
