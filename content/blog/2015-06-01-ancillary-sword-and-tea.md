@@ -4,7 +4,7 @@ link: http://www.amazon.com/gp/aw/cr/0316246654/
 tags:
 - science fiction
 - ancillary sword
-title: Ancillary Sword...and Tea
+title: Ancillary Sword...And Tea
 ---
 
 Neil Hepworth on Amazon reviewed _Ancillary Sword_ :
