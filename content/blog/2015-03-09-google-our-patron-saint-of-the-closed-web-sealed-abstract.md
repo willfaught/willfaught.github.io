@@ -8,7 +8,7 @@ Drew Crawford on Google's application for the `.dev` domain:
 
 >Let's talk about a domain that's near and dear to my heart, .dev. Wouldn't it be great to have a domain for content targeted at software developers? So that you could actually get a domain name for www.[your-side-project].dev? Instead abusing the .io domain which is officially for the British Indian Ocean Territory.
 >
->Alas, Google does not think much of that plan. Under their shell company "Charleston Road Registry Inc.” (whose "CEO” is merely Google's in-house counsel), they have applied for control of the .dev domain, which they intend to be:
+>Alas, Google does not think much of that plan. Under their shell company "Charleston Road Registry Inc." (whose "CEO" is merely Google's in-house counsel), they have applied for control of the .dev domain, which they intend to be:
 >
 >>completely closed for the sole use of Google.
 >
