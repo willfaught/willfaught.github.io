@@ -7,7 +7,7 @@ tags:
 - sql
 - beta
 - newsql
-title: CockroachDB Skitters Into Beta | Blog | Cockroach Labs
+title: '"CockroachDB Skitters Into Beta"'
 ---
 
 I've been looking forward to this. NewSQL seems like the future. NoSQL has impressive strengths, but managing denormalization is a pain in the ass.
