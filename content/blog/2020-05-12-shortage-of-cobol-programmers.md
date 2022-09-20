@@ -1,6 +1,6 @@
 ---
 categories:
-- code
+- technology
 - world
 date: '2020-05-12T19:23:00-07:00'
 keywords:
