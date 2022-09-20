@@ -1,10 +1,9 @@
 ---
 date: '2011-04-06T13:53:00-07:00'
+link: https://www.penny-arcade.com/comic/2011/04/06/another-round
 tags:
 - penny arcade
 - star wars
 - funny
 title: The Star Wars Fan's Burden
 ---
-
-From http://www.penny-arcade.com/comic/2011/4/6/another-round/:
