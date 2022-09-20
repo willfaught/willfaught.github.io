@@ -1,7 +1,7 @@
 ---
 date: '2016-08-17T19:05:53-07:00'
 tags:
-- golang
+- go
 - go
 - programming
 - coding

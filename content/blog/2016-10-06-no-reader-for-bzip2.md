@@ -1,7 +1,7 @@
 ---
 date: '2016-10-06T23:09:31-07:00'
 tags:
-- golang
+- go
 title: No Reader For Bzip2
 ---
 

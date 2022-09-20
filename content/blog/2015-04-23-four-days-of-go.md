@@ -3,7 +3,7 @@ date: '2015-04-23T12:06:31-07:00'
 link: http://www.evanmiller.org/four-days-of-go.html
 tags:
 - coding
-- golang
+- go
 title: Four Days Of Go
 ---
 

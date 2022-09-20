@@ -4,7 +4,7 @@ link: http://walkercoderanger.com/blog/2014/02/javascript-minefield/
 tags:
 - programming
 - javascript
-- golang
+- go
 title: The JavaScript Minefield
 ---
 

@@ -3,7 +3,7 @@ date: '2016-12-23T15:08:17-08:00'
 link: http://golang.rakyll.org/default-gopath/
 tags:
 - go
-- golang
+- go
 - programming
 title: The Default GOPATH
 ---

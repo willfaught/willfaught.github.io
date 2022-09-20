@@ -2,7 +2,7 @@
 date: '2015-11-19T09:26:57-08:00'
 link: http://yager.io/programming/go.html
 tags:
-- golang
+- go
 - programming
 title: '"Why Go Is Not Good"'
 ---

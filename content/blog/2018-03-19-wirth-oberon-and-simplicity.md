@@ -4,7 +4,7 @@ link: http://gmacd.net/simplicity/2013/04/25/wirth-oberon-and-simplicity.html
 tags:
 - oberon
 - coding
-- golang
+- go
 title: Wirth, Oberon And Simplicity
 ---
 

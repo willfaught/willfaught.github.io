@@ -2,7 +2,7 @@
 date: '2016-01-03T19:20:45-08:00'
 link: http://dave.cheney.net/2015/11/15/the-legacy-of-go
 tags:
-- golang
+- go
 - programming
 title: The Legacy Of Go
 ---
