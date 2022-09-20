@@ -6,4 +6,6 @@ tags:
 title: Current Year
 ---
 
->but it's const final static private abstract unsigned int CURRENT_YEAR = 2018 LOL.
+>but it's const final static private abstract unsigned int CURRENT_YEAR = 2018
+
+LOL.
