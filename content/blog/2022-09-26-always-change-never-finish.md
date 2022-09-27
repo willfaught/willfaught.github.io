@@ -6,11 +6,11 @@ tags: [agile, methodology, scrum, software]
 title: Always Change, Never Finish
 ---
 
-Sprint 1:
+Part 1:
 
 <div class="video">{{< youtube bB340S0tGf8 >}}</div>
 
-Sprint 2:
+Part 2:
 
 <div class="video">{{< youtube A-H-xZ5ZXgo >}}</div>
 
