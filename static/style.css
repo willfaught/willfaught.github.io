@@ -17,3 +17,8 @@ html {
     color: #efefef;
     text-decoration: none;
 }
+
+.video {
+    margin-bottom: 1rem;
+    width: 66ch;
+}
