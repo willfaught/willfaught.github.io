@@ -1,197 +1,133 @@
 ---
 next: 8
-title: Tree
+title: Trippy
 ---
 
-<canvas id="c"></canvas>
+<div id="grid-container">
+    <div id="grid">
+        <div id="grid-bg"></div>
+        <div id="grid-content"></div>
+    </div>
+</div>
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
     body {
-        height: 100vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background: #ffee00;
+        box-sizing: border-box;
+        margin: 0;
+        background: #222;
     }
 
-    canvas {
-        vertical-align: middle;
+    #grid-container {
+        margin: 0px;
+        height: calc(100vh - 0px);
+        width: calc(100vw - 0px);
+        display: table;
+        background: #222;
     }
+
+    #grid-bg {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: #000;
+        background-repeat: no-repeat;
+        mix-blend-mode: multiply;
+    }
+
+    #grid {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        font-size: 8px;
+        font-family: 'Press Start 2P', monospace;
+        display: table-cell;
+        color: #FFF;
+        position: relative;
+        background: #000;
+        mix-blend-mode: lighten;
+    }
+
 </style>
 <script>
-    function buildTree({
-        branchingLimit = 10,
-        branchCount = 1,
-        tree = []
-    }) {
-        if (branchingLimit > 0) {
-            const branches = [...Array(branchCount).keys()].map(b => (
-                buildTree({
-                    branchingLimit: branchingLimit - 1,
-                    branchCount: 1 + Math.ceil(Math.random() * 2),
-                    tree
-                })
-            ))
-            return tree.concat(branches)
+    const gridElem = document.querySelector('#grid');
+    const gridElemBg = document.querySelector('#grid-bg');
+    const gridElemContent = document.querySelector('#grid-content');
+    const gridFontSize = parseInt(getComputedStyle(gridElem).fontSize, 10);
+    var colCount = 0;
+    var rowCount = 0;
+    var pixelCount = 0;
+    var pixels = [];
+    const charRangeStart = 33;
+    const charRangeEnd = 126;
+    const charRangeMax = charRangeEnd - charRangeStart;
+
+    function updateSize() {
+        gridElemContent.innerHTML = "";
+        gridElemBg.style.backgroundSize = "";
+        gridElemBg.style.backgroundImage = "";
+        colCount = Math.floor(gridElem.clientWidth / gridFontSize);
+        rowCount = Math.floor(gridElem.clientHeight / gridFontSize);
+        pixelCount = colCount * rowCount;
+        pixels = Array(pixelCount).fill(String.fromCharCode(charRangeStart));
+        let bgSize = [];
+        for (let row = 0; row < rowCount; row++) {
+            bgSize.push(`${colCount * gridFontSize}px ${row * gridFontSize}px`);
         }
-        return tree
+        gridElemBg.style.backgroundSize = bgSize.join(',');
+        render();
     }
 
-    function reset(canvas) {
-        var width = window.innerWidth
-        var height = window.innerHeight
-        canvas.width = width
-        canvas.height = height
-        return {
-            ctx: canvas.getContext('2d'),
-            width,
-            height
+    function generate(ticks) {
+        let cx = Math.floor(colCount / 2);
+        let cy = Math.floor(rowCount / 2);
+        for (let i = 0; i < pixelCount; i++) {
+            let x = i % colCount;
+            let y = Math.floor(i / colCount);
+            let t = 100 + (ticks * 0.001);
+            let v = ((Math.cos((x - cx) / 8.0) + Math.sin((y - cy) / 8.0) + t) * 16);
+            let charVal = v % charRangeMax;
+            pixels[i] = String.fromCharCode(charRangeStart + (charVal % charRangeMax));
         }
     }
 
-    function getRandom(arr) {
-        return arr[Math.floor(Math.random() * arr.length)]
-    }
-
-    function drawTree({
-        context,
-        width,
-        height,
-        tree,
-        x,
-        y,
-        colors,
-        depth = 0,
-        branchLength = Math.min(width, height) / 4
-    }) {
-        if (!tree) {
-            return
-        }
-        const minDimension = Math.min(width, height)
-        tree.forEach(branch => {
-            const newBranchLength = branchLength / (1 + Math.random() / 1.4)
-            const variance = minDimension / 45 + Math.random() * minDimension / 20
-            const directionX = Math.random() > .5 ? -1 : 1
-            const newX = x + directionX * (depth ? variance : 1)
-            const directionY = depth > 3
-                ? Math.random() > .8
-                    ? 1
-                    : -1
-                : -1
-            const newY = y + directionY * newBranchLength
-            const color = depth < 1
-                ? colors.root
-                : depth < 2
-                    ? getRandom([
-                        getRandom(colors.branches),
-                        colors.root
-                    ])
-                    : getRandom(colors.branches)
-            context.strokeStyle = color
-            context.lineCap = 'round'
-            context.lineWidth = 5
-            context.beginPath()
-            context.moveTo(x, y)
-            context.lineTo(newX, newY)
-            context.stroke()
-            drawTree({
-                context,
-                width,
-                height,
-                tree: branch,
-                x: newX,
-                y: newY,
-                colors,
-                depth: depth + 1,
-                branchLength: newBranchLength
-            })
-        })
-    }
-
-    function drawBackground(context, width, height, colors) {
-        const lineLength = width / 30 + Math.random() * width / 5
-        const lineWidth = 3
-        const variance = 2 + Math.random() * 50
-        let x = -lineLength
-        let y = lineWidth
-        while (y < height) {
-            const stepY = height / 100 + Math.random() * height / 30
-            while (x < width) {
-                const stepX = 10 + Math.random() * width / 20
-                const directionY = Math.random() > .5 ? -1 : 1
-                context.strokeStyle = getRandom(colors)
-                context.lineCap = 'round'
-                context.lineWidth = lineWidth
-                context.beginPath()
-                context.moveTo(x, y + directionY * stepY)
-                context.lineTo(x + lineLength, y + directionY * variance)
-                context.stroke()
-                x += stepX
+    function generateColors() {
+        let bgImage = [];
+        let bgImageParts = [];
+        let percent = 0;
+        const percentInterval = 100 / colCount;
+        for (let i = 0; i < pixelCount; i++) {
+            let pixel = pixels[i];
+            let hslAngle = ((pixel.charCodeAt(0) - charRangeStart) / charRangeMax) * 360;
+            let pixelColor = `hsl(${hslAngle}, 70%, 50%)`;
+            let bgImagePart = `${pixelColor} ${percent}%`;
+            percent += percentInterval;
+            bgImagePart += `, ${pixelColor} ${percent}%`;
+            bgImageParts.push(bgImagePart);
+            if ((i + 1) % colCount === 0) {
+                bgImage.push(`linear-gradient(to right, ${bgImageParts.join(', ')})`);
+                percent = 0;
+                bgImageParts = [];
             }
-            x = -lineLength
-            y += stepY
         }
+        gridElemBg.style.backgroundImage = bgImage.join(',');
     }
 
-    let branchCount = 0
-    const branchingLimit = 9
-
-    function draw() {
-        const { ctx, width, height } = reset(c)
-
-        const backgroundColors = [
-            'rgba(255, 105, 180, .25)'
-        ]
-
-        drawBackground(ctx, width, height, backgroundColors)
-
-        if (branchCount++ > branchingLimit) {
-            branchCount = 0
-        }
-        const tree = buildTree({
-            branchingLimit: branchCount
-        })
-
-        const treeColors = {
-            root: 'brown',
-            branches: [
-                'rgba(0, 255, 0, .75)',
-                'rgba(0, 40, 0, .75)',
-                'rgba(0, 80, 0, .75)',
-                'rgba(0, 120, 0, .75)',
-                'rgba(0, 160, 0, .75)',
-                'rgba(0, 200, 0, .75)',
-                'rgba(20, 200, 0, .75)',
-                'rgba(40, 200, 0, .75)',
-                'rgba(60, 200, 0, .75)',
-                'rgba(150, 200, 0, .75)',
-                'rgba(200, 200, 0, .75)',
-                'rgba(200, 160, 0, .75)',
-                'rgba(200, 120, 0, .75)'
-            ]
-        }
-
-        drawTree({
-            context: ctx,
-            width,
-            height,
-            tree,
-            x: width / 2,
-            y: height,
-            colors: treeColors
-        })
+    function render(ticks = 0) {
+        generate(ticks);
+        generateColors();
+        let content = '';
+        content = pixels.reduce((prev, curr, idx) => {
+            return prev + curr + ((idx + 1) % colCount === 0 ? '\n' : '');
+        });
+        gridElemContent.innerHTML = content;
+        requestAnimationFrame(render);
     }
-
-    const throttle = 10
-    let counter = 0
-
-    function loop() {
-        if (!(counter++ % throttle)) {
-            draw()
-        }
-        requestAnimationFrame(loop)
-    }
-
-    requestAnimationFrame(loop)
+    window.addEventListener('resize', updateSize);
+    updateSize();
 </script>
 
-<!-- From https://speckyboy.com/texture-pattern-effects-css-js/ -->
+<!-- From https://speckyboy.com/css-javascript-ascii-artwork-snippets/ -->

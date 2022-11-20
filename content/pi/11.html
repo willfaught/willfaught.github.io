@@ -1,117 +1,51 @@
 ---
 next: 12
-title: Scanner
+title: Donut
 ---
-
-<div class="msg">Scanning</div>
-<div id="console"></div>
 
 <style>
     body {
-        margin: 0;
-        padding: 5vh 5vw;
-        background: black;
-        overflow: hidden;
-    }
-
-    * {
-        box-sizing: border-box;
-    }
-
-    p {
-        font-family: monospace;
-        font-weight: bold;
-        font-size: 4.1vh;
-        margin: 0;
-        padding: 0;
-        line-height: 1;
-        color: limegreen;
-        text-shadow: 0px 0px 10px limegreen;
-    }
-
-    .msg {
-        font-family: monospace;
-        font-weight: bold;
-        text-transform: uppercase;
-        font-size: 5vh;
-        padding-top: 5vh;
-        background: red;
-        box-shadow: 0 0 30px red;
-        text-shadow: 0 0 20px white;
+        background: #1D1E22;
         color: white;
-        width: 20vw;
-        height: 15vh;
-        position: absolute;
-        left: 50%;
-        margin-left: -10vw;
-        top: 50%;
-        margin-top: -5vh;
-        text-align: center;
-        min-width: 200px;
-        animation-name: blink;
-        animation-duration: 0.6s;
-        animation-iteration-count: infinite;
-        animation-direction: alternate;
-        animation-timing-function: linear;
-    }
-
-    @keyframes blink {
-        0% {
-            opacity: 0;
-        }
-
-        100% {
-            opacity: 1;
-        }
+        display: flex;
+        align-items: center;
+        flex-direction: column;
     }
 </style>
-
 <script>
-    var intervalID = window.setInterval(updateScreen, 200);
-    var console = document.getElementById("console");
+    const pre = document.createElement("pre");
+    document.body.appendChild(pre);
 
-    var txt = [
-        "FORCE: XX0022. ENCYPT://000.222.2345",
-        "TRYPASS: ********* AUTH CODE: ALPHA GAMMA: 1___ PRIORITY 1",
-        "RETRY: REINDEER FLOTILLA",
-        "Z:> /FALKEN/GAMES/TICTACTOE/ EXECUTE -PLAYERS 0",
-        "================================================",
-        "Priority 1 // local / scanning...",
-        "scanning ports...",
-        "BACKDOOR FOUND (23.45.23.12.00000000)",
-        "BACKDOOR FOUND (13.66.23.12.00110000)",
-        "BACKDOOR FOUND (13.66.23.12.00110044)",
-        "...",
-        "...",
-        "BRUTE.EXE -r -z",
-        "...locating vulnerabilities...",
-        "...vulnerabilities found...",
-        "MCP/> DEPLOY CLU",
-        "SCAN: __ 0100.0000.0554.0080",
-        "SCAN: __ 0020.0000.0553.0080",
-        "SCAN: __ 0001.0000.0554.0550",
-        "SCAN: __ 0012.0000.0553.0030",
-        "SCAN: __ 0100.0000.0554.0080",
-        "SCAN: __ 0020.0000.0553.0080",
-    ]
+    let x=1760,
+            z=0,y=0;setInterval
+            (()=>{z+=.07,y+=.03;const
+        a=[...new Array(x)].map( (a,r
+        )=>r % 80 === 79 ?"\n":" "),r=new
+    Array(x).fill(0), t= Math.cos(z),e=
+    Math.sin(z),n=Math.cos(y), o=Math.sin
+    (y);for(let s=0;s<6.28; s+=.07){const c
+    =Math.cos(s),h=      Math.sin(s);for(let
+    s=0;s<6.28;s+=          .02){const v=Math
+    .sin(s),M=Math          .cos(s),i=c+2,l=1
+    /(v*i*e+h*t+5          ),p=v*i*t-h*e,d=0
+    |40+30*l*(M*i*n      -p*o),m=0|12+15*l*
+    (M*i*o+p*n),f=0|8*((h*e-v*c*t)*n-v*c*
+        e-h*t-M*c*o), y=d+80*m;m<22&&m>=0
+        &&d>=0&&d<79&&l>r[y] &&(r[y]=l,
+        a[y]= ".,-~:;=!*#$@"[f>0?f:0
+        ])}}pre.innerHTML=a.join
+            ("")},50); /* JS by 
+                @housamz */
 
-    var docfrag = document.createDocumentFragment();
+    // Inspired by
+    // https://www.a1k0n.net/2011/07/20/donut-math.html
 
-    function updateScreen() {
-        //Shuffle the "txt" array
-        txt.push(txt.shift());
-        //Rebuild document fragment
-        txt.forEach(function (e) {
-            var p = document.createElement("p");
-            p.textContent = e;
-            docfrag.appendChild(p);
-        });
-        //Clear DOM body
-        while (console.firstChild) {
-            console.removeChild(console.firstChild);
-        }
-        console.appendChild(docfrag);
-    }
+
+
+
+    // credits
+    const funs = new Funs("light");
+    funs.signature();
 </script>
 
-<!-- From https://github.com/basitbilisim/hacking-simulator -->
+<!-- From https://speckyboy.com/css-javascript-ascii-artwork-snippets/ -->

@@ -1,317 +1,197 @@
 ---
 next: 9
-title: Dots
+title: Tree
 ---
 
-<script type="vertex" id="vs">
-    #version 300 es
-    
-    uniform vec2 u_mouse;
-    
-    layout (location=0) in vec3 aPosition;
-    layout (location=1) in vec3 aVelocity;
-    layout (location=2) in float mass;
-
-    out vec3 vPosition;
-    out vec3 vVelocity;
-
-    void main() {
-        vec3 position = aPosition;
-        vec3 velocity = aVelocity;
-        vec3 vmouse = vec3(u_mouse.xy, u_mouse.x);
-        vec3 acceleration =  vmouse - aPosition;
-        float dist = distance(acceleration, vmouse);
-        float gravity = (0.000997 * mass) / (dist * dist / 0.24);
-        acceleration *= gravity;
-        velocity += acceleration;
-        velocity *= 0.96;
-        vPosition = position + velocity;
-        vVelocity = velocity;
-        gl_PointSize = mass * 1.0;
-        gl_Position = vec4(aPosition, 1.0);
-    }
-</script>
-<script type="fragment" id="fs">
-    #version 300 es
-    precision highp float;
-    float density = 2.0;
-    const float LOG2 = 1.442695;
-    // https://www.geeks3d.com/20100228/fog-in-glsl-webgl/
-    out vec4 fragColor;
-    void main() {
-        float z = gl_FragCoord.z / gl_FragCoord.w;
-        float fogFactor = exp2(-density * density * z * z * z * LOG2);
-        fogFactor = clamp(fogFactor, 0.0, 1.0);
-        vec4 fogColor = vec4(1.0, 0.0, 1.0, 1.0);
-        fragColor = mix(fogColor, vec4(0.0, 1.0, 1.0, 1.0), fogFactor);
-    }
-</script>
-<canvas id="webgl-canvas"></canvas>
+<canvas id="c"></canvas>
 <style>
-    html,
     body {
-        margin: 0;
-        overflow: hidden;
-        height: 100%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #ffee00;
+    }
+
+    canvas {
+        vertical-align: middle;
     }
 </style>
 <script>
-    let gl = createContext('webgl-canvas', (gl, cvs) => {
-        gl.clearColor(0.1, 0.1, 0.1, 1);
-        gl.blendFunc(gl.ONE, gl.ONE_MINUS_SRC_ALPHA);
-    });
+    function buildTree({
+        branchingLimit = 10,
+        branchCount = 1,
+        tree = []
+    }) {
+        if (branchingLimit > 0) {
+            const branches = [...Array(branchCount).keys()].map(b => (
+                buildTree({
+                    branchingLimit: branchingLimit - 1,
+                    branchCount: 1 + Math.ceil(Math.random() * 2),
+                    tree
+                })
+            ))
+            return tree.concat(branches)
+        }
+        return tree
+    }
 
-    const TWO_PI = 2.0 * Math.PI;
-    const vsSource = document.getElementById("vs").text.trim();
-    const fsSource = document.getElementById("fs").text.trim();
+    function reset(canvas) {
+        var width = window.innerWidth
+        var height = window.innerHeight
+        canvas.width = width
+        canvas.height = height
+        return {
+            ctx: canvas.getContext('2d'),
+            width,
+            height
+        }
+    }
 
-    const vShader = createShaderFromText(vsSource, gl.VERTEX_SHADER);
-    const fShader = createShaderFromText(fsSource, gl.FRAGMENT_SHADER);
+    function getRandom(arr) {
+        return arr[Math.floor(Math.random() * arr.length)]
+    }
 
-    const program = createProgram(vShader, fShader, ["vPosition", "vVelocity"]);
-    gl.useProgram(program);
+    function drawTree({
+        context,
+        width,
+        height,
+        tree,
+        x,
+        y,
+        colors,
+        depth = 0,
+        branchLength = Math.min(width, height) / 4
+    }) {
+        if (!tree) {
+            return
+        }
+        const minDimension = Math.min(width, height)
+        tree.forEach(branch => {
+            const newBranchLength = branchLength / (1 + Math.random() / 1.4)
+            const variance = minDimension / 45 + Math.random() * minDimension / 20
+            const directionX = Math.random() > .5 ? -1 : 1
+            const newX = x + directionX * (depth ? variance : 1)
+            const directionY = depth > 3
+                ? Math.random() > .8
+                    ? 1
+                    : -1
+                : -1
+            const newY = y + directionY * newBranchLength
+            const color = depth < 1
+                ? colors.root
+                : depth < 2
+                    ? getRandom([
+                        getRandom(colors.branches),
+                        colors.root
+                    ])
+                    : getRandom(colors.branches)
+            context.strokeStyle = color
+            context.lineCap = 'round'
+            context.lineWidth = 5
+            context.beginPath()
+            context.moveTo(x, y)
+            context.lineTo(newX, newY)
+            context.stroke()
+            drawTree({
+                context,
+                width,
+                height,
+                tree: branch,
+                x: newX,
+                y: newY,
+                colors,
+                depth: depth + 1,
+                branchLength: newBranchLength
+            })
+        })
+    }
 
-    const mouse = { x: 0.0, y: 0.0 };
+    function drawBackground(context, width, height, colors) {
+        const lineLength = width / 30 + Math.random() * width / 5
+        const lineWidth = 3
+        const variance = 2 + Math.random() * 50
+        let x = -lineLength
+        let y = lineWidth
+        while (y < height) {
+            const stepY = height / 100 + Math.random() * height / 30
+            while (x < width) {
+                const stepX = 10 + Math.random() * width / 20
+                const directionY = Math.random() > .5 ? -1 : 1
+                context.strokeStyle = getRandom(colors)
+                context.lineCap = 'round'
+                context.lineWidth = lineWidth
+                context.beginPath()
+                context.moveTo(x, y + directionY * stepY)
+                context.lineTo(x + lineLength, y + directionY * variance)
+                context.stroke()
+                x += stepX
+            }
+            x = -lineLength
+            y += stepY
+        }
+    }
 
-    const mouseLoc = gl.getUniformLocation(program, "u_mouse");
-    gl.uniform2fv(mouseLoc, [mouse.x, mouse.y]);
-
-    const NUM_POINTS = 1000000;
-    const PRIMITIVE_TYPE = gl.POINTS;
-
-    const particleProps = createParticleData(NUM_POINTS);
-
-    const particles = createModel(particleProps);
-    const particlesCopy = createModel(particleProps);
-
-    let currentVAO = particles.vao;
-    let currentTF = particlesCopy.tf;
+    let branchCount = 0
+    const branchingLimit = 9
 
     function draw() {
+        const { ctx, width, height } = reset(c)
 
-        gl.clear(gl.COLOR_BUFFER_BIT);
+        const backgroundColors = [
+            'rgba(255, 105, 180, .25)'
+        ]
 
-        gl.bindVertexArray(currentVAO);
-        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, currentTF);
+        drawBackground(ctx, width, height, backgroundColors)
 
-        if (currentTF === particles.tf) {
-            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, particles.buffers.position);
-            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, particles.buffers.velocity);
-        } else {
-            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, particlesCopy.buffers.position);
-            gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, particlesCopy.buffers.velocity);
+        if (branchCount++ > branchingLimit) {
+            branchCount = 0
+        }
+        const tree = buildTree({
+            branchingLimit: branchCount
+        })
+
+        const treeColors = {
+            root: 'brown',
+            branches: [
+                'rgba(0, 255, 0, .75)',
+                'rgba(0, 40, 0, .75)',
+                'rgba(0, 80, 0, .75)',
+                'rgba(0, 120, 0, .75)',
+                'rgba(0, 160, 0, .75)',
+                'rgba(0, 200, 0, .75)',
+                'rgba(20, 200, 0, .75)',
+                'rgba(40, 200, 0, .75)',
+                'rgba(60, 200, 0, .75)',
+                'rgba(150, 200, 0, .75)',
+                'rgba(200, 200, 0, .75)',
+                'rgba(200, 160, 0, .75)',
+                'rgba(200, 120, 0, .75)'
+            ]
         }
 
-        gl.beginTransformFeedback(PRIMITIVE_TYPE);
-        gl.drawArrays(PRIMITIVE_TYPE, 0, NUM_POINTS);
-        gl.endTransformFeedback();
+        drawTree({
+            context: ctx,
+            width,
+            height,
+            tree,
+            x: width / 2,
+            y: height,
+            colors: treeColors
+        })
+    }
 
-        if (currentVAO === particles.vao) {
-            currentVAO = particlesCopy.vao;
-            currentTF = particles.tf;
-        } else {
-            currentVAO = particles.vao;
-            currentTF = particlesCopy.tf;
+    const throttle = 10
+    let counter = 0
+
+    function loop() {
+        if (!(counter++ % throttle)) {
+            draw()
         }
-
-        gl.bindVertexArray(null);
-        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, null);
-
-        requestAnimationFrame(draw);
+        requestAnimationFrame(loop)
     }
 
-    function init() {
-
-        window.document.addEventListener('mousemove', function (e) {
-
-            mouse.x = (e.pageX / window.innerWidth) * 2.0 - 1.0;
-            mouse.y = (e.pageY / window.innerHeight) * 2.0 - 1.0;
-            gl.uniform2fv(mouseLoc, [mouse.x, -mouse.y]);
-        });
-
-        requestAnimationFrame(draw);
-    }
-
-    window.onload = init;
-
-    function getPoint() {
-        // https://karthikkaranth.me/blog/generating-random-points-in-a-sphere/
-        var u = Math.random();
-        var v = Math.random();
-        var theta = u * TWO_PI;
-        var phi = Math.acos(2.0 * v - 1.0);
-        var r = Math.cbrt(Math.random());
-        var sinTheta = Math.sin(theta);
-        var cosTheta = Math.cos(theta);
-        var sinPhi = Math.sin(phi);
-        var cosPhi = Math.cos(phi);
-        var x = r * sinPhi * cosTheta;
-        var y = r * sinPhi * sinTheta;
-        var z = r * cosPhi;
-        return { x, y, z };
-    }
-
-    function createParticleData(number) {
-
-        const positionData = new Float32Array(number * 3);
-        const velocityData = new Float32Array(number * 3);
-        const massData = new Float32Array(number);
-
-        for (var i = 0; i < number; ++i) {
-            const vec3i = i * 3;
-            const p = getPoint();
-            positionData[vec3i] = p.x;
-            positionData[vec3i + 1] = p.y;
-            positionData[vec3i + 2] = p.z;
-            massData[i] = Math.random();
-        }
-
-        return {
-            attributes: [
-                {
-                    name: "position",
-                    vertices: new Float32Array(positionData),
-                    target: gl.ARRAY_BUFFER,
-                    usage: gl.STREAM_COPY,
-                    attribIndex: 0,
-                    attribSize: 3,
-                    attribType: gl.FLOAT,
-                    attribNormalized: false,
-                    attribStride: 0,
-                    attribOffset: 0
-                },
-                {
-                    name: "velocity",
-                    vertices: new Float32Array(velocityData),
-                    target: gl.ARRAY_BUFFER,
-                    usage: gl.STREAM_COPY,
-                    attribIndex: 1,
-                    attribSize: 3,
-                    attribType: gl.FLOAT,
-                    attribNormalized: false,
-                    attribStride: 0,
-                    attribOffset: 0
-                },
-                {
-                    name: "mass",
-                    vertices: new Float32Array(massData),
-                    target: gl.ARRAY_BUFFER,
-                    usage: gl.STREAM_COPY,
-                    attribIndex: 2,
-                    attribSize: 1,
-                    attribType: gl.FLOAT,
-                    attribNormalized: false,
-                    attribStride: 0,
-                    attribOffset: 0
-                },
-            ],
-            count: number
-        };
-    }
-
-    function createModel(props) {
-
-        const buffers = {};
-
-        const vao = gl.createVertexArray();
-        gl.bindVertexArray(vao);
-
-        // create buffers per each attribute of model (as defined in props)
-        props.attributes.forEach(attr => {
-            buffers[attr.name] = createAttribute(attr);
-        });
-
-        // create transform feedback
-        const tf = gl.createTransformFeedback();
-        gl.bindTransformFeedback(gl.TRANSFORM_FEEDBACK, tf);
-
-        gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 0, buffers['position']);
-        gl.bindBufferBase(gl.TRANSFORM_FEEDBACK_BUFFER, 1, buffers['velocity']);
-
-        return {
-            vao,
-            buffers,
-            tf
-        }
-    }
-
-    function createAttribute(props) {
-
-        const { vertices, target, usage, attribIndex, attribSize,
-            attribType, attribNormalized, attribStride, attribOffset } = props;
-
-        const buffer = gl.createBuffer();
-
-        gl.bindBuffer(target, buffer);
-        gl.bufferData(target, vertices, usage);
-        gl.vertexAttribPointer(
-            attribIndex,
-            attribSize,
-            attribType,
-            attribNormalized,
-            attribStride,
-            attribOffset
-        );
-        gl.enableVertexAttribArray(attribIndex);
-        gl.bindBuffer(target, null);
-
-        return buffer;
-    }
-
-    function createShaderFromText(shaderText, shaderType) {
-        const shader = gl.createShader(shaderType);
-        gl.shaderSource(shader, shaderText);
-        gl.compileShader(shader);
-
-        if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
-            console.error(gl.getShaderInfoLog(shader));
-            return null;
-        }
-
-        return shader;
-    }
-
-    function createProgram(vertexShader, fragmentShader, varyings) {
-
-        const program = gl.createProgram();
-
-        gl.attachShader(program, vertexShader);
-        gl.attachShader(program, fragmentShader);
-        gl.deleteShader(vertexShader);
-        gl.deleteShader(fragmentShader);
-        gl.transformFeedbackVaryings(program, varyings, gl.SEPARATE_ATTRIBS);
-        gl.linkProgram(program);
-
-        if (!gl.getProgramParameter(program, gl.LINK_STATUS)) {
-            console.error(gl.getProgramInfoLog(program));
-            return null;
-        }
-
-        return program;
-    }
-
-    function createContext(canvasId, settingsCallback) {
-        const canvas = document.getElementById("webgl-canvas", {
-            powerPreference: "high-performance"
-        });
-
-        canvas.width = window.innerWidth;
-        canvas.height = window.innerHeight;
-
-        const ctx = canvas.getContext("webgl2");
-
-
-        if (!ctx) {
-            console.error("WebGL 2 not available");
-            document.body.innerHTML =
-                "This example requires WebGL 2 which is unavailable on this system.";
-        }
-
-        if (typeof settingsCallback === 'function') {
-            settingsCallback(ctx, canvas);
-        }
-        return ctx;
-    }
+    requestAnimationFrame(loop)
 </script>
 
 <!-- From https://speckyboy.com/texture-pattern-effects-css-js/ -->
