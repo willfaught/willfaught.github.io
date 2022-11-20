@@ -8,11 +8,11 @@ title: Always Change, Never Finish
 
 Part 1:
 
-<div class="video">{{< youtube bB340S0tGf8 >}}</div>
+{{< youtube bB340S0tGf8 >}}
 
 Part 2:
 
-<div class="video">{{< youtube A-H-xZ5ZXgo >}}</div>
+{{< youtube A-H-xZ5ZXgo >}}
 
 Some gems:
 

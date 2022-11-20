@@ -10,31 +10,31 @@ title: The Mythical Corset Oppression
 
 ["I Grew Up in a Corset. Time to Bust Some Myths. (Ft. Actual Research)"](https://www.youtube.com/watch?v=rExJskBZcW0)
 
-<div class="video">{{< youtube rExJskBZcW0 >}}</div>
+{{< youtube rExJskBZcW0 >}}
 
 ["How Victorian Men Taught Us to Hate Corsets: The Biggest Lie in Fashion History"](https://www.youtube.com/watch?v=zNwTqanp0Aw)
 
-<div class="video">{{< youtube zNwTqanp0Aw >}}</div>
+{{< youtube zNwTqanp0Aw >}}
 
 ["how actresses talk about wearing corsets in movies"](https://www.youtube.com/watch?v=l8fg5Q8liS0)
 
-<div class="video">{{< youtube l8fg5Q8liS0 >}}</div>
+{{< youtube l8fg5Q8liS0 >}}
 
 ["if people in the future talked about bras the way we talk about corsets"](https://www.youtube.com/watch?v=oX414-9qSx4)
 
-<div class="video">{{< youtube oX414-9qSx4 >}}</div>
+{{< youtube oX414-9qSx4 >}}
 
 ["period drama costume designers these days"](https://www.youtube.com/watch?v=f0fqnPFeVCM)
 
-<div class="video">{{< youtube f0fqnPFeVCM >}}</div>
+{{< youtube f0fqnPFeVCM >}}
 
 ["curb your corset stereotypes"](https://www.youtube.com/watch?v=fB4FVq8MltI)
 
-<div class="video">{{< youtube fB4FVq8MltI >}}</div>
+{{< youtube fB4FVq8MltI >}}
 
 ["Reacting to Vogue's 'Everything You Need to Know About the Corset' cause we haven't suffered enough."](https://www.youtube.com/watch?v=Lu8Hjhu_b_A)
 
-<div class="video">{{< youtube Lu8Hjhu_b_A >}}</div>
+{{< youtube Lu8Hjhu_b_A >}}
 
 ## Articles
 
