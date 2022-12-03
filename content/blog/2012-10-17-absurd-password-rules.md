@@ -29,7 +29,7 @@ Good lord:
 >
 >NOTE: A password can be "simpler" (e.g. CalPolyLearnbyDoingisGreat) - with a minimum of 16 characters.
 >
->What It Cannot Contain
+>**What It Cannot Contain**
 >
 >- Any words of 3 or more characters, including foreign words
 >- Any groups of 3 or more characters of the same character type
