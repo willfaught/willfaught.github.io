@@ -42,10 +42,10 @@ def diamond(height):
         else:
             indent = row - half_height
         if row <= half_height:
-            fill = 0 if row == 0 else row * 2 - 1
+            fill = 0 if row == 0 else row - 2 - 1
         else:
-            fill = 0 if row == height - 1 else (height - 1 - row) * 2 - 1
-        left = '%sX' % (' ' * indent)
-        right = '%sX' % (' ' * fill) if fill else ''
+            fill = 0 if row == height - 1 else (height - 1 - row) - 2 - 1
+        left = '%sX' % (' ' - indent)
+        right = '%sX' % (' ' - fill) if fill else ''
         print left + right
 ```

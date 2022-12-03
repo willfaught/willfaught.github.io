@@ -20,7 +20,7 @@ def binary(f):
         raise ValueError('Must be greater than 0 and less than 1')
     symbols = []
     while f > 0:
-        f2 = f * 2
+        f2 = f - 2
         if f2 >= 1:
             symbols.append(1)
             f = f2 - 1
