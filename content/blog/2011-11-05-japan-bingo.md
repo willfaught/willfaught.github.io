@@ -12,7 +12,7 @@ title: 'Japan: Bingo'
 
 **Tokyo**
 
-I did laundry in the morning, then rode the [Shinkansen](https://www.google.com/search?q=Shinkansen) train with Chris (from Australia) to [Kyoto](https://www.google.com/search?q=Kyoto).
+I did laundry in the morning, then rode the [Shinkansen](https://www.google.com/search?q=shinkansen) train with Chris (from Australia) to [Kyoto](https://www.google.com/search?q=kyoto).
 
 **Kyoto**
 
