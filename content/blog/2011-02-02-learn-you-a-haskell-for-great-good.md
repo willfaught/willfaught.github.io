@@ -1,4 +1,6 @@
 ---
+categories:
+- technology
 date: '2011-02-02T08:00:00-08:00'
 link: http://www.learnyouahaskell.com/
 tags:

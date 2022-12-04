@@ -1,9 +1,11 @@
 ---
+categories:
+- world
 date: '2015-06-01T22:03:44-07:00'
 link: https://www.amazon.com/gp/aw/cr/0316246654/
 tags:
-- science fiction
 - ancillary sword
+- science fiction
 title: Ancillary Sword...And Tea
 ---
 

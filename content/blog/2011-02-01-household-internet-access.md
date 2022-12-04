@@ -1,4 +1,7 @@
 ---
+categories:
+- technology
+- world
 date: '2011-02-01T12:37:00-08:00'
 tags:
 - wolfram alpha

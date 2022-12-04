@@ -1,9 +1,11 @@
 ---
+categories:
+- technology
 date: '2011-02-05T08:00:07-08:00'
 tags:
-- msdn
 - documentation
 - javadocs
+- msdn
 title: MSDN Documentation
 ---
 

@@ -1,8 +1,10 @@
 ---
+categories:
+- world
 date: '2011-02-03T16:01:07-08:00'
 tags:
-- quadrivium
 - education
+- quadrivium
 title: Quadrivium
 ---
 

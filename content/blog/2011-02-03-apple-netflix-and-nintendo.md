@@ -1,10 +1,13 @@
 ---
+categories:
+- technology
+- world
 date: '2011-02-03T08:00:07-08:00'
 tags:
-- stock
 - apple
 - netflix
 - nintendo
+- stock
 title: Apple, Netflix, And Nintendo
 ---
 

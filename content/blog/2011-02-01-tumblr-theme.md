@@ -1,6 +1,9 @@
 ---
+categories:
+- technology
 date: '2011-02-01T16:00:07-08:00'
 tags:
+- theme
 - tumblr
 title: Tumblr Theme
 ---

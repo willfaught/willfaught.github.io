@@ -1,4 +1,6 @@
 ---
+categories:
+- technology
 date: '2011-03-09T13:23:42-08:00'
 link: https://itunes.apple.com/us/app/xcode/id422352214
 tags:

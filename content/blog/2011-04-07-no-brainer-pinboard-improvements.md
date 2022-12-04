@@ -1,8 +1,9 @@
 ---
+categories:
+- world
 date: '2011-04-07T12:01:00-07:00'
 tags:
 - pinboard
-- ideas
 title: No-Brainer Pinboard Improvements
 ---
 

@@ -1,9 +1,10 @@
 ---
+categories:
+- technology
 date: '2011-04-03T03:54:00-07:00'
 tags:
 - macbook air
 - canon s95
-- opinions
 title: New Goodies
 ---
 

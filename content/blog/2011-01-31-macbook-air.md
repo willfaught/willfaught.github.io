@@ -1,4 +1,6 @@
 ---
+categories:
+- technology
 date: '2011-01-31T00:10:18-08:00'
 tags:
 - macbook air

@@ -1,9 +1,12 @@
 ---
+categories:
+- technology
 date: '2011-03-15T23:32:42-07:00'
 link: https://www.businessinsider.com/flash-video-on-tablets-the-real-reason-why-its-not-happened-2011-3
 tags:
 - flash
-- tablets
+- performance
+- power
 - smartphones
 title: Dedicated Hardware Needed For Flash
 ---

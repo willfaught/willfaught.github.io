@@ -1,8 +1,10 @@
 ---
+categories:
+- world
 date: '2011-02-16T00:09:14-08:00'
 tags:
+- blog
 - facebook
-- blogging
 title: Blogs On Facebook
 ---
 

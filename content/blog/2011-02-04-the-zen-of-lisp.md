@@ -1,8 +1,10 @@
 ---
+categories:
+- technology
 date: '2011-02-04T08:00:07-08:00'
 tags:
-- sicp
 - lisp
+- sicp
 - universal machine
 title: The Zen Of Lisp
 ---

@@ -1,5 +1,9 @@
 ---
+categories:
+- technology
 date: '2011-02-05T01:41:12-08:00'
+tags:
+- ui
 title: UI Pet Peeve
 ---
 

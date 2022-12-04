@@ -1,4 +1,6 @@
 ---
+categories:
+- world
 date: '2011-03-27T22:44:00-07:00'
 tags:
 - minecraft

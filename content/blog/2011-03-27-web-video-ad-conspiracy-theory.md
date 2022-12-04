@@ -1,7 +1,8 @@
 ---
+categories:
+- world
 date: '2011-03-27T22:06:00-07:00'
 tags:
-- rants
 - ads
 title: Web Video Ad Conspiracy Theory
 ---

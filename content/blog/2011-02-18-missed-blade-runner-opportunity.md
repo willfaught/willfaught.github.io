@@ -1,4 +1,6 @@
 ---
+categories:
+- world
 date: '2011-02-18T12:00:06-08:00'
 tags:
 - blade runner

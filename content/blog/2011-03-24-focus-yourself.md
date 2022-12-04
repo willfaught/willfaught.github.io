@@ -1,8 +1,9 @@
 ---
+categories:
+- technology
 date: '2011-03-24T15:19:00-07:00'
 tags:
 - silverlight
-- fyi
 title: Focus Yourself
 ---
 

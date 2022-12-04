@@ -1,6 +1,9 @@
 ---
+categories:
+- life
 date: '2011-01-30T18:18:00-08:00'
 tags:
+- blog
 - blogger
 - tumblr
 title: Moving To Tumblr

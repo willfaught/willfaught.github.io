@@ -1,9 +1,11 @@
 ---
+categories:
+- technology
 date: '2011-03-09T12:00:07-08:00'
 link: https://davybrion.com/blog/2011/03/why-were-going-with-html5-instead-of-silverlight/
 tags:
-- silverlight
 - html
+- silverlight
 title: Going With HTML Instead Of Silverlight
 ---
 

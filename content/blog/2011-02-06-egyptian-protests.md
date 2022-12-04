@@ -1,4 +1,6 @@
 ---
+categories:
+- world
 date: '2011-02-06T12:00:07-08:00'
 tags:
 - egypt

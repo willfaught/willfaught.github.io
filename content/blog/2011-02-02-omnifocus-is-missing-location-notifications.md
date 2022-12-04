@@ -1,9 +1,10 @@
 ---
+categories:
+- technology
 date: '2011-02-02T16:00:06-08:00'
 tags:
-- omnifocus
 - iphone
-- omnigroup
+- omnifocus
 title: OmniFocus Is Missing Location Notifications
 ---
 
