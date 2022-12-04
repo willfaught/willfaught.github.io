@@ -6,6 +6,6 @@ tags:
 title: Household Internet Access
 ---
 
-[What is the percentage of households with internet access in the United States?](http://www.wolframalpha.com/input/?i=percentage+of+households+with+internet+access+in+the+united+states) 75%, estimated as of 2008.
+[What is the percentage of households with internet access in the United States?](https://www.wolframalpha.com/input/?i=percentage+of+households+with+internet+access+in+the+united+states) 75%, estimated as of 2008.
 
 Wolfram Alpha is really cool.

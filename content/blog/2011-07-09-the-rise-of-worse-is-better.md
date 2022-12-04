@@ -1,6 +1,6 @@
 ---
 date: '2011-07-09T23:00:05-07:00'
-link: http://www.jwz.org/doc/worse-is-better.html
+link: https://www.jwz.org/doc/worse-is-better.html
 tags:
 - computation
 - opinions

@@ -7,7 +7,7 @@ tags:
 title: Always Online Adam Orth Meme
 ---
 
-Adam Orth resigned from Microsoft soon after [the public relations shit storm he created](http://arstechnica.com/gaming/2013/04/adam-always-online-orth-no-longer-employed-at-microsoft/). Here are some hilarious parodies that are part of a meme about him and his remarks.
+Adam Orth resigned from Microsoft soon after [the public relations shit storm he created](https://arstechnica.com/gaming/2013/04/adam-always-online-orth-no-longer-employed-at-microsoft/). Here are some hilarious parodies that are part of a meme about him and his remarks.
 
 My favorite:
 

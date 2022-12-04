@@ -1,6 +1,6 @@
 ---
 date: '2015-01-13T08:05:45-08:00'
-link: http://en.m.wikipedia.org/wiki/Bicameralism
+link: https://en.m.wikipedia.org/wiki/Bicameralism
 title: Bicameralism
 ---
 

@@ -1,6 +1,6 @@
 ---
 date: '2015-05-05T00:51:35-07:00'
-link: http://cir.ca/s/CMLB
+link: https://cir.ca/s/CMLB
 tags:
 - north korea
 - south korea

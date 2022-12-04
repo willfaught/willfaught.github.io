@@ -1,6 +1,6 @@
 ---
 date: '2015-09-15T10:45:21-07:00'
-link: http://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/14547-Yahtzee-On-Everybodys-Gone-To-The-Rapture-and-Gone-Home
+link: https://web.archive.org/web/20150913152507/https://www.escapistmagazine.com/articles/view/video-games/columns/extra-punctuation/14547-Yahtzee-On-Everybodys-Gone-To-The-Rapture-and-Gone-Home
 tags:
 - gaming
 title: Yahtzee On Everybodys Gone To The Rapture And Gone Home

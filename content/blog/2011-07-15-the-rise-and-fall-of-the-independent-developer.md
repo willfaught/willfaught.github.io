@@ -1,6 +1,6 @@
 ---
 date: '2011-07-15T16:12:46-07:00'
-link: http://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/
+link: https://furbo.org/2011/07/13/the-rise-and-fall-of-the-independent-developer/
 tags:
 - computation
 - interesting

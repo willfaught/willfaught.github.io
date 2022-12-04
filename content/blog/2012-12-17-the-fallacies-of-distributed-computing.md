@@ -1,6 +1,6 @@
 ---
 date: '2012-12-17T22:40:28-08:00'
-link: http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
+link: https://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing
 tags:
 - computation
 title: The Fallacies Of Distributed Computing

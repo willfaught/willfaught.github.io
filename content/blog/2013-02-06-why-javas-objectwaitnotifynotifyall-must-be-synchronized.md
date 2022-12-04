@@ -1,6 +1,6 @@
 ---
 date: '2013-02-06T17:16:00-08:00'
-link: http://www.velocityreviews.com/forums/t149170-why-synchronized-with-wait-notify.html
+link: https://www.velocityreviews.com/forums/t149170-why-synchronized-with-wait-notify.html
 tags:
 - computation
 title: Why Java's Object.wait/notify/notifyAll Must Be Synchronized

@@ -1,6 +1,6 @@
 ---
 date: '2015-10-17T18:44:32-07:00'
-link: http://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html
+link: https://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html
 tags:
 - coreos
 - redhat

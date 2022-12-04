@@ -6,7 +6,7 @@ tags:
 title: Mac OS Lion
 ---
 
-[Mac OS Lion](http://www.apple.com/macosx/lion/) looks promising:
+[Mac OS Lion](https://www.apple.com/macosx/lion/) looks promising:
 
 - Choose and organize apps like iOS
 - Full screen apps

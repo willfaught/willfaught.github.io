@@ -1,6 +1,6 @@
 ---
 date: '2015-11-30T13:04:56-08:00'
-link: http://commoncrawl.org
+link: https://commoncrawl.org
 tags:
 - web
 - crawl

@@ -1,6 +1,6 @@
 ---
 date: '2011-02-20T12:00:07-08:00'
-link: http://www.wikihow.com/Survive-a-Long-Fall
+link: https://www.wikihow.com/Survive-a-Long-Fall
 tags:
 - survival
 - falling

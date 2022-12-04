@@ -1,6 +1,6 @@
 ---
 date: '2016-06-24T09:27:58-07:00'
-link: http://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs
+link: https://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs
 tags:
 - gaming
 - games
@@ -22,7 +22,7 @@ Alex Osborn, writing for IGN:
 
 In other words, not good. I stopped expecting good hardware from Nintendo a long time ago. It's still just as disappointing to hear, however.
 
-If "it's not about teraflops", then I guess they're not going to make VR games, since one of the reasons Microsoft is making the Xbox One Scorpio is because [VR game developers told them they need six teraflops to make good VR games](http://www.ign.com/articles/2016/06/15/e3-2016-xbox-boss-talks-vr-scorpio-specs-and-console-upgrade-cycle):
+If "it's not about teraflops", then I guess they're not going to make VR games, since one of the reasons Microsoft is making the Xbox One Scorpio is because [VR game developers told them they need six teraflops to make good VR games](https://www.ign.com/articles/2016/06/15/e3-2016-xbox-boss-talks-vr-scorpio-specs-and-console-upgrade-cycle):
 
 >"When we went out and talked to VR developers, the capability and the hardware spec that they need to deliver a console-like experience to VR was a requirement of 6 teraflops, which clearly, today's consoles—PlayStation 4 and Xbox One—don't have," he said, suggesting the current PS4 isn't well suited for VR.
 

@@ -5,7 +5,7 @@ tags:
 title: I Couldn't Help Myself
 ---
 
-I also bought these games from the [Steam Summer Sale](http://steampowered.com):
+I also bought these games from the [Steam Summer Sale](https://steampowered.com):
 
 - Terraria
 - Garry's Mod

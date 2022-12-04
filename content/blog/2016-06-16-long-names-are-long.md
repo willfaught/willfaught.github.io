@@ -1,6 +1,6 @@
 ---
 date: '2016-06-16T23:58:57-07:00'
-link: http://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
+link: https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 tags:
 - programming
 - naming

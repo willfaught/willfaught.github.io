@@ -1,6 +1,6 @@
 ---
 date: '2014-06-01T11:04:18-07:00'
-link: http://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/
+link: https://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/
 tags:
 - reading
 title: Why Is A Minute Divided Into 60 Seconds, An Hour Into 60 Minutes, Yet There

@@ -1,6 +1,6 @@
 ---
 date: '2011-04-09T19:20:00-07:00'
-link: http://www.baldessarini.com/
+link: https://www.baldessarini.com/
 tags:
 - flash
 - opinions

@@ -1,6 +1,6 @@
 ---
 date: '2015-09-02T14:25:08-07:00'
-link: http://blog.golang.org/go15gc
+link: https://blog.golang.org/go15gc
 tags:
 - go
 title: 'Go GC: Prioritizing Low Latency And Simplicity'

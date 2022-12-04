@@ -1,6 +1,6 @@
 ---
 date: '2015-02-14T15:28:37-08:00'
-link: http://mesos.apache.org
+link: https://mesos.apache.org
 tags:
 - cluster management
 title: Apache Mesos

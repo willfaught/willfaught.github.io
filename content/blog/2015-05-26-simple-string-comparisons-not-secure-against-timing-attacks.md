@@ -1,6 +1,6 @@
 ---
 date: '2015-05-26T19:40:56-07:00'
-link: http://security.stackexchange.com/questions/83660/simple-string-comparisons-not-secure-against-timing-attacks
+link: https://security.stackexchange.com/questions/83660/simple-string-comparisons-not-secure-against-timing-attacks
 tags:
 - coding
 title: Simple String Comparisons Not Secure Against Timing Attacks

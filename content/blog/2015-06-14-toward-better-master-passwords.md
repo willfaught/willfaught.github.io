@@ -7,4 +7,4 @@ tags:
 title: Toward Better Master Passwords
 ---
 
-I've been making my passwords all wrong. You can find Diceware [here](http://world.std.com/~reinhold/diceware.html).
+I've been making my passwords all wrong. You can find Diceware [here](https://world.std.com/~reinhold/diceware.html).

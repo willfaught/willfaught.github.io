@@ -1,6 +1,6 @@
 ---
 date: '2011-06-07T01:14:00-07:00'
-link: http://ps3.ign.com/articles/117/1173370p1.html
+link: https://ps3.ign.com/articles/117/1173370p1.html
 tags:
 - games
 - quotations

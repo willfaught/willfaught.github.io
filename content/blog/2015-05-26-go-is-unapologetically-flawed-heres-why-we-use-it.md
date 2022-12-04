@@ -1,6 +1,6 @@
 ---
 date: '2015-05-26T20:43:34-07:00'
-link: http://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/?utm_source=golangweekly&utm_medium=email
+link: https://bravenewgeek.com/go-is-unapologetically-flawed-heres-why-we-use-it/?utm_source=golangweekly&utm_medium=email
 tags:
 - go
 title: Go Is Unapologetically Flawed, Here's Why We Use It

@@ -1,6 +1,6 @@
 ---
 date: '2013-02-03T17:19:00-08:00'
-link: http://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/
+link: https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/
 tags:
 - computation
 title: Performance Numbers Useful To Software Engineers

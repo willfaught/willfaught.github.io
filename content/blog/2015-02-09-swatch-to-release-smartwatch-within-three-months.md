@@ -1,6 +1,6 @@
 ---
 date: '2015-02-09T18:21:05-08:00'
-link: http://cir.ca/s/5WR
+link: https://cir.ca/s/5WR
 tags:
 - funny
 title: Swatch To Release Smartwatch Within Three Months

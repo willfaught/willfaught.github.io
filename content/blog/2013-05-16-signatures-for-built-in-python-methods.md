@@ -1,6 +1,6 @@
 ---
 date: '2013-05-16T19:50:38-07:00'
-link: http://mail.python.org/pipermail/python-list/2012-June/624923.html
+link: https://mail.python.org/pipermail/python-list/2012-June/624923.html
 tags:
 - computation
 title: Signatures For Built-In Python Methods

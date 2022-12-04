@@ -1,6 +1,6 @@
 ---
 date: '2016-11-02T10:54:44-07:00'
-link: http://arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/4/
+link: https://arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/4/
 tags:
 - ars technica
 - review

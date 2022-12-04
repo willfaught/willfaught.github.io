@@ -1,6 +1,6 @@
 ---
 date: '2013-03-04T08:35:00-08:00'
-link: http://daringfireball.net/2013/03/open_and_shut
+link: https://daringfireball.net/2013/03/open_and_shut
 tags:
 - technology
 title: Open And Shut

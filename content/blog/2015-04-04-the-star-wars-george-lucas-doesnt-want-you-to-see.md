@@ -1,6 +1,6 @@
 ---
 date: '2015-04-04T12:39:36-07:00'
-link: http://www.theatlantic.com/technology/archive/2014/08/the-star-wars-george-lucas-doesnt-want-you-to-see/379184/
+link: https://www.theatlantic.com/technology/archive/2014/08/the-star-wars-george-lucas-doesnt-want-you-to-see/379184/
 title: The Star Wars George Lucas Doesn't Want You To See
 ---
 

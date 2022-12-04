@@ -5,7 +5,7 @@ tags:
 title: Steam Summer Sale
 ---
 
-I just bought 17 games from the [Steam Summer Sale](http://steampowered.com):
+I just bought 17 games from the [Steam Summer Sale](https://steampowered.com):
 
 - Supreme Commander 2
 - Alan Wake

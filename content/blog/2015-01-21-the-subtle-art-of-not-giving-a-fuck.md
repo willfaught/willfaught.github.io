@@ -1,6 +1,6 @@
 ---
 date: '2015-01-21T11:43:19-08:00'
-link: http://markmanson.net/not-giving-a-fuck
+link: https://markmanson.net/not-giving-a-fuck
 title: The Subtle Art Of Not Giving A Fuck
 ---
 

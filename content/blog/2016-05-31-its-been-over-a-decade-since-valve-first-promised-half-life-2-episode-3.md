@@ -1,6 +1,6 @@
 ---
 date: '2016-05-31T03:32:47-07:00'
-link: http://arstechnica.com/gaming/2016/05/celebrating-ten-years-of-half-life-2-episode-3-not-coming-out/?comments=1&start=40
+link: https://arstechnica.com/gaming/2016/05/celebrating-ten-years-of-half-life-2-episode-3-not-coming-out/?comments=1&start=40
 tags:
 - gaming
 - games

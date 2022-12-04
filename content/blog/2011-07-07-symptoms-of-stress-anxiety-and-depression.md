@@ -19,7 +19,7 @@ During the past several years, I experienced a variety of symptoms caused by str
 - Numbness
 - Twitches
 - Teeth grinding
-- Ear pain ([temporomandibular joint disorder](http://en.wikipedia.org/wiki/Temporomandibular_joint_disorder))
+- Ear pain ([temporomandibular joint disorder](https://en.wikipedia.org/wiki/Temporomandibular_joint_disorder))
 - Weight loss
 - Dizziness
 - Exhaustion

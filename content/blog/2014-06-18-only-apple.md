@@ -1,7 +1,7 @@
 ---
 categories: [technology, world]
 date: '2014-06-18T11:15:58-07:00'
-link: http://daringfireball.net/2014/06/only_apple
+link: https://daringfireball.net/2014/06/only_apple
 tags:
 - apple
 - daring fireball

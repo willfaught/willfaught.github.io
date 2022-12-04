@@ -1,6 +1,6 @@
 ---
 date: '2015-12-13T19:27:20-08:00'
-link: http://gizmodo.com/a-guide-to-the-booming-world-of-souped-up-skateboards-a-1723729805
+link: https://gizmodo.com/a-guide-to-the-booming-world-of-souped-up-skateboards-a-1723729805
 tags:
 - hoverboards
 - scooters

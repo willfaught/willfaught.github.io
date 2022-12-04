@@ -1,6 +1,6 @@
 ---
 date: '2016-04-06T08:45:08-07:00'
-link: http://www.nbcnews.com/id/21034344/ns/health-infectious_diseases/t/die-brain-eating-amoeba-after-swimming/
+link: https://www.nbcnews.com/id/21034344/ns/health-infectious_diseases/t/die-brain-eating-amoeba-after-swimming/
 tags:
 - brain
 - amoeba

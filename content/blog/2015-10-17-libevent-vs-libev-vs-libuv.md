@@ -9,7 +9,7 @@ title: Libevent Vs. Libev Vs. Libuv
 
 What's the difference between libevent, libev, and libuv?
 
-[Marc Lehmann on Stack Overflow](http://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent):
+[Marc Lehmann on Stack Overflow](https://stackoverflow.com/questions/9433864/whats-the-difference-between-libev-and-libevent):
 
 >libev was created to improve on some of the architectural decisions in libevent, for example, global variable usage made it hard to use libevent safely in multithreaded environments, watcher structures are big because they combine I/O, time and signal handlers in one, the extra components such as the http and dns servers suffered from bad implementation quality and resultant security issues, and timers were inexact and didn't cope well with time jumps.
 

@@ -6,4 +6,4 @@ tags:
 title: I Just Learned Markdown
 ---
 
-I **love** it! Way better than WYSIWYG formatting. Hats off to John Gruber.
+I *love* it! Way better than WYSIWYG formatting. Hats off to John Gruber.

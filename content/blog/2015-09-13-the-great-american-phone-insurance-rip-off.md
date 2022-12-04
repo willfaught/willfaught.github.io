@@ -1,6 +1,6 @@
 ---
 date: '2015-09-13T01:43:31-07:00'
-link: http://www.pcmag.com/article2/0,2817,2425755,00.asp
+link: https://www.pcmag.com/article2/0,2817,2425755,00.asp
 title: The Great American Phone Insurance Rip-Off
 ---
 

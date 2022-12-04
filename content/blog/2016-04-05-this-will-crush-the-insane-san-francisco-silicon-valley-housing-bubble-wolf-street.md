@@ -1,6 +1,6 @@
 ---
 date: '2016-04-05T10:33:48-07:00'
-link: http://wolfstreet.com/2016/02/25/bust-royale-for-insane-san-francisco-silicon-valley-housing-markets/
+link: https://wolfstreet.com/2016/02/25/bust-royale-for-insane-san-francisco-silicon-valley-housing-markets/
 tags:
 - tech
 - san francisco

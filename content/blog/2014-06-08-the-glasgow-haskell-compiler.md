@@ -1,22 +1,22 @@
 ---
 date: '2014-06-08T17:02:40-07:00'
-link: http://www.aosabook.org/en/ghc.html
+link: https://www.aosabook.org/en/ghc.html
 tags:
 - computing
 title: The Glasgow Haskell Compiler
 ---
 
-An interesting overview of the **Glasgow Haskell Compiler**. I had no idea about some of this stuff.
+An interesting overview of the Glasgow Haskell Compiler. I had no idea about some of this stuff.
 
 On optimizing the performance of trivial functions:
 
 >If every use of such a function really required a function call, efficiency would be terrible. One solution is to make the compiler treat certain functions specially; another is to use a pre-processor to replace a "call" with the desired inline code. All of these solutions are unsatisfactory in one way or another, especially as another solution is so obvious: simply inline the function. To "inline a function" means to replace the call by a copy of the function body, suitably instantiating its parameters.
 
->In GHC we have systematically adopted this approach [PM02]. Virtually nothing is built into the compiler. Instead, we define as much as possible in libraries, and use aggressive inlining to eliminate the overheads. This means that programmers can define their own libraries that will be inlined and optimised as well as the ones that come with GHC.
+>In GHC we have systematically adopted this approach. Virtually nothing is built into the compiler. Instead, we define as much as possible in libraries, and use aggressive inlining to eliminate the overheads. This means that programmers can define their own libraries that will be inlined and optimised as well as the ones that come with GHC.
 
 On rewrite rules (basically, macros):
 
->The entire rule is a pragma, introduced by {-# RULES. The rule says that whenever GHC sees the expression (foldr k z (build g)) it should rewrite it to (g k z). This transformation is semantics-preserving, but it takes a research paper to argue that it is [GLP93], so there is no chance of GHC performing it automatically. Together with a handful of other rules, and some INLINE pragmas, GHC is able to fuse together list-transforming functions. For example, the two loops in (map f (map g xs)) are fused into one.
+>The entire rule is a pragma, introduced by {-# RULES. The rule says that whenever GHC sees the expression (foldr k z (build g)) it should rewrite it to (g k z). This transformation is semantics-preserving, but it takes a research paper to argue that it is, so there is no chance of GHC performing it automatically. Together with a handful of other rules, and some INLINE pragmas, GHC is able to fuse together list-transforming functions. For example, the two loops in (map f (map g xs)) are fused into one.
 
 On lightweight threads:
 

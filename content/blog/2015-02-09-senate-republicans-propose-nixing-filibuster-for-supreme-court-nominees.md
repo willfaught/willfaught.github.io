@@ -1,6 +1,6 @@
 ---
 date: '2015-02-09T18:32:00-08:00'
-link: http://cir.ca/s/ZjJ
+link: https://cir.ca/s/ZjJ
 title: Senate Republicans Propose Nixing Filibuster For Supreme Court Nominees
 ---
 

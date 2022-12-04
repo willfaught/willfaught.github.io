@@ -1,6 +1,6 @@
 ---
 date: '2015-06-02T19:05:29-07:00'
-link: http://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3
+link: https://arstechnica.com/gaming/2015/06/the-quest-to-save-todays-gaming-history-from-being-lost-forever/#p3
 tags:
 - games
 title: The Quest To Save Today's Gaming History From Being Lost Forever

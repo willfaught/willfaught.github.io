@@ -1,6 +1,6 @@
 ---
 date: '2017-04-12T12:57:19-07:00'
-link: http://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html
+link: https://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html
 tags:
 - programming
 - javascript

@@ -1,6 +1,6 @@
 ---
 date: '2015-12-20T19:24:25-08:00'
-link: http://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276
+link: https://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276
 tags:
 - wine
 - reviews

@@ -1,6 +1,6 @@
 ---
 date: '2011-05-23T12:00:06-07:00'
-link: http://feeds.theonion.com/~r/theonion/daily/~3/A_os60jrdOA/
+link: https://feeds.theonion.com/~r/theonion/daily/~3/A_os60jrdOA/
 tags:
 - the onion
 - funny

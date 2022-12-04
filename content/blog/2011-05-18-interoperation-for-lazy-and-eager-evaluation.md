@@ -1,6 +1,6 @@
 ---
 date: '2011-05-18T12:00:06-07:00'
-link: http://digitalcommons.calpoly.edu/theses/496/
+link: https://digitalcommons.calpoly.edu/theses/496/
 tags:
 - ideas
 - dissertation

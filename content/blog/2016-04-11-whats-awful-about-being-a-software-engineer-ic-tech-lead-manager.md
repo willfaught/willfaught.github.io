@@ -1,6 +1,6 @@
 ---
 date: '2016-04-11T16:09:18-07:00'
-link: http://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1
+link: https://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1
 tags:
 - programming
 - management

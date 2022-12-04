@@ -1,6 +1,6 @@
 ---
 date: '2013-01-18T00:15:00-08:00'
-link: http://en.wikipedia.org/wiki/Tree_traversal
+link: https://en.wikipedia.org/wiki/Tree_traversal
 tags:
 - computation
 title: Binary Tree Sequentializations As Identities

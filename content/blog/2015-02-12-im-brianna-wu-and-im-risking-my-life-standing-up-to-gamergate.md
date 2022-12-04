@@ -1,6 +1,6 @@
 ---
 date: '2015-02-12T13:11:13-08:00'
-link: http://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
+link: https://www.bustle.com/articles/63466-im-brianna-wu-and-im-risking-my-life-standing-up-to-gamergate
 tags:
 - gamergate
 title: "\"I'm Brianna Wu, And I'm Risking My Life Standing Up To Gamergate\""

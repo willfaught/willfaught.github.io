@@ -1,6 +1,6 @@
 ---
 date: '2013-03-11T17:31:00-07:00'
-link: http://adrianquark.blogspot.com/2008/09/how-to-shuffle-array-correctly.html
+link: https://adrianquark.blogspot.com/2008/09/how-to-shuffle-array-correctly.html
 tags:
 - computation
 title: Shuffling Arrays And Bias

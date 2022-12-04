@@ -5,7 +5,7 @@ tags:
 title: Go Export Syntax
 ---
 
-[Go FAQ](http://golang.org/doc/faq):
+[Go FAQ](https://golang.org/doc/faq):
 
 >The case-for-visibility rule is unlikely to change however; it's one of our favorite features of Go.
 

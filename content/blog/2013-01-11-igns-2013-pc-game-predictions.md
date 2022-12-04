@@ -1,6 +1,6 @@
 ---
 date: '2013-01-11T12:27:00-08:00'
-link: http://www.ign.com/articles/2013/01/10/10-bold-pc-predictions-for-2013
+link: https://www.ign.com/articles/2013/01/10/10-bold-pc-predictions-for-2013
 tags:
 - playing
 title: IGN's 2013 PC Game Predictions

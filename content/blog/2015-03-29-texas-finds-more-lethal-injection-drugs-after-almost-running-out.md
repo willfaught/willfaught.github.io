@@ -1,6 +1,6 @@
 ---
 date: '2015-03-29T11:34:27-07:00'
-link: http://cir.ca/s/F7z
+link: https://cir.ca/s/F7z
 title: Texas Finds More Lethal Injection Drugs After Almost Running Out
 ---
 

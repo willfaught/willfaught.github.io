@@ -1,6 +1,6 @@
 ---
 date: '2016-06-24T13:39:04-07:00'
-link: http://iolanguage.org
+link: https://iolanguage.org
 tags:
 - io
 - language

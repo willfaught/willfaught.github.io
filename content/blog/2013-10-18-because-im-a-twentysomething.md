@@ -1,6 +1,6 @@
 ---
 date: '2013-10-18T18:11:00-07:00'
-link: http://todaywasmeaningful.wordpress.com/2013/08/06/because-im-a-twentysomething/
+link: https://todaywasmeaningful.wordpress.com/2013/08/06/because-im-a-twentysomething/
 tags:
 - reading
 title: Because I'm A Twentysomething
