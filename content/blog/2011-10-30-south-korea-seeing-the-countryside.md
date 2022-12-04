@@ -17,7 +17,7 @@ I packed my things and chatted for a few minutes with the beautiful Mina, the Ko
 
 **Seoul**
 
-When I arrived at Seoul Station, I mistakenly assumed that the airport express train that I needed to take to Incheon would be in the subway station, so I exited Seoul Station, entered the subway station there, bought a ticket to Incheon, and got on. After a few stops, I realized that the stop I needed wasn't on that line because I was on the actual subway, not the express train, so I had to backtrack to the first subway station, exit it, reenter Seoul Station, and take the express train to the Unseo stop. I lost about two hours and arrived super late at about 11:30 p.m.
+When I arrived at Seoul Station, I mistakenly assumed that the airport express train that I needed to take to Incheon would be in the subway station, so I exited Seoul Station, entered the subway station there, bought a ticket to Incheon, and got on. After a few stops, I realized that the stop I needed wasn't on that line because I was on the actual subway, not the express train, so I had to backtrack to the first subway station, exit it, reenter Seoul Station, and take the express train to the Unseo stop. I lost about two hours and arrived super late at about 11:30 PM.
 
 **Incheon**
 

@@ -9,7 +9,7 @@ title: Bangkok, Thailand
 
 **Sunday, January 8, 2012**
 
-Arrived in Bangkok around 10:45 p.m. Checked into my hostel just after midnight. No problems finding the place, thankfully.
+Arrived in Bangkok around 10:45 PM. Checked into my hostel just after midnight. No problems finding the place, thankfully.
 
 **Monday, January 9, 2012**
 
