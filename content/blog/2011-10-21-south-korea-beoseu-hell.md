@@ -11,7 +11,7 @@ title: 'South Korea: Beoseu Hell'
 
 **Seoul**
 
-This day I had a flight to Jeju, a subtropical island off the southern coast of South Korea. I woke up at 9:30 a.m., packed up my things, and was out the door by 10:30 a.m., although I almost forgot my drying clothes and my toiletries. I just need a few more times to practice packing before it comes naturally. Keren (from Australia) was heading to Jeju as well, so we traveled to the airport together (we ended up on the same flight as well). Sadly, my very small pliers didn't make the security cut, and I had to leave them behind. At least I haven't needed them yet, so maybe I won't ever need them. We departed Gimpo airport and an hour later landed on Jeju.
+This day I had a flight to Jeju, a subtropical island off the southern coast of South Korea. I woke up at 9:30 AM, packed up my things, and was out the door by 10:30 AM, although I almost forgot my drying clothes and my toiletries. I just need a few more times to practice packing before it comes naturally. Keren (from Australia) was heading to Jeju as well, so we traveled to the airport together (we ended up on the same flight as well). Sadly, my very small pliers didn't make the security cut, and I had to leave them behind. At least I haven't needed them yet, so maybe I won't ever need them. We departed Gimpo airport and an hour later landed on Jeju.
 
 **Seogwipo**
 
