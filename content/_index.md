@@ -42,5 +42,6 @@ keywords:
 - will faught
 - william
 - william faught
+stretch: cover.jpg
 title: Will Do
 ---
