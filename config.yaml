@@ -36,10 +36,22 @@ menu:
     name: Tags
     weight: 6
     url: /tags/
+  - identifier: search
+    name: Search
+    weight: 7
+    url: /search/
 module:
   imports:
   - path: github.com/willfaught/paige
+outputs:
+  home:
+  - html
+  - json
+  - rss
 paginate: 50
+params:
+  paigehidethemecomment: true
+  paigehidethemelink: true
 permalinks:
   blog: /blog/:year/:month/:day/:title/
 social:
