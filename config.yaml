@@ -14,27 +14,27 @@ menu:
   main:
   - identifier: home
     name: Home
-    weight: 1
+    weight: 10
     url: /
   - identifier: blog
     name: Blog
-    weight: 2
+    weight: 20
     url: /blog/
   - identifier: articles
     name: Articles
-    weight: 3
+    weight: 30
     url: /articles/
   - identifier: categories
     name: Categories
-    weight: 4
+    weight: 40
     url: /categories/
   - identifier: tags
     name: Tags
-    weight: 5
+    weight: 50
     url: /tags/
   - identifier: search
     name: Search
-    weight: 6
+    weight: 60
     url: /search/
 module:
   imports:
