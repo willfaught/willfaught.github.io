@@ -24,21 +24,17 @@ menu:
     name: Articles
     weight: 3
     url: /articles/
-# - identifier: projects
-#   name: Projects
-#   weight: 4
-#   url: /projects/
   - identifier: categories
     name: Categories
-    weight: 5
+    weight: 4
     url: /categories/
   - identifier: tags
     name: Tags
-    weight: 6
+    weight: 5
     url: /tags/
   - identifier: search
     name: Search
-    weight: 7
+    weight: 6
     url: /search/
 module:
   imports:
