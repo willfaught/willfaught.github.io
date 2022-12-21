@@ -30,3 +30,17 @@ github.com/willfaught/paige v0.20.0 h1:+wtCmHxjUv+RN0s5GhW4mkvwJbdbLXQ14v6/QfuBK
 github.com/willfaught/paige v0.20.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
 github.com/willfaught/paige v0.21.0 h1:PPsT8qQVifh7X8ka3GEips6BLVGIRS4QwxRaFb8Nwjs=
 github.com/willfaught/paige v0.21.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.0 h1:9YqauTYLV5JFDgFJf97H/HthlAx2QvCg85JbjasT4QQ=
+github.com/willfaught/paige v0.23.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.1 h1:a1xcK/xXw4WAYal9ebE5Utbl4wABOq7SJS9WlGfWbmU=
+github.com/willfaught/paige v0.23.1/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.2 h1:+vzPHNsaFd2nSoSZxQK/kg2eQD7Ip1sCUCFOX4VLWBQ=
+github.com/willfaught/paige v0.23.2/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.3 h1:6jbBmuA4CLQIsAnPL9HltzX8C8+moWQWIQyud2ZL54I=
+github.com/willfaught/paige v0.23.3/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.4 h1:e9DC8MpPCyaQw+lz9LIlRfmeiyctmFQwZUnVzED440g=
+github.com/willfaught/paige v0.23.4/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.5 h1:YWJ+qKFlE+chvarPGAGIrqV1wNbhjx+N08mlw3uLmSo=
+github.com/willfaught/paige v0.23.5/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.23.6 h1:QhhskodR5LrVUpg4/cEFOJBAgGfuVOWxJzmZMFpv7D4=
+github.com/willfaught/paige v0.23.6/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=

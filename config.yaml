@@ -1,41 +1,47 @@
-author:
-  name: Will Faught
 baseurl: https://willfaught.com
 copyright: © Will Faught
-languagecode: en-us
 enablerobotstxt: true
+languagecode: en-us
+languages:
+  en:
+    menu:
+      main:
+      - identifier: home
+        name: Home
+        weight: 10
+        url: /
+      - identifier: blog
+        name: Blog
+        weight: 20
+        url: /blog/
+      - identifier: articles
+        name: Articles
+        weight: 30
+        url: /articles/
+      - identifier: categories
+        name: Categories
+        weight: 40
+        url: /categories/
+      - identifier: tags
+        name: Tags
+        weight: 50
+        url: /tags/
+      - identifier: search
+        name: Search
+        weight: 60
+        url: /search/
+    title: Will Do
+    weight: 10
 markup:
   goldmark:
     renderer:
       unsafe: true
   highlight:
     style: vs
-menu:
-  main:
-  - identifier: home
-    name: Home
-    weight: 10
-    url: /
-  - identifier: blog
-    name: Blog
-    weight: 20
-    url: /blog/
-  - identifier: articles
-    name: Articles
-    weight: 30
-    url: /articles/
-  - identifier: categories
-    name: Categories
-    weight: 40
-    url: /categories/
-  - identifier: tags
-    name: Tags
-    weight: 50
-    url: /tags/
-  - identifier: search
-    name: Search
-    weight: 60
-    url: /search/
+  tableofcontents:
+    endlevel: 6
+    ordered: true
+    startlevel: 2
 module:
   imports:
   - path: github.com/willfaught/paige
@@ -46,14 +52,23 @@ outputs:
   - rss
 paginate: 50
 params:
-  paigehidethemecomment: true
-  paigehidethemelink: true
+  paige:
+    hide_theme_comment: true
+    hide_theme_link: true
+    social:
+      email:
+        icon: envelope
+        link: mailto:pushes.kingdom_0e@icloud.com
+        name: E-mail
+      github:
+        icon: github
+        link: https://github.com/willfaught
+        name: GitHub
+      linkedin:
+        icon: linkedin
+        link: https://www.linkedin.com/in/willfaught
+        name: LinkedIn
 permalinks:
   blog: /blog/:year/:month/:day/:title/
-social:
-  envelope: mailto:pushes.kingdom_0e@icloud.com
-  github: https://github.com/willfaught
-  linkedin: https://www.linkedin.com/in/willfaught
 timezone: America/Los_Angeles
-title: Will Do
 titlecasestyle: Go
