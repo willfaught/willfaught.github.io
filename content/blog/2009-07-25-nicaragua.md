@@ -1,0 +1,32 @@
+---
+categories:
+- life
+date: '2009-07-25T17:53:00-07:00'
+tags:
+- corn islands
+- granada
+- heather wright
+- managua
+- masaya
+- nicaragua
+- stories
+- travel
+- vacation
+title: Nicaragua
+---
+
+I went on a vacation in Nicaragua in May with my friend Heather. I began writing about it a while ago, but then moved on to other things. I'll post what I have, but won't write more.
+
+Nicaragua, in case you don't know, is in Central America, south of Honduras and north of Costa Rica, sandwiched between the Pacific and the Caribbean. Heather invited me to go with her about a month and a half before we went. I was excited to go because it would be my last chance to do something with her before she moved to Connecticut for law school. (Apparently I never learned how to spell Connecticut, because I had no idea it had a 'c' in the middle. Connect-i-cut? Really? God, that's awful. English strikes again.) I gathered she chose Nicaragua because it best fit her schedule, budget, and interests.
+
+I had never traveled to a country like Nicaragua before, where health and safety issues were so different from the U.S. I did my best to research everything I could think of beforehand: passports, vaccinations, medicine, insurance, crime, health and safety tips, weather, climate, insects, etc. After reading the State Department's report on crime and rape, political unrest, and medical facilities, and the CDC's report on diseases, I was very concerned about perishing there. Of course, they were only discussing the bad things to be aware of, and didn't put it in context, so it was hard to keep things in perspective. For example, it turns out that despite occurrences of tourists being robbed, Nicaragua has less crime than the U.S. Most of it boiled down to exercising common sense, watching what you eat and drink, and being cognizant of your surroundings. And getting lots of injections before you leave. I had to get vaccinations for tetanus, typhoid, Hepatitis A, and malaria (which I'm still taking).
+
+We started out planning to spend two days on the Corn Islands, small tropical islands in the Caribbean, to hit the beach and soak up the rays, then spend the other four days in Granada, an old city on the shore of a large lake on the Pacific side of the mainland. We took a taxi from the airport on Big Corn Island to our hotel, which was situated on a small beach and run by a friendly Italian couple, and we passed through several neighborhoods along the way. The sky was an overcast gray. Most buildings were made of metal sheets, windows were barred, and properties were partitioned by chain link fences. It was the weekend, so a lot of people were near the homes we passed, standing or sitting or doing things on their porches and yards. We passed a game of baseball being played by a group of men on a small, uneven dirt field. To reach our hotel, our taxi had to cross part of a beach littered with trash. Our room was plain, constructed of local stone, concrete, and paint, and decorated with small beach shells. The shower stall was hideous, constructed by hand with the aforementioned materials, and only had cold water from a nearby water tank tower.
+
+Heather and I were shocked. I had known what the weather was going to be (May is the start of the wet season there). I had seen pictures of our bedroom and bathroom, and I had known there wouldn't be hot water. But I (and the Internet) had pictured pristine white beaches and lush jungle, disturbed only by the occasional hotel guest. Not so. People lived there. The lot our hotel was on was one of many that ran along a dirt road, and had a chain link fence around it. Houses lined the beach in the direction opposite that from which our taxi had come. Their pets had defecated in the sand and rocks at various points on the beach. You didn't want to walk barefoot, even if you weren't already worried about parasites in the sand. The beach was scattered with leaf and wood detritus. I think Heather had a harder time adjusting to these things than I did. We sat in the chairs in our room for a few minutes to let it all sink in and figure out how we felt about things.
+
+We took a walk along the beach, and around a bend, the beach grew wider, flatter, and cleaner, and the water took on more of that tropical light blue that looks so inviting. And then things didn't seem so bad. When we got back to our room, we decided to see how things went the next day, Sunday. If we didn't want to stay, we'd try to leave early. The weather stayed overcast the next day, and since that wasn't good beach weather, we decided to depart the following day, Monday, for Granada. We spent the rest of Sunday lounging on the beach reading our books and watching the surf a couple dozen feet in front of us. By this point, I had discovered that Nicaragua had the good Coca Cola (real sugar), so I was sucking them down as much as possible.
+
+We flew back to the mainland on Monday, and spent the rest of the week sightseeing in Granada and the surrounding area. Parts of Granada are quite lovely, especially near the central park. The country as a whole is poor, which can mar an otherwise beautiful landscape. But there are many beautiful places well worth visiting. I would go back again someday.
+
+[Pictures](https://faught.shutterfly.com/383), [more pictures](https://faught.shutterfly.com/592), and [the rest of the pictures](https://faught.shutterfly.com/600).

@@ -608,7 +608,6 @@ func f() {
 
 Other:
 
-
 # !!!!!!!!! TODO
 
 ```go
@@ -638,8 +637,6 @@ func main() {
     try os.Remove("bar")
     try fmt.Println(string(data))
 }
-
-
 
 func f() error {
     var x = try f(try f(), try f())

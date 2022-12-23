@@ -10,7 +10,7 @@ tags:
 title: Internet Explorer 9 Beta
 ---
 
-Microsoft recently released a [beta of Internet Explorer 9](http://windows.microsoft.com/en-US/internet-explorer/products/ie-9/home). I've used it a little and have some initial impressions. Overall, it's a much-needed improvement over 8. It's a cross between Firefox and Chrome, incorporating features from each, although there are some 8 leftovers. The look is simple and clean and comes off as much more lightweight. It's a pleasure to see and to use.
+Microsoft recently released a [beta of Internet Explorer 9](https://windows.microsoft.com/en-US/internet-explorer/products/ie-9/home). I've used it a little and have some initial impressions. Overall, it's a much-needed improvement over 8. It's a cross between Firefox and Chrome, incorporating features from each, although there are some 8 leftovers. The look is simple and clean and comes off as much more lightweight. It's a pleasure to see and to use.
 
 The address bar and tabs area were set horizontally adjacent to each other. This arrangement saves more space than Chrome, and looks good in a maximized window, but in an un-maximized window, the address bar is too narrow to see where you are beyond just the domain name, and the tabs get crammed together when you have about four or more.
 
