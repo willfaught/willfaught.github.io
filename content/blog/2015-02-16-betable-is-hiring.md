@@ -7,7 +7,7 @@ tags:
 title: Betable Is Hiring
 ---
 
-Betable — where I work — is looking to hire a senior software engineer in San Francisco:
+Betable &mdash; where I work &mdash; is looking to hire a senior software engineer in San Francisco:
 
 >Rubicon Media (Betable) has an opening for Senior Software Engineer in San Francisco, CA to Research, design, develop, and test operating systems-level software for business and general computing applications. Master's in Computer Science, Engineering or related technical field followed by 7 years progressive post-baccalaureate experience in job offered or software engineering-related occupation.
 >

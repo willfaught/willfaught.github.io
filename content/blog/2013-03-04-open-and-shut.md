@@ -8,4 +8,4 @@ title: Open And Shut
 
 John Gruber:
 
->Where others offer choices, Apple makes decisions. What some of us appreciate is what so rankles the others — that those decisions have so often and consistently been right.
+>Where others offer choices, Apple makes decisions. What some of us appreciate is what so rankles the others &mdash; that those decisions have so often and consistently been right.

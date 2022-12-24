@@ -6,4 +6,4 @@ tags:
 title: Board Game
 ---
 
-A game that nobody wants—and nobody should need—to play.
+A game that nobody wants&mdash;and nobody should need&mdash;to play.

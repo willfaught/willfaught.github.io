@@ -8,4 +8,4 @@ title: Wearing A Suit Makes You Think Differently
 
 There's a fun little Steve Jobs reference at the end:
 
->Meanwhile, no formal research exists—just anecdotal observations—on how the world appears different when wearing a black turtleneck and jeans.
+>Meanwhile, no formal research exists&mdash;just anecdotal observations&mdash;on how the world appears different when wearing a black turtleneck and jeans.

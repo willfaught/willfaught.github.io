@@ -8,4 +8,4 @@ tags:
 title: That's All, Folks!
 ---
 
-I concluded my Master of Science in Computer Science dissertation with the following words, which in retrospect seems remarkable: "Yada, yada, yada — everything I just said."
+I concluded my Master of Science in Computer Science dissertation with the following words, which in retrospect seems remarkable: "Yada, yada, yada &mdash; everything I just said."

@@ -7,4 +7,4 @@ title: Can't Discover The Sunken Truck In Far Cry 4
 
 {{< youtube nutSYGMp6_M >}}
 
-If you're stuck in Far Cry 4 trying to discover the location of a sunken truck at the bottom of a river, watch this video to see how to use a glitch to do it (you fly with your wingsuit underground—pretty cool!).
+If you're stuck in Far Cry 4 trying to discover the location of a sunken truck at the bottom of a river, watch this video to see how to use a glitch to do it (you fly with your wingsuit underground&mdash;pretty cool!).

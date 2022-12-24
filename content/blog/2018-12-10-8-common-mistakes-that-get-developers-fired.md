@@ -8,7 +8,7 @@ title: '"8 Common Mistakes That Get Developers Fired"'
 
 Andrew McDermott:
 
->A tech employee, who I'll call Alan, was watching anime porn at work. Not satisfied with simply watching it, he decided it was time to start printing his porn — on a color laser printer, no less.
+>A tech employee, who I'll call Alan, was watching anime porn at work. Not satisfied with simply watching it, he decided it was time to start printing his porn &mdash; on a color laser printer, no less.
 >
 >He printed it on transparencies which, as it turns out, weren't compatible with the laser printer.
 >

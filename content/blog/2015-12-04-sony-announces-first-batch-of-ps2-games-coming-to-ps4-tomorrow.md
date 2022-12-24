@@ -13,13 +13,13 @@ title: Sony Announces First Batch Of PS2 Games Coming To PS4 Tomorrow
 >
 >A total of eight "fan favorites" will be able for purchase, including:
 >
->- Dark Cloud — $14.99
->- Grand Theft Auto III — $14.99
->- Grand Theft Auto: Vice City — $14.99
->- Grand Theft Auto: San Andreas — $14.99
->- Rogue Galaxy — $14.99
->- The Mark of Kri — $14.99
->- Twisted Metal: Black — $9.99
->- War of the Monsters — $9.99
+>- Dark Cloud &mdash; $14.99
+>- Grand Theft Auto III &mdash; $14.99
+>- Grand Theft Auto: Vice City &mdash; $14.99
+>- Grand Theft Auto: San Andreas &mdash; $14.99
+>- Rogue Galaxy &mdash; $14.99
+>- The Mark of Kri &mdash; $14.99
+>- Twisted Metal: Black &mdash; $9.99
+>- War of the Monsters &mdash; $9.99
 
 I just bought Grand Theft Auto III, Grand Theft Auto: Vice City, and Grand Theft Auto: San Andreas during the Steam autumn sale for about $5, and they're charging $45 here. Nuts.

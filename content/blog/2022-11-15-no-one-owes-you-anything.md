@@ -9,7 +9,7 @@ title: No One Owes You Anything
 
 Harry Browne, in a letter to his daughter on Christmas:
 
->It’s Christmas and I have the usual problem of deciding what to give you. I know you might enjoy many things — books, games, clothes.
+>It’s Christmas and I have the usual problem of deciding what to give you. I know you might enjoy many things &mdash; books, games, clothes.
 >
 >But I’m very selfish. I want to give you something that will stay with you for more than a few months or years. I want to give you a gift that might remind you of me every Christmas.
 >
