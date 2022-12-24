@@ -3,10 +3,10 @@ date: '2013-05-04T21:47:00-07:00'
 tags:
 - travel
 - asia
-title: My 2011–2012 Asia Backpacking Trip
+title: My 2011&ndash;2012 Asia Backpacking Trip
 ---
 
-Here are all the pictures of my 2011–2012 Asia backpacking trip:
+Here are all the pictures of my 2011&ndash;2012 Asia backpacking trip:
 
 - [South Korea](https://www.dropbox.com/gallery/18866064/1/South%20Korea%202011?h=9a5f74)
 - [Japan](https://www.dropbox.com/gallery/18866064/1/Japan%202011?h=6116ec)

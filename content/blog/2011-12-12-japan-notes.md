@@ -27,7 +27,7 @@ My notes of Japan:
 - Military time.
 - The pillowcases are just sheets, not actual cases that encase the pillow.
 - VAT prices. *Yes!*
-- As in Korea, it's difficult to gauge the age of Japanese. They tend to look 5–10 years younger.
+- As in Korea, it's difficult to gauge the age of Japanese. They tend to look 5&ndash;10 years younger.
 - Bathrooms rarely have hand towels, even in hostels. Bring a handkerchief.
 - Toilet paper is usually in public toilet stalls.
 - You can see Yakuza on the streets of Kyoto. They dress in nice suits, sort of an American 1940s look, and are known for arm tattoos. It's not good to have arm tattoos of your own.

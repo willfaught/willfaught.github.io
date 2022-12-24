@@ -29,7 +29,7 @@ title: 'South Korea: Observations'
 - I know how to say hello, goodbye, thank you, yes, no, how are you, I'm fine, and excuse me. The phrases are difficult to memorize, but unlike Japanese and Chinese, the Korean language uses an alphabet that is much easier to recognize and decipher. You can sound out words if you know what each letter means, like western languages. It just looks incomprehensible because letters are stacked into groups of two or three that form syllables.
 - Everything is in military time.
 - All numbers (prices, times, weights, temperatures, subway lines, amounts, etc.) are in Arabic numerals like in the United States.
-- 1,000, 5,000, and 10,000 Korean won bills are common and are usually what's in your pocket. For any price in Korean won, simply divide by 1,000 and subtract about 15–20% to get the value in United States dollars. So 1,000 won is roughly a dollar, minus a little. It's easiest to just divide by a thousand for everything. Coins are almost worthless.
+- 1,000, 5,000, and 10,000 Korean won bills are common and are usually what's in your pocket. For any price in Korean won, simply divide by 1,000 and subtract about 15&ndash;20% to get the value in United States dollars. So 1,000 won is roughly a dollar, minus a little. It's easiest to just divide by a thousand for everything. Coins are almost worthless.
 - It's common for white foreigners to be complimented by South Koreans as being handsome. I never learned whether they meant it or not.
 - "Mart" is usually part of a convenience store name. FamilyMart is the most ubiquitous convenience store. There is a lot of English in signs and names for things.
 - New York Yankees baseball hats are popular. Baseball is the most popular sport.

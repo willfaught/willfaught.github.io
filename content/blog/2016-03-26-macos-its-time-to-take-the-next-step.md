@@ -17,7 +17,7 @@ Andrew Ambrosino hits the nail on the head:
 
 >[...]
 
->When these three new developments materialize– UIKit, a new Filesystem, and a new model for people– there will be an explosion in next-generation apps across the ecosystem. This ecosystem, now drawn tightly together, will be a collection of four purpose-built operating system variants built on one common, advanced platform, one best described as Apple OS.
+>When these three new developments materialize&ndash; UIKit, a new Filesystem, and a new model for people&ndash; there will be an explosion in next-generation apps across the ecosystem. This ecosystem, now drawn tightly together, will be a collection of four purpose-built operating system variants built on one common, advanced platform, one best described as Apple OS.
 
 I've been waiting for them to do this for a long time. It's so obvious.
 
