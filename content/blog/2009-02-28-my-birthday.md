@@ -11,7 +11,6 @@ tags:
 - hallie mass
 - mike shim
 - mom
-- nick nowak
 - parents
 - stories
 - sushi

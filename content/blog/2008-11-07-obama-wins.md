@@ -7,7 +7,6 @@ tags:
 - cnn
 - daily show
 - election
-- heather wright
 - mccain
 - mom
 - obama

@@ -5,7 +5,6 @@ date: '2009-07-25T17:53:00-07:00'
 tags:
 - corn islands
 - granada
-- heather wright
 - managua
 - masaya
 - nicaragua

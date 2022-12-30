@@ -4,7 +4,6 @@ categories:
 date: '2008-10-08T17:23:00-07:00'
 tags:
 - blindness
-- heather wright
 - movie
 - reflections
 - review

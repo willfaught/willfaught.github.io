@@ -5,7 +5,6 @@ date: '2008-12-14T14:15:00-08:00'
 tags:
 - apartment
 - building
-- heather wright
 - housing
 - microsoft
 - properties
