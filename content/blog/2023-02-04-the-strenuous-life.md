@@ -1,7 +1,7 @@
 ---
 categories: [life]
 date: 2023-02-04T14:58:36-08:00
-description: Theodore Roosevelt preached what he practiced.
+description: Theodore Roosevelt on success.
 tags: [inspiring, quotations, theodore roosevelt]
 title: The Strenuous Life
 ---
