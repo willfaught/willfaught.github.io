@@ -34,7 +34,9 @@ I moved to Seattle! Yes, it finally happened. No, the thesis isn't done; I'll ha
 
 I flew from Sacramento to Seattle at 10 AM on Monday, November 3, and arrived just before noon. Picking up the [rental car](https://www.edmunds.com/pictures/VEHICLE/2008/Pontiac/2008.pontiac.g6.20132241-396x249.jpg) and finding the spot where I was to pick up my apartment keys went swimmingly. I couldn't check into my apartment until 5 PM, so I killed time in a nearby Starbucks. I used my iPhone's maps to find the Starbucks, which are usually very accurate, but they got the location for my apartment totally wrong, which left me driving around for almost an hour in the rainy gloom. Eventually exasperation drove me to open the envelope containing my apartment keys, where I found a map giving directions straight from the place where I had picked up my keys to my apartment, which, it turns out, was just down the street. I was tired, so I ordered pizza, unpacked, watched the election news, and went to bed.
 
-{{< paige/figure src="47b8cf24b3127cce98548a47afb500000056100AbOGTdm3cM2Tg.jpg" caption="My apartment building." >}}
+{{< paige/figure caption="My apartment building." >}}
+{{< paige/image src="47b8cf24b3127cce98548a47afb500000056100AbOGTdm3cM2Tg.jpg" >}}
+{{< /paige/figure >}}
 
 ## Provisions
 
@@ -44,13 +46,17 @@ My apartment is fully furnished and lacked only a few necessary kitchen items. I
 
 I found my wardrobe to be severely lacking, so I went on a shopping binge. I bought four pairs of shoes, two of them formal and dressy, since my last pair of black dress shoes maimed me. Men's Warehouse is awesome. The salesman who helped me tried talking me into a two-for-one deal on suits of any price, which sounded good, but I need to prepare myself mentally to spend $500 on clothes, so I had to put that on hold. I'm going to call a friend who used to work there to see what he thinks. It can't hurt to have a suit, right? I just need to find excuses to wear it.
 
-{{< paige/figure src="47b8cf24b3127cce98548a53afa100000056100AbOGTdm3cM2Tg.jpg" caption="New dress shoes." >}}
+{{< paige/figure caption="New dress shoes." >}}
+{{< paige/image src="47b8cf24b3127cce98548a53afa100000056100AbOGTdm3cM2Tg.jpg" >}}
+{{< /paige/figure >}}
 
 ## Transportation
 
 On Tuesday I went to the Department of Licensing to apply for a Washington driver license. Thankfully I didn't have to retake the driver test. It took about an hour to wait for my number to be called, as I expected, but when it was my turn I was told that I needed a proof of residency, which I hadn't been told before. I had to drive all the way home, get a letter, then drive all the way back and get back in another line (which was shorter, I'll give them that). I got my car emission tested today, so it's ship-shape. As soon as I receive the pink slip, I'll be ready to roll.
 
-{{< paige/figure src="47b8cf24b3127cce98548a462e8400000056100AbOGTdm3cM2Tg.jpg" caption="My temporary ride." >}}
+{{< paige/figure caption="My temporary ride." >}}
+{{< paige/image src="47b8cf24b3127cce98548a462e8400000056100AbOGTdm3cM2Tg.jpg" >}}
+{{< /paige/figure >}}
 
 ## The Roads
 
@@ -70,7 +76,9 @@ At one point, the freeway leading from the airport to Redmond split three ways a
 
 The trees here are amazing! Most are broad-leafed, like Maples, and have turned yellow, orange, and red. I love driving down 8th St. because it's like driving through a park or colored tunnel. I tried to take pictures with my phone as safely as possible while driving. Some of the leaves have fallen and carpet the streets, but it doesn't look messy. There's no doubt that it's Fall here.
 
-{{< paige/figure src="47b8cf24b3127cce98548a43afb100000056100AbOGTdm3cM2Tg.jpg" caption="Fall Leaves" >}}
+{{< paige/figure caption="Fall Leaves" >}}
+{{< paige/image src="47b8cf24b3127cce98548a43afb100000056100AbOGTdm3cM2Tg.jpg" >}}
+{{< /paige/figure >}}
 
 The weather has been relatively mild, with sporadic rain showers and drizzle, some occasional sunshine and blue sky, but mostly gray clouds. It's cold day and night, but more so at night. Thankfully I bought a few warm things before the trip here!
 

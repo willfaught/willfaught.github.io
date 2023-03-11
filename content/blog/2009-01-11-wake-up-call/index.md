@@ -22,6 +22,8 @@ I was already in my pajamas, so I hurriedly redressed, grabbed my keys and jacke
 
 It was a false alarm, of course. It took them only ten minutes to finish checking and turn off the alarm, shorter than I expected. The air was cold outside, but I had my jacket, so I was fine waiting. Many people were wearing just jackets over pajamas and flip flops. It was the first time I got a sense of the kind of people that lived there; younger than I had seen or assumed. We reentered the building, and as I passed a fire fighter I heard him say that they had temporarily disabled the elevators. I tramped up the stairs to my floor, but found they ended at a locked roof access door. It took me about ten minutes to wander around the floor below to find another staircase that opened onto my floor, and I happily changed clothes again and fell into bed. Surprisingly, the caffeine didn't keep me awake and I dreamed.
 
-{{< paige/figure src="engine.jpg" caption="Unreal at such an ungodly hour." >}}
+{{< paige/figure caption="Unreal at such an ungodly hour." >}}
+{{< paige/image src="engine.jpg" >}}
+{{< /paige/figure >}}
 
 [More pictures.](https://faught.shutterfly.com/236)

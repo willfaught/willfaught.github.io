@@ -1,33 +1,17 @@
-<!doctype html>
-{{ $rtl := eq .Language.LanguageDirection "rtl" }}
-{{ $lang := .Site.LanguageCode | default .Site.Language.Lang }}
-<html{{ if $rtl }} dir="rtl"{{ end }}{{ with $lang }} lang="{{ . }}"{{ end }}>
-    <head>
-        {{ partial "paige-meta.html" . }}
-        <title>{{ partial "paige-func-title.html" . }}</title>
-        {{ partial "paige-link.html" . }}
-        {{ partial "paige-style.html" . }}
-        <style>
-        .egg {
-            bottom: 0.5rem;
-            position: absolute;
-            right: 0.5rem;
-        }
+{{ $page := . }}
 
-        .egg a {
-            color: slategray;
-            text-decoration: none;
-        }
-        </style>
-    </head>
-    <body>
+<!doctype html>
+{{ partial "paige/html.html" $page }}
+    {{ partial "paige/head.html" $page }}
+    {{ partial "paige/body.html" $page }}}
         <main>
-            {{ .Content }}
+            {{ $page.Content }}
         </main>
-        {{ if .Params.next }}
-        <div class="egg">
-            <a href="{{ relLangURL (path.Join `pi` .Params.next) }}/">&pi;</a>
-        </div>
+
+        {{ if $page.Params.next }}
+            <div class="egg">
+                <a href="{{ relLangURL (path.Join `pi` .Params.next) }}/">&pi;</a>
+            </div>
         {{ end }}
     </body>
 </html>

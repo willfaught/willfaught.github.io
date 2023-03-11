@@ -50,3 +50,7 @@ github.com/willfaught/paige v0.26.0 h1:7NZ0rIUiqVaoD+67nuWzUvBOruEkXzk+B57H0Sxlb
 github.com/willfaught/paige v0.26.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
 github.com/willfaught/paige v0.26.3 h1:LxFzOJhk8QUqr54IVZCwkFxes24IiC0wH/egyEPjSEI=
 github.com/willfaught/paige v0.26.3/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.46.1 h1:mXGJUvf7nJ+aHyW6kWa3sPDG6h7VfbBom/16KM3BaqI=
+github.com/willfaught/paige v0.46.1/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.47.0 h1:eLMJtrRQjkmlLQMT/fdYoIEgJPdxgbG55W5CXXoBcL0=
+github.com/willfaught/paige v0.47.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=

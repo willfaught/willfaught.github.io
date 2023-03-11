@@ -1,7 +1,5 @@
 ---
-blurb: I live in California, where I grew up. I have Bachelor's and Master's degrees in Computer Science from California Polytechnic State University, California. I'm a software engineer professionally. I put my thoughts here sometimes.
 description: Thoughts on technology, the world, and life.
-greeting: Hi, there! I'm Will.
 keywords:
 - articles
 - blog
@@ -42,6 +40,28 @@ keywords:
 - will faught
 - william
 - william faught
-stretch: cover.jpg
+layout: paige/home
+paige:
+  home:
+    blurb: I live in California, where I grew up. I have Bachelor's and Master's degrees in Computer Science from California Polytechnic State University, California. I'm a software engineer professionally. I put my thoughts here sometimes.
+    greeting: Hi, there! I'm Will.
+    image:
+      alt: "Picture of me"
+      stretch: true
+      url: cover.jpg
+  social:
+    email:
+      bootstrap_icon: envelope
+      name: E-mail
+      url: mailto:pushes.kingdom_0e@icloud.com
+    github:
+      bootstrap_icon: github
+      name: GitHub
+      url: https://github.com/willfaught
+    linkedin:
+      bootstrap_icon: linkedin
+      name: LinkedIn
+      url: https://www.linkedin.com/in/willfaught
+  style: "#paige-title { font-size: 5rem; }"
 title: Will Do
 ---
