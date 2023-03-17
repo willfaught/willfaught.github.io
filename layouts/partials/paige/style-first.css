@@ -1,12 +1,12 @@
 #paige-authors,
 #paige-credit,
+#paige-keywords,
 #paige-reading-time,
-#paige-terms,
 #paige-toc,
 #paige-pages .paige-authors,
 #paige-pages .paige-date,
+#paige-pages .paige-keywords,
 #paige-pages .paige-reading-time,
-#paige-pages .paige-summary,
-#paige-pages .paige-terms {
+#paige-pages .paige-summary {
     display: none;
 }
