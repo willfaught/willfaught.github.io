@@ -1,9 +1,9 @@
 {
   "comments": {
     "dependencies": {
-      "bootstrap": "project",
-      "bootstrap-icons": "project",
-      "katex": "project"
+      "bootstrap": "github.com/willfaught/paige",
+      "bootstrap-icons": "github.com/willfaught/paige",
+      "katex": "github.com/willfaught/paige"
     },
     "devDependencies": {}
   },
