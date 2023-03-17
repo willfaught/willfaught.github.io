@@ -94,6 +94,7 @@ outputs:
   - rss
 paginate: 50
 permalinks:
-  blog: /blog/:year/:month/:day/:title/
+  articles: /:year/:month/:day/:title/
+  blog: /:year/:month/:day/:title/
 timezone: America/Los_Angeles
 titlecasestyle: Go
