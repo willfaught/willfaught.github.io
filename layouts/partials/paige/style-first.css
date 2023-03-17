@@ -2,11 +2,11 @@
 #paige-credit,
 #paige-keywords,
 #paige-reading-time,
-#paige-toc,
-#paige-pages .paige-authors,
-#paige-pages .paige-date,
-#paige-pages .paige-keywords,
-#paige-pages .paige-reading-time,
-#paige-pages .paige-summary {
+#paige-subpages .paige-authors,
+#paige-subpages .paige-date,
+#paige-subpages .paige-keywords,
+#paige-subpages .paige-reading-time,
+#paige-subpages .paige-summary,
+#paige-toc {
     display: none;
 }
