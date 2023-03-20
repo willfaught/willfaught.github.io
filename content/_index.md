@@ -51,15 +51,15 @@ paige:
       url: cover.jpg
   social:
     email:
-      bootstrap_icon: envelope
+      class: bi bi-envelope
       name: E-mail
       url: mailto:pushes.kingdom_0e@icloud.com
     github:
-      bootstrap_icon: github
+      class: bi bi-github
       name: GitHub
       url: https://github.com/willfaught
     linkedin:
-      bootstrap_icon: linkedin
+      class: bi bi-linkedin
       name: LinkedIn
       url: https://www.linkedin.com/in/willfaught
   style: "#paige-title { font-size: 5rem; }"
