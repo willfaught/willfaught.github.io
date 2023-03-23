@@ -1,12 +1,14 @@
 #paige-authors,
+#paige-breadcrumbs,
 #paige-credit,
 #paige-keywords,
 #paige-reading-time,
-#paige-subpages .paige-authors,
-#paige-subpages .paige-date,
-#paige-subpages .paige-keywords,
-#paige-subpages .paige-reading-time,
-#paige-subpages .paige-summary,
-#paige-toc {
+#paige-toc,
+.paige-authors,
+.paige-date,
+.paige-keywords,
+.paige-reading-time,
+.paige-series,
+.paige-summary {
     display: none;
 }

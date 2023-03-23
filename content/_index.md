@@ -40,28 +40,31 @@ keywords:
 - will faught
 - william
 - william faught
-layout: paige/home
 paige:
-  home:
-    blurb: I live in California, where I grew up. I have Bachelor's and Master's degrees in Computer Science from California Polytechnic State University, California. I'm a software engineer professionally. I put my thoughts here sometimes.
-    greeting: Hi, there! I'm Will.
-    image:
-      alt: "Picture of me"
-      stretch: true
-      url: cover.jpg
-  social:
-    email:
-      class: bi bi-envelope
-      name: E-mail
-      url: mailto:pushes.kingdom_0e@icloud.com
-    github:
-      class: bi bi-github
-      name: GitHub
-      url: https://github.com/willfaught
-    linkedin:
-      class: bi bi-linkedin
-      name: LinkedIn
-      url: https://www.linkedin.com/in/willfaught
-  style: "#paige-title { font-size: 5rem; }"
+  style: |
+    #paige-collections,
+    #paige-sections,
+    #paige-pages {
+        display: none;
+    }
+    #paige-title {
+        font-size: 5rem;
+    }
 title: Will Do
 ---
+
+{{< paige/hero
+    alt="Picture of me"
+    format="webp"
+    header="Hi, there! I'm Will."
+    image="cover.jpg"
+    imageclass="rounded-4 shadow"
+    stretch=true >}}
+I live in California, where I grew up. I have Bachelor's and Master's degrees in Computer Science from California Polytechnic State University, California. I'm a software engineer professionally. I put my thoughts here sometimes.
+{{< /paige/hero >}}
+
+<div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
+    {{< paige/icon class="bi bi-envelope-fill" name="E-mail" url="mailto:pushes.kingdom_0e@icloud.com" >}}
+    {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/willfaught" >}}
+    {{< paige/icon class="bi bi-linkedin" name="LinkedIn" url="https://www.linkedin.com/in/willfaught" >}}
+</div>
