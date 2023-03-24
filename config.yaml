@@ -37,7 +37,6 @@ markup:
       unsafe: true
   highlight:
     noclasses: false
-    style: vs
   tableofcontents:
     endlevel: 6
     ordered: true
