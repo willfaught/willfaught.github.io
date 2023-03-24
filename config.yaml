@@ -30,7 +30,6 @@ languages:
         name: Search
         weight: 60
         url: /search/
-    title: Will Do
     weight: 10
 markup:
   goldmark:
