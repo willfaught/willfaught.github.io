@@ -5,6 +5,8 @@
 }
 
 .egg a {
-    color: slategray;
+    color: white;
+    mix-blend-mode: difference;
+    opacity: .1;
     text-decoration: none;
 }
