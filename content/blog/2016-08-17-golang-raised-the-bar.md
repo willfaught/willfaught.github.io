@@ -48,4 +48,6 @@ Golang raised the bar for new language distributions:
 - "Panic" program crashes for programmer errors
 - No unused local variables or imports
 - No build warnings or other output noise
-- Qualified imports only (idiomatically) If it doesn't do these, it's already outmoded. Looking at you, Swift.
+- Qualified imports only (idiomatically)
+
+If it doesn't do these, it's already outmoded. Looking at you, Swift.
