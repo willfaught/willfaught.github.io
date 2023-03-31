@@ -12,10 +12,10 @@ tags:
 - software
 - swift
 - raise the bar
-title: Golang Raised The Bar
+title: Go Raised The Bar
 ---
 
-Golang raised the bar for new language distributions:
+Go raised the bar for new language distributions:
 
 - UTF-8 code
 - Testing, benchmarking, and profiling built in
