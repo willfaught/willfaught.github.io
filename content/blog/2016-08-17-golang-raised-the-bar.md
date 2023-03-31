@@ -1,17 +1,16 @@
 ---
 date: '2016-08-17T19:05:53-07:00'
 tags:
-- go
-- go
-- programming
-- coding
 - code
-- program
+- coding
 - engineer
 - engineering
+- go
+- program
+- programming
+- raise the bar
 - software
 - swift
-- raise the bar
 title: Go Raised The Bar
 ---
 
