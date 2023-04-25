@@ -6,6 +6,6 @@ tags:
 title: New Windows Phone Features
 ---
 
-{{< youtube OP30F3ZxTmw >}}
+{{< paige/youtube OP30F3ZxTmw >}}
 
 New features for Windows Phone, codenamed Mango. Impressive. It would make a great iPhone app.

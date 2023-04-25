@@ -5,6 +5,6 @@ tags:
 title: Microsoft Packaging
 ---
 
-{{< youtube EUXnJraKM3k >}}
+{{< paige/youtube EUXnJraKM3k >}}
 
 While I worked at Microsoft, I heard that this video was made by someone who had worked for Microsoft. I haven't verified that, though.

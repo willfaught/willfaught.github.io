@@ -6,6 +6,6 @@ tags:
 title: San Francisco Aerial Drone Footage
 ---
 
-{{< youtube MFWIPiA-r_o >}}
+{{< paige/youtube MFWIPiA-r_o >}}
 
 Aerial drone footage of San Francisco. Really interesting.

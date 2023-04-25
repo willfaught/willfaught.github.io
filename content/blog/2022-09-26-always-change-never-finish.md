@@ -8,11 +8,11 @@ title: Always Change, Never Finish
 
 Part 1:
 
-{{< youtube bB340S0tGf8 >}}
+{{< paige/youtube bB340S0tGf8 >}}
 
 Part 2:
 
-{{< youtube A-H-xZ5ZXgo >}}
+{{< paige/youtube A-H-xZ5ZXgo >}}
 
 Some gems:
 

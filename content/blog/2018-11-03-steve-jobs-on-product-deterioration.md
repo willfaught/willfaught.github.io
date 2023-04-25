@@ -3,7 +3,7 @@ date: '2018-11-03T15:56:36-07:00'
 title: Steve Jobs On Product Deterioration
 ---
 
-{{< youtube P4VBqTViEx4 >}}
+{{< paige/youtube P4VBqTViEx4 >}}
 
 Steve Jobs explains why a company's product deteriorates as it becomes more successful.
 

@@ -5,6 +5,6 @@ tags:
 title: Just A Dream
 ---
 
-{{< youtube N6O2ncUKvlg >}}
+{{< paige/youtube N6O2ncUKvlg >}}
 
 Just a Dream

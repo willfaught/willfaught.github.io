@@ -10,31 +10,31 @@ title: The Mythical Corset Oppression
 
 ["I Grew Up in a Corset. Time to Bust Some Myths. (Ft. Actual Research)"](https://www.youtube.com/watch?v=rExJskBZcW0)
 
-{{< youtube rExJskBZcW0 >}}
+{{< paige/youtube rExJskBZcW0 >}}
 
 ["How Victorian Men Taught Us to Hate Corsets: The Biggest Lie in Fashion History"](https://www.youtube.com/watch?v=zNwTqanp0Aw)
 
-{{< youtube zNwTqanp0Aw >}}
+{{< paige/youtube zNwTqanp0Aw >}}
 
 ["how actresses talk about wearing corsets in movies"](https://www.youtube.com/watch?v=l8fg5Q8liS0)
 
-{{< youtube l8fg5Q8liS0 >}}
+{{< paige/youtube l8fg5Q8liS0 >}}
 
 ["if people in the future talked about bras the way we talk about corsets"](https://www.youtube.com/watch?v=oX414-9qSx4)
 
-{{< youtube oX414-9qSx4 >}}
+{{< paige/youtube oX414-9qSx4 >}}
 
 ["period drama costume designers these days"](https://www.youtube.com/watch?v=f0fqnPFeVCM)
 
-{{< youtube f0fqnPFeVCM >}}
+{{< paige/youtube f0fqnPFeVCM >}}
 
 ["curb your corset stereotypes"](https://www.youtube.com/watch?v=fB4FVq8MltI)
 
-{{< youtube fB4FVq8MltI >}}
+{{< paige/youtube fB4FVq8MltI >}}
 
 ["Reacting to Vogue's 'Everything You Need to Know About the Corset' cause we haven't suffered enough."](https://www.youtube.com/watch?v=Lu8Hjhu_b_A)
 
-{{< youtube Lu8Hjhu_b_A >}}
+{{< paige/youtube Lu8Hjhu_b_A >}}
 
 ## Articles
 
