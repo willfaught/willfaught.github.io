@@ -8,28 +8,28 @@ languages:
       main:
       - identifier: home
         name: Home
-        weight: 10
         url: /
+        weight: 10
       - identifier: blog
         name: Blog
-        weight: 20
         url: /blog/
+        weight: 20
       - identifier: articles
         name: Articles
-        weight: 30
         url: /articles/
+        weight: 30
       - identifier: categories
         name: Categories
-        weight: 40
         url: /categories/
+        weight: 40
       - identifier: tags
         name: Tags
-        weight: 50
         url: /tags/
+        weight: 50
       - identifier: search
         name: Search
-        weight: 60
         url: /search/
+        weight: 60
     weight: 10
 markup:
   goldmark:
