@@ -53,5 +53,9 @@ paginate: 50
 permalinks:
   articles: /:year/:month/:day/:title/
   blog: /:year/:month/:day/:title/
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
 timezone: America/Los_Angeles
 titlecasestyle: Go
