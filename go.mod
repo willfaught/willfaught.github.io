@@ -2,4 +2,4 @@ module github.com/willfaught/willfaught.github.io
 
 go 1.19
 
-require github.com/willfaught/paige v0.61.1 // indirect
+require github.com/willfaught/paige v0.64.0 // indirect
