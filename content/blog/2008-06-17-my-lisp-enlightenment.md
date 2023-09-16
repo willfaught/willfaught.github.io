@@ -9,7 +9,7 @@ tags:
 title: My Lisp Enlightenment
 ---
 
-From [Structure And Interpretation Of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html#%_toc_%_sec_4.1.5):
+From [Structure And Interpretation Of Computer Programs](https://web.archive.org/web/20120119203603/http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html):
 
 >In a similar way, we can regard the evaluator as a very special machine that takes as input a description of a machine. Given this input, the evaluator configures itself to emulate the machine described. For example, if we feed our evaluator the definition of factorial, the evaluator will be able to compute factorials.
 >
