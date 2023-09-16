@@ -62,6 +62,14 @@ path = "github.com/willfaught/paige"
 [outputs]
 home = ["html", "json", "rss"]
 
+[params.authors.will-faught]
+name = "Will Faught"
+default = true
+
+[params.paige.rss]
+managing_editor = "Will Faught"
+web_master = "Will Faught"
+
 [permalinks]
 articles = "/:year/:month/:day/:title/"
 blog = "/:year/:month/:day/:title/"
