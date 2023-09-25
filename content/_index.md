@@ -70,7 +70,7 @@ title: Will Do
 </div>
 
 <div class="column-gap-3 d-flex display-6 justify-content-center mb-3">
-    {{< paige/icon class="bi bi-envelope-fill" name="E-mail" url="mailto:pushes.kingdom_0e@icloud.com" >}}
-    {{< paige/icon class="bi bi-github" name="GitHub" url="https://github.com/willfaught" >}}
-    {{< paige/icon class="bi bi-linkedin" name="LinkedIn" url="https://www.linkedin.com/in/willfaught" >}}
+    {{< paige/icon class="bi bi-envelope-fill" title="E-mail" url="mailto:pushes.kingdom_0e@icloud.com" >}}
+    {{< paige/icon class="bi bi-github" title="GitHub" url="https://github.com/willfaught" >}}
+    {{< paige/icon class="bi bi-linkedin" title="LinkedIn" url="https://www.linkedin.com/in/willfaught" >}}
 </div>
