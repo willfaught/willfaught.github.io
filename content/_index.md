@@ -5,6 +5,8 @@ keywords:
 - blog
 - code
 - coding
+- comment
+- commentary
 - computation
 - computer
 - computers
@@ -13,12 +15,18 @@ keywords:
 - develop
 - developer
 - developing
+- development
 - eng
 - engineer
 - engineering
 - faught
 - hardware
+- idea
+- link
 - media
+- news
+- opinion
+- post
 - pro
 - profession
 - professional
@@ -30,6 +38,7 @@ keywords:
 - social media
 - software
 - software developer
+- software developing
 - software development
 - software engineer
 - software engineering
