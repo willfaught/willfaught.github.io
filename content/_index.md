@@ -1,7 +1,7 @@
 ---
 description: Thoughts on technology, the world, and life.
 keywords:
-- articles
+- article
 - blog
 - code
 - coding
