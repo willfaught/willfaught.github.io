@@ -41,7 +41,7 @@ keywords:
 - william
 - william faught
 paige:
-  rss:
+  feed:
     hide_page: true
   search:
     hide_page: true
