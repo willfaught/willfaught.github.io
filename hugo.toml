@@ -66,6 +66,9 @@ home = ["html", "json", "rss"]
 name = "Will Faught"
 default = true
 
+[params.paige.feed]
+page_link = "✓"
+
 [permalinks]
 articles = "/:year/:month/:day/:title/"
 blog = "/:year/:month/:day/:title/"
