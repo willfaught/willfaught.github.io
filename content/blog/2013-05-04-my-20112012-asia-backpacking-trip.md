@@ -20,4 +20,4 @@ Here are all the pictures of my 2011&ndash;2012 Asia backpacking trip:
 
 *Caution: A few pictures are not safe for work.*
 
-Read [the first post I made on the trip](/blog/2011/10/09/adventures-in-asia/) and browse from there.
+Read [the first post I made on the trip]({{< ref "2011-10-09-adventures-in-asia.md" >}}) and browse from there.
