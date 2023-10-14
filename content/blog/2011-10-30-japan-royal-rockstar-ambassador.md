@@ -11,7 +11,7 @@ title: 'Japan: Royal Rockstar Ambassador'
 
 **Incheon**
 
-Liz gave me a ride to the Incheon airport in the morning. She waived the ride fee because I donated my [Going Abroad](https://www.amazon.com/Going-Abroad-Bathroom-Survival-Guide/dp/1892147033/ref=sr_1_1?ie=UTF8&qid;=1319981866&sr;=8-1) book to her hostel library. We chatted about the landscape under construction that we were passing through. The South Korean government had planned for a lot of development around Incheon, but there wasn't enough demand for housing there, so there was a lot of suspended construction dotting the landscape. Liz said the area used to be hilly and pretty to see, but was flattened for the airport and the surrounding development. I flew from Incheon, South Korea, to Narita, Japan.
+Liz gave me a ride to the Incheon airport in the morning. She waived the ride fee because I donated my [Going Abroad](https://www.amazon.com/dp/1892147033) book to her hostel library. We chatted about the landscape under construction that we were passing through. The South Korean government had planned for a lot of development around Incheon, but there wasn't enough demand for housing there, so there was a lot of suspended construction dotting the landscape. Liz said the area used to be hilly and pretty to see, but was flattened for the airport and the surrounding development. I flew from Incheon, South Korea, to Narita, Japan.
 
 **Tokyo**
 
