@@ -78,8 +78,8 @@ name = "Will Faught"
 url = "https://willfaught.com"
 
 [permalinks]
-articles = "/:year/:month/:day/:title/"
-blog = "/:year/:month/:day/:title/"
+articles = "/:year/:month/:day/:slug/"
+blog = "/:year/:month/:day/:slug/"
 
 [taxonomies]
 category = "categories"
