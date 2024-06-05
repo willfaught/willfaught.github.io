@@ -71,7 +71,6 @@ page_link = "✓"
 
 [[params.paige.feed.atom.authors]]
 name = "Will Faught"
-url = "https://willfaught.com"
 
 [permalinks]
 articles = "/:year/:month/:day/:slug/"
