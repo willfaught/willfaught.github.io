@@ -80,5 +80,4 @@ blog = "/:year/:month/:day/:slug/"
 [taxonomies]
 author = "authors"
 category = "categories"
-series = "series"
 tag = "tags"
