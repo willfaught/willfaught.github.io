@@ -61,14 +61,10 @@ startlevel = 2
 path = "github.com/willfaught/paige"
 
 [outputs]
-home = ["atom", "html", "json", "rss"]
+home = ["atom", "html", "paige-search", "rss"]
 section = ["atom", "html", "rss"]
 taxonomy = ["atom", "html", "rss"]
 term = ["atom", "html", "rss"]
-
-[params.authors.will-faught]
-name = "Will Faught"
-default = true
 
 [params.paige.feed]
 page_link = "✓"
@@ -82,6 +78,7 @@ articles = "/:year/:month/:day/:slug/"
 blog = "/:year/:month/:day/:slug/"
 
 [taxonomies]
+author = "authors"
 category = "categories"
 series = "series"
 tag = "tags"

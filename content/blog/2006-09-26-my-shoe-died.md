@@ -1,4 +1,6 @@
 ---
+authors:
+- will-faught
 categories:
 - life
 date: '2006-09-26T18:32:00-07:00'
