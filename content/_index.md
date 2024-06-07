@@ -66,7 +66,7 @@ paige:
 title: Will Do
 ---
 
-{{% paige/image alt="Picture of me" class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="cover.jpg" width="100%" %}}
+{{< paige/image alt="Picture of me" class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="cover.jpg" width="100%" >}}
 
 <p class="display-5 fw-bold h2 text-center">Hi, there! I’m Will.</p>
 
