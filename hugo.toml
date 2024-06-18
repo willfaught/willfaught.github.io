@@ -6,6 +6,12 @@ paginate = 50
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
+[[cascade]]
+[cascade._target]
+path = '{/authors,/authors/**}'
+[cascade.build]
+render = 'never'
+
 [languages.en]
 title = "Will Do"
 weight = 10
