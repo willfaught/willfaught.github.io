@@ -1,7 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-05-08T02:47:35-07:00
-tags = []
+tags = ["books"]
 title = "My Favorite Snow Crash Quotations"
 +++
 
