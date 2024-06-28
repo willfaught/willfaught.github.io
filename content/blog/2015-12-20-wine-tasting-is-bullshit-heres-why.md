@@ -1,11 +1,9 @@
----
-date: '2015-12-20T19:24:25-08:00'
-link: https://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276
-tags:
-- wine
-- reviews
-title: Wine Tasting Is Bullshit. Here's Why.
----
++++
+date = 2015-12-20T19:24:25-08:00
+link = "https://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276"
+tags = ["reviews", "wine"]
+title = "Wine Tasting Is Bullshit. Here's Why."
++++
 
 Robbie Gonzales, writing for io9:
 

@@ -1,11 +1,8 @@
----
-date: '2011-12-12T05:25:00-08:00'
-tags:
-- travel
-- japan
-- notes
-title: Japan Notes
----
++++
+date = 2011-12-12T05:25:00-08:00
+tags = ["japan", "notes", "travel"]
+title = "Japan Notes"
++++
 
 My notes of Japan:
 

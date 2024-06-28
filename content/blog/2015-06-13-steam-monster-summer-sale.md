@@ -1,10 +1,9 @@
----
-date: '2015-06-13T21:57:24-07:00'
-link: https://store.steampowered.com
-tags:
-- games
-title: Steam Monster Summer Sale
----
++++
+date = 2015-06-13T21:57:24-07:00
+link = "https://store.steampowered.com"
+tags = ["games"]
+title = "Steam Monster Summer Sale"
++++
 
 The Steam summer sale has begun! Hide your wallets! Just picked up:
 

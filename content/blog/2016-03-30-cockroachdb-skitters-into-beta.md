@@ -1,14 +1,9 @@
----
-date: '2016-03-30T11:45:42-07:00'
-link: https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/
-tags:
-- cockroach
-- cockroachdb
-- sql
-- beta
-- newsql
-title: '"CockroachDB Skitters Into Beta"'
----
++++
+date = 2016-03-30T11:45:42-07:00
+link = "https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/"
+tags = ["beta", "cockroach", "cockroachdb", "newsql", "sql"]
+title = "\"CockroachDB Skitters Into Beta\""
++++
 
 I've been looking forward to this. NewSQL seems like the future. NoSQL has impressive strengths, but managing denormalization is a pain in the ass.
 

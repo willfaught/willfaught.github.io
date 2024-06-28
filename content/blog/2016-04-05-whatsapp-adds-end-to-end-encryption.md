@@ -1,11 +1,9 @@
----
-date: '2016-04-05T18:04:57-07:00'
-link: https://blog.whatsapp.com/10000618/end-to-end-encryption
-tags:
-- whatsapp
-- encryption
-title: WhatsApp Adds End-To-End Encryption
----
++++
+date = 2016-04-05T18:04:57-07:00
+link = "https://blog.whatsapp.com/10000618/end-to-end-encryption"
+tags = ["encryption", "whatsapp"]
+title = "WhatsApp Adds End-To-End Encryption"
++++
 
 WhatsApp:
 

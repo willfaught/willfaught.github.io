@@ -1,10 +1,8 @@
----
-date: '2011-06-08T00:23:50-07:00'
-tags:
-- apple
-- interesting
-title: Steve Jobs Presents Ring Campus
----
++++
+date = 2011-06-08T00:23:50-07:00
+tags = ["apple", "interesting"]
+title = "Steve Jobs Presents Ring Campus"
++++
 
 {{< paige/youtube gtuz5OmOh_M >}}
 

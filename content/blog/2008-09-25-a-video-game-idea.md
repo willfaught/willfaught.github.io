@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2008-09-25T16:57:00-07:00'
-tags:
-- alpha
-- beta
-- ideas
-- reality
-- video games
-- zelda
-title: A Video Game Idea
----
++++
+categories = ["life"]
+date = 2008-09-25T16:57:00-07:00
+tags = ["alpha", "beta", "ideas", "reality", "video games", "zelda"]
+title = "A Video Game Idea"
++++
 
 I'm very intrigued by alpha and beta versions of video games. It's fascinating to see early incarnations of the final product. It's like discovering a secret world, the backstage of the game world, that few actually witness. Granted, most of it is rough draft quality and incomplete, but it's always interesting to see what might have been. You can find tons of screen shots and videos of alpha and beta versions of one of my favorite games, [The Legend Of Zelda: Ocarina Of Time](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Ocarina_of_Time). For example:
 

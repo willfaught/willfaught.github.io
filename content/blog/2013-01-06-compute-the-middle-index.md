@@ -1,9 +1,8 @@
----
-date: '2013-01-06T18:02:00-08:00'
-tags:
-- computation
-title: Compute The Middle Index
----
++++
+date = 2013-01-06T18:02:00-08:00
+tags = ["computation"]
+title = "Compute The Middle Index"
++++
 
 Java:
 

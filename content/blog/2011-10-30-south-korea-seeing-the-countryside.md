@@ -1,13 +1,8 @@
----
-date: '2011-10-30T02:22:08-07:00'
-tags:
-- travel
-- south korea
-- busan
-- incheon
-- seoul
-title: 'South Korea: Seeing The Countryside'
----
++++
+date = 2011-10-30T02:22:08-07:00
+tags = ["busan", "incheon", "seoul", "south korea", "travel"]
+title = "South Korea: Seeing The Countryside"
++++
 
 *For Monday, October 24, 2011*
 

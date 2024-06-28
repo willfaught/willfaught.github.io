@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2009-01-22T14:50:00-08:00'
-tags:
-- layoffs
-- microsoft
-- redmond
-- reflections
-- work
-title: Still Here
----
++++
+categories = ["life"]
+date = 2009-01-22T14:50:00-08:00
+tags = ["layoffs", "microsoft", "redmond", "reflections", "work"]
+title = "Still Here"
++++
 
 It's been a while since I've posted. Things have been busy and it's been hard to find the time to blog.
 

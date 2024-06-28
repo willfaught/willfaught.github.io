@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2007-03-05T18:34:00-08:00'
-tags:
-- funny
-- quotations
-- reflections
-- the onion
-- titles
-title: The Onion's Article Titles Are The Best Part
----
++++
+categories = ["life"]
+date = 2007-03-05T18:34:00-08:00
+tags = ["funny", "quotations", "reflections", "the onion", "titles"]
+title = "The Onion's Article Titles Are The Best Part"
++++
 
 Honestly, I think I enjoy the titles of The Onion articles more than the actual articles. For example:
 

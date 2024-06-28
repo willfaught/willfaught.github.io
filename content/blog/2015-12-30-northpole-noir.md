@@ -1,11 +1,8 @@
----
-date: '2015-12-30T17:01:22-08:00'
-tags:
-- steam
-- sale
-- northpole noir
-title: Northpole Noir
----
++++
+date = 2015-12-30T17:01:22-08:00
+tags = ["northpole noir", "sale", "steam"]
+title = "Northpole Noir"
++++
 
 Hide your wallets! The *Northpole Noir* Steam winter sale is upon us. I picked up 89 games:
 

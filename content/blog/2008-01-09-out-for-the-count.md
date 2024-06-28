@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2008-01-09T15:58:00-08:00'
-tags:
-- back
-- bus
-- class
-- stories
-- threw
-title: Out For The Count
----
++++
+categories = ["life"]
+date = 2008-01-09T15:58:00-08:00
+tags = ["back", "bus", "class", "stories", "threw"]
+title = "Out For The Count"
++++
 
 I threw my back out in class today. I sat down and felt something go. I'm writing this with only my left hand, so I'll be brief. Ouch! How old am I? God. I can hardly move without sending a spasm of pain down my back.
 

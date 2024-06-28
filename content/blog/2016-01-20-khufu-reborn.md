@@ -1,14 +1,8 @@
----
-date: '2016-01-20T14:50:13-08:00'
-tags:
-- egypt
-- pyramid
-- theory
-- jean-pierre houdin
-- khufu
-- build
-title: Khufu Reborn
----
++++
+date = 2016-01-20T14:50:13-08:00
+tags = ["build", "egypt", "jean-pierre houdin", "khufu", "pyramid", "theory"]
+title = "Khufu Reborn"
++++
 
 {{< paige/youtube 3NCK99mQUxw >}}
 

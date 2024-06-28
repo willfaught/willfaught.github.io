@@ -1,10 +1,8 @@
----
-date: '2011-05-29T21:25:00-07:00'
-tags:
-- funny
-- cool
-title: Star Wars Dance
----
++++
+date = 2011-05-29T21:25:00-07:00
+tags = ["cool", "funny"]
+title = "Star Wars Dance"
++++
 
 {{< paige/youtube vnuwKmzkAU4 >}}
 

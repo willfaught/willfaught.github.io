@@ -1,11 +1,8 @@
----
-date: '2011-10-30T09:56:55-07:00'
-tags:
-- travel
-- south korea
-- observations
-title: 'South Korea: Observations'
----
++++
+date = 2011-10-30T09:56:55-07:00
+tags = ["observations", "south korea", "travel"]
+title = "South Korea: Observations"
++++
 
 - It feels (and is) very safe. I've been wearing my money belt only for practice for Southeast Asia.
 - The subway system is the best I've ever seen (but I haven't seen many). It's incredibly easy to use: to know where you are, which direction you're going, what the next stops are, which exit to take, and which side of the tracks to be on. English is on almost all signs, and most trains have announcements in English. It's all run by a single entity, unlike Tokyo, so you only pay once when you exit at your destination. I can't stress enough how useful it is for English speakers.

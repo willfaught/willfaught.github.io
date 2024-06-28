@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-01-14T09:00:00-08:00'
-tags:
-- cal poly
-- ignorant
-- james koman
-- mustang daily
-- quotations
-- racist
-- reflections
-title: Amusing Ending
----
++++
+categories = ["life"]
+date = 2008-01-14T09:00:00-08:00
+tags = ["cal poly", "ignorant", "james koman", "mustang daily", "quotations", "racist", "reflections"]
+title = "Amusing Ending"
++++
 
 [James Koman](https://www.mustangdaily.net/user/index.cfm?event=displayAuthorProfile&authorid=2668287) recently wrote an opinion article in the [Mustang Daily](https://www.mustangdaily.net/), the student newspaper of Cal Poly, entitled [*Why I hate white people*](https://media.www.mustangdaily.net/media/storage/paper860/news/2008/01/10/Columns/Why-I.Hate.White.People-3148711-page2.shtml). The article contains very racist and ignorant thoughts about white people, in case you couldn't tell from the title. The newspaper was flooded with protesting letters to the editor in the following days. I just read the article and found the last sentence amusing, which is ironic since the rest of the article wasn't:
 

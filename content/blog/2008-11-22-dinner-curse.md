@@ -1,21 +1,9 @@
----
-categories:
-- life
-date: '2008-11-22T13:40:00-08:00'
-tags:
-- casserole
-- cooking
-- dinner
-- food
-- garbage disposal
-- kitchen
-- onion
-- sink
-- smell
-- stories
-- tuna
-title: Dinner Curse
----
++++
+categories = ["life"]
+date = 2008-11-22T13:40:00-08:00
+tags = ["casserole", "cooking", "dinner", "food", "garbage disposal", "kitchen", "onion", "sink", "smell", "stories", "tuna"]
+title = "Dinner Curse"
++++
 
 Last week I thought I would cook something that would yield enough leftovers for the week. My cookbooks are still in storage, so I found a simple tuna casserole recipe online that only took about half an hour to make. I later discovered, after hearing it bang around in my car's trunk for a few days, that I had left out one of the two cans of Cream of Mushroom Soup called for by the recipe when putting the dish together. This made a lot of sense because the recipe also called for an entire onion and assumed the onion would be fully cooked in the soup. Since I had left out half the soup, the onion was only half-cooked. I managed to eat it for about three days before I couldn't stand it anymore. Every night I would go to bed with onion on my breath. I love onion, but too much raw onion makes even me nauseous.
 

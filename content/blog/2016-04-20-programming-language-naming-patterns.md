@@ -1,14 +1,9 @@
----
-date: '2016-04-20T00:23:45-07:00'
-link: https://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns
-tags:
-- programming
-- names
-- scheme
-- perl
-- forth
-title: Programming Language Naming Patterns
----
++++
+date = 2016-04-20T00:23:45-07:00
+link = "https://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns"
+tags = ["forth", "names", "perl", "programming", "scheme"]
+title = "Programming Language Naming Patterns"
++++
 
 On the classification of programming language names:
 

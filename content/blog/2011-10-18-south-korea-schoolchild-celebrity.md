@@ -1,11 +1,8 @@
----
-date: '2011-10-18T07:36:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: 'South Korea: Schoolchild Celebrity'
----
++++
+date = 2011-10-18T07:36:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Schoolchild Celebrity"
++++
 
 *For Wednesday, October 12, 2011*
 

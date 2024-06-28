@@ -1,12 +1,10 @@
----
-categories: [technology, world]
-date: '2014-06-18T11:15:58-07:00'
-link: https://daringfireball.net/2014/06/only_apple
-tags:
-- apple
-- daring fireball
-title: '"Only Apple"'
----
++++
+categories = ["technology", "world"]
+date = 2014-06-18T11:15:58-07:00
+link = "https://daringfireball.net/2014/06/only_apple"
+tags = ["apple", "daring fireball"]
+title = "\"Only Apple\""
++++
 
 John Gruber:
 

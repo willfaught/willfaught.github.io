@@ -1,11 +1,8 @@
----
-date: '2011-10-30T01:55:55-07:00'
-tags:
-- travel
-- south korea
-- busan
-title: 'South Korea: Eating Eel'
----
++++
+date = 2011-10-30T01:55:55-07:00
+tags = ["busan", "south korea", "travel"]
+title = "South Korea: Eating Eel"
++++
 
 *For Sunday, October 23, 2011*
 

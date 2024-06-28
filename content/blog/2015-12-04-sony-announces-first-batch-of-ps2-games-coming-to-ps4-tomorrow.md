@@ -1,13 +1,9 @@
----
-date: '2015-12-04T23:36:25-08:00'
-link: https://www.ign.com/articles/2015/12/04/sony-announces-first-batch-of-ps2-games-coming-to-ps4-tomorrow
-tags:
-- ps4
-- steam
-- gaming
-- grand theft auto
-title: Sony Announces First Batch Of PS2 Games Coming To PS4 Tomorrow
----
++++
+date = 2015-12-04T23:36:25-08:00
+link = "https://www.ign.com/articles/2015/12/04/sony-announces-first-batch-of-ps2-games-coming-to-ps4-tomorrow"
+tags = ["gaming", "grand theft auto", "ps4", "steam"]
+title = "Sony Announces First Batch Of PS2 Games Coming To PS4 Tomorrow"
++++
 
 >"I'm excited to announce that starting tomorrow, you will be able to purchase and play PS2 games on your PS4 via PlayStation Store in the Americas and Europe," SCE Worldwide Studios president Shuhei Yoshida said in a post on PlayStation Blog.
 >

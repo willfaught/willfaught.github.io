@@ -1,6 +1,6 @@
 +++
 categories = ["world"]
-date = "2023-10-03T18:12:15-07:00"
+date = 2023-10-03T18:12:15-07:00
 description = "Things to avoid in modern games."
 id = "0d131fcaf6444020cccb842a82386dcacb7525e8"
 tags = ["gaming"]

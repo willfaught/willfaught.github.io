@@ -1,11 +1,8 @@
----
-date: '2011-10-21T01:26:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: "South Korea: The King's Porn"
----
++++
+date = 2011-10-21T01:26:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: The King's Porn"
++++
 
 *For Friday, October 14, 2011*
 

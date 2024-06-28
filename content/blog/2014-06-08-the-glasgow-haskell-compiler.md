@@ -1,10 +1,9 @@
----
-date: '2014-06-08T17:02:40-07:00'
-link: https://www.aosabook.org/en/ghc.html
-tags:
-- computing
-title: The Glasgow Haskell Compiler
----
++++
+date = 2014-06-08T17:02:40-07:00
+link = "https://www.aosabook.org/en/ghc.html"
+tags = ["computing"]
+title = "The Glasgow Haskell Compiler"
++++
 
 An interesting overview of the Glasgow Haskell Compiler. I had no idea about some of this stuff.
 

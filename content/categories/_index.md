@@ -1,4 +1,4 @@
----
-layout: "paige/cloud"
-title: "Categories"
----
++++
+layout = "paige/cloud"
+title = "Categories"
++++

@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-10-09T17:47:00-07:00'
-tags:
-- computation
-- hackers
-- hacking
-- painters
-- paul graham
-- quotations
-- science
-title: Hackers And Painters
----
++++
+categories = ["life"]
+date = 2008-10-09T17:47:00-07:00
+tags = ["computation", "hackers", "hacking", "painters", "paul graham", "quotations", "science"]
+title = "Hackers And Painters"
++++
 
 [Choice quotations](http://www.paulgraham.com/hp.html):
 

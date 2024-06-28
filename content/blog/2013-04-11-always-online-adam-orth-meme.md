@@ -1,11 +1,9 @@
----
-date: '2013-04-11T23:50:00-07:00'
-link: http://www.quickmeme.com/Always-Online-Adam-Orth/
-tags:
-- funny
-- playing
-title: Always Online Adam Orth Meme
----
++++
+date = 2013-04-11T23:50:00-07:00
+link = "http://www.quickmeme.com/Always-Online-Adam-Orth/"
+tags = ["funny", "playing"]
+title = "Always Online Adam Orth Meme"
++++
 
 Adam Orth resigned from Microsoft soon after [the public relations shit storm he created](https://arstechnica.com/gaming/2013/04/adam-always-online-orth-no-longer-employed-at-microsoft/). Here are some hilarious parodies that are part of a meme about him and his remarks.
 

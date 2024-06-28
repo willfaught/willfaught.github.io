@@ -1,13 +1,9 @@
----
-categories:
-- life
-date: '2008-06-17T16:54:00-07:00'
-tags:
-- lisp
-- reflections
-- universal machine
-title: My Lisp Enlightenment
----
++++
+categories = ["life"]
+date = 2008-06-17T16:54:00-07:00
+tags = ["lisp", "reflections", "universal machine"]
+title = "My Lisp Enlightenment"
++++
 
 From [Structure And Interpretation Of Computer Programs](https://web.archive.org/web/20120119203603/http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html):
 

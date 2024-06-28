@@ -1,9 +1,8 @@
----
-date: '2013-11-25T00:30:00-08:00'
-tags:
-- playing
-title: Epic Comeback
----
++++
+date = 2013-11-25T00:30:00-08:00
+tags = ["playing"]
+title = "Epic Comeback"
++++
 
 {{< paige/youtube pS5peqApgUA >}}
 

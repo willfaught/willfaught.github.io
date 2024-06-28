@@ -1,12 +1,9 @@
----
-date: '2017-04-10T15:02:53-07:00'
-link: https://walkercoderanger.com/blog/2014/02/javascript-minefield/
-tags:
-- programming
-- javascript
-- go
-title: The JavaScript Minefield
----
++++
+date = 2017-04-10T15:02:53-07:00
+link = "https://walkercoderanger.com/blog/2014/02/javascript-minefield/"
+tags = ["go", "javascript", "programming"]
+title = "The JavaScript Minefield"
++++
 
 Jeff Walker:
 

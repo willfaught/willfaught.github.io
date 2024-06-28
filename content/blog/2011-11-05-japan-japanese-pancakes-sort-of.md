@@ -1,11 +1,8 @@
----
-date: '2011-11-05T08:27:23-07:00'
-tags:
-- travel
-- japan
-- tokyo
-title: 'Japan: Japanese Pancakes &mdash; Sort Of'
----
++++
+date = 2011-11-05T08:27:23-07:00
+tags = ["japan", "tokyo", "travel"]
+title = "Japan: Japanese Pancakes &mdash; Sort Of"
++++
 
 *For Monday, October 31, 2011*
 

@@ -1,10 +1,10 @@
----
-categories: [life]
-date: 2023-02-04T14:14:59-08:00
-description: Theodore Roosevelt on critics.
-tags: [inspiring, speeches, theodore roosevelt]
-title: The Man In The Arena
----
++++
+categories = ["life"]
+date = 2023-02-04T14:14:59-08:00
+description = "Theodore Roosevelt on critics."
+tags = ["inspiring", "speeches", "theodore roosevelt"]
+title = "The Man In The Arena"
++++
 
 [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt)
 in his speech *[Citizenship in a Republic](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic)* on April 23, 1910:

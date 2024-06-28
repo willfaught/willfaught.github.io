@@ -1,25 +1,9 @@
----
-categories:
-- life
-date: '2008-12-13T14:08:00-08:00'
-tags:
-- capitol hill
-- clouds
-- conservatory
-- flowers
-- leaves
-- museum
-- pictures
-- plants
-- reservoir
-- seattle
-- space needle
-- stories
-- sunset
-- volunteer park
-- water tower
-title: Capitol Hill
----
++++
+categories = ["life"]
+date = 2008-12-13T14:08:00-08:00
+tags = ["capitol hill", "clouds", "conservatory", "flowers", "leaves", "museum", "pictures", "plants", "reservoir", "seattle", "space needle", "stories", "sunset", "volunteer park", "water tower"]
+title = "Capitol Hill"
++++
 
 I'd heard good things about the Capitol Hill neighborhood in Seattle as a place to live, especially for my first year here, so I decided to venture into the city to check it out. I read a little about it and decided to visit Volunteer Park first, which seems to be near the north end of the neighborhood.
 

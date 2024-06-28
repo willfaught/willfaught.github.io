@@ -1,18 +1,9 @@
----
-categories:
-- life
-date: '2007-08-05T17:31:00-07:00'
-tags:
-- america
-- classes
-- english
-- immigrants
-- new york city
-- npr
-- reflections
-- spanish
-title: Teach Them English Already
----
++++
+categories = ["life"]
+date = 2007-08-05T17:31:00-07:00
+tags = ["america", "classes", "english", "immigrants", "new york city", "npr", "reflections", "spanish"]
+title = "Teach Them English Already"
++++
 
 It strikes me as ironic that some have argued that the growing prevalence of Spanish in America, or at least the west and southern states, threaten American culture while there is little effort to teach immigrants English. NPR was reporting a little while ago that in New York City, it's almost impossible to enroll in an English class because they're so impacted. I believe they said conditions were similar in many other places.
 

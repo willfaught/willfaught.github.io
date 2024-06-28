@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2007-12-26T17:56:00-08:00'
-tags:
-- california
-- containment
-- ideas
-- reflections
-- underbrush
-- wildfires
-- yellowstone
-title: Large Wildfires Unavoidable
----
++++
+categories = ["life"]
+date = 2007-12-26T17:56:00-08:00
+tags = ["california", "containment", "ideas", "reflections", "underbrush", "wildfires", "yellowstone"]
+title = "Large Wildfires Unavoidable"
++++
 
 It seems to me that large wildfires like that of southern California are unavoidable. I'm not an expert, but it's my understanding that wildfires are a natural phenomenon that play a useful role in the life cycle of the environment. They can clear out thick underbrush and smaller trees that can come to choke larger trees and in doing so they enrich the soil with the ashes they leave behind. In fact, [Yellowstone has a policy](https://en.wikipedia.org/wiki/Yellowstone_fires_of_1988) of letting small natural fires burn freely because its management recognizes these benefits. So allowing reasonably-sized wildfires to burn is a good thing in the long run, given they don't damage anything or injure anyone.
 

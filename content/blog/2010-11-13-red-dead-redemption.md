@@ -1,14 +1,9 @@
----
-categories:
-- world
-date: '2010-11-13T22:19:00-0800'
-tags:
-- games
-- red dead redemption
-- reviews
-- rockstar
-title: Red Dead Redemption
----
++++
+categories = ["world"]
+date = 2010-11-13T22:19:00-08:00
+tags = ["games", "red dead redemption", "reviews", "rockstar"]
+title = "Red Dead Redemption"
++++
 
 I haven't much enjoyed playing Red Dead Redemption.
 

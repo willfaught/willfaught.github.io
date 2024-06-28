@@ -1,11 +1,8 @@
----
-date: '2011-10-30T01:41:24-07:00'
-tags:
-- travel
-- south korea
-- busan
-title: 'South Korea: Gumi Bears FTW'
----
++++
+date = 2011-10-30T01:41:24-07:00
+tags = ["busan", "south korea", "travel"]
+title = "South Korea: Gumi Bears FTW"
++++
 
 *For Saturday, October 22, 2011*
 

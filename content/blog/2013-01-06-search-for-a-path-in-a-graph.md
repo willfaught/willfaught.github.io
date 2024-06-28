@@ -1,10 +1,8 @@
----
-date: '2013-01-06T16:31:00-08:00'
-tags:
-- computation
-- code
-title: Search For A Path In A Graph
----
++++
+date = 2013-01-06T16:31:00-08:00
+tags = ["code", "computation"]
+title = "Search For A Path In A Graph"
++++
 
 Java:
 

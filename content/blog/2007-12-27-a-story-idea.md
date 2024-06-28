@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-12-27T13:36:00-08:00'
-tags:
-- economics
-- factions
-- game
-- ideas
-- story
-- virtual world
-title: A Story Idea
----
++++
+categories = ["life"]
+date = 2007-12-27T13:36:00-08:00
+tags = ["economics", "factions", "game", "ideas", "story", "virtual world"]
+title = "A Story Idea"
++++
 
 I've had an idea for a story for a while now that I think would be pretty interesting to write. In the future, a computerized virtual world would be accessible to most people like a utility, much like the internet. Users could interact with the virtual world like a virtual reality game, where your sight and hearing are tuned to the virtual world, not the real one. Its use has become so pervasive that people do many things in the virtual world that are currently done in the real world, such as playing games, meeting people, conducting business, collaborating, performing financial transactions, etc. People from all over the world can access this virtual world. Virtual items are exchanged between users in the virtual world and have real-world values according to average real-world resale prices.
 

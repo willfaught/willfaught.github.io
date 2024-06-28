@@ -1,14 +1,9 @@
----
-categories:
-- technology
-date: '2010-08-23T13:07:00-0700'
-tags:
-- coding
-- essays
-- languages
-- paul graham
-title: Paul Graham
----
++++
+categories = ["technology"]
+date = 2010-08-23T13:07:00-07:00
+tags = ["coding", "essays", "languages", "paul graham"]
+title = "Paul Graham"
++++
 
 There are lots of great quotations from [his essays](http://paulgraham.com/articles.html). I'll update here as I find new ones.
 

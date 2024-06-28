@@ -1,10 +1,9 @@
----
-date: '2013-03-03T12:05:00-08:00'
-link: https://docs.oracle.com/javase/tutorial/collections/interoperability/api-design.html
-tags:
-- computation
-title: Method Return Types Should Be As Specific As Possible
----
++++
+date = 2013-03-03T12:05:00-08:00
+link = "https://docs.oracle.com/javase/tutorial/collections/interoperability/api-design.html"
+tags = ["computation"]
+title = "Method Return Types Should Be As Specific As Possible"
++++
 
 Josh Bloch:
 

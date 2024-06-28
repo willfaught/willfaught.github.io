@@ -1,18 +1,9 @@
----
-categories:
-- life
-date: '2009-07-25T17:53:00-07:00'
-tags:
-- corn islands
-- granada
-- managua
-- masaya
-- nicaragua
-- stories
-- travel
-- vacation
-title: Nicaragua
----
++++
+categories = ["life"]
+date = 2009-07-25T17:53:00-07:00
+tags = ["corn islands", "granada", "managua", "masaya", "nicaragua", "stories", "travel", "vacation"]
+title = "Nicaragua"
++++
 
 I went on a vacation in Nicaragua in May with my friend Heather. I began writing about it a while ago, but then moved on to other things. I'll post what I have, but won't write more.
 

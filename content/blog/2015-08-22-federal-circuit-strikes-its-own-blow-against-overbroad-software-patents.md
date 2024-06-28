@@ -1,10 +1,9 @@
----
-date: '2015-08-22T16:33:55-07:00'
-link: https://www.eff.org/deeplinks/2015/06/federal-circuit-strikes-its-own-blow-against-overbroad-software-patents
-tags:
-- patents
-title: '"Federal Circuit Strikes Its Own Blow Against Overbroad Software Patents"'
----
++++
+date = 2015-08-22T16:33:55-07:00
+link = "https://www.eff.org/deeplinks/2015/06/federal-circuit-strikes-its-own-blow-against-overbroad-software-patents"
+tags = ["patents"]
+title = "\"Federal Circuit Strikes Its Own Blow Against Overbroad Software Patents\""
++++
 
 >Imagine the Wright brothers, after they invented their airplane, filed for a patent claiming "a machine for flying." Essentially claiming a machine for what it does rather than how it does it. This is known as "functional claiming."
 >

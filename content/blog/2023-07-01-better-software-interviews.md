@@ -1,11 +1,11 @@
----
-categories: [technology]
-date: 2023-07-01T14:58:13-07:00
-description: Software interviews suck, but they don't have to.
-link: https://sockpuppet.org/blog/2015/03/06/the-hiring-post/
-tags: [software, hiring, interviews]
-title: Data-Driven Software Interviews
----
++++
+categories = ["technology"]
+date = 2023-07-01T14:58:13-07:00
+description = "Software interviews suck, but they don't have to."
+link = "https://sockpuppet.org/blog/2015/03/06/the-hiring-post/"
+tags = ["hiring", "interviews", "software"]
+title = "Data-Driven Software Interviews"
++++
 
 Thomas Ptacek:
 

@@ -1,10 +1,8 @@
----
-date: '2012-12-22T22:18:00-08:00'
-tags:
-- computation
-- code
-title: Reorder An Array Randomly
----
++++
+date = 2012-12-22T22:18:00-08:00
+tags = ["code", "computation"]
+title = "Reorder An Array Randomly"
++++
 
 Java:
 

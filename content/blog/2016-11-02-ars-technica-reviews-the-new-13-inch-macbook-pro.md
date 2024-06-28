@@ -1,17 +1,9 @@
----
-date: '2016-11-02T10:54:44-07:00'
-link: https://arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/4/
-tags:
-- ars technica
-- review
-- mac
-- macbook
-- macbook pro
-- apple
-- laptop
-- notebook
-title: Ars Technica Reviews The New 13-Inch MacBook Pro
----
++++
+date = 2016-11-02T10:54:44-07:00
+link = "https://arstechnica.com/apple/2016/11/review-cheapest-2016-macbook-pro-is-good-but-its-missing-all-the-cool-stuff/4/"
+tags = ["apple", "ars technica", "laptop", "mac", "macbook", "macbook pro", "notebook", "review"]
+title = "Ars Technica Reviews The New 13-Inch MacBook Pro"
++++
 
 Andrew Cunningham, writing for Ars Technica:
 

@@ -1,13 +1,9 @@
----
-date: '2016-03-12T00:53:40-08:00'
-link: https://github.com/willfaught/bootstrap
-tags:
-- programming
-- bootstrap
-- homebrew
-- zsh
-title: Bootstrap
----
++++
+date = 2016-03-12T00:53:40-08:00
+link = "https://github.com/willfaught/bootstrap"
+tags = ["bootstrap", "homebrew", "programming", "zsh"]
+title = "Bootstrap"
++++
 
 Just automated bootstrapping my OS X programming environment. It sets up:
 

@@ -1,11 +1,8 @@
----
-date: '2011-10-21T00:58:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: 'South Korea: Glimpse Of Korean Culture'
----
++++
+date = 2011-10-21T00:58:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Glimpse Of Korean Culture"
++++
 
 *For Saturday, October 15, 2011*
 

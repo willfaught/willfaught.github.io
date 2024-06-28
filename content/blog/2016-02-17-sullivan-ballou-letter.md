@@ -1,8 +1,8 @@
----
-date: '2016-02-17T12:53:58-08:00'
-link: https://web.archive.org/web/20160310152158/https://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html
-title: Sullivan Ballou Letter
----
++++
+date = 2016-02-17T12:53:58-08:00
+link = "https://web.archive.org/web/20160310152158/https://www.civilwar.org/education/history/primarysources/sullivan-ballou-letter.html"
+title = "Sullivan Ballou Letter"
++++
 
 A beautiful and heartfelt letter from a Civil War soldier to his wife shortly before his death:
 

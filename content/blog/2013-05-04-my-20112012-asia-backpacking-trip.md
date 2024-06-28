@@ -1,10 +1,8 @@
----
-date: '2013-05-04T21:47:00-07:00'
-tags:
-- travel
-- asia
-title: My 2011–2012 Asia Backpacking Trip
----
++++
+date = 2013-05-04T21:47:00-07:00
+tags = ["asia", "travel"]
+title = "My 2011–2012 Asia Backpacking Trip"
++++
 
 Here are all the pictures of my 2011&ndash;2012 Asia backpacking trip:
 

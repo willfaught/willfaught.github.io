@@ -1,10 +1,7 @@
----
-date: '2012-01-25T06:52:15-08:00'
-tags:
-- travel
-- thailand
-- ko phuket
-title: Wednesday, January 25, 2012
----
++++
+date = 2012-01-25T06:52:15-08:00
+tags = ["ko phuket", "thailand", "travel"]
+title = "Wednesday, January 25, 2012"
++++
 
 Decided to stay in Ko Phuket one more day to see a beach or two and get a feel for the place. Got up at 9 AM, ate toast for breakfast, got ready, and was out the door by 11 AM. Walked twenty minutes to the bus spot in Phuket Town and rode a bus to Hat Kata. Got off and followed a woman to the beach. Beheld the beach, took some snaps, then walked along the surf for a little ways. Decided to go for a dip and left my bag on an empty chair. Locked my camera and stuff in the big pouch with a luggage lock. Kicked myself for not thinking of bringing my luggage cable to tie the bag to the chair. Waded into the surf, submerged my head, and floated for a few minutes. Took in the scenery. Hat Kata felt crowded, but the sand and water were nice. Too many chairs and umbrellas, too close together. Saw several topless women by the end of the day. Kept an eye on my bag. Got out, dried off, and continued walking south along the beach. Ate pork fried rice at a restaurant at the far end and cooled off with a Coke. Ordered seconds for both. Walked to the road and then walked to the southern half of Hat Kata and continued my stroll along the surf. Got to the southern end and walked all the way back to the north end of Hat Kata where I started, then continued north to see Hat Karon. I liked Hat Karon more than Hat Kata. It was bigger, so things were more spread out, and the sand was nicer; it was so finely grained that it kind of squeaked when I walked on it. Looked for a bus back to Phuket Town at 4 PM because they stop running early and the cost of taking a taxi is exorbitant. Had trouble spotting the buses in time to flag them down. Got one, rode it back, walked to my hostel, showered, went out again for some quick Thai food nearby, then returned to my hostel again. Bought a ticket for Ko Phi Phi. Settled in for the evening.

@@ -1,12 +1,9 @@
----
-date: '2018-10-29T18:20:04-07:00'
-link: https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile
-tags:
-- coding
-- agile
-- scrum
-title: How Scrum Goes Awry
----
++++
+date = 2018-10-29T18:20:04-07:00
+link = "https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile"
+tags = ["agile", "coding", "scrum"]
+title = "How Scrum Goes Awry"
++++
 
 Robin Message on how Scrum goes awry:
 

@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2008-07-08T15:34:00-07:00'
-tags:
-- apple
-- braille
-- cherokee
-- fonts
-- reflections
-title: Job Security
----
++++
+categories = ["life"]
+date = 2008-07-08T15:34:00-07:00
+tags = ["apple", "braille", "cherokee", "fonts", "reflections"]
+title = "Job Security"
++++
 
 Apple Boss: Hey font guy, are you done yet so we can fire you?
 

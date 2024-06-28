@@ -1,11 +1,8 @@
----
-date: '2012-01-12T09:17:00-08:00'
-tags:
-- travel
-- thailand
-- bangkok
-title: Bangkok, Thailand
----
++++
+date = 2012-01-12T09:17:00-08:00
+tags = ["bangkok", "thailand", "travel"]
+title = "Bangkok, Thailand"
++++
 
 **Sunday, January 8, 2012**
 

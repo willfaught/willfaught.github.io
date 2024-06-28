@@ -1,11 +1,8 @@
----
-date: '2011-11-12T07:39:29-08:00'
-tags:
-- travel
-- japan
-- hiroshima
-title: 'Japan: Aftermath Of A Cataclysm'
----
++++
+date = 2011-11-12T07:39:29-08:00
+tags = ["hiroshima", "japan", "travel"]
+title = "Japan: Aftermath Of A Cataclysm"
++++
 
 *For Saturday, November 5, 2011*
 

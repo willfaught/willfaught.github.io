@@ -1,24 +1,9 @@
----
-categories:
-- life
-date: '2009-01-28T15:37:00-08:00'
-tags:
-- apartment
-- bathroom
-- bedroom
-- boxes
-- closet
-- den
-- furniture
-- kitchen
-- leed
-- living room
-- moving
-- office
-- stories
-- study
-title: Moving In
----
++++
+categories = ["life"]
+date = 2009-01-28T15:37:00-08:00
+tags = ["apartment", "bathroom", "bedroom", "boxes", "closet", "den", "furniture", "kitchen", "leed", "living room", "moving", "office", "stories", "study"]
+title = "Moving In"
++++
 
 I finally posted online pictures of moving into my new apartment. When I took these, my boxes had just been delivered, so nothing was yet unpacked. My apartment looks sparse even now because I still don't have any new furniture, but it looks a little more lived in with the boxes unpacked.
 

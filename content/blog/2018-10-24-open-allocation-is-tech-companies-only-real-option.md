@@ -1,10 +1,9 @@
----
-date: '2018-10-24T21:14:23-07:00'
-link: https://web.archive.org/web/20120915071935/http://michaelochurch.wordpress.com/2012/09/03/tech-companies-open-allocation-is-your-only-real-option/
-tags:
-- coding
-title: Open Allocation Is Tech Companies' Only Real Option
----
++++
+date = 2018-10-24T21:14:23-07:00
+link = "https://web.archive.org/web/20120915071935/http://michaelochurch.wordpress.com/2012/09/03/tech-companies-open-allocation-is-your-only-real-option/"
+tags = ["coding"]
+title = "Open Allocation Is Tech Companies' Only Realxa0Option"
++++
 
 Michael Church on [open allocation](https://en.wikipedia.org/wiki/Open_allocation):
 

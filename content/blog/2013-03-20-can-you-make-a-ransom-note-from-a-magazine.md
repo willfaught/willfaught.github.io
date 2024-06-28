@@ -1,10 +1,8 @@
----
-date: '2013-03-20T18:59:17-07:00'
-tags:
-- computation
-- code
-title: Can You Make A Ransom Note From A Magazine?
----
++++
+date = 2013-03-20T18:59:17-07:00
+tags = ["code", "computation"]
+title = "Can You Make A Ransom Note From A Magazine?"
++++
 
 Java:
 

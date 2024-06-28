@@ -1,13 +1,9 @@
----
-categories:
-- technology
-date: '2011-02-04T08:00:07-08:00'
-tags:
-- lisp
-- sicp
-- universal machine
-title: The Zen Of Lisp
----
++++
+categories = ["technology"]
+date = 2011-02-04T08:00:07-08:00
+tags = ["lisp", "sicp", "universal machine"]
+title = "The Zen Of Lisp"
++++
 
 <a href="https://web.archive.org/web/20170825143412/https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-26.html">Structure and Interpretation of Computer Programs:</a>
 

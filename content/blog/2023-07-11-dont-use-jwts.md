@@ -1,11 +1,11 @@
----
-categories: [technology]
-date: 2023-07-11T20:08:58-07:00
-description: Use session tokens instead.
-link: https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
-tags: [jwt, redis, json, sessions]
-title: Don't Use JWTs
----
++++
+categories = ["technology"]
+date = 2023-07-11T20:08:58-07:00
+description = "Use session tokens instead."
+link = "https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/"
+tags = ["json", "jwt", "redis", "sessions"]
+title = "Don't Use JWTs"
++++
 
 Raja Rao, writing for Redis:
 

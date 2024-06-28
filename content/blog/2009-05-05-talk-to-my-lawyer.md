@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2009-05-05T17:07:00-07:00'
-tags:
-- accident
-- car
-- insurance
-- lawyer
-- progressive
-- stories
-title: Talk To My Lawyer
----
++++
+categories = ["life"]
+date = 2009-05-05T17:07:00-07:00
+tags = ["accident", "car", "insurance", "lawyer", "progressive", "stories"]
+title = "Talk To My Lawyer"
++++
 
 I was driving in slow traffic in December when a driver wasn't watching where he was going, and his car hit the car in front of him, and it hit my car. My neck was jerked back from the impact, from which I have suffered and continue to suffer whiplash. I was in a similar accident a few years ago in San Luis Obispo, where a driver hit me from behind at a stop light on a rainy night. So I've now twice had to deal with car damage and an injured neck.
 

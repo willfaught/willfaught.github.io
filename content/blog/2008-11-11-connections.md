@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-11-11T16:29:00-08:00'
-tags:
-- dan ellis
-- friends
-- microsoft
-- networking
-- reflections
-- stories
-- tom bouldin
-title: Connections
----
++++
+categories = ["life"]
+date = 2008-11-11T16:29:00-08:00
+tags = ["dan ellis", "friends", "microsoft", "networking", "reflections", "stories", "tom bouldin"]
+title = "Connections"
++++
 
 One reason I hesitated to move to Washington was because most of my friends and family are in California. I started college not knowing anyone, but joining a fraternity facilitated making friends and filled my schedule. Once again I'm faced with starting over, and I wonder if Microsoft will play that role of friend maker and schedule filler. I moved up here expecting only to know my aunt and uncle, who live in Sequim (pronounced *squim* for some reason); Dan, who was in my fraternity and works here full time now; and Tom, with whom I worked on a school project and who works at Microsoft too. I plan to connect with them as much as I can, but I have to start looking at how I can start meeting new people and widening that circle of friends and expanding my network.
 

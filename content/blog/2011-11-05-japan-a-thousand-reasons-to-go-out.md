@@ -1,11 +1,8 @@
----
-date: '2011-11-05T09:24:36-07:00'
-tags:
-- travel
-- japan
-- kyoto
-title: 'Japan: A Thousand Reasons To Go Out'
----
++++
+date = 2011-11-05T09:24:36-07:00
+tags = ["japan", "kyoto", "travel"]
+title = "Japan: A Thousand Reasons To Go Out"
++++
 
 *For Wednesday, November 2, 2011*
 

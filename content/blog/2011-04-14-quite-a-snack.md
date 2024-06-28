@@ -1,11 +1,8 @@
----
-date: '2011-04-14T19:46:00-07:00'
-tags:
-- aol
-- funny
-- arianna huffington
-title: Quite A Snack
----
++++
+date = 2011-04-14T19:46:00-07:00
+tags = ["aol", "arianna huffington", "funny"]
+title = "Quite A Snack"
++++
 
 Eric D. Snider:
 

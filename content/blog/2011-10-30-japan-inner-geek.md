@@ -1,11 +1,8 @@
----
-date: '2011-10-30T08:05:10-07:00'
-tags:
-- travel
-- japan
-- tokyo
-title: 'Japan: Inner Geek'
----
++++
+date = 2011-10-30T08:05:10-07:00
+tags = ["japan", "tokyo", "travel"]
+title = "Japan: Inner Geek"
++++
 
 *For Thursday, October 27, 2011*
 

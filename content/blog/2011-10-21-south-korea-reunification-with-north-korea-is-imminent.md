@@ -1,11 +1,8 @@
----
-date: '2011-10-21T00:26:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: 'South Korea: Reunification With North Korea Is Imminent!'
----
++++
+date = 2011-10-21T00:26:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Reunification With North Korea Is Imminent!"
++++
 
 *For Thursday, October 13, 2011*
 

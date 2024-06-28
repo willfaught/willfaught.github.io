@@ -1,20 +1,9 @@
----
-categories:
-- life
-date: '2009-01-25T15:07:00-08:00'
-tags:
-- clearasil
-- costco
-- garage
-- home
-- neighborhood
-- reflections
-- robbed
-- seattle
-- stories
-- thief
-title: Neighborhood Thief
----
++++
+categories = ["life"]
+date = 2009-01-25T15:07:00-08:00
+tags = ["clearasil", "costco", "garage", "home", "neighborhood", "reflections", "robbed", "seattle", "stories", "thief"]
+title = "Neighborhood Thief"
++++
 
 I went shopping at the Costco in Seattle for the first time today. They didn't give me any bags or boxes in which to carry my stuff, so I had to carry a few items at a time from my car to my apartment. On my first trip, I put together an armload of provisions, and thought I could add to it a two-pack of Clearasil facial cleanser, but it was too much. I had already closed the trunk, so I set down the two-pack under my rear bumper and pushed it back a couple feet.
 

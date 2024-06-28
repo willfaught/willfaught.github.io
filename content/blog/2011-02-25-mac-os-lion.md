@@ -1,12 +1,9 @@
----
-categories:
-- technology
-date: '2011-02-25T12:00:07-08:00'
-tags:
-- apple
-- macos
-title: Mac OS Lion
----
++++
+categories = ["technology"]
+date = 2011-02-25T12:00:07-08:00
+tags = ["apple", "macos"]
+title = "Mac OS Lion"
++++
 
 [Mac OS Lion](https://www.apple.com/macosx/lion/) looks promising:
 

@@ -1,10 +1,8 @@
----
-date: '2013-03-11T19:21:00-07:00'
-tags:
-- computation
-- code
-title: Binary Tree Mirror Equals
----
++++
+date = 2013-03-11T19:21:00-07:00
+tags = ["code", "computation"]
+title = "Binary Tree Mirror Equals"
++++
 
 Java:
 

@@ -1,19 +1,9 @@
----
-categories:
-- life
-date: '2008-01-31T17:26:00-08:00'
-tags:
-- arguments
-- debate
-- discourse
-- discussion
-- elections
-- ideas
-- online
-- politics
-- words
-title: Giving Weight To Online Words
----
++++
+categories = ["life"]
+date = 2008-01-31T17:26:00-08:00
+tags = ["arguments", "debate", "discourse", "discussion", "elections", "ideas", "online", "politics", "words"]
+title = "Giving Weight To Online Words"
++++
 
 It seems to me that political debates nowadays are a waste of time. Two people come together to debate an issue and wind up either talking about different things or don't address what the other person is saying, much less provide concrete support for their arguments. There's just too many tricks to fudge your way out of really committing to something and sticking to it. I blame the dependence of our electoral process on audio/video media. You can't slow down what they're saying and pick apart their words, weigh their meanings, and make reasoned judgments if their words are flying past you at the speed of speech. One candidate speaks, and the others have to scribble quickly on a paper pad to remember what to say in their rebuttal five minutes later. There's no provision for going back at leisure and examining the merit of every spoken word. This isn't just a disadvantage for candidates, it's a detriment to the electoral process: it diminishes our ability to correctly choose the best candidate.
 

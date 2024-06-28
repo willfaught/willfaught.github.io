@@ -1,11 +1,9 @@
----
-date: '2016-04-11T16:09:18-07:00'
-link: https://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1
-tags:
-- programming
-- management
-title: What's Awful About Being A Software Engineer IC, Tech Lead & Manager
----
++++
+date = 2016-04-11T16:09:18-07:00
+link = "https://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1"
+tags = ["management", "programming"]
+title = "What's Awful About Being A Software Engineer IC, Tech Lead & Manager"
++++
 
 Brett Slatner on the trials and tribulations of being a software engineering individual contributor, tech lead, and manager:
 

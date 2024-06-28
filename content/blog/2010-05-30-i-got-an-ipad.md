@@ -1,12 +1,9 @@
----
-categories:
-- life
-date: '2010-05-30T16:32:50-07:00'
-tags:
-- apple
-- ipad
-title: I Got An IPad
----
++++
+categories = ["life"]
+date = 2010-05-30T16:32:50-07:00
+tags = ["apple", "ipad"]
+title = "I Got An IPad"
++++
 
 On one hand, my smartphone has a touch screen and fits in my pocket, and on the other, my laptop has a physical keyboard and a large screen. Apple's iPad brings together the strengths of both, except for the superior typing provided by laptops. Somewhere between these two lies Apple's iPad, which provides the immediacy, simplicity, and tactile interaction of a smartphone, and the size, complexity, and greater expressiveness of a laptop. With it, I can graze the Internet with little thought or preparation. Little tasks now take little effort. The immediacy and depth of apps and the powerful feeling of touch interaction is compelling and delightful. It enables a whole class of computer interactions that I wasn't using my laptop for because it was too inconvenient. It's great for consumption, like movies, music, books, and the Web. It's also great for certain kinds of creation, like painting and probably other typical mouse-driven things. I think it will completely replace my laptop on plane trips, in coffee shops, on the couch, and the like, which narrows my laptop's usefulness quite a bit. It's hard to quantify the value of these things, and if you compare the iPad to a laptop, it's going to lose in terms of features, independence, and typing. You can get by with a laptop cheaper than the iPad, and for that reason the iPad is a convenience, not a necessity. It delivers a subset of the laptop, but it opens new doors for how we use computers. It's just one of those things that you have to see and feel to believe.
 

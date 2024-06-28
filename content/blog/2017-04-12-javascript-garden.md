@@ -1,11 +1,9 @@
----
-date: '2017-04-12T12:27:35-07:00'
-link: https://bonsaiden.github.io/JavaScript-Garden/
-tags:
-- programming
-- javascript
-title: JavaScript Garden
----
++++
+date = 2017-04-12T12:27:35-07:00
+link = "https://bonsaiden.github.io/JavaScript-Garden/"
+tags = ["javascript", "programming"]
+title = "JavaScript Garden"
++++
 
 Ivo Wetzel:
 

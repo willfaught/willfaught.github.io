@@ -1,9 +1,8 @@
----
-date: '2015-09-20T23:42:11-07:00'
-tags:
-- far cry 4
-title: Can't Loot Bunker In Far Cry 4
----
++++
+date = 2015-09-20T23:42:11-07:00
+tags = ["far cry 4"]
+title = "Can't Loot Bunker In Far Cry 4"
++++
 
 {{< paige/youtube yxXIuJJ0yBs >}}
 

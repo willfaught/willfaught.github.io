@@ -1,13 +1,9 @@
----
-date: '2015-10-17T18:20:08-07:00'
-link: https://www.consul.io/intro/vs/zookeeper.html
-tags:
-- consul
-- zookeeper
-- etcd
-- hashicorp
-title: Consul Vs. ZooKeeper, Doozerd, Etcd
----
++++
+date = 2015-10-17T18:20:08-07:00
+link = "https://www.consul.io/intro/vs/zookeeper.html"
+tags = ["consul", "etcd", "hashicorp", "zookeeper"]
+title = "Consul Vs.xa0ZooKeeper, Doozerd, Etcd"
++++
 
 HashiCorp on Consul versus ZooKeeper, doozerd, and etcd:
 

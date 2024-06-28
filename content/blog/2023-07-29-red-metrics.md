@@ -1,11 +1,11 @@
----
-categories: [technology]
-date: 2023-07-29T14:18:05-07:00
-description: Metrics for understanding request-driven program performance.
-link: https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html
-tags: [red, metrics, microservices]
-title: RED Metrics
----
++++
+categories = ["technology"]
+date = 2023-07-29T14:18:05-07:00
+description = "Metrics for understanding request-driven program performance."
+link = "https://www.infoworld.com/article/3638693/the-red-method-a-new-strategy-for-monitoring-microservices.html"
+tags = ["metrics", "microservices", "red"]
+title = "RED Metrics"
++++
 
 Tim Yocum, writing for InfoWorld:
 

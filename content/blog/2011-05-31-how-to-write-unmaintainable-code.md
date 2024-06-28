@@ -1,11 +1,9 @@
----
-date: '2011-05-31T23:00:06-07:00'
-link: https://www.thc.org/root/phun/unmaintain.html
-tags:
-- funny
-- computation
-title: How To Write Unmaintainable Code
----
++++
+date = 2011-05-31T23:00:06-07:00
+link = "https://www.thc.org/root/phun/unmaintain.html"
+tags = ["computation", "funny"]
+title = "How To Write Unmaintainable Code"
++++
 
 Insidious and hilarious stuff:
 

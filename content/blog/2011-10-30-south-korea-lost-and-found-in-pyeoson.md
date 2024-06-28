@@ -1,11 +1,8 @@
----
-date: '2011-10-30T00:27:16-07:00'
-tags:
-- travel
-- south korea
-- jeju
-title: 'South Korea: Lost And Found In Pyeoson'
----
++++
+date = 2011-10-30T00:27:16-07:00
+tags = ["jeju", "south korea", "travel"]
+title = "South Korea: Lost And Found In Pyeoson"
++++
 
 *For Wednesday, October 19, 2011*
 

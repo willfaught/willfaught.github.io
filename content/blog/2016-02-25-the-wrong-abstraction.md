@@ -1,10 +1,9 @@
----
-date: '2016-02-25T21:24:01-08:00'
-link: https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
-tags:
-- coding
-title: The Wrong Abstraction
----
++++
+date = 2016-02-25T21:24:01-08:00
+link = "https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
+tags = ["coding"]
+title = "The Wrong Abstraction"
++++
 
 Great tip from Sandi Metz on how abstractions can worsen code:
 

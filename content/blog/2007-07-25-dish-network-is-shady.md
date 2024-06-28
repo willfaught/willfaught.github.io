@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2007-07-25T15:51:00-07:00'
-tags:
-- crooks
-- dish network
-- fee
-- plan
-- shady
-- stories
-- tv
-title: Dish Network Is Shady
----
++++
+categories = ["life"]
+date = 2007-07-25T15:51:00-07:00
+tags = ["crooks", "dish network", "fee", "plan", "shady", "stories", "tv"]
+title = "Dish Network Is Shady"
++++
 
 My roommates and I tried to cancel our TV service last week. Dish Network told us they would charge us a cancellation fee because we were apparently signed up for an 18-month service plan. That didn't make sense because we started the TV service when we had only six or seven months left on our lease. So apparently they felt they should sign us up on our behalf. How thoughtful.
 

@@ -1,7 +1,7 @@
----
-date: '2014-11-15T22:04:04-08:00'
-title: Sell Your IPhone To People
----
++++
+date = 2014-11-15T22:04:04-08:00
+title = "Sell Your IPhone To People"
++++
 
 You make *a lot* more money selling your old iPhone to people than to businesses like [Gazelle](https://gazelle.com) *if* the phone is in good condition. I just sold my iPhone 5 for $320 to someone I met through Craigslist at a Starbucks near my home. Gazelle would have given me $170. That's almost double!
 

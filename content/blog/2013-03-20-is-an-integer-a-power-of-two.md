@@ -1,10 +1,8 @@
----
-date: '2013-03-20T17:47:00-07:00'
-tags:
-- computation
-- code
-title: Is An Integer A Power Of Two?
----
++++
+date = 2013-03-20T17:47:00-07:00
+tags = ["code", "computation"]
+title = "Is An Integer A Power Of Two?"
++++
 
 Java:
 

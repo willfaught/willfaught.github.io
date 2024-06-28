@@ -1,11 +1,9 @@
----
-date: '2015-06-14T16:50:00-07:00'
-link: https://blog.agilebits.com/2012/07/31/1password-is-ready-for-john-the-ripper/
-tags:
-- computing
-- security
-title: 1Password Is Ready For John The Ripper
----
++++
+date = 2015-06-14T16:50:00-07:00
+link = "https://blog.agilebits.com/2012/07/31/1password-is-ready-for-john-the-ripper/"
+tags = ["computing", "security"]
+title = "1Password Is Ready For John The Ripper"
++++
 
 Time to crack 1Password passphrases by number of words in the passphrase:
 

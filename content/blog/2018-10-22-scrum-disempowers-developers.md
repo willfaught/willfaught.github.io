@@ -1,12 +1,9 @@
----
-date: '2018-10-22T15:34:28-07:00'
-link: https://news.ycombinator.com/item?id=17186591
-tags:
-- coding
-- scrum
-- agile
-title: Scrum Disempowers Developers
----
++++
+date = 2018-10-22T15:34:28-07:00
+link = "https://news.ycombinator.com/item?id=17186591"
+tags = ["agile", "coding", "scrum"]
+title = "Scrum Disempowers Developers"
++++
 
 A reply to someone saying someone else had a bad experience with Scrum because they did Scrum wrong:
 

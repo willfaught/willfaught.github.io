@@ -1,12 +1,9 @@
----
-date: '2016-12-06T23:06:43-08:00'
-link: https://vorpus.org/blog/why-does-calloc-exist/
-tags:
-- programming
-- c
-- calloc
-title: Why Does Calloc Exist?
----
++++
+date = 2016-12-06T23:06:43-08:00
+link = "https://vorpus.org/blog/why-does-calloc-exist/"
+tags = ["c", "calloc", "programming"]
+title = "Why Does Calloc Exist?"
++++
 
 Nathaniel J. Smith on the purpose of calloc:
 

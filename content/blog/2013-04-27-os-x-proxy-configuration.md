@@ -1,13 +1,9 @@
----
-categories:
-- technology
-date: '2013-04-27T14:47:00-07:00'
-tags:
-- configuration
-- osx
-- proxy
-title: OS X Proxy Configuration
----
++++
+categories = ["technology"]
+date = 2013-04-27T14:47:00-07:00
+tags = ["configuration", "osx", "proxy"]
+title = "OS X Proxy Configuration"
++++
 
 If you use OS X, and you use an HTTP forward proxy, and you use command line programs like `curl` or `wget` that use the HTTP or HTTPS protocols, then you must set the shell environment variables `http_proxy` and `https_proxy` (and their all-caps equivalents). An example of doing this in `~/.profile`:
 

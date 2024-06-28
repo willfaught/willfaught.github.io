@@ -1,11 +1,9 @@
----
-date: '2013-05-27T02:14:00-07:00'
-link: https://www.anandtech.com/show/6972/xbox-one-hardware-compared-to-playstation-4
-tags:
-- technology
-- playing
-title: 'The Xbox One: Hardware Analysis & Comparison To PlayStation 4'
----
++++
+date = 2013-05-27T02:14:00-07:00
+link = "https://www.anandtech.com/show/6972/xbox-one-hardware-compared-to-playstation-4"
+tags = ["playing", "technology"]
+title = "The Xbox One: Hardware Analysis & Comparison To PlayStation 4"
++++
 
 An excellent Xbox One hardware and software analysis by Anand Lal Shimpi:
 

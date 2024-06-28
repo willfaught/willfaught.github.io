@@ -1,10 +1,8 @@
----
-date: '2012-01-25T06:56:59-08:00'
-tags:
-- travel
-- videos
-title: Taipei 101 Fireworks
----
++++
+date = 2012-01-25T06:56:59-08:00
+tags = ["travel", "videos"]
+title = "Taipei 101 Fireworks"
++++
 
 {{< paige/youtube 8mP39wS_FxQ >}}
 

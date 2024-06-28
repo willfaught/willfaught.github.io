@@ -1,11 +1,9 @@
----
-date: '2018-10-23T14:59:07-07:00'
-link: https://chris.beams.io/posts/git-commit/
-tags:
-- coding
-- git
-title: How To Write A Git Commit Message
----
++++
+date = 2018-10-23T14:59:07-07:00
+link = "https://chris.beams.io/posts/git-commit/"
+tags = ["coding", "git"]
+title = "How To Write A Git Commit Message"
++++
 
 Chris Beams:
 

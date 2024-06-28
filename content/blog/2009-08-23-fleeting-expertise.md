@@ -1,18 +1,9 @@
----
-categories:
-- life
-date: '2009-08-23T18:20:00-07:00'
-tags:
-- comforters
-- consumer search
-- down
-- expert
-- expertise
-- fleeting
-- shopping
-- web site
-title: Fleeting Expertise
----
++++
+categories = ["life"]
+date = 2009-08-23T18:20:00-07:00
+tags = ["comforters", "consumer search", "down", "expert", "expertise", "fleeting", "shopping", "web site"]
+title = "Fleeting Expertise"
++++
 
 I discovered a web site that's great for learning how to shop for products I've never bought before in a short period of time. When I shop, I want to buy something I know will satisfy my needs for the foreseeable future. I don't want to have to buy another one because it broke or a newer one came out that I want instead. I want to do the comparison shopping and deal seeking just once.
 

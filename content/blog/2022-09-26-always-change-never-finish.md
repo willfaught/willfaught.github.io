@@ -1,10 +1,10 @@
----
-categories: [technology]
-date: 2022-09-26T22:43:19-07:00
-description: An interview with an Agile Coach.
-tags: [agile, methodology, scrum, software]
-title: Always Change, Never Finish
----
++++
+categories = ["technology"]
+date = 2022-09-26T22:43:19-07:00
+description = "An interview with an Agile Coach."
+tags = ["agile", "methodology", "scrum", "software"]
+title = "Always Change, Never Finish"
++++
 
 Part 1:
 

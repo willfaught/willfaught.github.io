@@ -1,13 +1,9 @@
----
-date: '2016-04-07T07:39:20-07:00'
-link: https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug
-tags:
-- smartphone
-- hardware
-- camera
-- modular
-title: "Smartphones Are Boring: Here's What Happens Next"
----
++++
+date = 2016-04-07T07:39:20-07:00
+link = "https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug"
+tags = ["camera", "hardware", "modular", "smartphone"]
+title = "Smartphones Are Boring: Here's What Happens Next"
++++
 
 Joanna Stern, writing for the Wall Street Journal:
 

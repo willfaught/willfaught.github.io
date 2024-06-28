@@ -1,11 +1,9 @@
----
-date: '2015-12-15T02:01:37-08:00'
-link: https://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html
-tags:
-- wine
-- tasting
-title: The Legendary Study That Embarrassed Wine Experts Across The Globe
----
++++
+date = 2015-12-15T02:01:37-08:00
+link = "https://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html"
+tags = ["tasting", "wine"]
+title = "The Legendary Study That Embarrassed Wine Experts Across The Globe"
++++
 
 Unsurprisingly, wine tasting is full of shit:
 

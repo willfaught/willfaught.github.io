@@ -1,11 +1,9 @@
----
-date: '2011-05-26T12:17:36-07:00'
-link: http://paulgraham.com/start.html
-tags:
-- computation
-- interesting
-title: How To Start A Startup
----
++++
+date = 2011-05-26T12:17:36-07:00
+link = "http://paulgraham.com/start.html"
+tags = ["computation", "interesting"]
+title = "How To Start A Startup"
++++
 
 Paul Graham:
 

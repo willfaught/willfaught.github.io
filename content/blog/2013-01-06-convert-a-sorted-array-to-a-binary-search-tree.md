@@ -1,10 +1,8 @@
----
-date: '2013-01-06T17:57:05-08:00'
-tags:
-- computation
-- code
-title: Convert A Sorted Array To A Binary Search Tree
----
++++
+date = 2013-01-06T17:57:05-08:00
+tags = ["code", "computation"]
+title = "Convert A Sorted Array To A Binary Search Tree"
++++
 
 Java:
 

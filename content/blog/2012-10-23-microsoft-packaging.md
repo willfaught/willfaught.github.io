@@ -1,9 +1,8 @@
----
-date: '2012-10-23T21:45:00-07:00'
-tags:
-- funny
-title: Microsoft Packaging
----
++++
+date = 2012-10-23T21:45:00-07:00
+tags = ["funny"]
+title = "Microsoft Packaging"
++++
 
 {{< paige/youtube EUXnJraKM3k >}}
 

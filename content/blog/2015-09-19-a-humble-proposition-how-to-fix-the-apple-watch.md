@@ -1,11 +1,9 @@
----
-date: '2015-09-19T12:32:37-07:00'
-link: https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html
-tags:
-- apple
-- watch
-title: 'A Humble Proposition: How To Fix The Apple Watch'
----
++++
+date = 2015-09-19T12:32:37-07:00
+link = "https://www.yahoo.com/tech/a-humble-proposition-how-to-fix-the-apple-watch-129185196924.html"
+tags = ["apple", "watch"]
+title = "A Humble Proposition: How To Fix The Apple Watch"
++++
 
 David Pogue on the shortcomings of the Apple Watch:
 

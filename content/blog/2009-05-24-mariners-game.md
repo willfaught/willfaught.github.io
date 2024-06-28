@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2009-05-24T03:20:00-07:00'
-tags:
-- baseball
-- giants
-- ken griffey jr.
-- mariners
-- stories
-title: Mariners Game
----
++++
+categories = ["life"]
+date = 2009-05-24T03:20:00-07:00
+tags = ["baseball", "giants", "ken griffey jr.", "mariners", "stories"]
+title = "Mariners Game"
++++
 
 I went to the Mariners vs. Giants game on Friday. I don't usually enjoy baseball games in person or on TV, but a friend invited me, and I thought I'd give it another shot.
 

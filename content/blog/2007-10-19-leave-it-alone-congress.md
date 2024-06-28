@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-10-19T13:50:00-07:00'
-tags:
-- bittorrent
-- congress
-- identity theft
-- internet
-- p2p
-- reflections
-title: Leave It Alone, Congress
----
++++
+categories = ["life"]
+date = 2007-10-19T13:50:00-07:00
+tags = ["bittorrent", "congress", "identity theft", "internet", "p2p", "reflections"]
+title = "Leave It Alone, Congress"
++++
 
 Congress is concerned that [peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer) networks may make users [susceptible to identity theft](https://www.news.com/8301-10784_3-9799463-7.html). Apparently, some users share their sensitive information with others and then get upset when their identities are stolen. That's Darwin at his finest, in my opinion.
 

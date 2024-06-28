@@ -1,8 +1,8 @@
----
-date: '2017-07-04T20:53:21-07:00'
-link: https://en.wikipedia.org/wiki/Paper_size
-title: Ingenious Paper Sizes
----
++++
+date = 2017-07-04T20:53:21-07:00
+link = "https://en.wikipedia.org/wiki/Paper_size"
+title = "Ingenious Paper Sizes"
++++
 
 The U.S. uses its own own standard paper sizes: letter, legal, tabloid, and so on. Europe uses an ingenious system:
 

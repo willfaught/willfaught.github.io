@@ -1,12 +1,9 @@
----
-date: '2016-06-16T23:58:57-07:00'
-link: https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
-tags:
-- programming
-- naming
-- variables
-title: Long Names Are Long
----
++++
+date = 2016-06-16T23:58:57-07:00
+link = "https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/"
+tags = ["naming", "programming", "variables"]
+title = "Long Names Are Long"
++++
 
 Bob Nystrom:
 

@@ -1,10 +1,9 @@
----
-date: '2018-12-10T19:14:20-08:00'
-link: https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/
-tags:
-- coding
-title: '"8 Common Mistakes That Get Developers Fired"'
----
++++
+date = 2018-12-10T19:14:20-08:00
+link = "https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/"
+tags = ["coding"]
+title = "\"8 Common Mistakes That Get Developers Fired\""
++++
 
 Andrew McDermott:
 

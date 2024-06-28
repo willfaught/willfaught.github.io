@@ -1,9 +1,8 @@
----
-date: '2014-04-01T14:25:52-07:00'
-tags:
-- computing
-title: Print Equilateral Diamonds
----
++++
+date = 2014-04-01T14:25:52-07:00
+tags = ["computing"]
+title = "Print Equilateral Diamonds"
++++
 
 Examples:
 

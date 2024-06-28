@@ -1,21 +1,9 @@
----
-categories:
-- life
-date: '2009-02-20T16:37:00-08:00'
-tags:
-- birthday
-- dan ellis
-- hallie mass
-- improbable
-- michelle lee
-- microsoft
-- nate black
-- rae dixon
-- seize the day
-- stories
-- sushi
-title: Improbable
----
++++
+categories = ["life"]
+date = 2009-02-20T16:37:00-08:00
+tags = ["birthday", "dan ellis", "hallie mass", "improbable", "michelle lee", "microsoft", "nate black", "rae dixon", "seize the day", "stories", "sushi"]
+title = "Improbable"
++++
 
 On my flight home for Thanksgiving, I sat a seat over from a cute girl named Rae who was around my age. We eventually chatted, and I learned she studied art history at the University of Washington, she was from California, and she was going home for the holiday too. I was gauging our conversation and toying with the idea of asking for her number, but I chickened out and figured I could find her online later. We parted ways at the Sacramento airport, and I wondered whether I would regret not seizing the day right then and there.
 

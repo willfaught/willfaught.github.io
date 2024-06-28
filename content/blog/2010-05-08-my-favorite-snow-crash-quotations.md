@@ -1,10 +1,9 @@
----
-categories:
-- life
-date: '2010-05-08T02:47:35-07:00'
-tags: []
-title: My Favorite Snow Crash Quotations
----
++++
+categories = ["life"]
+date = 2010-05-08T02:47:35-07:00
+tags = []
+title = "My Favorite Snow Crash Quotations"
++++
 
 I'm rereading it again. Ah, so good.
 

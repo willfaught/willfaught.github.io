@@ -1,10 +1,8 @@
----
-date: '2012-12-19T20:39:00-08:00'
-tags:
-- computation
-- code
-title: A Queue Implemented With Two Stacks
----
++++
+date = 2012-12-19T20:39:00-08:00
+tags = ["code", "computation"]
+title = "A Queue Implemented With Two Stacks"
++++
 
 Java:
 

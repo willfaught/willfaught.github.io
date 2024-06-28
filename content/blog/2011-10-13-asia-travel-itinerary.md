@@ -1,10 +1,8 @@
----
-date: '2011-10-13T03:45:00-07:00'
-tags:
-- travel
-- itinerary
-title: Asia Travel Itinerary
----
++++
+date = 2011-10-13T03:45:00-07:00
+tags = ["itinerary", "travel"]
+title = "Asia Travel Itinerary"
++++
 
 I forgot to say what my planned travel itinerary is:
 

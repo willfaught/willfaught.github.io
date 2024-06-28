@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2007-12-19T07:15:00-08:00'
-tags:
-- bill
-- card
-- christmas
-- ideas
-- maria
-- poem
-- quotations
-title: Behind The Scenes
----
++++
+categories = ["life"]
+date = 2007-12-19T07:15:00-08:00
+tags = ["bill", "card", "christmas", "ideas", "maria", "poem", "quotations"]
+title = "Behind The Scenes"
++++
 
 The Christmas card poem that didn't make it:
 

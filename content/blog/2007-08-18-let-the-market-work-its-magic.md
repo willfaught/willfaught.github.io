@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2007-08-18T16:23:00-07:00'
-tags:
-- computers
-- innovation
-- laws
-- reflections
-- security
-title: Let The Market Work Its Magic
----
++++
+categories = ["life"]
+date = 2007-08-18T16:23:00-07:00
+tags = ["computers", "innovation", "laws", "reflections", "security"]
+title = "Let The Market Work Its Magic"
++++
 
 Most computer users probably assume that their computers are secure. They don't see the complexity and brittleness of the hardware, the operating system, the network, and the applications because it's hidden under a pretty user interface with abstracted toy operations. They never considered evaluating security when purchasing software; they assumed it would just work. It's understandable if they get upset when something goes wrong.
 

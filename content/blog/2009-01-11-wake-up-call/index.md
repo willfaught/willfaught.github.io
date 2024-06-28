@@ -1,20 +1,9 @@
----
-categories:
-- life
-date: '2009-01-11T07:41:00-08:00'
-tags:
-- alarm
-- building
-- caffeine
-- coke
-- fighter
-- fire
-- home
-- neighbors
-- stories
-- truck
-title: Wake Up Call
----
++++
+categories = ["life"]
+date = 2009-01-11T07:41:00-08:00
+tags = ["alarm", "building", "caffeine", "coke", "fighter", "fire", "home", "neighbors", "stories", "truck"]
+title = "Wake Up Call"
++++
 
 Since I moved to Seattle, I've wanted to reduce my Coke consumption so that I could sleep better and earlier, and because it's not healthy. I broke down while at the store last night and bought some Coke. I drank three cans' worth in a glass with ice&mdash;and it was good&mdash;starting at 9:30 PM, so I was hopped up on caffeine for the rest of the evening, and I didn't get ready for bed until about 2:30 AM. I was listening to my iPod when a shrill screech seemed to pierce my ear drums. I thought my iPod had malfunctioned and tore the ear buds from my head, but the sound wasn't coming from them, it was coming from my smoke alarm.
 

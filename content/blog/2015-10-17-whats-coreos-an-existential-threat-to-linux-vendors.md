@@ -1,12 +1,9 @@
----
-date: '2015-10-17T18:44:32-07:00'
-link: https://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html
-tags:
-- coreos
-- redhat
-- linux
-title: What's CoreOS? An Existential Threat To Linux Vendors
----
++++
+date = 2015-10-17T18:44:32-07:00
+link = "https://www.infoworld.com/article/2692889/open-source-software/coreos-an-existential-threat-to-linux-vendors.html"
+tags = ["coreos", "linux", "redhat"]
+title = "What's CoreOS? An Existential Threat To Linux Vendors"
++++
 
 Matt Asay, writing for InfoWorld on the shift to minimal server operating systems like CoreOS:
 

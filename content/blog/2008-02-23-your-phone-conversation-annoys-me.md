@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2008-02-23T08:45:00-08:00'
-tags:
-- annoying
-- conversation
-- phone
-- reflections
-- rude
-title: Your Phone Conversation Annoys Me
----
++++
+categories = ["life"]
+date = 2008-02-23T08:45:00-08:00
+tags = ["annoying", "conversation", "phone", "reflections", "rude"]
+title = "Your Phone Conversation Annoys Me"
++++
 
 When I answer the phone, I usually move into another room for privacy and so I won't distract others. This seems natural and reasonable to me. I talk in a normal tone and no one has ever complained that they couldn't hear me. Others seem to either think differently or don't realize they're being obnoxious. They'll sit right next to me and carry on their one-sided conversations at a heightened volume. It can get so bad that I can't focus on anything but the words coming out of their mouths.
 

@@ -1,15 +1,9 @@
----
-categories:
-- technology
-- world
-date: '2011-02-03T08:00:07-08:00'
-tags:
-- apple
-- netflix
-- nintendo
-- stock
-title: Apple, Netflix, And Nintendo
----
++++
+categories = ["technology", "world"]
+date = 2011-02-03T08:00:07-08:00
+tags = ["apple", "netflix", "nintendo", "stock"]
+title = "Apple, Netflix, And Nintendo"
++++
 
 It's kinda crazy how high Apple's stock is right now (currently $339). I wish I had invested more in it when it was only $90. I only considered buying their stock at the time because I believed in what they were doing, and didn't really care about dividends or stock price fluctuations.
 

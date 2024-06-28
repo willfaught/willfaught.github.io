@@ -1,11 +1,8 @@
----
-date: '2011-10-18T06:38:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: 'South Korea: Thighs Of Steel (to Come)'
----
++++
+date = 2011-10-18T06:38:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Thighs Of Steel (to Come)"
++++
 
 *For Tuesday, October 11, 2011*
 

@@ -1,10 +1,9 @@
----
-categories:
-- life
-date: '2008-04-08T18:23:00-07:00'
-tags: []
-title: The State Of Operating Systems
----
++++
+categories = ["life"]
+date = 2008-04-08T18:23:00-07:00
+tags = []
+title = "The State Of Operating Systems"
++++
 
 Today's operating systems are horribly out of date. They all follow the same process and file descriptor model and never really change. They may add new services or interfaces over time, but never do their core program semantics change enough to break backwards compatibility.
 

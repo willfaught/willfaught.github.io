@@ -1,11 +1,9 @@
----
-date: '2015-04-16T09:47:19-07:00'
-link: https://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp
-tags:
-- insurance
-- money
-title: Is Life Insurance A Smart Investment?
----
++++
+date = 2015-04-16T09:47:19-07:00
+link = "https://www.investopedia.com/articles/active-trading/120814/life-insurance-smart-investment.asp"
+tags = ["insurance", "money"]
+title = "Is Life Insurance A Smart Investment?"
++++
 
 Damning of whole life insurance:
 

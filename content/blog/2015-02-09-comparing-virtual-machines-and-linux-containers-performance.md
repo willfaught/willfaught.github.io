@@ -1,10 +1,9 @@
----
-date: '2015-02-09T23:15:13-08:00'
-link: https://www.infoq.com/news/2014/08/vm-containers-performance
-tags:
-- computing
-title: Comparing Virtual Machines And Linux Containers Performance
----
++++
+date = 2015-02-09T23:15:13-08:00
+link = "https://www.infoq.com/news/2014/08/vm-containers-performance"
+tags = ["computing"]
+title = "Comparing Virtual Machines And Linux Containers Performance"
++++
 
 Containers unsurprisingly perform better than virtual machines:
 

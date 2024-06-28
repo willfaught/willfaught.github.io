@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-08-24T18:20:00-07:00'
-tags:
-- electronic
-- ideas
-- problems
-- reflections
-- tabulation
-- voting
-title: Electronic Voting Is Stupid
----
++++
+categories = ["life"]
+date = 2007-08-24T18:20:00-07:00
+tags = ["electronic", "ideas", "problems", "reflections", "tabulation", "voting"]
+title = "Electronic Voting Is Stupid"
++++
 
 The problems with electronic voting machines are threefold:
 

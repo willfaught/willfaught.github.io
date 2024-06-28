@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2008-04-23T14:53:00-07:00'
-tags:
-- actor
-- actress
-- kick-ass space battle
-- plot
-- reflections
-- tv
-title: They Wouldn't Be Missed
----
++++
+categories = ["life"]
+date = 2008-04-23T14:53:00-07:00
+tags = ["actor", "actress", "kick-ass space battle", "plot", "reflections", "tv"]
+title = "They Wouldn't Be Missed"
++++
 
 When a TV show loses an actor or actress, the writers have to replace their character with a new one and make sure it's all consistent with the plot. This takes valuable time away from what could have otherwise been a kick-ass space battle.
 

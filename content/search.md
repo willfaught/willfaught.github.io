@@ -1,9 +1,8 @@
----
-layout: paige/search
-paige:
-  feed:
-    hide_page: true
-  search:
-    hide_page: true
-title: Search
----
++++
+layout = "paige/search"
+title = "Search"
+[paige.feed]
+hide_page = true
+[paige.search]
+hide_page = true
++++

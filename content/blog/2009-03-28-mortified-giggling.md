@@ -1,17 +1,8 @@
----
-categories:
-- life
-date: '2009-03-28T08:26:00-07:00'
-tags:
-- giggling
-- laughing
-- microsoft
-- mortified
-- phone
-- sam bent
-- stories
-- varun puranik
-title: Mortified Giggling
----
++++
+categories = ["life"]
+date = 2009-03-28T08:26:00-07:00
+tags = ["giggling", "laughing", "microsoft", "mortified", "phone", "sam bent", "stories", "varun puranik"]
+title = "Mortified Giggling"
++++
 
 A week ago I called Sam Bent, another software engineer at Microsoft, twice for help.  The first time went fine, but the second time I had his full name in my head when I dialed the phone, and I opened with, "Hi, Sam Bent."  It didn't sound like, "Hi, Sam Bent?" as if I was checking if it was him.  It sounded like I had used his full name like a first name.  I realized what I had done as soon as I had spoken.  I sputtered for a second, then corrected myself and called him Sam.  I was embarrassed, but it was only a few seconds; barely enough time to think about it.  It would have been fine, except that my office mate, Varun, cracked up at his desk.  Leaning-into-his-desk-trying-to-be-muffled-but-can't-help-it laughing.  It was infectious and made me laugh.  I wasn't sure which was worse&mdash;using Sam's full name, or the way I corrected myself&mdash;but both were way funny.  I couldn't stop giggling with poor Sam on the line, which I was mortified about, so I shifted in my seat and whispered to Varun to stop laughing.  I managed to get my voice under control and struggled to remember what I had called about.  Even after Sam and I started talking, my mind would jump uncontrollably to what I was desperately trying not to think about, and my voice would quaver from trying not to break into laughter.  I felt so bad after the conversation ended&mdash;how unprofessional!&mdash;but I couldn't stop giggling for the next couple hours, and I still giggle when I think of it.

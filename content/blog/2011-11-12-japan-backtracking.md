@@ -1,13 +1,8 @@
----
-date: '2011-11-12T08:04:38-08:00'
-tags:
-- travel
-- japan
-- hiroshima
-- tokyo
-- narita
-title: 'Japan: Backtracking'
----
++++
+date = 2011-11-12T08:04:38-08:00
+tags = ["hiroshima", "japan", "narita", "tokyo", "travel"]
+title = "Japan: Backtracking"
++++
 
 *For Sunday, November 6, 2011*
 

@@ -1,13 +1,9 @@
----
-date: '2015-11-30T23:28:14-08:00'
-link: https://store.steampowered.com
-tags:
-- steam
-- gaming
-- playing
-- games
-title: Steam Exploration Sale
----
++++
+date = 2015-11-30T23:28:14-08:00
+link = "https://store.steampowered.com"
+tags = ["games", "gaming", "playing", "steam"]
+title = "Steam Exploration Sale"
++++
 
 It's that time of the year again. Hide your wallets! I picked up:
 

@@ -1,10 +1,8 @@
----
-date: '2011-12-11T22:47:06-08:00'
-tags:
-- travel
-- pictures
-title: Travel Pictures
----
++++
+date = 2011-12-11T22:47:06-08:00
+tags = ["pictures", "travel"]
+title = "Travel Pictures"
++++
 
 Here are my pictures from South Korea, Japan, Hong Kong, and Singapore:
 

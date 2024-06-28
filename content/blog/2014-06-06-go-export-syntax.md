@@ -1,9 +1,8 @@
----
-date: '2014-06-06T23:31:09-07:00'
-tags:
-- computing
-title: Go Export Syntax
----
++++
+date = 2014-06-06T23:31:09-07:00
+tags = ["computing"]
+title = "Go Export Syntax"
++++
 
 [Go FAQ](https://golang.org/doc/faq):
 

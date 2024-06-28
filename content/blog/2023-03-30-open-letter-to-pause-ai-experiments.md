@@ -1,11 +1,11 @@
----
-categories: [technology]
-date: 2023-03-30T18:21:13-07:00
-description: All of a sudden, the consequences of technology are a problem.
-link: https://futureoflife.org/open-letter/pause-giant-ai-experiments/
-tags: [ai]
-title: Open Letter To Pause AI Experiments
----
++++
+categories = ["technology"]
+date = 2023-03-30T18:21:13-07:00
+description = "All of a sudden, the consequences of technology are a problem."
+link = "https://futureoflife.org/open-letter/pause-giant-ai-experiments/"
+tags = ["ai"]
+title = "Open Letter To Pause AI Experiments"
++++
 
 An open letter signed by people who are upset they aren't personally
 pioneering the AI frontier, and want to stall the head start of others until they can catch up or even figure out what to do about it:

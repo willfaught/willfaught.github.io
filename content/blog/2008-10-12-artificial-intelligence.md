@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-10-12T16:34:00-07:00'
-tags:
-- artificial intelligence
-- computation
-- computers
-- concurrency
-- ideas
-- reflections
-- turing machines
-title: Artificial Intelligence
----
++++
+categories = ["life"]
+date = 2008-10-12T16:34:00-07:00
+tags = ["artificial intelligence", "computation", "computers", "concurrency", "ideas", "reflections", "turing machines"]
+title = "Artificial Intelligence"
++++
 
 For a while I've thought that creating artificial intelligence would be straightforward. Regardless of whether the nature of human intelligence will ever be understood, eventually every detail of the physiology of the human brain will be discovered and known. Computers can know the current state of every atom in a brain and compute its next state, thereby simulating the brain. Computers don't need to understand human intelligence to simulate it, they need only to simulate a brain, and intelligence will arise from that.
 

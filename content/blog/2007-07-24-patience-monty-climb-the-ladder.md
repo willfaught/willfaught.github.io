@@ -1,14 +1,9 @@
----
-categories:
-- life
-date: '2007-07-24T17:00:00-07:00'
-tags:
-- harry potter
-- old
-- reflections
-- seniority
-title: Patience, Monty...Climb The Ladder
----
++++
+categories = ["life"]
+date = 2007-07-24T17:00:00-07:00
+tags = ["harry potter", "old", "reflections", "seniority"]
+title = "Patience, Monty...Climb The Ladder"
++++
 
 I love the character Auntie Muriel in the book *Harry Potter and the Deathly Hallows*. She uses her age like some kind of free pass that entitles her to boss those younger than her (everyone) around. To paraphrase, "Give me your chair, I'm one hundred and seven years old." Awesome! It's like everyone is obligated to be her bitch.
 

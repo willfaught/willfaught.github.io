@@ -1,11 +1,9 @@
----
-date: '2015-10-22T01:01:22-07:00'
-link: https://nbc.com.co/yelp-sues-south-park-for-10-million-over-episode/
-tags:
-- south park
-- yelp
-title: Yelp Sues South Park For $10 Million Over Latest Episode
----
++++
+date = 2015-10-22T01:01:22-07:00
+link = "https://nbc.com.co/yelp-sues-south-park-for-10-million-over-episode/"
+tags = ["south park", "yelp"]
+title = "Yelp Sues South Park For $10 Million Over Latest Episode"
++++
 
 South Park doing what South Park does best. I would worry about it losing its edge if they weren't getting sued.
 

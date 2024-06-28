@@ -1,11 +1,8 @@
----
-date: '2011-10-30T02:56:37-07:00'
-tags:
-- travel
-- south korea
-- pictures
-title: South Korea Pictures
----
++++
+date = 2011-10-30T02:56:37-07:00
+tags = ["pictures", "south korea", "travel"]
+title = "South Korea Pictures"
++++
 
 I decided to post my camera pictures to Facebook instead of Flickr. You can view them here:
 

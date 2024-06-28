@@ -1,7 +1,7 @@
----
-date: '2018-11-03T15:56:36-07:00'
-title: Steve Jobs On Product Deterioration
----
++++
+date = 2018-11-03T15:56:36-07:00
+title = "Steve Jobs On Product Deterioration"
++++
 
 {{< paige/youtube P4VBqTViEx4 >}}
 

@@ -1,10 +1,10 @@
----
-categories: [life]
-date: 2023-02-04T14:58:36-08:00
-description: Theodore Roosevelt on success.
-tags: [inspiring, quotations, theodore roosevelt]
-title: The Strenuous Life
----
++++
+categories = ["life"]
+date = 2023-02-04T14:58:36-08:00
+description = "Theodore Roosevelt on success."
+tags = ["inspiring", "quotations", "theodore roosevelt"]
+title = "The Strenuous Life"
++++
 
 [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) in his speech *[The Strenuous Life](https://en.wikipedia.org/wiki/The_Strenuous_Life)* on April 10, 1899:
 

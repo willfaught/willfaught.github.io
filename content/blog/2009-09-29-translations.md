@@ -1,12 +1,9 @@
----
-categories:
-- life
-date: '2009-09-29T23:17:00-07:00'
-tags:
-- religion
-- sayings
-title: Translations
----
++++
+categories = ["life"]
+date = 2009-09-29T23:17:00-07:00
+tags = ["religion", "sayings"]
+title = "Translations"
++++
 
 I've sometimes observed the following meanings for religious sayings:
 

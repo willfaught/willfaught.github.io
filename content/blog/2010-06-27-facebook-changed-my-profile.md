@@ -1,11 +1,9 @@
----
-categories:
-- life
-date: '2010-06-27T08:43:22-07:00'
-tags:
-- facebook
-title: Facebook Changed My Profile
----
++++
+categories = ["life"]
+date = 2010-06-27T08:43:22-07:00
+tags = ["facebook"]
+title = "Facebook Changed My Profile"
++++
 
 At some point Facebook decided to convert everyone's profile information like Favorite Movies or Interests from free-form text to lists of Facebook pages. Now my profile doesn't say I like the TV show Heroes, but instead says I like the TV show Official HEROES Page. Terrible.
 

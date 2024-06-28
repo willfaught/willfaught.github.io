@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-12-20T19:06:00-08:00'
-tags:
-- birthday
-- guns
-- jose
-- pistols
-- shooting range
-- stories
-title: Just In Case I Have To Kill My Dinner
----
++++
+categories = ["life"]
+date = 2007-12-20T19:06:00-08:00
+tags = ["birthday", "guns", "jose", "pistols", "shooting range", "stories"]
+title = "Just In Case I Have To Kill My Dinner"
++++
 
 I went to a shooting range several weeks ago for my friend Jose's birthday. I had never been to a firing range before. There were about ten of us and the range was divided into five lanes. Each lane had a different pistol and boxes of ammunition that you used to reload the weapon when it was your turn.
 

@@ -1,14 +1,9 @@
----
-categories:
-- life
-date: '2008-10-08T17:23:00-07:00'
-tags:
-- blindness
-- movie
-- reflections
-- review
-title: Blindness
----
++++
+categories = ["life"]
+date = 2008-10-08T17:23:00-07:00
+tags = ["blindness", "movie", "reflections", "review"]
+title = "Blindness"
++++
 
 I saw the movie *[Blindness](https://www.reelviews.net/php_review_template.php?identifier=1349)* this evening with Heather. The characters were believable, the pacing was good, the plot was somewhat unoriginal and obvious, and there were a couple great effects, although the whiteout effect is overused. It's quite good overall.
 

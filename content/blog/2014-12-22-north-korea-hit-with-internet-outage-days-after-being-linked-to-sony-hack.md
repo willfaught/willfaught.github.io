@@ -1,8 +1,8 @@
----
-date: '2014-12-22T18:34:00-08:00'
-link: https://cir.ca/s/1xGB
-title: North Korea Hit With Internet Outage Days After Being Linked To Sony Hack
----
++++
+date = 2014-12-22T18:34:00-08:00
+link = "https://cir.ca/s/1xGB"
+title = "North Korea Hit With Internet Outage Days After Being Linked To Sony Hack"
++++
 
 >The hack could cost Sony as much as $100 million, which would go toward the investigation
 

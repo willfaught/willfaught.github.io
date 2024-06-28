@@ -1,11 +1,8 @@
----
-date: '2015-10-17T17:23:30-07:00'
-tags:
-- libevent
-- libev
-- libuv
-title: Libevent Vs. Libev Vs. Libuv
----
++++
+date = 2015-10-17T17:23:30-07:00
+tags = ["libev", "libevent", "libuv"]
+title = "Libevent Vs. Libev Vs. Libuv"
++++
 
 What's the difference between libevent, libev, and libuv?
 

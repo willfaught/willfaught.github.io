@@ -1,14 +1,9 @@
----
-categories:
-- technology
-date: '2010-09-18T00:06:00-0700'
-tags:
-- browsers
-- internet explorer
-- microsoft
-- reviews
-title: Internet Explorer 9 Beta
----
++++
+categories = ["technology"]
+date = 2010-09-18T00:06:00-07:00
+tags = ["browsers", "internet explorer", "microsoft", "reviews"]
+title = "Internet Explorer 9 Beta"
++++
 
 Microsoft recently released a [beta of Internet Explorer 9](https://windows.microsoft.com/en-US/internet-explorer/products/ie-9/home). I've used it a little and have some initial impressions. Overall, it's a much-needed improvement over 8. It's a cross between Firefox and Chrome, incorporating features from each, although there are some 8 leftovers. The look is simple and clean and comes off as much more lightweight. It's a pleasure to see and to use.
 

@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2008-01-15T16:36:00-08:00'
-tags:
-- bad
-- documents
-- latex
-- reflections
-- wysiwyg
-title: LaTeX HuRtS My BrAiN
----
++++
+categories = ["life"]
+date = 2008-01-15T16:36:00-08:00
+tags = ["bad", "documents", "latex", "reflections", "wysiwyg"]
+title = "LaTeX HuRtS My BrAiN"
++++
 
 [LaTeX](https://en.wikipedia.org/wiki/LaTeX) is a tool used almost exclusively for formatting academic Computer Science papers. Instead of formatting your paper through traditional [what-you-see-is-what-you-get](https://en.wikipedia.org/wiki/WYSIWYG) (WYSIWYG) means, LaTeX is a [markup language](https://en.wikipedia.org/wiki/Markup_language) that is interpreted and formatted for you. For example, instead of highlighting a word and clicking a bold button to make the font bold, e.g. **bold**, you embed a markup notation that is transformed into the intended formatting at the end, e.g. \textbf{bold}. The argument goes that this allows you to focus more on the content of your paper and not have to screw around with fonts and spacing all the way through the writing process.
 

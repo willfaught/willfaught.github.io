@@ -1,10 +1,8 @@
----
-date: '2011-07-16T22:55:17-07:00'
-tags:
-- computation
-- opinions
-title: Learning Ruby
----
++++
+date = 2011-07-16T22:55:17-07:00
+tags = ["computation", "opinions"]
+title = "Learning Ruby"
++++
 
 I've been learning some Ruby the past week or so. Some thoughts:
 

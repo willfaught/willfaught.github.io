@@ -1,15 +1,9 @@
----
-date: '2016-07-13T23:54:14-07:00'
-link: https://aphyr.com/posts/283-call-me-maybe-redis
-tags:
-- aphyr
-- redis
-- jepsen
-- database
-- programming
-- coding
-title: Aphyr Tests Redis With Jepsen
----
++++
+date = 2016-07-13T23:54:14-07:00
+link = "https://aphyr.com/posts/283-call-me-maybe-redis"
+tags = ["aphyr", "coding", "database", "jepsen", "programming", "redis"]
+title = "Aphyr Tests Redis Withxa0Jepsen"
++++
 
 Aphyr on Redis correctness:
 

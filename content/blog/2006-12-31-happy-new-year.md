@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2006-12-31T17:42:00-08:00'
-tags:
-- dancing
-- new year's eve
-- reflections
-- resolutions
-- stories
-- watch
-title: Happy New Year!
----
++++
+categories = ["life"]
+date = 2006-12-31T17:42:00-08:00
+tags = ["dancing", "new year's eve", "reflections", "resolutions", "stories", "watch"]
+title = "Happy New Year!"
++++
 
 Happy New Year, everyone! I had a great night. Sadly, I forgot to bring my camera and snap a few shots of my friends and I. I guess one of these days I’ll remember. Maybe if I get a slimmer camera.
 

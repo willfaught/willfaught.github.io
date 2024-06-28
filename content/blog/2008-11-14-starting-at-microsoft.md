@@ -1,25 +1,9 @@
----
-categories:
-- life
-date: '2008-11-14T15:33:00-08:00'
-tags:
-- brian chapman
-- colleagues
-- development lead
-- dwayne need
-- functional programming
-- manager
-- microsoft
-- office
-- office mate
-- orientation
-- reflections
-- sleep
-- stories
-- varun puranik
-- work
-title: Starting At Microsoft
----
++++
+categories = ["life"]
+date = 2008-11-14T15:33:00-08:00
+tags = ["brian chapman", "colleagues", "development lead", "dwayne need", "functional programming", "manager", "microsoft", "office", "office mate", "orientation", "reflections", "sleep", "stories", "varun puranik", "work"]
+title = "Starting At Microsoft"
++++
 
 There's a condition that afflicts many innocent, hard-working people around the world every day. Its victims suffer from light sensitivity, disorientation, lethargy, sleep deprivation, and depression. There is no cure, but some drugs temporarily alleviate its symptoms. Many people manage to live somewhat normal lives through proper treatment. I'm referring, of course, to waking up before 9 AM, which I had to do all this week and expect to continue doing until my body gives out. Please donate to my relief fund.
 

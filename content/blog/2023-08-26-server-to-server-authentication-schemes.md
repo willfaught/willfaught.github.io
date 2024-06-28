@@ -1,11 +1,11 @@
----
-categories: [technology]
-date: 2023-08-26T18:41:00-07:00
-description: A tour of motivations, techniques, strengths, and weaknesses.
-link: https://latacora.micro.blog/2018/06/12/a-childs-garden.html
-tags: [authentication, encryption, macaroons, mtls, servers]
-title: Server-To-Server Authentication Schemes
----
++++
+categories = ["technology"]
+date = 2023-08-26T18:41:00-07:00
+description = "A tour of motivations, techniques, strengths, and weaknesses."
+link = "https://latacora.micro.blog/2018/06/12/a-childs-garden.html"
+tags = ["authentication", "encryption", "macaroons", "mtls", "servers"]
+title = "Server-To-Server Authentication Schemes"
++++
 
 Latacora:
 

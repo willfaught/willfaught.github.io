@@ -1,21 +1,10 @@
----
-categories:
-- technology
-- world
-date: '2020-05-12T19:23:00-07:00'
-keywords:
-- cobol
-- coronavirus
-- government
-- pandemic
-- postmortem
-- programmer
-- programming
-tags:
-- cobol
-- coronavirus
-title: Shortage Of COBOL Programmers
----
++++
+categories = ["technology", "world"]
+date = 2020-05-12T19:23:00-07:00
+keywords = ["cobol", "coronavirus", "government", "pandemic", "postmortem", "programmer", "programming"]
+tags = ["cobol", "coronavirus"]
+title = "Shortage Of COBOL Programmers"
++++
 
 [Alicia Lee, writing for CNN](https://www.cnn.com/2020/04/08/business/coronavirus-cobol-programmers-new-jersey-trnd/index.html):
 

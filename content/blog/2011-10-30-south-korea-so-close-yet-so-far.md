@@ -1,11 +1,8 @@
----
-date: '2011-10-30T01:17:28-07:00'
-tags:
-- travel
-- south korea
-- busan
-title: 'South Korea: So Close, Yet So Far'
----
++++
+date = 2011-10-30T01:17:28-07:00
+tags = ["busan", "south korea", "travel"]
+title = "South Korea: So Close, Yet So Far"
++++
 
 *For Friday, October 21, 2011*
 

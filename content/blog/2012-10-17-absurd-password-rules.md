@@ -1,9 +1,8 @@
----
-date: '2012-10-17T16:44:00-07:00'
-tags:
-- technology
-title: Absurd Password Rules
----
++++
+date = 2012-10-17T16:44:00-07:00
+tags = ["technology"]
+title = "Absurd Password Rules"
++++
 
 Good lord:
 

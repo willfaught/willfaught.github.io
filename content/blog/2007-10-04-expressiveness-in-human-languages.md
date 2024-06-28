@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-10-04T18:03:00-07:00'
-tags:
-- expressiveness
-- human
-- ideas
-- languages
-- predispositions
-- programming
-title: Expressiveness In Human Languages
----
++++
+categories = ["life"]
+date = 2007-10-04T18:03:00-07:00
+tags = ["expressiveness", "human", "ideas", "languages", "predispositions", "programming"]
+title = "Expressiveness In Human Languages"
++++
 
 Programming languages vary across a spectrum of expressiveness. By expressiveness, I mean the ability and ease by which you can express something in a particular language. For example, programming languages having [closures](https://en.wikipedia.org/wiki/Closure_%28computer_science%29) are widely considered to be more expressive, and hence more powerful, than languages that lack this feature.
 

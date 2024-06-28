@@ -1,9 +1,8 @@
----
-date: '2013-01-31T00:01:00-08:00'
-tags:
-- computation
-title: Longest Contiguous Subarray
----
++++
+date = 2013-01-31T00:01:00-08:00
+tags = ["computation"]
+title = "Longest Contiguous Subarray"
++++
 
 Longest contiguous subarray of a signed int array that sums to zero or greater:
 

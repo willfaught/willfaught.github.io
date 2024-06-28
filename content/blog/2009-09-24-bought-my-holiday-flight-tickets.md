@@ -1,18 +1,9 @@
----
-categories:
-- life
-date: '2009-09-24T23:33:00-07:00'
-tags:
-- airlines
-- bing
-- flights
-- priceline
-- sacramento
-- san francisco
-- tickets
-- travelocity
-title: Bought My Holiday Flight Tickets
----
++++
+categories = ["life"]
+date = 2009-09-24T23:33:00-07:00
+tags = ["airlines", "bing", "flights", "priceline", "sacramento", "san francisco", "tickets", "travelocity"]
+title = "Bought My Holiday Flight Tickets"
++++
 
 I figured that it would be cheaper to fly from the SEA airport in Seattle to SFO in San Francisco than to SMF in Sacramento, since there would probably be more flights on that route. I just checked and found to my surprise that SFO tickets are significantly more expensive. Maybe there's more demand? Interesting.
 

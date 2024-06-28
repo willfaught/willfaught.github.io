@@ -1,14 +1,9 @@
----
-date: '2016-05-31T03:32:47-07:00'
-link: https://arstechnica.com/gaming/2016/05/celebrating-ten-years-of-half-life-2-episode-3-not-coming-out/?comments=1&start=40
-tags:
-- gaming
-- games
-- video games
-- valve
-- half life
-title: "It's Been Over A Decade Since Valve First Promised Half-Life 2: Episode 3"
----
++++
+date = 2016-05-31T03:32:47-07:00
+link = "https://arstechnica.com/gaming/2016/05/celebrating-ten-years-of-half-life-2-episode-3-not-coming-out/?comments=1&start=40"
+tags = ["games", "gaming", "half life", "valve", "video games"]
+title = "It's Been Over A Decade Since Valve First Promised Half-Life 2: Episode 3"
++++
 
 Ars reader Bad Monkey in a comment on an Ars post about it being 10 years since Valve announced Half-Life 2 Episode 3 and then left us hanging:
 

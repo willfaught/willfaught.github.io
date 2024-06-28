@@ -1,9 +1,8 @@
----
-date: '2013-07-22T00:15:00-07:00'
-tags:
-- playing
-title: I Couldn't Help Myself
----
++++
+date = 2013-07-22T00:15:00-07:00
+tags = ["playing"]
+title = "I Couldn't Help Myself"
++++
 
 I also bought these games from the [Steam Summer Sale](https://steampowered.com):
 

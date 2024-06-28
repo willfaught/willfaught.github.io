@@ -1,11 +1,8 @@
----
-date: '2011-10-21T01:03:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: Korean Culture Event
----
++++
+date = 2011-10-21T01:03:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "Korean Culture Event"
++++
 
 {{< paige/youtube cmSCpF2RPBU >}}
 

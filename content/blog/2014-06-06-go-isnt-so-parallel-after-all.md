@@ -1,9 +1,8 @@
----
-date: '2014-06-06T11:20:04-07:00'
-tags:
-- computing
-title: Go Isn't So Parallel After All
----
++++
+date = 2014-06-06T11:20:04-07:00
+tags = ["computing"]
+title = "Go Isn't So Parallel After All"
++++
 
 [Effective Go](https://golang.org/doc/effective_go.html):
 

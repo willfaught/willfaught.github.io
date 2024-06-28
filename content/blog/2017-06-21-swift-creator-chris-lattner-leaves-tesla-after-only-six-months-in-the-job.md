@@ -1,8 +1,8 @@
----
-date: '2017-06-21T07:54:12-07:00'
-link: https://www.macrumors.com/2017/06/21/swift-creator-chris-lattner-quits-tesla/
-title: '"Swift Creator Chris Lattner Leaves Tesla After Only Six Months In The Job"'
----
++++
+date = 2017-06-21T07:54:12-07:00
+link = "https://www.macrumors.com/2017/06/21/swift-creator-chris-lattner-quits-tesla/"
+title = "\"Swift Creator Chris Lattner Leaves Tesla After Only Six Months In The Job\""
++++
 
 Chris Lattner:
 

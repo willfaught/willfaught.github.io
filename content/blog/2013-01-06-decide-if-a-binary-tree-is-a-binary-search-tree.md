@@ -1,10 +1,8 @@
----
-date: '2013-01-06T23:38:00-08:00'
-tags:
-- computation
-- code
-title: Decide If A Binary Tree Is A Binary Search Tree
----
++++
+date = 2013-01-06T23:38:00-08:00
+tags = ["code", "computation"]
+title = "Decide If A Binary Tree Is A Binary Search Tree"
++++
 
 Java:
 

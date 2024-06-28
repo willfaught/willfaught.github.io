@@ -1,8 +1,8 @@
----
-date: '2017-05-22T09:59:04-07:00'
-link: https://web.archive.org/web/20170521124427/http://blog.dilbert.com/post/160770453201/the-slow-motion-assassination-of-president-trump
-title: The End Of Representative Democracy
----
++++
+date = 2017-05-22T09:59:04-07:00
+link = "https://web.archive.org/web/20170521124427/http://blog.dilbert.com/post/160770453201/the-slow-motion-assassination-of-president-trump"
+title = "The End Of Representative Democracy"
++++
 
 Scott Adams:
 

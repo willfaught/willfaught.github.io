@@ -1,19 +1,9 @@
----
-categories:
-- life
-date: '2006-10-26T18:39:00-07:00'
-tags:
-- games
-- half-life
-- hypermodern muse
-- majora's mask
-- marc laidlaw
-- nintendo
-- quotations
-- writing
-- zelda
-title: Writing For Video Games
----
++++
+categories = ["life"]
+date = 2006-10-26T18:39:00-07:00
+tags = ["games", "half-life", "hypermodern muse", "majora's mask", "marc laidlaw", "nintendo", "quotations", "writing", "zelda"]
+title = "Writing For Video Games"
++++
 
 I’ve been reading an essay by [Marc Laidlaw](https://en.wikipedia.org/wiki/Mark_Laidlaw), entitled “[The Hypermodern Muse](https://marclaidlaw.com/?page_id=17)“, in which he presents his experiences and reflections on writing for games. In case you don’t know, he’s the writer for Valve’s critically-acclaimed [Half-Life](https://en.wikipedia.org/wiki/Half-Life_2) games. When describing the essence of fusing writing with gameplay to make truly great games, he uses the game [Majora’s Mask](https://en.wikipedia.org/wiki/Majora%27s_Mask) as an example. MM is one of my favorite games ever, but I’ve never been able to satisfactorily express why. When I read this, I realized that what he talked about was exactly what I had felt deep down this whole time.The following is the excerpt about MM:
 

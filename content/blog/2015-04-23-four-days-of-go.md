@@ -1,11 +1,9 @@
----
-date: '2015-04-23T12:06:31-07:00'
-link: https://www.evanmiller.org/four-days-of-go.html
-tags:
-- coding
-- go
-title: Four Days Of Go
----
++++
+date = 2015-04-23T12:06:31-07:00
+link = "https://www.evanmiller.org/four-days-of-go.html"
+tags = ["coding", "go"]
+title = "Four Days Of Go"
++++
 
 A funny and perceptive take on the Go programming language and the Go team.
 

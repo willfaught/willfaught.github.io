@@ -1,16 +1,9 @@
----
-categories:
-- life
-date: '2007-01-21T17:43:00-08:00'
-tags:
-- paper
-- pater landin
-- presentation
-- reflections
-- stories
-- tips
-title: Presentation Tips
----
++++
+categories = ["life"]
+date = 2007-01-21T17:43:00-08:00
+tags = ["paper", "pater landin", "presentation", "reflections", "stories", "tips"]
+title = "Presentation Tips"
++++
 
 If you ever have to give a 40+ minute presentation about a [paper](https://www.cs.utah.edu/%7Ewilson/compilers/old/papers/p157-landin.pdf) you don’t adequately understand, the following tips may help:
 

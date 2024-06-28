@@ -1,23 +1,9 @@
----
-categories:
-- life
-date: '2009-02-28T17:04:00-08:00'
-tags:
-- belltown
-- birthday
-- dad
-- dan ellis
-- drinks
-- hallie mass
-- mike shim
-- mom
-- parents
-- stories
-- sushi
-- tom bouldin
-- varun puranik
-title: My Birthday
----
++++
+categories = ["life"]
+date = 2009-02-28T17:04:00-08:00
+tags = ["belltown", "birthday", "dad", "dan ellis", "drinks", "hallie mass", "mike shim", "mom", "parents", "stories", "sushi", "tom bouldin", "varun puranik"]
+title = "My Birthday"
++++
 
 I had a wonderful birthday. Thank you to all who made me feel so special!
 

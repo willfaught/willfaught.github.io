@@ -1,13 +1,9 @@
----
-date: '2015-10-25T18:34:14-07:00'
-link: https://www.blackpawn.com/texts/lightmaps/default.html
-tags:
-- coding
-- binpacking
-- algorithms
-- lightmaps
-title: Packing Lightmaps
----
++++
+date = 2015-10-25T18:34:14-07:00
+link = "https://www.blackpawn.com/texts/lightmaps/default.html"
+tags = ["algorithms", "binpacking", "coding", "lightmaps"]
+title = "Packing Lightmaps"
++++
 
 Jim Scott at blackpawn.com:
 

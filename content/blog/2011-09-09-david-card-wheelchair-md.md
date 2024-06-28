@@ -1,10 +1,9 @@
----
-date: '2011-09-09T19:16:00-07:00'
-link: https://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php
-tags:
-- interesting
-title: David Card, Wheelchair M.D.
----
++++
+date = 2011-09-09T19:16:00-07:00
+link = "https://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php"
+tags = ["interesting"]
+title = "David Card, Wheelchair M.D."
++++
 
 I just stumbled across a seattlepi.com article about Dr. David Card, who was my primary care doctor in Seattle:
 

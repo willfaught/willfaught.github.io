@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-02-17T07:53:00-08:00'
-tags:
-- delay
-- flight
-- katherine
-- microsoft
-- seattle
-- slo
-- stories
-title: It Wasn't Meant To Be
----
++++
+categories = ["life"]
+date = 2008-02-17T07:53:00-08:00
+tags = ["delay", "flight", "katherine", "microsoft", "seattle", "slo", "stories"]
+title = "It Wasn't Meant To Be"
++++
 
 I was in Seattle last night. I had planned to fly home to San Luis Obispo at 7:20 PM and ultimately arrive at around midnight. But the fates had other plans.
 

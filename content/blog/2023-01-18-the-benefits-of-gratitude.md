@@ -1,11 +1,11 @@
----
-categories: [world]
-date: 2023-01-18T17:12:01-08:00
-description: What they are, and how they work.
-link: https://greatergood.berkeley.edu/article/item/why_gratitude_is_good
-tags: [gratitude, health, mind, psychology]
-title: The Benefits Of Gratitude
----
++++
+categories = ["world"]
+date = 2023-01-18T17:12:01-08:00
+description = "What they are, and how they work."
+link = "https://greatergood.berkeley.edu/article/item/why_gratitude_is_good"
+tags = ["gratitude", "health", "mind", "psychology"]
+title = "The Benefits Of Gratitude"
++++
 
 Robert Emmons on how gratitude benefits us:
 

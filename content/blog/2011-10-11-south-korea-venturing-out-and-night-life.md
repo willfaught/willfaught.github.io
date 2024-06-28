@@ -1,11 +1,8 @@
----
-date: '2011-10-11T08:31:00-07:00'
-tags:
-- seoul
-- travel
-- south korea
-title: 'South Korea: Venturing Out And Night Life'
----
++++
+date = 2011-10-11T08:31:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Venturing Out And Night Life"
++++
 
 *For Sunday, October 9, 2011*
 

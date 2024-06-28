@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2008-03-08T15:09:00-08:00'
-tags:
-- camera
-- level design
-- nintendo
-- reflections
-- review
-- super mario galaxy
-- wii
-title: Super Mario Galaxy
----
++++
+categories = ["life"]
+date = 2008-03-08T15:09:00-08:00
+tags = ["camera", "level design", "nintendo", "reflections", "review", "super mario galaxy", "wii"]
+title = "Super Mario Galaxy"
++++
 
 I bought the Nintendo Wii game [*Super Mario Galaxy*](https://en.wikipedia.org/wiki/Super_Mario_Galaxy) when it was released and I've almost finished it (ten stars left to get). It's a superb game, with beautifully-executed graphics, sound, game play, and level design (IGN gave it [9.7/10](https://wii.ign.com/articles/833/833298p1.html)). It's the best game on Wii right now and I'd recommend it to anyone who liked other Mario games or wants to see the Wii controls done right. However, it does have a couple faults.
 

@@ -1,25 +1,9 @@
----
-categories:
-- life
-date: '2008-11-21T14:31:00-08:00'
-tags:
-- aunt deb
-- beach
-- choir
-- dinner
-- edmonds
-- ferry
-- house
-- kingston
-- kitchen
-- seagulls
-- sequim
-- stories
-- trip
-- uncle ron
-- washington
-title: Sequim
----
++++
+categories = ["life"]
+date = 2008-11-21T14:31:00-08:00
+tags = ["aunt deb", "beach", "choir", "dinner", "edmonds", "ferry", "house", "kingston", "kitchen", "seagulls", "sequim", "stories", "trip", "uncle ron", "washington"]
+title = "Sequim"
++++
 
 I visited Aunt Deb and Uncle Ron last weekend at their home in Sequim, WA. It was so great to see them again; it had been a while since the last time. I got to take the ferry from Edmonds to Kingston across the sound on the way. The deep blue water was flat and still, and the sky was a lighter blue and dappled with thin, wispy clouds. Some seagulls that were following the ferry at about the same speed were flying just above the top deck where I stood. They appeared to be floating in front of, and just above, me. I got some pictures of them that I really like. One of them was brave enough to land only a couple feet away from me on a banister.
 

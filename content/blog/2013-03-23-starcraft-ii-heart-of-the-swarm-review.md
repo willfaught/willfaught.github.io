@@ -1,10 +1,9 @@
----
-date: '2013-03-23T15:19:00-07:00'
-link: https://www.quartertothree.com/fp/2013/03/14/does-starcraft-ii-really-need-heart-of-the-swarm/
-tags:
-- playing
-title: 'StarCraft II: Heart Of The Swarm Review'
----
++++
+date = 2013-03-23T15:19:00-07:00
+link = "https://www.quartertothree.com/fp/2013/03/14/does-starcraft-ii-really-need-heart-of-the-swarm/"
+tags = ["playing"]
+title = "StarCraft II: Heart Of The Swarm Review"
++++
 
 Tom Chick:
 

@@ -1,19 +1,9 @@
----
-categories:
-- life
-date: '2008-11-07T14:04:00-08:00'
-tags:
-- america
-- cnn
-- daily show
-- election
-- mccain
-- mom
-- obama
-- reflections
-- south park
-title: Obama Wins!
----
++++
+categories = ["life"]
+date = 2008-11-07T14:04:00-08:00
+tags = ["america", "cnn", "daily show", "election", "mccain", "mom", "obama", "reflections", "south park"]
+title = "Obama Wins!"
++++
 
 My apartment has a TV and cable, so I was able to watch the CNN and Daily Show coverage on Election Day. I had to watch it by myself, but I talked with Mom on the phone between McCain's concession speech and Obama's acceptance speech and talked with and texted Heather later in the night.
 

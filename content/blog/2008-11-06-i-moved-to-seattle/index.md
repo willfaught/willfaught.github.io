@@ -1,32 +1,9 @@
----
-categories:
-- life
-date: '2008-11-06T16:11:00-08:00'
-tags:
-- announcements
-- california
-- car
-- clothes
-- fall
-- flight
-- job
-- leaves
-- microsoft
-- moving
-- pictures
-- provisions
-- roads
-- sacramento
-- seattle
-- shoes
-- stories
-- thesis
-- trees
-- washington
-- weather
-- work
-title: I Moved To Seattle!
----
++++
+categories = ["life"]
+date = 2008-11-06T16:11:00-08:00
+tags = ["announcements", "california", "car", "clothes", "fall", "flight", "job", "leaves", "microsoft", "moving", "pictures", "provisions", "roads", "sacramento", "seattle", "shoes", "stories", "thesis", "trees", "washington", "weather", "work"]
+title = "I Moved To Seattle!"
++++
 
 I moved to Seattle! Yes, it finally happened. No, the thesis isn't done; I'll have to fly back when it's done to defend it. Seattle couldn't wait any longer. I would have written about this sooner, but I've felt so tired in the evenings since I moved here. Moving is always such a chore. Thankfully Microsoft made the move very easy by shipping my belongings and car here, providing temporary housing and a rental car, and connecting me with a rental agent in the area. I decided to wait until I start work on Monday, November 10, to look at housing so I can talk to my coworkers about places and areas they recommend. Traffic is a big factor here, so talking to people in the know will be helpful.
 

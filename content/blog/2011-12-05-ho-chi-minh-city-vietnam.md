@@ -1,11 +1,8 @@
----
-date: '2011-12-05T08:22:43-08:00'
-tags:
-- travel
-- vietnam
-- ho chi minh city
-title: Ho Chi Minh City, Vietnam
----
++++
+date = 2011-12-05T08:22:43-08:00
+tags = ["ho chi minh city", "travel", "vietnam"]
+title = "Ho Chi Minh City, Vietnam"
++++
 
 I arrived in Ho Chi Minh City (Saigon for the lazy...or stubborn) and took a taxi to my hostel, Long Guesthouse, in the Phạm Ngũ Lão backpacker area of District 1. The staff were very friendly and helpful, but there wasn't a common room, so it was difficult to meet people, which I didn't like. After a couple days, I chose to switch to another hostel, Saigon Backpackers, that was nicer and had a more social atmosphere. I stayed there for the rest of my time in Saigon. There were a few sights in the area that I was interested in seeing:
 

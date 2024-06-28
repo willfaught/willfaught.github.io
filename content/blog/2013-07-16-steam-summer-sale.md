@@ -1,9 +1,8 @@
----
-date: '2013-07-16T22:12:40-07:00'
-tags:
-- playing
-title: Steam Summer Sale
----
++++
+date = 2013-07-16T22:12:40-07:00
+tags = ["playing"]
+title = "Steam Summer Sale"
++++
 
 I just bought 17 games from the [Steam Summer Sale](https://steampowered.com):
 

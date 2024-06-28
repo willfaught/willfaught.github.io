@@ -1,13 +1,8 @@
----
-date: '2011-07-07T02:33:25-07:00'
-tags:
-- anxiety
-- fyi
-- stress
-- depression
-- thesis
-title: Symptoms Of Stress, Anxiety, And Depression
----
++++
+date = 2011-07-07T02:33:25-07:00
+tags = ["anxiety", "depression", "fyi", "stress", "thesis"]
+title = "Symptoms Of Stress, Anxiety, And Depression"
++++
 
 During the past several years, I experienced a variety of symptoms caused by stress, anxiety, and depression caused by my academic studies and thesis.
 

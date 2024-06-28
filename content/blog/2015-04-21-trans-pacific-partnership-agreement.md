@@ -1,12 +1,9 @@
----
-date: '2015-04-21T21:39:55-07:00'
-link: https://www.eff.org/issues/tpp
-tags:
-- eff
-- tpp
-- congress
-title: Trans-Pacific Partnership Agreement
----
++++
+date = 2015-04-21T21:39:55-07:00
+link = "https://www.eff.org/issues/tpp"
+tags = ["congress", "eff", "tpp"]
+title = "Trans-Pacific Partnership Agreement"
++++
 
 Electronic Frontier Foundation:
 

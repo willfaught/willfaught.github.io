@@ -1,12 +1,9 @@
----
-categories:
-- life
-date: '2008-12-19T13:20:00-08:00'
-tags:
-- reflections
-- stories
-title: Holiday Vacation
----
++++
+categories = ["life"]
+date = 2008-12-19T13:20:00-08:00
+tags = ["reflections", "stories"]
+title = "Holiday Vacation"
++++
 
 I started my holiday vacation this evening! Well, actually I started it around 1 PM since I couldn't drive to work or work remotely and I realized the latter about then. So I effectively had two extra days of vacation, yesterday and today, but they didn't really feel like vacation since I felt so bad for being an idiot and not setting up my work computers to accept remote connections in advance. Oh well, at least this won't happen again.
 

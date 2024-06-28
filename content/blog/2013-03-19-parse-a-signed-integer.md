@@ -1,10 +1,8 @@
----
-date: '2013-03-19T18:25:01-07:00'
-tags:
-- computation
-- code
-title: Parse A Signed Integer
----
++++
+date = 2013-03-19T18:25:01-07:00
+tags = ["code", "computation"]
+title = "Parse A Signed Integer"
++++
 
 Java:
 

@@ -1,11 +1,8 @@
----
-date: '2011-10-21T02:48:00-07:00'
-tags:
-- south korea
-- travel
-- jeju
-title: 'South Korea: Beoseu Hell'
----
++++
+date = 2011-10-21T02:48:00-07:00
+tags = ["jeju", "south korea", "travel"]
+title = "South Korea: Beoseu Hell"
++++
 
 *For Sunday, October 16, 2011*
 

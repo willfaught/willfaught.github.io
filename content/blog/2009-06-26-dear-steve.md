@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2009-06-26T05:40:00-07:00'
-tags:
-- 3gs
-- activation
-- apple
-- iphone
-- problems
-- quotations
-- steve jobs
-title: Dear Steve
----
++++
+categories = ["life"]
+date = 2009-06-26T05:40:00-07:00
+tags = ["3gs", "activation", "apple", "iphone", "problems", "quotations", "steve jobs"]
+title = "Dear Steve"
++++
 
 I sent the following to sjobs@apple.com:
 

@@ -1,9 +1,8 @@
----
-date: '2011-04-14T19:17:33-07:00'
-tags:
-- blogging
-title: Comments Suck
----
++++
+date = 2011-04-14T19:17:33-07:00
+tags = ["blogging"]
+title = "Comments Suck"
++++
 
 Marco Arment:
 

@@ -1,11 +1,8 @@
----
-date: '2011-10-11T07:59:00-07:00'
-tags:
-- south korea
-- travel
-- seoul
-title: 'South Korea: Arrival'
----
++++
+date = 2011-10-11T07:59:00-07:00
+tags = ["seoul", "south korea", "travel"]
+title = "South Korea: Arrival"
++++
 
 *For Saturday, October 8, 2011*
 

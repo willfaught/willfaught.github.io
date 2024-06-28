@@ -1,8 +1,8 @@
----
-date: '2015-01-13T08:05:45-08:00'
-link: https://en.m.wikipedia.org/wiki/Bicameralism
-title: Bicameralism
----
++++
+date = 2015-01-13T08:05:45-08:00
+link = "https://en.m.wikipedia.org/wiki/Bicameralism"
+title = "Bicameralism"
++++
 
 >The Founding Fathers of the United States also favoured a bicameral legislature. The idea was to have the Senate be wealthier and wiser. The Senate was created to be a stabilising force, elected not by mass electors, but selected by the State legislators. Senators would be more knowledgeable and more deliberate&mdash;a sort of republican nobility&mdash;and a counter to what Madison saw as the "fickleness and passion" that could absorb the House.
 

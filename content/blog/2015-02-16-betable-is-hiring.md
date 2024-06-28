@@ -1,11 +1,8 @@
----
-date: '2015-02-16T13:49:18-08:00'
-tags:
-- software engineering
-- hiring
-- betable
-title: Betable Is Hiring
----
++++
+date = 2015-02-16T13:49:18-08:00
+tags = ["betable", "hiring", "software engineering"]
+title = "Betable Is Hiring"
++++
 
 Betable &mdash; where I work &mdash; is looking to hire a senior software engineer in San Francisco:
 

@@ -1,9 +1,8 @@
----
-date: '2014-05-26T19:53:02-07:00'
-tags:
-- living
-title: Apartment Ad Annoyances
----
++++
+date = 2014-05-26T19:53:02-07:00
+tags = ["living"]
+title = "Apartment Ad Annoyances"
++++
 
 If you're going to advertise an apartment for rent, be sure to:
 

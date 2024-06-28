@@ -1,20 +1,9 @@
----
-categories:
-- life
-date: '2008-12-14T14:15:00-08:00'
-tags:
-- apartment
-- building
-- housing
-- microsoft
-- properties
-- renting
-- search
-- seattle
-- stories
-- tour
-title: Finding Home
----
++++
+categories = ["life"]
+date = 2008-12-14T14:15:00-08:00
+tags = ["apartment", "building", "housing", "microsoft", "properties", "renting", "search", "seattle", "stories", "tour"]
+title = "Finding Home"
++++
 
 Microsoft put me in touch with Angela in Seattle, a rental provider, who helped me find an apartment. (Actually, Microsoft put me in touch with Susan on the east coast, who put me in touch with Angela. Every relocation service that Microsoft provides uses multiple levels of agents who contract the person beneath them, the last person contracted being the one I end up meeting face-to-face. When I was shipping my belongings from Grass Valley to Seattle, I met the driver Boe, who was contracted by Ronnie, who was contracted by Joey, who was contracted by Chanda, who was contracted by Microsoft. After a while it seems like Lord of the Rings, where everyone goes around declaring themselves as son of this or daughter of that.) She asked me a few questions about rent and location and sent me a link to a web page that profiled about twenty properties that matched my criteria. Since I didn't know what I wanted aside from price and location, the profiles helped me make my own lists of must-have and optional amenities and features. My friend Heather advised me to check for several things based on her own renting experience that I hadn't thought of. By the time Angela and I toured a handful of properties, I had a list of questions to ask and things to check.
 

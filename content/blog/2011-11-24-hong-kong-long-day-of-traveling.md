@@ -1,12 +1,8 @@
----
-date: '2011-11-24T03:59:53-08:00'
-tags:
-- travel
-- japan
-- narita
-- hong kong
-title: 'Hong Kong: Long Day Of Traveling'
----
++++
+date = 2011-11-24T03:59:53-08:00
+tags = ["hong kong", "japan", "narita", "travel"]
+title = "Hong Kong: Long Day Of Traveling"
++++
 
 *For Monday, November 7, 2011*
 

@@ -1,15 +1,9 @@
----
-categories:
-- life
-date: '2008-06-21T19:16:00-07:00'
-tags:
-- coq
-- english
-- french
-- reflections
-- thesis
-title: Coq Master
----
++++
+categories = ["life"]
+date = 2008-06-21T19:16:00-07:00
+tags = ["coq", "english", "french", "reflections", "thesis"]
+title = "Coq Master"
++++
 
 I've started learning a theorem proving tool to help me with my thesis. It's called [Coq](https://coq.inria.fr), which has got to be the most unfortunate name I can think of. I think the creators are French, and coq means cock, as in rooster, in French. Why rooster? I have no idea. Why does anyone name anything what they do?
 

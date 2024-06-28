@@ -1,17 +1,9 @@
----
-categories:
-- life
-date: '2007-01-12T17:43:00-08:00'
-tags:
-- bed
-- dutch
-- height
-- length
-- lobbiers
-- quotations
-- tall
-title: There's A Lobbyist For Everything These Days
----
++++
+categories = ["life"]
+date = 2007-01-12T17:43:00-08:00
+tags = ["bed", "dutch", "height", "length", "lobbiers", "quotations", "tall"]
+title = "There's A Lobbyist For Everything These Days"
++++
 
 The average height of Dutch men and women has [increased so dramatically in the past century](https://www.newyorker.com/fact/content/articles/040405fa_fact?040405fa_fact) that being too tall for a standard-height ceiling or a standard-length bed has become a common problem. So problematic, in fact, that there is a *tall person organization* that lobbies on behalf of tall people for more head room:
 

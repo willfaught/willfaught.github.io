@@ -1,12 +1,9 @@
----
-date: '2015-10-17T17:11:50-07:00'
-link: https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe
-tags:
-- jsconf
-- javascript
-- betable
-title: Things I Learned At JSConf.eu 2015
----
++++
+date = 2015-10-17T17:11:50-07:00
+link = "https://medium.com/@betable/things-i-learned-at-jsconf-eu-2015-cb218fa054fe"
+tags = ["betable", "javascript", "jsconf"]
+title = "Things I Learned At JSConf.eu 2015"
++++
 
 Thor Spieker, fellow Betable engineer, on his experience at JSConf 2015:
 

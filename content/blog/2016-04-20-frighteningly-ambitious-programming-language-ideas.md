@@ -1,15 +1,9 @@
----
-date: '2016-04-20T09:58:23-07:00'
-link: https://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html
-tags:
-- programming
-- ideas
-- future
-- pointer
-- instruction
-- languages
-title: Frighteningly Ambitious Programming Language Ideas
----
++++
+date = 2016-04-20T09:58:23-07:00
+link = "https://evincarofautumn.blogspot.com/2012/04/frighteningly-ambitious-programming.html"
+tags = ["future", "ideas", "instruction", "languages", "pointer", "programming"]
+title = "Frighteningly Ambitious Programming Language Ideas"
++++
 
 Jon Purdy:
 
