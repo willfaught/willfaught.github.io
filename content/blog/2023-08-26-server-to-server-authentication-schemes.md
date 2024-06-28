@@ -9,13 +9,13 @@ title = "Server-To-Server Authentication Schemes"
 
 Latacora:
 
->Modern applications tend to be composed from relationships between smaller applications. Secure modern applications thus need a way to express and enforce security policies that span multiple services. This is the “server-to-server” (S2S) authentication and authorization problem (for simplicity, I'll mash both concepts into the term “auth” for most of this post).
+>Modern applications tend to be composed from relationships between smaller applications. Secure modern applications thus need a way to express and enforce security policies that span multiple services. This is the "server-to-server" (S2S) authentication and authorization problem (for simplicity, I'll mash both concepts into the term "auth" for most of this post).
 >
 >Designers today have a lot of options for S2S auth, but there isn't much clarity about what the options are or why you'd select any of them. Bad decisions sometimes result. What follows is a stab at clearing the question up.
 >
 >[...]
 >
->Do the simplest thing that makes sense for your application right now. A true fact we can relate from something like a decade of consulting work on these problems: intricate S2S auth schemes are not the norm; if there's a norm, it's “nothing at all except for ELBs”. If you need something, but you have to ask whether that something oughtn't just be bearer tokens, then just use bearer tokens.
+>Do the simplest thing that makes sense for your application right now. A true fact we can relate from something like a decade of consulting work on these problems: intricate S2S auth schemes are not the norm; if there's a norm, it's "nothing at all except for ELBs". If you need something, but you have to ask whether that something oughtn't just be bearer tokens, then just use bearer tokens.
 >
 >Unfortunately, if there's a second norm, it's adopting complicated auth mechanisms independently or, worse, in combination, and then succumbing to vulnerabilities.
 

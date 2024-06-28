@@ -9,7 +9,7 @@ title = "RED Metrics"
 
 Tim Yocum, writing for InfoWorld:
 
->The RED method is a monitoring methodology coined by Tom Wilkie based on what he learned while working at Google. RED is derived from some best practices established at Google known as the “Four Golden Signals,” developed by Google's SRE team.
+>The RED method is a monitoring methodology coined by Tom Wilkie based on what he learned while working at Google. RED is derived from some best practices established at Google known as the "Four Golden Signals," developed by Google's SRE team.
 >
 >[...]
 >
