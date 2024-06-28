@@ -17,8 +17,8 @@ Part 2:
 Some gems:
 
 - They were posted one "sprint" apart. 🤣
-- "It’s really Waterfall with meetings every two weeks."
-- "That’s Greg. His birthday is on day 2 of sprint 7."
+- "It's really Waterfall with meetings every two weeks."
+- "That's Greg. His birthday is on day 2 of sprint 7."
 - "We don't even define requirements until after production."
 - "I lost my job because I'm a horrible developer. Now I'm an Agile coach."
 - "Always change. Never finish."

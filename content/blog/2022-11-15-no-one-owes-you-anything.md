@@ -9,11 +9,11 @@ title = "No One Owes You Anything"
 
 Harry Browne, in a letter to his daughter on Christmas:
 
->It’s Christmas and I have the usual problem of deciding what to give you. I know you might enjoy many things &mdash; books, games, clothes.
+>It's Christmas and I have the usual problem of deciding what to give you. I know you might enjoy many things &mdash; books, games, clothes.
 >
->But I’m very selfish. I want to give you something that will stay with you for more than a few months or years. I want to give you a gift that might remind you of me every Christmas.
+>But I'm very selfish. I want to give you something that will stay with you for more than a few months or years. I want to give you a gift that might remind you of me every Christmas.
 >
->If I could give you just one thing, I’d want it to be a simple truth that took me many years to learn. If you learn it now, it may enrich your life in hundreds of ways. And it may prevent you from facing many problems that have hurt people who have never learned it.
+>If I could give you just one thing, I'd want it to be a simple truth that took me many years to learn. If you learn it now, it may enrich your life in hundreds of ways. And it may prevent you from facing many problems that have hurt people who have never learned it.
 >
 >The truth is simply this:
 >

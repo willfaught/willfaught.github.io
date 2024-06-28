@@ -9,7 +9,7 @@ title = "RED Metrics"
 
 Tim Yocum, writing for InfoWorld:
 
->The RED method is a monitoring methodology coined by Tom Wilkie based on what he learned while working at Google. RED is derived from some best practices established at Google known as the “Four Golden Signals,” developed by Google’s SRE team.
+>The RED method is a monitoring methodology coined by Tom Wilkie based on what he learned while working at Google. RED is derived from some best practices established at Google known as the “Four Golden Signals,” developed by Google's SRE team.
 >
 >[...]
 >
@@ -25,7 +25,7 @@ Rob Ewaschuk, writing for Google, on those [four golden signals](https://sre.goo
 
 >Latency
 >
->The time it takes to service a request. It’s important to distinguish between the latency of successful requests and the latency of failed requests. For example, an HTTP 500 error triggered due to loss of connection to a database or other critical backend might be served very quickly; however, as an HTTP 500 error indicates a failed request, factoring 500s into your overall latency might result in misleading calculations. On the other hand, a slow error is even worse than a fast error! Therefore, it’s important to track error latency, as opposed to just filtering out errors.
+>The time it takes to service a request. It's important to distinguish between the latency of successful requests and the latency of failed requests. For example, an HTTP 500 error triggered due to loss of connection to a database or other critical backend might be served very quickly; however, as an HTTP 500 error indicates a failed request, factoring 500s into your overall latency might result in misleading calculations. On the other hand, a slow error is even worse than a fast error! Therefore, it's important to track error latency, as opposed to just filtering out errors.
 >
 >Traffic
 >
@@ -33,7 +33,7 @@ Rob Ewaschuk, writing for Google, on those [four golden signals](https://sre.goo
 >
 >Errors
 >
->The rate of requests that fail, either explicitly (e.g., HTTP 500s), implicitly (for example, an HTTP 200 success response, but coupled with the wrong content), or by policy (for example, "If you committed to one-second response times, any request over one second is an error"). Where protocol response codes are insufficient to express all failure conditions, secondary (internal) protocols may be necessary to track partial failure modes. Monitoring these cases can be drastically different: catching HTTP 500s at your load balancer can do a decent job of catching all completely failed requests, while only end-to-end system tests can detect that you’re serving the wrong content.
+>The rate of requests that fail, either explicitly (e.g., HTTP 500s), implicitly (for example, an HTTP 200 success response, but coupled with the wrong content), or by policy (for example, "If you committed to one-second response times, any request over one second is an error"). Where protocol response codes are insufficient to express all failure conditions, secondary (internal) protocols may be necessary to track partial failure modes. Monitoring these cases can be drastically different: catching HTTP 500s at your load balancer can do a decent job of catching all completely failed requests, while only end-to-end system tests can detect that you're serving the wrong content.
 >
 >Saturation
 >
