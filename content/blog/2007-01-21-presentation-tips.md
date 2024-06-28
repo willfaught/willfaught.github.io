@@ -1,7 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-01-21T17:43:00-08:00
-tags = ["paper", "pater landin", "presentation", "reflections", "stories", "tips"]
+tags = ["paper", "peter landin", "presentation", "reflections", "stories", "tips"]
 title = "Presentation Tips"
 +++
 
