@@ -8,9 +8,9 @@ titlecasestyle = "Go"
 
 [[cascade]]
 [cascade._target]
-path = '{/authors,/authors/**}'
+path = "{/authors,/authors/**}"
 [cascade.build]
-render = 'never'
+render = "never"
 
 [languages.en]
 title = "Will Do"
