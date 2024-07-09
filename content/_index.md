@@ -1,5 +1,5 @@
 +++
-description = "Thoughts on technology, the world, and life."
+description = '<span style="display: inline-block">Thoughts on technology,</span> <span style="display: inline-block">the world, and life.</span>'
 keywords = ["article", "blog", "code", "coding", "comment", "commentary", "computation", "computer", "computers", "computing", "dev", "develop", "developer", "developing", "development", "eng", "engineer", "engineering", "faught", "hardware", "idea", "link", "media", "news", "opinion", "post", "pro", "profession", "professional", "program", "programmer", "programming", "projects", "social", "social media", "software", "software developer", "software developing", "software development", "software engineer", "software engineering", "software programmer", "software programmering", "website", "will", "will faught", "william", "william faught"]
 title = "Will Do"
 [paige]
@@ -23,7 +23,7 @@ hide_page = true
     {{< paige/image alt="Picture of me" class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" src="cover.jpg" width="100%" >}}
 </div>
 
-<p class="display-5 fw-bold h2 text-center">Hi, there! I’m Will.</p>
+<p class="display-5 fw-bold h2 text-center"><span style="display: inline-block">Hi, there!</span> <span style="display: inline-block">I’m Will.</span></p>
 
 <div class="container-fluid mb-0">
     <div class="justify-content-center row">
