@@ -25,7 +25,7 @@ hide_page = true
 
 <p class="display-5 fw-bold h2 text-center">Hi, there! I’m Will.</p>
 
-<div class="container-fluid">
+<div class="container-fluid mb-0">
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">I live in California, where I grew up. I have Bachelor’s and Master’s degrees in Computer Science from California Polytechnic State University, California. I’m a software engineer professionally. I put my thoughts here sometimes.</p>
