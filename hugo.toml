@@ -1,7 +1,5 @@
 baseurl = "https://willfaught.com"
-copyright = "© Will Faught"
 enablerobotstxt = true
-languagecode = "en-us"
 paginate = 50
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
@@ -13,8 +11,15 @@ path = "{/authors,/authors/**}"
 render = "never"
 
 [languages.en]
-title = "Will Do"
+languagecode = "en-us"
+languagedirection = "ltr"
+languagename = "English"
 weight = 10
+
+[languages.en.params.paige]
+copyright = "© Will Faught"
+description = '<span style="display: inline-block">Thoughts on technology,</span> <span style="display: inline-block">the world, and life.</span>'
+title = "Will Do"
 
 [[languages.en.menu.main]]
 identifier = "home"
@@ -71,6 +76,27 @@ home = ["atom", "html", "paige-search", "rss"]
 section = ["atom", "html", "rss"]
 taxonomy = ["atom", "html", "rss"]
 term = ["atom", "html", "rss"]
+
+[params.paige.list_page]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+
+[params.paige.page]
+disable_authors = true
+disable_keywords = true
+disable_next = true
+disable_prev = true
+disable_reading_time = true
+disable_series = true
+disable_toc = true
+
+[params.paige.site]
+disable_breadcrumbs = true
+disable_credit = true
 
 [params.paige.feed]
 page_link = "✓"

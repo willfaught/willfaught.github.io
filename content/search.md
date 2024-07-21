@@ -2,7 +2,7 @@
 layout = "paige/search"
 title = "Search"
 [paige.feed]
-hide_page = true
+disable = true
 [paige.search]
-hide_page = true
+disable = true
 +++

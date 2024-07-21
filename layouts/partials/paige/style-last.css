@@ -11,22 +11,7 @@
     text-decoration: none;
 }
 
-#paige-authors,
-#paige-breadcrumbs,
-#paige-credit,
-#paige-keywords,
-#paige-prev-next,
-#paige-reading-time,
-#paige-toc,
-.paige-authors,
-.paige-date,
-.paige-keywords,
-.paige-reading-time,
-.paige-series,
-.paige-summary {
-    display: none;
-}
-
-body, html {
+body,
+html {
     height: 100%;
 }
