@@ -4,9 +4,7 @@
 {{ partial "paige/tag-html.html" $page }}
     {{ partial "paige/tag-head.html" $page }}
     {{ partial "paige/tag-body.html" $page }}
-        <main>
-            {{ $page.Content }}
-        </main>
+        <main>{{ $page.Content }}</main>
 
         {{ if $page.Params.next }}
             <div class="egg">
