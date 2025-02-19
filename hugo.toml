@@ -1,19 +1,18 @@
 baseurl = "https://willfaught.com"
 enablerobotstxt = true
-paginate = 50
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [languages.en]
+copyright = "© Will Faught"
 languagecode = "en-us"
 languagedirection = "ltr"
 languagename = "English"
+title = "Will Do"
 weight = 10
 
-[languages.en.params.paige]
-copyright = "© Will Faught"
+[languages.en.params.paige.site]
 description = '<span style="display: inline-block">Thoughts on technology,</span> <span style="display: inline-block">the world, and life.</span>'
-title = "Will Do"
 
 [[languages.en.menu.main]]
 identifier = "home"
@@ -71,15 +70,26 @@ section = ["atom", "html", "rss"]
 taxonomy = ["atom", "html", "rss"]
 term = ["atom", "html", "rss"]
 
-[params.paige.list_page]
-disable_authors = true
-disable_date = true
-disable_keywords = true
-disable_reading_time = true
-disable_series = true
-disable_summary = true
+[pagination]
+pagersize = 50
 
-[params.paige.page]
+[params.paige.feeds]
+page_link = "✓"
+
+[params.paige.feeds.atom]
+icon = "/favicon.svg"
+logo = "/favicon.svg"
+
+[[params.paige.feeds.atom.authors]]
+email = "pushes.kingdom_0e@icloud.com"
+name = "Will Faught"
+url = "https://willfaught.com"
+
+[params.paige.feeds.rss]
+managing_editor = "pushes.kingdom_0e@icloud.com (Will Faught)"
+web_master = "pushes.kingdom_0e@icloud.com (Will Faught)"
+
+[params.paige.pages]
 disable_authors = true
 disable_keywords = true
 disable_next = true
@@ -87,16 +97,23 @@ disable_prev = true
 disable_reading_time = true
 disable_series = true
 disable_toc = true
+disable_word_count = true
+
+[paige.pages.base_schema]
+isAccessibleForFree = true
 
 [params.paige.site]
 disable_breadcrumbs = true
 disable_credit = true
 
-[params.paige.feed]
-page_link = "✓"
-
-[[params.paige.feed.atom.authors]]
-name = "Will Faught"
+[params.paige.subpages]
+disable_authors = true
+disable_date = true
+disable_keywords = true
+disable_reading_time = true
+disable_series = true
+disable_summary = true
+disable_word_count = true
 
 [permalinks]
 articles = "/:year/:month/:day/:slug/"

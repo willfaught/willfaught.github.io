@@ -1,16 +1,12 @@
 +++
 keywords = ["article", "blog", "code", "coding", "comment", "commentary", "computation", "computer", "computers", "computing", "dev", "develop", "developer", "developing", "development", "eng", "engineer", "engineering", "faught", "hardware", "idea", "link", "media", "news", "opinion", "post", "pro", "profession", "professional", "program", "programmer", "programming", "projects", "social", "social media", "software", "software developer", "software developing", "software development", "software engineer", "software engineering", "software programmer", "software programmering", "website", "will", "will faught", "william", "william faught"]
-title = "Will Do"
-[paige.list_page]
+[paige]
+disable_feeds = true
+disable_search = true
+[paige.pages]
 disable_collections = true
 disable_pages = true
 disable_sections = true
-[paige.page]
-disable_title = true
-[paige.feed]
-disable = true
-[paige.search]
-disable = true
 +++
 
 {{< paige/image alt="Landscape" breakpoints=true class="mt-3 object-fit-cover rounded-4 shadow" fetchpriority="high" height="20rem" loading="eager" process="webp" src="cover.jpg" width="100%" >}}
