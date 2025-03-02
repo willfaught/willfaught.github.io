@@ -7,8 +7,8 @@
         <main>{{ $page.Content }}</main>
 
         {{ if $page.Params.next }}
-            <div class="egg">
-                <a href="{{ relLangURL (path.Join `pi` .Params.next) }}/">&pi;</a>
+            <div style="bottom: 8px; font-size: 16px; position: fixed; right: 8px">
+                <a href="{{ relLangURL (path.Join `pi` .Params.next) }}/" style="color: white; mix-blend-mode: difference; opacity: .1; text-decoration: none">&pi;</a>
             </div>
         {{ end }}
     </body>
