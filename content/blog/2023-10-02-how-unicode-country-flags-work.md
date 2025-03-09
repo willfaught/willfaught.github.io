@@ -2,7 +2,6 @@
 categories = ["technology"]
 date = 2023-10-02T22:49:44-07:00
 description = "How do you encode politically-contentious country flags?"
-id = "d8be47dead27406b8be4a5a640f62d5a2f81a945"
 link = "https://esham.io/2014/06/unicode-flags"
 tags = ["unicode"]
 title = "How Unicode Country Flags Work"
