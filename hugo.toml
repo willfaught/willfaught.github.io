@@ -3,6 +3,12 @@ enablerobotstxt = true
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
+[[cascade]]
+[cascade._target]
+path = "{/authors,/authors/**}"
+[cascade.build]
+render = "never"
+
 [languages.en]
 copyright = "© Will Faught"
 languagecode = "en-us"
@@ -116,5 +122,6 @@ articles = "/:year/:month/:day/:slug/"
 blog = "/:year/:month/:day/:slug/"
 
 [taxonomies]
+author = "authors"
 category = "categories"
 tag = "tags"

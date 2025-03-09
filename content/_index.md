@@ -1,4 +1,5 @@
 +++
+authors = ["will-faught"]
 keywords = ["article", "blog", "code", "coding", "comment", "commentary", "computation", "computer", "computers", "computing", "dev", "develop", "developer", "developing", "development", "eng", "engineer", "engineering", "faught", "hardware", "idea", "link", "media", "news", "opinion", "post", "pro", "profession", "professional", "program", "programmer", "programming", "projects", "social", "social media", "software", "software developer", "software developing", "software development", "software engineer", "software engineering", "software programmer", "software programmering", "website", "will", "will faught", "william", "william faught"]
 [paige]
 disable_feeds = true
