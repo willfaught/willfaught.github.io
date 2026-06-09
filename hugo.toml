@@ -4,16 +4,16 @@ timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
 [[cascade]]
-[cascade._target]
-path = "{/authors,/authors/**}"
 [cascade.build]
 render = "never"
+[cascade.target]
+path = "{/authors,/authors/**}"
 
 [languages.en]
 copyright = "© Will Faught"
-languagecode = "en-us"
-languagedirection = "ltr"
-languagename = "English"
+direction = "ltr"
+label = "English"
+locale = "en-us"
 title = "Will Do"
 weight = 10
 
