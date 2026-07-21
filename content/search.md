@@ -1,6 +1,6 @@
 +++
 description = "Search the site."
-layout = "paige/search"
+layout = "paige-search"
 title = "Search"
 [paige]
 exclude_feeds = true
