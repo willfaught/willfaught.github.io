@@ -23,37 +23,37 @@ description = '<span style="display: inline-block">Thoughts on technology,</span
 [[languages.en.menu.main]]
 identifier = "home"
 name = "Home"
-url = "/"
+pageref = "/"
 weight = 10
 
 [[languages.en.menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "/blog/"
+pageref = "/blog"
 weight = 20
 
 [[languages.en.menu.main]]
 identifier = "articles"
 name = "Articles"
-url = "/articles/"
+pageref = "/articles"
 weight = 30
 
 [[languages.en.menu.main]]
 identifier = "categories"
 name = "Categories"
-url = "/categories/"
+pageref = "/categories"
 weight = 40
 
 [[languages.en.menu.main]]
 identifier = "tags"
 name = "Tags"
-url = "/tags/"
+pageref = "/tags"
 weight = 50
 
 [[languages.en.menu.main]]
 identifier = "search"
 name = "Search"
-url = "/search/"
+pageref = "/search"
 weight = 60
 
 [markup.goldmark.renderer]
