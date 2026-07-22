@@ -1,5 +1,6 @@
 baseurl = "https://willfaught.com"
 enablerobotstxt = true
+pluralizelisttitles = false
 timezone = "America/Los_Angeles"
 titlecasestyle = "Go"
 
