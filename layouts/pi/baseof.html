@@ -7,14 +7,12 @@
     {{ partial "paige/tag-head.html" $page }}
     {{ partial "paige/tag-body-begin.html" $page }}
         <main>{{ $page.Content }}</main>
-
         <style>
             @media (prefers-color-scheme: dark) {
                 .egg {
                     color: white;
                 }
             }
-
             @media (prefers-color-scheme: light) {
                 .egg {
                     color: black;
