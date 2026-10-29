@@ -4,6 +4,6 @@ tags = ["travel", "videos"]
 title = "Taipei 101 Fireworks"
 +++
 
-{{< paige/youtube 8mP39wS_FxQ >}}
+{{< paige-youtube 8mP39wS_FxQ >}}
 
 The fireworks I saw at Taipei 101 in Taipei, Taiwan, for New Year's Eve. (It's not my video.)

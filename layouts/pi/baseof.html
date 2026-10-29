@@ -3,9 +3,9 @@
 {{ $color := $page.Params.color | default "white" }}
 
 <!doctype html>
-{{ partial "paige/html.html" $page }}
-    {{ partial "paige/head.html" $page }}
-    {{ partial "paige/body.html" $page }}
+{{ partial "paige/tag-html-begin.html" $page }}
+    {{ partial "paige/tag-head.html" $page }}
+    {{ partial "paige/tag-body-begin.html" $page }}
         <main>{{ $page.Content }}</main>
 
         <style>

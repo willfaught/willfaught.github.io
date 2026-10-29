@@ -4,6 +4,6 @@ tags = ["cool", "secret passages"]
 title = "Secret Passages"
 +++
 
-{{< paige/youtube cS5II_LavsQ >}}
+{{< paige-youtube cS5II_LavsQ >}}
 
 Secret passages for your modern home. I love the chess lock.

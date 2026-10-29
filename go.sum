@@ -140,3 +140,7 @@ github.com/willfaught/paige v0.117.0 h1:/gDkdBvZBoJvA3pu7tE3ELJRyG2oLtaXx+RL8wuV
 github.com/willfaught/paige v0.117.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
 github.com/willfaught/paige v0.118.0 h1:sPppFPFbWjKl+6rTnq/2zgCqHuN1irkZI44n0WcUfns=
 github.com/willfaught/paige v0.118.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.121.0 h1:hxbYc0J1IFvze6NdqtzfnMjEmrbXAXFkMt0WebzfOxE=
+github.com/willfaught/paige v0.121.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=
+github.com/willfaught/paige v0.122.0 h1:XQTF4lYDUmjtL4b5U5NyfqKKsAmWVMz69gQupvzq2vY=
+github.com/willfaught/paige v0.122.0/go.mod h1:0Nt8ifl7UVYQIBaMtpZmg+BrQHHzFNqKcrBoA2Oo4/E=

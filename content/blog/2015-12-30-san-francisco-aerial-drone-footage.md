@@ -4,6 +4,6 @@ tags = ["drone", "san francisco"]
 title = "San Francisco Aerial Drone Footage"
 +++
 
-{{< paige/youtube MFWIPiA-r_o >}}
+{{< paige-youtube MFWIPiA-r_o >}}
 
 Aerial drone footage of San Francisco. Really interesting.

@@ -4,6 +4,6 @@ tags = ["interesting"]
 title = "Interview Of My Doctor"
 +++
 
-{{< paige/youtube _xVt3UCQjaU >}}
+{{< paige-youtube _xVt3UCQjaU >}}
 
 A video interview of Dr. David Card. It's so fun finding stuff about people you know!

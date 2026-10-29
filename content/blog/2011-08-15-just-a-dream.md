@@ -4,6 +4,6 @@ tags = ["cool"]
 title = "Just A Dream"
 +++
 
-{{< paige/youtube N6O2ncUKvlg >}}
+{{< paige-youtube N6O2ncUKvlg >}}
 
 Just a Dream

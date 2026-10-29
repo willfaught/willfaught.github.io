@@ -4,6 +4,6 @@ tags = ["build", "egypt", "jean-pierre houdin", "khufu", "pyramid", "theory"]
 title = "Khufu Reborn"
 +++
 
-{{< paige/youtube 3NCK99mQUxw >}}
+{{< paige-youtube 3NCK99mQUxw >}}
 
 An extension of the previously linked-to theory that shows there is an undiscovered passage to the King's Chamber in the Great Pyramid.
