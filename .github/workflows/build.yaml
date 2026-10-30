@@ -2,7 +2,7 @@ jobs:
   build:
     runs-on: "ubuntu-latest"
     steps:
-      - uses: "actions/checkout@v6"
+      - uses: "actions/checkout@v7"
       - run: "sudo snap install --edge hugo"
       - run: "sudo snap install dart-sass"
       - id: "pages"
