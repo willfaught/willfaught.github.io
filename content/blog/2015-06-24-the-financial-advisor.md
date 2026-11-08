@@ -1,5 +1,6 @@
 +++
 date = 2015-06-24T23:53:17-07:00
+description = "A financial advice joke with a questionable premise"
 link = "https://dilbert.com/strip/2014-12-15"
 tags = ["finances", "financial advisor", "investing", "money", "personal finance"]
 title = "The Financial Advisor"

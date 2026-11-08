@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T07:14:10-08:00
+description = "A scooter trip to Doi Suthep and a roadside accident"
 tags = ["chiang mai", "thailand", "travel"]
 title = "Thursday, February 2, 2012"
 +++

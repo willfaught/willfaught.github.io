@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-03-07T04:18:00-08:00
+description = "Being the one who writes the check changes how I see wasted power"
 tags = ["electricity bill", "pay", "reflections"]
 title = "The Worst Bill To Pay"
 +++

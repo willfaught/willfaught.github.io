@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-10-31T10:59:00-07:00
+description = "A dashboard could bring at-a-glance information to the iPhone"
 tags = ["apple", "iphone", "mac", "microsoft", "windows phone"]
 title = "IPhone Hub"
 +++

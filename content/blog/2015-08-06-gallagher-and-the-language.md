@@ -1,5 +1,6 @@
 +++
 date = 2015-08-06T00:06:41-07:00
+description = "A comedian takes on the absurdities of English"
 link = "https://www.youtube.com/watch?v=yDFQXxWIyvQ"
 tags = ["language"]
 title = "Gallagher And The Language"

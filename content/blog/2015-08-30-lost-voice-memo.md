@@ -1,5 +1,6 @@
 +++
 date = 2015-08-30T01:00:00-07:00
+description = "An interrupted recording takes an irreplaceable moment with it"
 tags = ["apple", "bugs"]
 title = "Lost Voice Memo"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2013-03-05T12:01:21-08:00
+description = "A collection of favorite complaints about comfortable lives"
 link = "http://www.quickmeme.com/First-World-Problems/"
 tags = ["funny"]
 title = "First World Problems"

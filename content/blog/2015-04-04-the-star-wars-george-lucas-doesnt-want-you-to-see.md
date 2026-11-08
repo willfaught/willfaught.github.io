@@ -1,5 +1,6 @@
 +++
 date = 2015-04-04T12:39:36-07:00
+description = "George Lucas’s preservation argument meets his own films"
 link = "https://www.theatlantic.com/technology/archive/2014/08/the-star-wars-george-lucas-doesnt-want-you-to-see/379184/"
 title = "The Star Wars George Lucas Doesn't Want You To See"
 +++

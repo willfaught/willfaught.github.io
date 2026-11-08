@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-18T18:36:00-07:00
+description = "Season three begins, and the mysteries keep coming"
 tags = ["delta park project", "desmond", "dharma initiative", "locke", "lost", "mom", "reflections", "season"]
 title = "Lost Is Back!"
 +++

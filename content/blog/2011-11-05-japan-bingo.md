@@ -1,5 +1,6 @@
 +++
 date = 2011-11-05T08:56:00-07:00
+description = "Taking the bullet train from Tokyo to Kyoto"
 tags = ["japan", "kyoto", "tokyo", "travel"]
 title = "Japan: Bingo"
 +++

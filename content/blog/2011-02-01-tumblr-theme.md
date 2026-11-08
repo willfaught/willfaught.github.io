@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-01T16:00:07-08:00
+description = "A simple, readable design makes blogging more inviting"
 tags = ["theme", "tumblr"]
 title = "Tumblr Theme"
 +++

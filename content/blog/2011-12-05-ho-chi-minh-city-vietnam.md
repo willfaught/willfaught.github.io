@@ -1,5 +1,6 @@
 +++
 date = 2011-12-05T08:22:43-08:00
+description = "Hostel life and moving encounters with Vietnam’s history"
 tags = ["ho chi minh city", "travel", "vietnam"]
 title = "Ho Chi Minh City, Vietnam"
 +++

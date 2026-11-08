@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T07:48:00-08:00
+description = "Crossing the Mekong from Thailand into Laos"
 tags = ["chiang rai", "huay xai", "laos", "thailand", "travel"]
 title = "Monday, February 6, 2012"
 +++

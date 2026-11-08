@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-07-18T18:25:00-07:00
+description = "A broken teacup prompts a timely lesson in mortality"
 tags = ["quotations", "story", "zen"]
 title = "Time To Die"
 +++

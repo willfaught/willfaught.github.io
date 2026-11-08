@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-27T13:36:00-08:00
+description = "Imagining a future built around a shared virtual world"
 tags = ["economics", "factions", "game", "ideas", "story", "virtual world"]
 title = "A Story Idea"
 +++

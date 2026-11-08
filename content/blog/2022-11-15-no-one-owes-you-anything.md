@@ -1,7 +1,7 @@
 +++
 categories = ["life"]
 date = 2022-11-15T17:29:24-08:00
-description = "A letter written by a father to his daughter about his most important truth."
+description = "A letter written by a father to his daughter about his most important truth"
 link = "https://web.archive.org/web/20110629000907/https://www.harrybrowne.org/articles/GiftDaughter.htm"
 tags = ["advice", "christmas", "daughter", "harry browne", "libertarianism"]
 title = "No One Owes You Anything"

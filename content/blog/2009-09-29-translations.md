@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-09-29T23:17:00-07:00
+description = "The personal opinions hidden in religious expressions"
 tags = ["religion", "sayings"]
 title = "Translations"
 +++

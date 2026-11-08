@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-26T17:56:00-08:00
+description = "Thinking about fire’s role in the landscape"
 tags = ["california", "containment", "ideas", "reflections", "underbrush", "wildfires", "yellowstone"]
 title = "Large Wildfires Unavoidable"
 +++

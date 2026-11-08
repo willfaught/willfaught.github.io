@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-17T08:37:00-07:00
+description = "Celebrating graduation while the thesis is still unfinished"
 tags = ["graduation", "kung fu panda", "michelle lee", "movie", "reflections"]
 title = "Graduation Snuck Up On Me"
 +++

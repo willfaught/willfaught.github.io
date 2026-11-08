@@ -1,5 +1,6 @@
 +++
 date = 2015-09-04T18:51:23-07:00
+description = "Posting a review comment shouldn’t take a search"
 tags = ["gerrit", "git"]
 title = "Gerrit's UI Is Awful"
 +++

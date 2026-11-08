@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-02-21T07:16:00-08:00
+description = "PHP’s creator gives a lively lecture at Cal Poly"
 tags = ["cal poly", "javascript", "languages", "php", "programming", "rasmus lerdorf", "reflections", "web", "yahoo", "yui"]
 title = "Rasmus Lerdorf Comes To Town"
 +++

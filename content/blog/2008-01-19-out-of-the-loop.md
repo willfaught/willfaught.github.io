@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-01-19T09:43:00-08:00
+description = "Wondering why backticks stand in for opening quotation marks"
 tags = ["backticks", "latex", "leet", "quoting", "reflections"]
 title = "`Out Of The Loop'"
 +++

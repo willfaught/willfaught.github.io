@@ -1,5 +1,6 @@
 +++
 date = 2018-11-03T15:56:36-07:00
+description = "Why success can make a company’s products worse"
 title = "Steve Jobs On Product Deterioration"
 +++
 

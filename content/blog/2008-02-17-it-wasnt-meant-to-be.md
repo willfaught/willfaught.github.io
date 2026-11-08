@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-02-17T07:53:00-08:00
+description = "A trip home from Seattle refuses to go according to plan"
 tags = ["delay", "flight", "katherine", "microsoft", "seattle", "slo", "stories"]
 title = "It Wasn't Meant To Be"
 +++

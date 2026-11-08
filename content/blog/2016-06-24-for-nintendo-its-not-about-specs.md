@@ -1,5 +1,6 @@
 +++
 date = 2016-06-24T09:27:58-07:00
+description = "Another disappointing answer about Nintendo’s hardware ambitions"
 link = "https://www.ign.com/articles/2016/06/16/e3-2016-nintendo-boss-on-nx-for-us-its-not-about-specs"
 tags = ["games", "gaming", "ign", "microsoft", "nintendo", "nx", "teraflops", "virtual reality", "vr", "xbox", "xbox one"]
 title = "For Nintendo, It's Not About Specs"

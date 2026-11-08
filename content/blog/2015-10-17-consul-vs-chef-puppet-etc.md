@@ -1,5 +1,6 @@
 +++
 date = 2015-10-17T18:22:50-07:00
+description = "Why service discovery needs more than configuration management"
 link = "https://www.consul.io/intro/vs/chef-puppet.html"
 tags = ["chef", "consul", "hashicorp", "puppet"]
 title = "Consul Vs. Chef, Puppet, Etc."

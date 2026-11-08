@@ -1,5 +1,6 @@
 +++
 date = 2018-10-30T23:00:24-07:00
+description = "Even a flat organization needs direction and support"
 link = "https://www.theglobeandmail.com/report-on-business/small-business/startups/why-github-finally-abandoned-its-bossless-workplace/article31718152/"
 tags = ["coding", "holacracy", "management"]
 title = "Why GitHub Added Management"

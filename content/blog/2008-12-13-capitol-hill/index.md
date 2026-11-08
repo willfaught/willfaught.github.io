@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-12-13T14:08:00-08:00
+description = "Exploring Volunteer Park and Capitol Hill as a possible home"
 tags = ["capitol hill", "clouds", "conservatory", "flowers", "leaves", "museum", "pictures", "plants", "reservoir", "seattle", "space needle", "stories", "sunset", "volunteer park", "water tower"]
 title = "Capitol Hill"
 +++

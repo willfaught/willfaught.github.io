@@ -1,5 +1,6 @@
 +++
 date = 2015-06-13T21:57:24-07:00
+description = "Another summer sale, another long list of games"
 link = "https://store.steampowered.com"
 tags = ["games"]
 title = "Steam Monster Summer Sale"

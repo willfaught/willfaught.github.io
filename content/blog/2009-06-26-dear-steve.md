@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-06-26T05:40:00-07:00
+description = "Taking my iPhone activation complaint to Steve Jobs"
 tags = ["3gs", "activation", "apple", "iphone", "problems", "quotations", "steve jobs"]
 title = "Dear Steve"
 +++

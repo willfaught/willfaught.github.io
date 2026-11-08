@@ -1,5 +1,6 @@
 +++
 date = 2015-10-17T18:20:08-07:00
+description = "Comparing tools for coordination and service discovery"
 link = "https://www.consul.io/intro/vs/zookeeper.html"
 tags = ["consul", "etcd", "hashicorp", "zookeeper"]
 title = "Consul vs. ZooKeeper, Doozerd, Etcd"

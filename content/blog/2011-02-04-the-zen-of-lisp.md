@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-04T08:00:07-08:00
+description = "An evaluator as a machine for describing other machines"
 tags = ["lisp", "sicp", "universal machine"]
 title = "The Zen Of Lisp"
 +++

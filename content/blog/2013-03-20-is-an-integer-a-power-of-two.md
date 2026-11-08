@@ -1,5 +1,6 @@
 +++
 date = 2013-03-20T17:47:00-07:00
+description = "A short bitwise check in Java"
 tags = ["code", "computation"]
 title = "Is An Integer A Power Of Two?"
 +++

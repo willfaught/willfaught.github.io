@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T08:28:00-07:00
+description = "Exploring Harajuku and buying a MacBook Air in Shibuya"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: My Precious"
 +++

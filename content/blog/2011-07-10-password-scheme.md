@@ -1,5 +1,6 @@
 +++
 date = 2011-07-10T23:00:05-07:00
+description = "How I used to turn an association into a password"
 tags = ["computation", "ideas"]
 title = "Password Scheme"
 +++

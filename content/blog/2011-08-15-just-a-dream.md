@@ -1,5 +1,6 @@
 +++
 date = 2011-08-15T00:22:52-07:00
+description = "A music video for Just a Dream"
 tags = ["cool"]
 title = "Just A Dream"
 +++

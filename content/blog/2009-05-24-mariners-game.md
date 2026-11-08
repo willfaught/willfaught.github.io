@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-05-24T03:20:00-07:00
+description = "Giving a live baseball game another chance"
 tags = ["baseball", "giants", "ken griffey jr.", "mariners", "stories"]
 title = "Mariners Game"
 +++

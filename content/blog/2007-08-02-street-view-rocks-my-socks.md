@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-02T15:08:00-07:00
+description = "Exploring familiar streets through Google’s panoramic photos"
 tags = ["cool", "google", "reflections", "street view"]
 title = "Street View Rocks My Socks"
 +++

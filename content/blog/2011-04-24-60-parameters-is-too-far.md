@@ -1,5 +1,6 @@
 +++
 date = 2011-04-24T23:06:00-07:00
+description = "Knuth on asking too much of a font designer"
 tags = ["donald knuth", "metafont"]
 title = "60 Parameters Is Too Far"
 +++

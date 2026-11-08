@@ -1,5 +1,6 @@
 +++
 date = 2016-04-07T07:39:20-07:00
+description = "Looking beyond predictable smartphone upgrades"
 link = "https://apple.news/AuDjSEaWvRDeX9Pwy5qRfug"
 tags = ["camera", "hardware", "modular", "smartphone"]
 title = "Smartphones Are Boring: Here's What Happens Next"

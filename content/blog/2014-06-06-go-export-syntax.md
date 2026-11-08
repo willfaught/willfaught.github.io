@@ -1,5 +1,6 @@
 +++
 date = 2014-06-06T23:31:09-07:00
+description = "Capitalization isn’t my favorite way to control visibility"
 tags = ["computing"]
 title = "Go Export Syntax"
 +++

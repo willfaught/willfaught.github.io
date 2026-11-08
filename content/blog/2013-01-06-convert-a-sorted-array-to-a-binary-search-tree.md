@@ -1,5 +1,6 @@
 +++
 date = 2013-01-06T17:57:05-08:00
+description = "Recursively building a search tree from sorted values"
 tags = ["code", "computation"]
 title = "Convert A Sorted Array To A Binary Search Tree"
 +++

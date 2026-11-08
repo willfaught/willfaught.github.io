@@ -1,5 +1,6 @@
 +++
 date = 2012-01-12T09:17:00-08:00
+description = "Temples, river trips, and a warm welcome from friends"
 tags = ["bangkok", "thailand", "travel"]
 title = "Bangkok, Thailand"
 +++

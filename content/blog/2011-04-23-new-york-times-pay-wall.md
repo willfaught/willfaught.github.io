@@ -1,5 +1,6 @@
 +++
 date = 2011-04-23T02:19:00-07:00
+description = "Paying for news shouldn’t mean choosing which device can read it"
 tags = ["ideas", "ipad", "new york times", "opinions", "paywall"]
 title = "New York Times Pay Wall"
 +++

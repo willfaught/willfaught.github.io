@@ -1,5 +1,6 @@
 +++
 date = 2015-11-19T09:26:57-08:00
+description = "A critique of Go, with comparisons to Rust and Haskell"
 link = "https://yager.io/programming/go.html"
 tags = ["go", "programming"]
 title = "\"Why Go Is Not Good\""

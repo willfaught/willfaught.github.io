@@ -1,5 +1,6 @@
 +++
 date = 2012-10-23T16:20:00-07:00
+description = "A rationale for skipping extended warranties"
 link = "https://www.marco.org/2012/03/07/which-ipad-3-should-i-get"
 tags = ["technology"]
 title = "Is AppleCare Worth It?"

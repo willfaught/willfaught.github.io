@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-02-06T12:00:07-08:00
+description = "Following the uprising against Mubarak"
 tags = ["egypt", "mubarak", "protest"]
 title = "Egyptian Protests"
 +++

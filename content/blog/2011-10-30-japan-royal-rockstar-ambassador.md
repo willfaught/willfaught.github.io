@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T07:04:54-07:00
+description = "Leaving South Korea for the next stop in Japan"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Royal Rockstar Ambassador"
 +++

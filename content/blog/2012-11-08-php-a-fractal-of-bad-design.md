@@ -1,5 +1,6 @@
 +++
 date = 2012-11-08T16:56:00-08:00
+description = "A long critique of PHP’s inconsistent design"
 link = "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"
 tags = ["computation"]
 title = "PHP: A Fractal Of Bad Design"

@@ -1,5 +1,6 @@
 +++
 date = 2015-12-30T17:01:22-08:00
+description = "The Steam winter sale adds 89 games to my collection"
 tags = ["northpole noir", "sale", "steam"]
 title = "Northpole Noir"
 +++

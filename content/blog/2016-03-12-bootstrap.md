@@ -1,5 +1,6 @@
 +++
 date = 2016-03-12T00:53:40-08:00
+description = "Automating the setup of my Mac development environment"
 link = "https://github.com/willfaught/bootstrap"
 tags = ["bootstrap", "homebrew", "programming", "zsh"]
 title = "Bootstrap"

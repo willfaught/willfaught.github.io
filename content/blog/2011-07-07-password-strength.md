@@ -1,5 +1,6 @@
 +++
 date = 2011-07-07T23:01:06-07:00
+description = "The challenge of keeping strong, unique passwords for everything"
 tags = ["ideas", "opinions", "stories"]
 title = "Password Strength"
 +++

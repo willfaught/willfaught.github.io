@@ -1,5 +1,6 @@
 +++
 date = 2011-12-11T22:47:06-08:00
+description = "Sharing my Asia photos proves easiest with Dropbox"
 tags = ["pictures", "travel"]
 title = "Travel Pictures"
 +++

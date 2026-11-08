@@ -1,5 +1,6 @@
 +++
 date = 2013-04-08T21:31:00-07:00
+description = "Borges on language, classification, and the universe"
 link = "https://www.crockford.com/wrrrld/wilkins.html"
 tags = ["reading"]
 title = "The Analytical Language Of John Wilkins"

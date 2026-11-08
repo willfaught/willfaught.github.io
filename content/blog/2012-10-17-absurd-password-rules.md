@@ -1,5 +1,6 @@
 +++
 date = 2012-10-17T16:44:00-07:00
+description = "An elaborate set of restrictions on choosing a password"
 tags = ["technology"]
 title = "Absurd Password Rules"
 +++

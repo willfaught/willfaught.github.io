@@ -1,5 +1,6 @@
 +++
 date = 2016-04-20T00:23:45-07:00
+description = "The stories behind Scheme, Perl, Forth, and other names"
 link = "https://c2.com/cgi/wiki?ProgrammingLanguageNamingPatterns"
 tags = ["forth", "names", "perl", "programming", "scheme"]
 title = "Programming Language Naming Patterns"

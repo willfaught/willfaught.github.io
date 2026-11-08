@@ -1,5 +1,6 @@
 +++
 date = 2013-01-31T00:01:00-08:00
+description = "Finding the longest stretch with a nonnegative sum"
 tags = ["computation"]
 title = "Longest Contiguous Subarray"
 +++

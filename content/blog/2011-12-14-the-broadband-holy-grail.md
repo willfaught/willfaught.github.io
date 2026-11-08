@@ -1,5 +1,6 @@
 +++
 date = 2011-12-14T00:32:42-08:00
+description = "A Taipei hostel finally solves my slow-upload problem"
 tags = ["dropbox", "taipei", "taiwan", "travel"]
 title = "The Broadband Holy Grail"
 +++

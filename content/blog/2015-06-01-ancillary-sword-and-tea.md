@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2015-06-01T22:03:44-07:00
+description = "A reader finds an awful lot of tea in space"
 link = "https://www.amazon.com/gp/aw/cr/0316246654/"
 tags = ["ancillary sword", "science fiction"]
 title = "Ancillary Sword...And Tea"

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-23T05:40:00-07:00
+description = "Relief as San Luis Obispo’s heat wave breaks"
 tags = ["camping", "heat wave", "hot", "reflections"]
 title = "I'll Live To See Another Day"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-07-16T22:55:17-07:00
+description = "First impressions of Ruby’s language design"
 tags = ["computation", "opinions"]
 title = "Learning Ruby"
 +++

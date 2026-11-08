@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-11-29T08:48:00-08:00
+description = "A code-formatting habit follows me into fiction writing"
 tags = ["eclipse", "format", "java", "reflections"]
 title = "Ctrl-Shift-F"
 +++

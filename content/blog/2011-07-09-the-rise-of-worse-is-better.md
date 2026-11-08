@@ -1,5 +1,6 @@
 +++
 date = 2011-07-09T23:00:05-07:00
+description = "Thinking of Worse Is Better as iterative design"
 link = "https://www.jwz.org/doc/worse-is-better.html"
 tags = ["computation", "opinions"]
 title = "The Rise Of Worse Is Better"

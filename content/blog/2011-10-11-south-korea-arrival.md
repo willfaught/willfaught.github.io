@@ -1,5 +1,6 @@
 +++
 date = 2011-10-11T07:59:00-07:00
+description = "Finding my way from Incheon airport to a Seoul hostel"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Arrival"
 +++

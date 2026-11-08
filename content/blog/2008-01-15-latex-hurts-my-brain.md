@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-01-15T16:36:00-08:00
+description = "The frustrations of formatting an academic paper with markup"
 tags = ["bad", "documents", "latex", "reflections", "wysiwyg"]
 title = "LaTeX HuRtS My BrAiN"
 +++

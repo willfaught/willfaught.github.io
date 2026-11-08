@@ -1,5 +1,6 @@
 +++
 date = 2014-05-26T19:53:02-07:00
+description = "What I wish rental listings would tell me"
 tags = ["living"]
 title = "Apartment Ad Annoyances"
 +++

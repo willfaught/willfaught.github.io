@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-08-27T23:20:00-07:00
+description = "The pleasures of reading Paul Graham and Joel Spolsky"
 tags = ["coding", "essays", "joel spolsky", "lisp", "paul graham"]
 title = "Essays For Programmers"
 +++

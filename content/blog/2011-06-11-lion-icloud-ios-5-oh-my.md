@@ -1,5 +1,6 @@
 +++
 date = 2011-06-11T23:00:06-07:00
+description = "Apple’s announcements promise an iPhone that can stand alone"
 tags = ["apple", "opinions"]
 title = "Lion, ICloud, IOS 5, Oh My!"
 +++

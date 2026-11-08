@@ -1,5 +1,6 @@
 +++
 date = 2016-08-17T17:02:42-07:00
+description = "Nomad schedules a million containers in minutes"
 link = "https://www.hashicorp.com/c1m.html"
 tags = ["cluster", "container", "deploy", "deployment", "docker", "hashicorp", "manage", "management", "nomad"]
 title = "Million Container Challenge"

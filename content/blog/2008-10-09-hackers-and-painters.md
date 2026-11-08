@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-09T17:47:00-07:00
+description = "Paul Graham on programming as a craft of making things"
 tags = ["computation", "hackers", "hacking", "painters", "paul graham", "quotations", "science"]
 title = "Hackers And Painters"
 +++

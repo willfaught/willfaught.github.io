@@ -1,5 +1,6 @@
 +++
 date = 2012-01-23T06:35:00-08:00
+description = "A ferry to Ko Phangan and a search for the hostel"
 tags = ["ko phangan", "ko samui", "thailand", "travel"]
 title = "Thursday, January 19, 2012"
 +++

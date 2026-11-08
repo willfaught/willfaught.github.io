@@ -1,5 +1,6 @@
 +++
 date = 2017-04-10T15:02:53-07:00
+description = "Finding a safe path through a language’s pitfalls"
 link = "https://walkercoderanger.com/blog/2014/02/javascript-minefield/"
 tags = ["go", "javascript", "programming"]
 title = "The JavaScript Minefield"

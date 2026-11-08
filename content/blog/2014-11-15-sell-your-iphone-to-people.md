@@ -1,5 +1,6 @@
 +++
 date = 2014-11-15T22:04:04-08:00
+description = "A private sale nearly doubles the trade-in offer"
 title = "Sell Your IPhone To People"
 +++
 

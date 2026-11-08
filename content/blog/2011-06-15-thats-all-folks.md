@@ -1,5 +1,6 @@
 +++
 date = 2011-06-15T23:00:00-07:00
+description = "The surprisingly informal last words of my dissertation"
 tags = ["defense", "dissertation", "stories", "thesis"]
 title = "That's All, Folks!"
 +++

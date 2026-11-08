@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2015-01-12T09:59:00-08:00
+description = "A server language discussion on an Apple-focused podcast"
 link = "https://atp.fm/99"
 tags = ["golang"]
 title = "Accidental Tech Podcast On Golang"

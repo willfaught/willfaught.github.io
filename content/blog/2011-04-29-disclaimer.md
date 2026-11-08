@@ -1,5 +1,6 @@
 +++
 date = 2011-04-29T01:58:53-07:00
+description = "A familiar fiction disclaimer gets an absurd application"
 tags = ["opinions"]
 title = "Disclaimer"
 +++

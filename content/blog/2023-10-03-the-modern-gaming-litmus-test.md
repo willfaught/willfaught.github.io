@@ -1,7 +1,7 @@
 +++
 categories = ["world"]
 date = 2023-10-03T18:12:15-07:00
-description = "Things to avoid in modern games."
+description = "Things to avoid in modern games"
 tags = ["gaming"]
 title = "The Modern Gaming Litmus Test"
 +++

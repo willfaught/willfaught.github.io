@@ -1,5 +1,6 @@
 +++
 date = 2015-05-26T19:33:05-07:00
+description = "A collection of Go pitfalls worth learning early"
 link = "https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html#close_http_conn"
 tags = ["go"]
 title = "50 Shades Of Go: Traps, Gotchas, And Common Mistakes For New Golang Devs"

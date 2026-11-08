@@ -1,5 +1,6 @@
 +++
 date = 2013-06-03T16:37:02-07:00
+description = "Turkey’s prime minister takes aim at social media"
 tags = ["politics"]
 title = "Erdogan On Twitter"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T02:22:08-07:00
+description = "Crossing South Korea by train before leaving for Japan"
 tags = ["busan", "incheon", "seoul", "south korea", "travel"]
 title = "South Korea: Seeing The Countryside"
 +++

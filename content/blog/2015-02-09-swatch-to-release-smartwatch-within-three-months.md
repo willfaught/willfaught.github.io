@@ -1,5 +1,6 @@
 +++
 date = 2015-02-09T18:21:05-08:00
+description = "A watchmaker’s skepticism meets the smartwatch market"
 link = "https://cir.ca/s/5WR"
 tags = ["funny"]
 title = "Swatch To Release Smartwatch Within Three Months"

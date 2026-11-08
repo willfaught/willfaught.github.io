@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-02-16T00:09:14-08:00
+description = "Why not make blogging part of Facebook?"
 tags = ["blog", "facebook"]
 title = "Blogs On Facebook"
 +++

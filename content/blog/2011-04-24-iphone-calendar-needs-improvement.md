@@ -1,5 +1,6 @@
 +++
 date = 2011-04-24T19:43:00-07:00
+description = "A calendar view that combines the near future with what’s next"
 tags = ["calendar", "ideas", "iphone"]
 title = "IPhone Calendar Needs Improvement"
 +++

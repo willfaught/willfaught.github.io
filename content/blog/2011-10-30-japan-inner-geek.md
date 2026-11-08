@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T08:05:10-07:00
+description = "A visit to Tsukiji fish market with a fellow traveler"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Inner Geek"
 +++

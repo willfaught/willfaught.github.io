@@ -1,7 +1,7 @@
 +++
 categories = ["life"]
 date = 2023-02-04T14:14:59-08:00
-description = "Theodore Roosevelt on critics."
+description = "Theodore Roosevelt on critics"
 tags = ["inspiring", "speeches", "theodore roosevelt"]
 title = "The Man In The Arena"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-09T16:57:00-07:00
+description = "The Crystal Method provides a track worth repeating"
 tags = ["announcements", "crystal method", "loop", "name of the game", "song"]
 title = "Good Song To Loop"
 +++

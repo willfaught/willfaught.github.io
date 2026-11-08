@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-03-06T07:41:00-08:00
+description = "Knowing lambda calculus and explaining it are different skills"
 tags = ["hard", "lambda calculus", "reflections", "teachers", "teaching"]
 title = "Teaching Is Hard"
 +++

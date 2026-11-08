@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-24T17:13:00-08:00
+description = "Weighing Seattle against the Eastside before temporary housing ends"
 tags = ["apartments", "bellevue", "buses", "capitol hill", "commute", "eastside", "housing", "lake washington", "microsoft", "permanent", "reflections", "seattle", "temporary", "traffic"]
 title = "Quest For Housing"
 +++

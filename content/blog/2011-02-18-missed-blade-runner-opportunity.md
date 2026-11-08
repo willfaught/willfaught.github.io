@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-02-18T12:00:06-08:00
+description = "The question about Deckard that I wanted explored further"
 tags = ["blade runner"]
 title = "Missed Blade Runner Opportunity"
 +++

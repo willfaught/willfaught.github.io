@@ -1,5 +1,6 @@
 +++
 date = 2015-05-26T19:21:14-07:00
+description = "Using embedding to adapt an existing connection"
 link = "https://dave.cheney.net/2015/05/22/struct-composition-with-go?utm_source=golangweekly&utm_medium=email"
 tags = ["go"]
 title = "Struct Composition With Go"

@@ -1,5 +1,6 @@
 +++
 date = 2017-12-13T13:29:16-08:00
+description = "A musical explanation of a memorable game"
 link = "https://www.youtube.com/watch?v=KeKnkaB0MBE"
 tags = ["games", "journey"]
 title = "Finding The Meaning Of Journey In Its Music"

@@ -1,5 +1,6 @@
 +++
 date = 2012-02-27T01:17:23-08:00
+description = "Quiet days and a visit to the Mekong night market"
 tags = ["laos", "travel", "vientiane"]
 title = "Saturday & Sunday, February 18&ndash;19, 2012"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2016-02-25T21:24:01-08:00
+description = "Sometimes better code starts by undoing an abstraction"
 link = "https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
 tags = ["coding"]
 title = "The Wrong Abstraction"

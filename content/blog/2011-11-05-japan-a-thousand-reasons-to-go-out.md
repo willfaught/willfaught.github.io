@@ -1,5 +1,6 @@
 +++
 date = 2011-11-05T09:24:36-07:00
+description = "Exploring Kyoto by bicycle with hostel friends"
 tags = ["japan", "kyoto", "travel"]
 title = "Japan: A Thousand Reasons To Go Out"
 +++

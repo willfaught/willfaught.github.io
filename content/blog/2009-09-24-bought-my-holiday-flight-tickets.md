@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-09-24T23:33:00-07:00
+description = "Comparing fares for a trip home for the holidays"
 tags = ["airlines", "bing", "flights", "priceline", "sacramento", "san francisco", "tickets", "travelocity"]
 title = "Bought My Holiday Flight Tickets"
 +++

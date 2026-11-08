@@ -1,5 +1,6 @@
 +++
 date = 2018-03-31T00:18:52-07:00
+description = "A constant with all the modifiers"
 link = "https://reddit.com/r/cscareerquestions/comments/88b07i/_/dwjbsjp/?context=1"
 tags = ["coding"]
 title = "Current Year"

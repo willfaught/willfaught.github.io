@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-02-03T16:01:07-08:00
+description = "An illustrated tour of number, geometry, music, and cosmology"
 tags = ["education", "quadrivium"]
 title = "Quadrivium"
 +++

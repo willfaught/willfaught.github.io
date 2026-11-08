@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-07-17T22:17:00-07:00
+description = "A cookie setting gets in the way of DNS configuration"
 tags = ["blogger", "dns", "firefox", "godaddy", "safari"]
 title = "GoDaddy"
 +++

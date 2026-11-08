@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-04T15:36:00-07:00
+description = "Why renting films makes more sense for me than collecting them"
 tags = ["amazon", "apple tv", "ipad", "iphone", "itunes", "kindle", "movies", "netflix"]
 title = "Owning Films"
 +++

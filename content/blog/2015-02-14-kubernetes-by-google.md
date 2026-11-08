@@ -1,5 +1,6 @@
 +++
 date = 2015-02-14T15:20:34-08:00
+description = "Google’s approach to scheduling and managing containers"
 link = "https://kubernetes.io"
 tags = ["cluster management"]
 title = "Kubernetes By Google"

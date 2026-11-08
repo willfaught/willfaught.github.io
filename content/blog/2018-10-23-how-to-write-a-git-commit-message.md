@@ -1,5 +1,6 @@
 +++
 date = 2018-10-23T14:59:07-07:00
+description = "Good messages make a useful project history"
 link = "https://chris.beams.io/posts/git-commit/"
 tags = ["coding", "git"]
 title = "How To Write A Git Commit Message"

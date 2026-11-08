@@ -1,5 +1,6 @@
 +++
 date = 2013-03-21T17:02:01-07:00
+description = "Keeping track of the smallest value as elements come and go"
 tags = ["code", "computation"]
 title = "Stack That Tracks The Minimum Element"
 +++

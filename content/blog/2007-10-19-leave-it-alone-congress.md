@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-10-19T13:50:00-07:00
+description = "Questioning regulation aimed at peer-to-peer file sharing"
 tags = ["bittorrent", "congress", "identity theft", "internet", "p2p", "reflections"]
 title = "Leave It Alone, Congress"
 +++

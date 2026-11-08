@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-05-30T16:32:50-07:00
+description = "Finding a place for a tablet between phone and laptop"
 tags = ["apple", "ipad"]
 title = "I Got An IPad"
 +++

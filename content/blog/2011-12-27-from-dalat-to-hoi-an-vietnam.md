@@ -1,5 +1,6 @@
 +++
 date = 2011-12-27T03:42:10-08:00
+description = "Six days on the back of a motorcycle through Vietnam"
 tags = ["easy rider", "travel", "vietnam"]
 title = "From Dalat To Hoi An, Vietnam"
 +++

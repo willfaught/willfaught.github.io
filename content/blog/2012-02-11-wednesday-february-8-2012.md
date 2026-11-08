@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T08:04:41-08:00
+description = "The slow boat carries me onward to Luang Prabang"
 tags = ["laos", "luang prabang", "pakbeng", "travel"]
 title = "Wednesday, February 8, 2012"
 +++

@@ -1,7 +1,7 @@
 +++
 categories = ["world"]
 date = 2023-07-02T21:31:24-07:00
-description = "The numbers of how things affect the release of dopamine."
+description = "The numbers of how things affect the release of dopamine"
 link = "https://www.matthewvere.com/notes/dopamine-nation"
 tags = ["addiction", "dopamine", "sex"]
 title = "Dopamine Nation"

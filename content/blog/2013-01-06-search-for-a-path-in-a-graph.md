@@ -1,5 +1,6 @@
 +++
 date = 2013-01-06T16:31:00-08:00
+description = "A Java graph traversal for checking reachability"
 tags = ["code", "computation"]
 title = "Search For A Path In A Graph"
 +++

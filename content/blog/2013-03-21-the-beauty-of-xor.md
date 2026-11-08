@@ -1,5 +1,6 @@
 +++
 date = 2013-03-21T18:35:47-07:00
+description = "Finding the unpaired integer by canceling duplicates"
 tags = ["computation"]
 title = "The Beauty Of XOR"
 +++

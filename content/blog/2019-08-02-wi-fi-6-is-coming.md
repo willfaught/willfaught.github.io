@@ -1,5 +1,6 @@
 +++
 date = 2019-08-02T17:45:40-07:00
+description = "Better network capacity and battery life are on the way"
 link = "https://9to5mac.com/guides/wi-fi-6/"
 tags = ["tech"]
 title = "Wi-Fi 6 Is Coming"

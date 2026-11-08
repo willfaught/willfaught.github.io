@@ -1,5 +1,6 @@
 +++
 date = 2011-06-10T23:00:06-07:00
+description = "A small change fixes a lifetime of crooked knots"
 link = "https://www.fieggen.com/shoelace/slipping.htm"
 tags = ["fyi", "interesting"]
 title = "Slipping Shoelaces? Crooked Bows?"

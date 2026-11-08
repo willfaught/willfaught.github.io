@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T09:56:55-07:00
+description = "What stood out during my visit to South Korea"
 tags = ["observations", "south korea", "travel"]
 title = "South Korea: Observations"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2015-05-31T15:41:47-07:00
+description = "Standing against the renewal of NSA surveillance powers"
 tags = ["politics", "rand paul"]
 title = "Kudos To Rand Paul"
 +++

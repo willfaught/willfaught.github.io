@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-04T11:39:00-07:00
+description = "Questions about tags, categories, and updating WordPress"
 tags = ["categories", "reflections", "tags", "upgrading", "wordpress"]
 title = "Wordpress Question And Feature Request"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2015-03-29T11:34:27-07:00
+description = "Questioning the choice of drugs used in executions"
 link = "https://cir.ca/s/F7z"
 title = "Texas Finds More Lethal Injection Drugs After Almost Running Out"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-04-07T08:15:00-07:00
+description = "The forecast fails another wardrobe decision"
 tags = ["cold", "hot", "reflections", "uncomfortable", "weather"]
 title = "Sneaky Weather"
 +++

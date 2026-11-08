@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-04-08T18:23:00-07:00
+description = "Questioning the foundations shared by modern operating systems"
 tags = ["operating systems"]
 title = "The State Of Operating Systems"
 +++

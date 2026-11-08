@@ -1,5 +1,6 @@
 +++
 date = 2011-11-05T08:27:23-07:00
+description = "A quiet day in Tokyo ends with okonomiyaki"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Japanese Pancakes &mdash; Sort Of"
 +++

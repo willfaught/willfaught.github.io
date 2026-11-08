@@ -1,5 +1,6 @@
 +++
 date = 2014-11-27T10:07:00-08:00
+description = "Eleven more games, and too little time to play them"
 title = "Steam Fall Sale"
 +++
 

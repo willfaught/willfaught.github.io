@@ -1,5 +1,6 @@
 +++
 date = 2011-06-14T23:00:06-07:00
+description = "A disturbing look at an infested bed"
 link = "https://bedbugger.com/2009/02/21/more-bed-bug-photos-by-dr-louis-sorkin/"
 tags = ["interesting"]
 title = "Bed Bugs In A Wooden Bed Frame, Head Board, And Box Spring"

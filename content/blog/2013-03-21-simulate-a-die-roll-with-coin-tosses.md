@@ -1,5 +1,6 @@
 +++
 date = 2013-03-21T17:41:11-07:00
+description = "Considering fairness and termination when turning coin tosses into rolls"
 tags = ["computation"]
 title = "Simulate A Die Roll With Coin Tosses"
 +++

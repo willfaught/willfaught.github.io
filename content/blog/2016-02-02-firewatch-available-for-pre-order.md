@@ -1,5 +1,6 @@
 +++
 date = 2016-02-02T19:50:08-08:00
+description = "A discount on a game I’ve been waiting for"
 link = "https://store.steampowered.com/app/383870/"
 tags = ["firewatch", "gaming", "steam"]
 title = "Firewatch Available For Pre-Order"

@@ -1,5 +1,6 @@
 +++
 date = 2011-10-18T05:08:00-07:00
+description = "A late start and another attempt to find the palace"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Late Start"
 +++

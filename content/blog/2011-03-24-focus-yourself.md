@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-03-24T15:19:00-07:00
+description = "A Silverlight control needs to request keyboard focus itself"
 tags = ["silverlight"]
 title = "Focus Yourself"
 +++

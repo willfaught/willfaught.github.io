@@ -1,5 +1,6 @@
 +++
 date = 2011-10-23T21:40:00-07:00
+description = "A visit to Cheonjiyeon falls on Jeju island"
 tags = ["jeju", "south korea", "travel"]
 title = "South Korea: All About The Love(in)"
 +++

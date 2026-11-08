@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-03-28T08:26:00-07:00
+description = "An awkward phone greeting turns into helpless laughter"
 tags = ["giggling", "laughing", "microsoft", "mortified", "phone", "sam bent", "stories", "varun puranik"]
 title = "Mortified Giggling"
 +++

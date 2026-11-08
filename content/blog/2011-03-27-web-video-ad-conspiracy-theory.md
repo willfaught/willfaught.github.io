@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-03-27T22:06:00-07:00
+description = "A suspiciously convenient cycle of crashes and repeated ads"
 tags = ["ads"]
 title = "Web Video Ad Conspiracy Theory"
 +++

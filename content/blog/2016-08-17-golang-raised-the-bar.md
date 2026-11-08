@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2016-08-17T19:05:53-07:00
+description = "What a modern programming language should come with"
 tags = ["code", "coding", "engineer", "engineering", "go", "program", "programming", "raise the bar", "software", "swift"]
 title = "Go Raised The Bar"
 +++

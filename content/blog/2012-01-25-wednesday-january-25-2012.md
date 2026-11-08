@@ -1,5 +1,6 @@
 +++
 date = 2012-01-25T06:52:15-08:00
+description = "A beach day at Hat Kata on Ko Phuket"
 tags = ["ko phuket", "thailand", "travel"]
 title = "Wednesday, January 25, 2012"
 +++

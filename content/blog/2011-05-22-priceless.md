@@ -1,5 +1,6 @@
 +++
 date = 2011-05-22T12:00:06-07:00
+description = "The costs of finishing a master’s degree"
 tags = ["dissertation", "stories", "thesis"]
 title = "Priceless"
 +++

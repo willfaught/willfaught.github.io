@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-02-28T17:04:00-08:00
+description = "Family and friends make my birthday special"
 tags = ["belltown", "birthday", "dad", "dan ellis", "drinks", "hallie mass", "mike shim", "mom", "parents", "stories", "sushi", "tom bouldin", "varun puranik"]
 title = "My Birthday"
 +++

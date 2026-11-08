@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-18T16:23:00-07:00
+description = "Arguing for market pressure on insecure software"
 tags = ["computers", "innovation", "laws", "reflections", "security"]
 title = "Let The Market Work Its Magic"
 +++

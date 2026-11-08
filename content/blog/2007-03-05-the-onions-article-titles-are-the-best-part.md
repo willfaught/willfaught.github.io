@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-03-05T18:34:00-08:00
+description = "Sometimes the headline is all the joke I need"
 tags = ["funny", "quotations", "reflections", "the onion", "titles"]
 title = "The Onion's Article Titles Are The Best Part"
 +++

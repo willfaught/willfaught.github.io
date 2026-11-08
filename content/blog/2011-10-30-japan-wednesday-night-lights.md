@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T07:23:00-07:00
+description = "Recovering from a night out and venturing into Tokyo"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Wednesday Night Lights"
 +++

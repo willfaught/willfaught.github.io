@@ -1,5 +1,6 @@
 +++
 date = 2015-05-31T16:49:41-07:00
+description = "An unusually public hint about an unannounced Apple service"
 tags = ["apple", "tv"]
 title = "CBS Spills The Beans On The New Apple Streaming Service"
 +++

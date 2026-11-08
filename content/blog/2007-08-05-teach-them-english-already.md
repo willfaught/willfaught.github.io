@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-05T17:31:00-07:00
+description = "Learning English requires classes people can actually attend"
 tags = ["america", "classes", "english", "immigrants", "new york city", "npr", "reflections", "spanish"]
 title = "Teach Them English Already"
 +++

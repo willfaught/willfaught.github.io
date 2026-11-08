@@ -1,5 +1,6 @@
 +++
 date = 2012-02-27T01:32:00-08:00
+description = "Exploring Angkor Wat and the surrounding temples by tuk tuk"
 tags = ["cambodia", "siem reap", "travel"]
 title = "Tuesday, February 21, 2012"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-10-21T00:58:00-07:00
+description = "An invitation to experience Korean culture in Seoul"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Glimpse Of Korean Culture"
 +++

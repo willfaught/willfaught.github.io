@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-08T16:53:00-07:00
+description = "Thinking about identity through choices and changing circumstances"
 tags = ["babylon 5", "ideas", "identity", "philosophy", "quotations"]
 title = "Who Are You?"
 +++

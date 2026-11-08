@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-06T16:11:00-08:00
+description = "Moving to Seattle with Microsoft’s help"
 tags = ["announcements", "california", "car", "clothes", "fall", "flight", "job", "leaves", "microsoft", "moving", "pictures", "provisions", "roads", "sacramento", "seattle", "shoes", "stories", "thesis", "trees", "washington", "weather", "work"]
 title = "I Moved To Seattle!"
 +++

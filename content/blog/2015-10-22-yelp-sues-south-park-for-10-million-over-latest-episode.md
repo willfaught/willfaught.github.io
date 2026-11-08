@@ -1,5 +1,6 @@
 +++
 date = 2015-10-22T01:01:22-07:00
+description = "An outrageous story about Yelp and South Park"
 link = "https://nbc.com.co/yelp-sues-south-park-for-10-million-over-episode/"
 tags = ["south park", "yelp"]
 title = "Yelp Sues South Park For $10 Million Over Latest Episode"

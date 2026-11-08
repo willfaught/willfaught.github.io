@@ -1,5 +1,6 @@
 +++
 date = 2018-10-23T16:02:54-07:00
+description = "One complete change at a time"
 link = "https://www.freshconsulting.com/atomic-commits/"
 tags = ["coding", "git"]
 title = "Keep Your Commits Atomic"

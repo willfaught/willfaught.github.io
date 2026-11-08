@@ -1,5 +1,6 @@
 +++
 date = 2018-10-29T18:02:19-07:00
+description = "Technical craftsmanship and project management pull in different directions"
 link = "https://www.lambdacambridge.com/blog/2018-05-how-scrum-destroyed-agile"
 tags = ["agile", "coding", "scrum"]
 title = "The Two Faces Of The Agile Manifesto"

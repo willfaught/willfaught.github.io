@@ -1,5 +1,6 @@
 +++
 date = 2011-06-13T22:09:23-07:00
+description = "An unwanted magazine subscription and no obvious refund path"
 tags = ["apple", "questions", "stories"]
 title = "ITunes Charge Dispute"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-10-21T02:48:00-07:00
+description = "Flying to Jeju and navigating the next leg of the journey"
 tags = ["jeju", "south korea", "travel"]
 title = "South Korea: Beoseu Hell"
 +++

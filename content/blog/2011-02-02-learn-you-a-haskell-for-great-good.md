@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-02T08:00:00-08:00
+description = "A playful tutorial with valuable explanations of advanced concepts"
 link = "http://www.learnyouahaskell.com/"
 tags = ["haskell"]
 title = "Learn You A Haskell For Great Good!"

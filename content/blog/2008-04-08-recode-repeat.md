@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-04-08T17:25:00-07:00
+description = "Why do we keep rewriting the same software?"
 tags = ["incompatibility", "interoperability", "modularity", "reflections", "reuse", "software"]
 title = "Recode, Repeat"
 +++

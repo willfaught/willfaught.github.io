@@ -1,5 +1,6 @@
 +++
 date = 2015-06-14T16:03:05-07:00
+description = "Rethinking passwords with Diceware passphrases"
 link = "https://blog.agilebits.com/2011/06/21/toward-better-master-passwords/"
 tags = ["computing", "security"]
 title = "Toward Better Master Passwords"

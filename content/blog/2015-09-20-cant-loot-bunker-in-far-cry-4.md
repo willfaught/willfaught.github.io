@@ -1,5 +1,6 @@
 +++
 date = 2015-09-20T23:42:11-07:00
+description = "A glitch gets you inside Royal Vault III"
 tags = ["far cry 4"]
 title = "Can't Loot Bunker In Far Cry 4"
 +++

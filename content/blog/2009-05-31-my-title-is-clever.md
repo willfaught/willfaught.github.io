@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-05-31T15:39:00-07:00
+description = "A title that lives up to its own claim"
 tags = ["clever", "reflections", "title"]
 title = "My Title Is Clever"
 +++

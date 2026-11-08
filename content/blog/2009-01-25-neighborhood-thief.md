@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-25T15:07:00-08:00
+description = "A shopping trip ends with a missing purchase"
 tags = ["clearasil", "costco", "garage", "home", "neighborhood", "reflections", "robbed", "seattle", "stories", "thief"]
 title = "Neighborhood Thief"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2012-10-08T22:53:00-07:00
+description = "A playlist provides the hidden download-all option"
 tags = ["technology"]
 title = "How To Download All ITunes Match Music Onto An IPhone With IOS 6"
 +++

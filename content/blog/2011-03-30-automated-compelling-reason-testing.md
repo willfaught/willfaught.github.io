@@ -1,6 +1,7 @@
 +++
 categories = ["funny"]
 date = 2011-03-30T16:51:00-07:00
+description = "The upgrade incentive nobody wrote a test for"
 tags = ["funny", "microsoft"]
 title = "Automated Compelling Reason Testing"
 +++

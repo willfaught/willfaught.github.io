@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T01:17:28-07:00
+description = "A flight to Busan and a rainy search for my hostel"
 tags = ["busan", "south korea", "travel"]
 title = "South Korea: So Close, Yet So Far"
 +++

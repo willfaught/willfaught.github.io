@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-01-14T09:00:00-08:00
+description = "An opinion column’s closing line strikes me as ironic"
 tags = ["cal poly", "ignorant", "james koman", "mustang daily", "quotations", "racist", "reflections"]
 title = "Amusing Ending"
 +++

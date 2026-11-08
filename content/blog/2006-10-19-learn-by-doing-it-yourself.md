@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-19T18:37:00-07:00
+description = "Knowing a subject doesn’t guarantee being able to teach it"
 tags = ["bad", "cal poly", "learn by doing", "reflections", "teaching"]
 title = "Learn By Doing...It Yourself?"
 +++

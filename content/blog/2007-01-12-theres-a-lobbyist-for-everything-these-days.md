@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-01-12T17:43:00-08:00
+description = "Dutch height inspires a campaign for more headroom"
 tags = ["bed", "dutch", "height", "length", "lobbiers", "quotations", "tall"]
 title = "There's A Lobbyist For Everything These Days"
 +++

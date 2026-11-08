@@ -1,5 +1,6 @@
 +++
 date = 2012-02-27T01:50:44-08:00
+description = "Flying to Taipei and settling into a familiar hostel"
 tags = ["cambodia", "phnom penh", "taipei", "taiwan", "travel"]
 title = "Saturday, February 25, 2012"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-19T08:24:00-07:00
+description = "Windows behaves once Task Manager is watching"
 tags = ["freezing", "reflections", "service pack", "task manager", "windows"]
 title = "Task Manager Gets Things Done"
 +++

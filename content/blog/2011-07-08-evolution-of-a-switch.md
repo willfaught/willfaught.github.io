@@ -1,5 +1,6 @@
 +++
 date = 2011-07-08T23:00:05-07:00
+description = "A narrower knob makes the iOS switch easier to read"
 tags = ["computation", "opinions"]
 title = "Evolution Of A Switch"
 +++

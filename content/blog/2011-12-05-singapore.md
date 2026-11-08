@@ -1,5 +1,6 @@
 +++
 date = 2011-12-05T07:39:00-08:00
+description = "A missed connection turns into an unexpected overnight visit"
 tags = ["singapore", "travel"]
 title = "Singapore"
 +++

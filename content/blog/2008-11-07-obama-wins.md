@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-07T14:04:00-08:00
+description = "Watching election night with a smile I couldn’t shake"
 tags = ["america", "cnn", "daily show", "election", "mccain", "mom", "obama", "reflections", "south park"]
 title = "Obama Wins!"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-12-12T00:52:46-08:00
+description = "Searching for river life beyond the tourist stops"
 tags = ["mekong delta", "travel", "vietnam"]
 title = "Mekong Delta, Vietnam"
 +++

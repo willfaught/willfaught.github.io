@@ -1,5 +1,6 @@
 +++
 date = 2011-10-18T06:38:00-07:00
+description = "An unplanned hike up Bukhansan with a hostel friend"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Thighs Of Steel (to Come)"
 +++

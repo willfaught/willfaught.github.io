@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-20T19:06:00-08:00
+description = "My first visit to a shooting range"
 tags = ["birthday", "guns", "jose", "pistols", "shooting range", "stories"]
 title = "Just In Case I Have To Kill My Dinner"
 +++

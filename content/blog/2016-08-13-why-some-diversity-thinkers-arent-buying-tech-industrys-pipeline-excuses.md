@@ -1,5 +1,6 @@
 +++
 date = 2016-08-13T00:45:39-07:00
+description = "How childhood expectations shape the technology talent pool"
 link = "https://www.npr.org/sections/alltechconsidered/2016/07/19/486511816/why-some-diversity-thinkers-arent-buying-the-tech-industrys-excuses"
 tags = ["coding", "computation", "computer science", "computers", "computing", "feminism", "npr", "planet money", "programming", "tech", "technology"]
 title = "Why Some Diversity Thinkers Aren't Buying Tech Industry's 'Pipeline' Excuses"

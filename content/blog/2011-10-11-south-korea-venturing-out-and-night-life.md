@@ -1,5 +1,6 @@
 +++
 date = 2011-10-11T08:31:00-07:00
+description = "Getting acquainted with Seoul’s food, metro, and nightlife"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Venturing Out And Night Life"
 +++

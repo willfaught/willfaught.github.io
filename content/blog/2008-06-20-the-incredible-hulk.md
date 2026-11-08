@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-20T17:25:00-07:00
+description = "Plenty of action, but not much for Edward Norton to work with"
 tags = ["domain names", "edward norton", "movie", "reflections", "the incredible hulk"]
 title = "The Incredible Hulk"
 +++

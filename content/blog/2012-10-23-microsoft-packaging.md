@@ -1,5 +1,6 @@
 +++
 date = 2012-10-23T21:45:00-07:00
+description = "A parody of Microsoft’s approach to product packaging"
 tags = ["funny"]
 title = "Microsoft Packaging"
 +++

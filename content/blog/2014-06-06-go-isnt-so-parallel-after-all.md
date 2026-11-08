@@ -1,5 +1,6 @@
 +++
 date = 2014-06-06T11:20:04-07:00
+description = "The Go runtime’s single-core default disappoints"
 tags = ["computing"]
 title = "Go Isn't So Parallel After All"
 +++

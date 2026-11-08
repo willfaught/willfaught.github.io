@@ -1,5 +1,6 @@
 +++
 date = 2016-03-30T11:45:42-07:00
+description = "Distributed SQL with a remarkably simple deployment model"
 link = "https://www.cockroachlabs.com/blog/cockroachdb-skitters-beta/"
 tags = ["beta", "cockroach", "cockroachdb", "newsql", "sql"]
 title = "\"CockroachDB Skitters Into Beta\""

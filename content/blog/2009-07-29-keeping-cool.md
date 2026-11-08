@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-07-29T16:49:00-07:00
+description = "Trying to sleep through Seattle’s 105-degree heat"
 tags = ["english", "epitamy", "epitome", "heat", "led zeppelin", "seattle", "stairway to heaven", "stories"]
 title = "Keeping Cool"
 +++

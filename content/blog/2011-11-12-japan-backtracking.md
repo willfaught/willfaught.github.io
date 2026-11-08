@@ -1,5 +1,6 @@
 +++
 date = 2011-11-12T08:04:38-08:00
+description = "A long train journey back toward Narita airport"
 tags = ["hiroshima", "japan", "narita", "tokyo", "travel"]
 title = "Japan: Backtracking"
 +++

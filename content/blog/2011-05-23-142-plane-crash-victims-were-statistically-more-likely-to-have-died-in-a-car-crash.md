@@ -1,5 +1,6 @@
 +++
 date = 2011-05-23T12:00:06-07:00
+description = "Fear of flying is also about losing control"
 link = "https://feeds.theonion.com/~r/theonion/daily/~3/A_os60jrdOA/"
 tags = ["funny", "opinions", "the onion"]
 title = "142 Plane Crash Victims Were Statistically More Likely To Have Died In A Car Crash"

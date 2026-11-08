@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-25T16:57:00-07:00
+description = "The fascination of seeing a game’s unfinished worlds"
 tags = ["alpha", "beta", "ideas", "reality", "video games", "zelda"]
 title = "A Video Game Idea"
 +++

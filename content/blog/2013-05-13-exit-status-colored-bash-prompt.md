@@ -1,5 +1,6 @@
 +++
 date = 2013-05-13T23:35:37-07:00
+description = "A compact prompt that changes color when a command fails"
 tags = ["computation"]
 title = "Exit Status-Colored Bash Prompt"
 +++

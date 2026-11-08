@@ -1,5 +1,6 @@
 +++
 date = 2015-02-15T13:02:34-08:00
+description = "Paul Graham on recognizing work that suits you"
 link = "http://www.paulgraham.com/work.html"
 title = "What Doesn't Seem Like Work?"
 +++

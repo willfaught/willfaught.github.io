@@ -1,5 +1,6 @@
 +++
 date = 2016-04-06T08:45:08-07:00
+description = "A disturbing reason to think twice about lake water"
 link = "https://www.nbcnews.com/id/21034344/ns/health-infectious_diseases/t/die-brain-eating-amoeba-after-swimming/"
 tags = ["amoeba", "brain", "death"]
 title = "6 Die From Brain-Eating Amoeba"

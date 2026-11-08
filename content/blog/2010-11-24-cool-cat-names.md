@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-11-24T18:27:00-08:00
+description = "A list of possibilities, mostly borrowed from Shakespeare"
 tags = ["cats", "names", "shakespeare"]
 title = "Cool Cat Names"
 +++

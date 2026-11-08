@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T01:41:24-07:00
+description = "A coastal temple visit near Busan"
 tags = ["busan", "south korea", "travel"]
 title = "South Korea: Gumi Bears FTW"
 +++

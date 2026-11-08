@@ -1,5 +1,6 @@
 +++
 date = 2013-01-06T22:15:00-08:00
+description = "Grouping a binary tree’s nodes by depth"
 tags = ["code", "computation"]
 title = "Partition Tree Nodes By Level"
 +++

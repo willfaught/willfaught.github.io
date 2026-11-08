@@ -1,5 +1,6 @@
 +++
 date = 2016-07-13T23:54:14-07:00
+description = "Redis failover meets the realities of network partitions"
 link = "https://aphyr.com/posts/283-call-me-maybe-redis"
 tags = ["aphyr", "coding", "database", "jepsen", "programming", "redis"]
 title = "Aphyr Tests Redis Withxa0Jepsen"

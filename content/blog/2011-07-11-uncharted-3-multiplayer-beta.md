@@ -1,5 +1,6 @@
 +++
 date = 2011-07-11T23:00:05-07:00
+description = "Too many systems and too little time to survive"
 tags = ["games", "opinions"]
 title = "Uncharted 3 Multiplayer Beta"
 +++

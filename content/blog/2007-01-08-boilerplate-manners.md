@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-01-08T17:43:00-08:00
+description = "Imagining a more automated way to write thank-you cards"
 tags = ["christmas", "manners", "reflections", "templates", "thank you cards"]
 title = "Boilerplate Manners"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-15T13:37:00-07:00
+description = "Questioning a familiar interpretation of buildings and monuments"
 tags = ["freud", "human", "phallic", "phallus", "reflections", "symbolism", "symbols", "works"]
 title = "Human Works As Phallic Symbols"
 +++

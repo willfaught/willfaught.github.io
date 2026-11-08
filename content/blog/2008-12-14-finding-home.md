@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-12-14T14:15:00-08:00
+description = "Finding an apartment through Microsoft’s relocation service"
 tags = ["apartment", "building", "housing", "microsoft", "properties", "renting", "search", "seattle", "stories", "tour"]
 title = "Finding Home"
 +++

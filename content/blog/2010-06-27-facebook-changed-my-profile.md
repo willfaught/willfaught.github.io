@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-06-27T08:43:22-07:00
+description = "Automatically linked pages change the meaning of my profile"
 tags = ["facebook"]
 title = "Facebook Changed My Profile"
 +++

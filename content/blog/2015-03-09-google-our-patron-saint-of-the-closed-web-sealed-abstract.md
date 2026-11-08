@@ -1,5 +1,6 @@
 +++
 date = 2015-03-09T15:24:40-07:00
+description = "Questions about Google’s plans for the .dev domain"
 link = "https://sealedabstract.com/rants/google-our-patron-saint-of-the-closed-web/"
 title = "Google, Our Patron Saint Of The Closed Web | Sealed Abstract"
 +++

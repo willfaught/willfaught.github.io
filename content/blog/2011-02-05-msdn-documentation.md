@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-05T08:00:07-08:00
+description = "Documentation that restates names instead of explaining behavior"
 tags = ["documentation", "javadocs", "msdn"]
 title = "MSDN Documentation"
 +++

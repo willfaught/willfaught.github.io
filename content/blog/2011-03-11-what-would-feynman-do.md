@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-03-11T12:00:08-08:00
+description = "Imagining Feynman in a software engineering interview"
 link = "https://blogs.msdn.com/b/ericlippert/archive/2011/02/14/what-would-feynman-do.aspx?PageIndex=1"
 tags = ["feynman", "interview", "software"]
 title = "What Would Feynman Do?"

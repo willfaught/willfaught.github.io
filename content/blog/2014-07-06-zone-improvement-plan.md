@@ -1,5 +1,6 @@
 +++
 date = 2014-07-06T00:35:14-07:00
+description = "The surprisingly descriptive words behind ZIP codes"
 link = "https://en.wikipedia.org/wiki/ZIP_code"
 tags = ["random"]
 title = "Zone Improvement Plan"

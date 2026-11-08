@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-12T16:34:00-07:00
+description = "Could simulating a brain be enough to reproduce intelligence?"
 tags = ["artificial intelligence", "computation", "computers", "concurrency", "ideas", "reflections", "turing machines"]
 title = "Artificial Intelligence"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2012-01-21T07:46:00-08:00
+description = "Snorkeling among the islands of Angthong Marine Park"
 tags = ["ko samui", "thailand", "travel"]
 title = "Wednesday, January 18, 2012"
 +++

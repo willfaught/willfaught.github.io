@@ -1,5 +1,6 @@
 +++
 date = 2017-03-16T15:16:51-07:00
+description = "A familiar programming language breakup, with blanks to fill in"
 link = "https://medium.com/@igorhorst/why-i-left-language-1-for-language-2-1d2fa418cd4c#.7w24d4dst"
 tags = ["programming"]
 title = "Why I Left Language 1 For Language 2"

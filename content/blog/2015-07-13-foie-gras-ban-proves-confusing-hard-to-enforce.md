@@ -1,5 +1,6 @@
 +++
 date = 2015-07-13T00:29:44-07:00
+description = "An expensive cracker gets around a ban"
 link = "https://m.sfgate.com/food/article/Foie-gras-ban-proves-confusing-hard-to-enforce-3676731.php"
 title = "Foie Gras Ban Proves Confusing, Hard To Enforce"
 +++

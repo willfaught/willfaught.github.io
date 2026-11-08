@@ -1,5 +1,6 @@
 +++
 date = 2012-10-22T17:09:00-07:00
+description = "Predicting how Apple will name its smaller tablet"
 tags = ["technology"]
 title = "The Name Of The New Small IPad"
 +++

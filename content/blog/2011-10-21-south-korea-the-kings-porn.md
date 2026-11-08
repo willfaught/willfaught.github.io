@@ -1,5 +1,6 @@
 +++
 date = 2011-10-21T01:26:00-07:00
+description = "Planning the next stops after Seoul"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: The King's Porn"
 +++

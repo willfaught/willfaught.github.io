@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-11-27T17:41:00-08:00
+description = "An instrument that seems too cheerful for an angry musician"
 tags = ["anger", "expression", "harp", "musician", "reflections"]
 title = "My Thoughts On The Harp"
 +++

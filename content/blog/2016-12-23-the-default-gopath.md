@@ -1,5 +1,6 @@
 +++
 date = 2016-12-23T15:08:17-08:00
+description = "One less environment variable to configure in Go 1.8"
 link = "https://rakyll.org/default-gopath/"
 tags = ["go", "go", "programming"]
 title = "The Default GOPATH"

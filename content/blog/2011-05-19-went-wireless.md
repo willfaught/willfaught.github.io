@@ -1,5 +1,6 @@
 +++
 date = 2011-05-19T12:00:06-07:00
+description = "A wireless keyboard and trackpad clear my desk"
 tags = ["opinions", "stories"]
 title = "Went Wireless"
 +++

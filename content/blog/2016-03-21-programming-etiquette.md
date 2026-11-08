@@ -1,5 +1,6 @@
 +++
 date = 2016-03-21T17:32:35-07:00
+description = "Some abbreviations are better left unwritten"
 tags = ["cnt", "programming"]
 title = "Programming Etiquette"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-08T17:23:00-07:00
+description = "A disturbing film with a frustratingly underused advantage"
 tags = ["blindness", "movie", "reflections", "review"]
 title = "Blindness"
 +++

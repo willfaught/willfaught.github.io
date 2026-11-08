@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T08:50:32-07:00
+description = "Changing hostels and taking it easy in Tokyo"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Sick"
 +++

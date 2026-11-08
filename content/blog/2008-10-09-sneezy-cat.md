@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-10-09T16:48:00-07:00
+description = "My cat develops a persistent sneeze"
 tags = ["cat", "questions", "sneeze"]
 title = "Sneezy Cat"
 +++

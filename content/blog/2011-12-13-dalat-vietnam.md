@@ -1,5 +1,6 @@
 +++
 date = 2011-12-13T02:53:00-08:00
+description = "New friends and cooler weather in Vietnam’s highlands"
 tags = ["dalat", "travel", "vietnam"]
 title = "Dalat, Vietnam"
 +++

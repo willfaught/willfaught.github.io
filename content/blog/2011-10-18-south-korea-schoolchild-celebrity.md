@@ -1,5 +1,6 @@
 +++
 date = 2011-10-18T07:36:00-07:00
+description = "Exploring Gyeongbokgung with a fellow traveler"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Schoolchild Celebrity"
 +++

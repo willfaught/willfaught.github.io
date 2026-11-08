@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-07T15:21:00-08:00
+description = "A snowy holiday flight becomes a series of delays"
 tags = ["airplane", "flight", "grievances", "ice", "sacramento", "seattle", "snow", "spokane", "stories", "taxi", "weather"]
 title = "Airing Of Grievances"
 +++

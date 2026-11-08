@@ -1,5 +1,6 @@
 +++
 date = 2013-04-27T14:54:53-07:00
+description = "Putting Homebrew’s binaries ahead of the system versions"
 tags = ["computation"]
 title = "Homebrew And The OS X $PATH"
 +++

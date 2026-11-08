@@ -1,5 +1,6 @@
 +++
 date = 2012-01-25T06:56:59-08:00
+description = "Welcoming the new year at Taipei’s landmark tower"
 tags = ["travel", "videos"]
 title = "Taipei 101 Fireworks"
 +++

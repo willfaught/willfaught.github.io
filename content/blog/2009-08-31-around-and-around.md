@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-08-31T21:02:00-07:00
+description = "Shampoo and conditioner refuse to run out together"
 tags = ["conditioner", "herbal essences", "scam", "shampoo"]
 title = "Around And Around"
 +++

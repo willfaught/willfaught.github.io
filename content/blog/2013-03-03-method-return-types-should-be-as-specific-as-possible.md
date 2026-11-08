@@ -1,5 +1,6 @@
 +++
 date = 2013-03-03T12:05:00-08:00
+description = "Give callers the strongest useful return interface"
 link = "https://docs.oracle.com/javase/tutorial/collections/interoperability/api-design.html"
 tags = ["computation"]
 title = "Method Return Types Should Be As Specific As Possible"

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-09-29T05:48:00-07:00
+description = "A Law and Order episode exposes an irony in dangerous prisons"
 tags = ["hypocrisy", "irony", "law and order", "prison", "reflections"]
 title = "Prison Hypocrisy"
 +++

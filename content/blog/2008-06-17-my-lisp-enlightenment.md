@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-17T16:54:00-07:00
+description = "An explanation of evaluators makes something click"
 tags = ["lisp", "reflections", "universal machine"]
 title = "My Lisp Enlightenment"
 +++

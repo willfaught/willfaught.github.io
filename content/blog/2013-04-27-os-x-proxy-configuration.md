@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2013-04-27T14:47:00-07:00
+description = "Getting command-line programs to use an HTTP proxy"
 tags = ["configuration", "osx", "proxy"]
 title = "OS X Proxy Configuration"
 +++

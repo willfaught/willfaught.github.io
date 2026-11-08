@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-08T18:46:00-08:00
+description = "Playing tourist before settling into Seattle life"
 tags = ["monorail", "mt. rainier", "park", "seattle", "seattle center", "space needle", "stories", "westfield center"]
 title = "Space Needle"
 +++

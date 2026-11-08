@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T09:06:28-07:00
+description = "A cold keeps me inside in Tokyo"
 tags = ["japan", "tokyo", "travel"]
 title = "Japan: Day Of Rest"
 +++

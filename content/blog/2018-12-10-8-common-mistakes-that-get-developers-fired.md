@@ -1,5 +1,6 @@
 +++
 date = 2018-12-10T19:14:20-08:00
+description = "Bad judgment is one thing. Lying about it is another"
 link = "https://www.sitepoint.com/8-common-mistakes-that-get-developers-fired/"
 tags = ["coding"]
 title = "\"8 Common Mistakes That Get Developers Fired\""

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-16T18:32:00-07:00
+description = "An xkcd comic finds the right command for a sandwich"
 tags = ["funny", "quotations", "sandwich", "sudo", "xkcd"]
 title = "Sudo Read This"
 +++

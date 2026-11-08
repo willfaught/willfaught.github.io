@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-08-23T13:07:00-07:00
+description = "Favorite passages on programming and the software business"
 tags = ["coding", "essays", "languages", "paul graham"]
 title = "Paul Graham"
 +++

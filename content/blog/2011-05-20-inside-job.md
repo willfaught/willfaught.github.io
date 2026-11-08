@@ -1,5 +1,6 @@
 +++
 date = 2011-05-20T12:00:05-07:00
+description = "A documentary makes the financial crisis easier to understand"
 tags = ["movies", "opinions"]
 title = "Inside Job"
 +++

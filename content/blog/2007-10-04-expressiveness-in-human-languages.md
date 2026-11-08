@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-10-04T18:03:00-07:00
+description = "Could the language you speak shape what you can think?"
 tags = ["expressiveness", "human", "ideas", "languages", "predispositions", "programming"]
 title = "Expressiveness In Human Languages"
 +++

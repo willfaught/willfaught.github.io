@@ -1,5 +1,6 @@
 +++
 date = 2016-07-12T22:11:00-07:00
+description = "Moving from two-step verification to Apple’s newer system"
 link = "https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/"
 tags = ["2fa", "apple", "icloud", "security", "verification"]
 title = "Switching To Apple's Two-Factor Authentication"

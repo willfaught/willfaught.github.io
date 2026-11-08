@@ -1,5 +1,6 @@
 +++
 date = 2016-04-05T18:04:57-07:00
+description = "Private messages and calls become encrypted by default"
 link = "https://blog.whatsapp.com/10000618/end-to-end-encryption"
 tags = ["encryption", "whatsapp"]
 title = "WhatsApp Adds End-To-End Encryption"

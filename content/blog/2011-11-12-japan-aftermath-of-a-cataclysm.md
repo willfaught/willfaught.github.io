@@ -1,5 +1,6 @@
 +++
 date = 2011-11-12T07:39:29-08:00
+description = "A moving visit to Hiroshima’s bombing memorials and museum"
 tags = ["hiroshima", "japan", "travel"]
 title = "Japan: Aftermath Of A Cataclysm"
 +++

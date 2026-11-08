@@ -1,5 +1,6 @@
 +++
 date = 2011-11-24T03:59:53-08:00
+description = "Flying from Japan through Shanghai to Hong Kong"
 tags = ["hong kong", "japan", "narita", "travel"]
 title = "Hong Kong: Long Day Of Traveling"
 +++

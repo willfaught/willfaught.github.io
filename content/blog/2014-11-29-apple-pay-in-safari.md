@@ -1,5 +1,6 @@
 +++
 date = 2014-11-29T12:13:13-08:00
+description = "Wishing for easier, more secure payments on the web"
 title = "Apple Pay In Safari"
 +++
 

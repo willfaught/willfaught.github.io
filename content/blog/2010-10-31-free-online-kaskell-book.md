@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-10-31T11:10:00-07:00
+description = "A free introduction to Haskell with a playful approach"
 tags = ["coding", "haskell"]
 title = "Free Online Haskell Book"
 +++

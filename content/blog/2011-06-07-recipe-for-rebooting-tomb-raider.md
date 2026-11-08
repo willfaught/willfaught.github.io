@@ -1,5 +1,6 @@
 +++
 date = 2011-06-07T01:14:00-07:00
+description = "Lara Croft gets upgrades, skills, and a base camp"
 link = "https://ps3.ign.com/articles/117/1173370p1.html"
 tags = ["games", "opinions", "quotations"]
 title = "Recipe For Rebooting Tomb Raider"

@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T07:55:49-08:00
+description = "Beautiful scenery on the slow boat to Pakbeng"
 tags = ["huay xai", "laos", "pakbeng", "travel"]
 title = "Tuesday, February 7, 2012"
 +++

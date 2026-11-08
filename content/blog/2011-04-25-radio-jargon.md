@@ -1,5 +1,6 @@
 +++
 date = 2011-04-25T00:07:00-07:00
+description = "Decoding a line from the dropship pilot in Aliens"
 tags = ["fyi", "jargon", "radio"]
 title = "Radio Jargon"
 +++

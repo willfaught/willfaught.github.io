@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-07-15T16:05:09-07:00
+description = "A steep hike leaves me hobbling but rewarded"
 tags = ["andrew wang", "hiking", "mailbox peak"]
 title = "Mailbox Peak"
 +++

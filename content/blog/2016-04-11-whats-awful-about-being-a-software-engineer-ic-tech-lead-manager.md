@@ -1,5 +1,6 @@
 +++
 date = 2016-04-11T16:09:18-07:00
+description = "The frustrations that come with each engineering role"
 link = "https://www.onebigfluke.com/2016/04/whats-awful-building-software.html?m=1"
 tags = ["management", "programming"]
 title = "What's Awful About Being A Software Engineer IC, Tech Lead & Manager"

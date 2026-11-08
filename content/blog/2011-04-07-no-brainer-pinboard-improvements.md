@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-04-07T12:01:00-07:00
+description = "Two small changes that would make bookmarking easier"
 tags = ["pinboard"]
 title = "No-Brainer Pinboard Improvements"
 +++

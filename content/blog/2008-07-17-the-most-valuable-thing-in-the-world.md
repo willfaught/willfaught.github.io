@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-07-17T21:30:00-07:00
+description = "A Zen exchange about a price nobody can name"
 tags = ["quotations", "story", "zen"]
 title = "The Most Valuable Thing In The World"
 +++

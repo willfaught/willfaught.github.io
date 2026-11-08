@@ -1,5 +1,6 @@
 +++
 date = 2015-10-25T18:34:14-07:00
+description = "Fitting many small lightmaps into larger textures"
 link = "https://www.blackpawn.com/texts/lightmaps/default.html"
 tags = ["algorithms", "binpacking", "coding", "lightmaps"]
 title = "Packing Lightmaps"

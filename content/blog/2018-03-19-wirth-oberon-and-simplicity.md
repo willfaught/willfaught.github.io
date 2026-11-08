@@ -1,5 +1,6 @@
 +++
 date = 2018-03-19T14:04:27-07:00
+description = "Measuring compiler complexity through self-compilation speed"
 link = "https://web.archive.org/web/20180626230640/https://gmacd.net/simplicity/2013/04/25/wirth-oberon-and-simplicity.html"
 tags = ["coding", "go", "oberon"]
 title = "Wirth, Oberon And Simplicity"

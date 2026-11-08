@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-02-20T16:37:00-08:00
+description = "A chance conversation on a holiday flight stays with me"
 tags = ["birthday", "dan ellis", "hallie mass", "improbable", "michelle lee", "microsoft", "nate black", "rae dixon", "seize the day", "stories", "sushi"]
 title = "Improbable"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-04-09T19:20:00-07:00
+description = "A shopping site goes overboard with Flash"
 link = "https://www.baldessarini.com/"
 tags = ["flash", "opinions"]
 title = "Seriously, They Still Make You?"

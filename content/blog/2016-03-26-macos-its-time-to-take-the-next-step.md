@@ -1,5 +1,6 @@
 +++
 date = 2016-03-26T19:13:40-07:00
+description = "A vision for the Mac’s next generation of apps"
 link = "https://blog.prototypr.io/macos-it-s-time-to-take-the-next-step-ee7871ccd3c7#.my414arfi"
 tags = ["appkit", "apple", "apps", "filesystems", "os x", "uikit"]
 title = "MacOS: It's Time To Take The Next Step"

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-07-24T17:00:00-07:00
+description = "Auntie Muriel inspires thoughts about the privileges of age"
 tags = ["harry potter", "old", "reflections", "seniority"]
 title = "Patience, Monty...Climb The Ladder"
 +++

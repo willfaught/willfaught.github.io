@@ -1,5 +1,6 @@
 +++
 date = 2013-03-09T16:02:00-08:00
+description = "Don’t leave Java’s executor threads running"
 tags = ["computation"]
 title = "Remember To Shut Down ExecutorService"
 +++

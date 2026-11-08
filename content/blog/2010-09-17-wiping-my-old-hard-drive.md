@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-17T23:04:00-07:00
+description = "Preparing a desktop computer for donation with an Ubuntu live disc"
 tags = ["hard drive", "ubuntu"]
 title = "Wiping My Old Hard Drive"
 +++

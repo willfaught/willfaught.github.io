@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T06:41:27-08:00
+description = "Arriving in Krabi and finding dinner at a street market"
 tags = ["krabi", "thailand", "travel"]
 title = "Saturday, January 28, 2012"
 +++

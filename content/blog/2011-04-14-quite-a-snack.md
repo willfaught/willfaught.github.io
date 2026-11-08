@@ -1,5 +1,6 @@
 +++
 date = 2011-04-14T19:46:00-07:00
+description = "A decidedly monstrous account of Arianna Huffington’s hospitality"
 tags = ["aol", "arianna huffington", "funny"]
 title = "Quite A Snack"
 +++

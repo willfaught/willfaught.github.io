@@ -1,5 +1,6 @@
 +++
 date = 2011-05-21T12:00:06-07:00
+description = "Editing one post after it has spread across social networks"
 tags = ["ideas"]
 title = "Social Surgery"
 +++

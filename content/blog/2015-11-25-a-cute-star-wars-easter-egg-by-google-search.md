@@ -1,5 +1,6 @@
 +++
 date = 2015-11-25T14:18:30-08:00
+description = "A familiar opening crawl comes to search results"
 link = "https://www.google.com/search?q=a%20long%20time%20ago%20in%20a%20galaxy%20far%20far%20away&cad=h"
 tags = ["google", "star wars"]
 title = "A Cute Star Wars Easter Egg By Google Search"

@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T07:01:38-08:00
+description = "Feeding and washing elephants at Elephant Nature Park"
 tags = ["chiang mai", "thailand", "travel"]
 title = "Wednesday, February 1, 2012"
 +++

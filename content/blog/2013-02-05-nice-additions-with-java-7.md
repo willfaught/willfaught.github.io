@@ -1,5 +1,6 @@
 +++
 date = 2013-02-05T01:02:00-08:00
+description = "A few welcome improvements to Java’s syntax"
 tags = ["computation"]
 title = "Nice Additions With Java 7"
 +++

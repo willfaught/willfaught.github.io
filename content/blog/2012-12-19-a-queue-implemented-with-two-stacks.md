@@ -1,5 +1,6 @@
 +++
 date = 2012-12-19T20:39:00-08:00
+description = "Building first-in, first-out behavior from stacks"
 tags = ["code", "computation"]
 title = "A Queue Implemented With Two Stacks"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2014-11-11T22:08:32-08:00
+description = "A missing gem gets recommended as its own alternative"
 title = "Helpful Error"
 +++
 

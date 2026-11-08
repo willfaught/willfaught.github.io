@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-23T18:37:00-07:00
+description = "Getting stumped by the easy part of an exam"
 tags = ["class", "midterm", "nfa", "reflections", "theory of computation"]
 title = "Stupid NFAs"
 +++

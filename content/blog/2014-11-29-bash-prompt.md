@@ -1,5 +1,6 @@
 +++
 date = 2014-11-29T12:22:00-08:00
+description = "A minimal prompt with colors for status and branch"
 tags = ["computing"]
 title = "Bash Prompt"
 +++

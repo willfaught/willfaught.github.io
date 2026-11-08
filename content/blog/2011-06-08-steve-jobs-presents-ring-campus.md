@@ -1,5 +1,6 @@
 +++
 date = 2011-06-08T00:23:50-07:00
+description = "Apple’s proposed Cupertino campus goes before the city council"
 tags = ["apple", "interesting"]
 title = "Steve Jobs Presents Ring Campus"
 +++

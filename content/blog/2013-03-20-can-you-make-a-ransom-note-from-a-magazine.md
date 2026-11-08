@@ -1,5 +1,6 @@
 +++
 date = 2013-03-20T18:59:17-07:00
+description = "Counting characters to see whether the letters are available"
 tags = ["code", "computation"]
 title = "Can You Make A Ransom Note From A Magazine?"
 +++

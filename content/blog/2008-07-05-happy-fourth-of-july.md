@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-07-05T20:18:00-07:00
+description = "Fireworks on the beach at Pismo"
 tags = ["barbecue", "beach", "esther", "fireworks", "fourth of july", "independence day", "pier", "pismo", "stories"]
 title = "Happy Fourth Of July!"
 +++

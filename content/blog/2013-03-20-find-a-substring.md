@@ -1,5 +1,6 @@
 +++
 date = 2013-03-20T19:36:23-07:00
+description = "A Java implementation of substring matching"
 tags = ["code", "computation"]
 title = "Find A Substring"
 +++

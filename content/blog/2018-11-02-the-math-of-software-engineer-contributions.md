@@ -1,5 +1,6 @@
 +++
 date = 2018-11-02T23:00:12-07:00
+description = "Dividers, subtracters, adders, and multipliers"
 link = "https://web.archive.org/web/20120211164647/http://michaelochurch.wordpress.com/2012/01/26/the-trajectory-of-a-software-engineer-and-where-it-all-goes-wrong/"
 tags = ["coding", "management"]
 title = "The Math Of Software Engineer Contributions"

@@ -1,5 +1,6 @@
 +++
 date = 2011-07-19T00:48:44-07:00
+description = "Finding temporary coverage between jobs"
 tags = ["fyi"]
 title = "Short Term Health Insurance"
 +++

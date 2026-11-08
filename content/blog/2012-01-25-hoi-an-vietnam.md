@@ -1,5 +1,6 @@
 +++
 date = 2012-01-25T07:16:07-08:00
+description = "Shopping and settling in after the ride to Hoi An"
 tags = ["hoi an", "travel", "vietnam"]
 title = "Hoi An, Vietnam"
 +++

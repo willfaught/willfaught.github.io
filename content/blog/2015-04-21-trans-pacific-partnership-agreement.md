@@ -1,5 +1,6 @@
 +++
 date = 2015-04-21T21:39:55-07:00
+description = "The EFF’s objections to a secretive trade agreement"
 link = "https://www.eff.org/issues/tpp"
 tags = ["congress", "eff", "tpp"]
 title = "Trans-Pacific Partnership Agreement"

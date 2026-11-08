@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-05T16:28:00-07:00
+description = "Another frustrating inconsistency in English"
 tags = ["definitions", "english", "flammable", "inflammable", "reflections"]
 title = "Flammable = Inflammable"
 +++

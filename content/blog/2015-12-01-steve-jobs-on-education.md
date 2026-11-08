@@ -1,5 +1,6 @@
 +++
 date = 2015-12-01T13:59:48-08:00
+description = "An interview from his NeXT years on improving education"
 tags = ["apple", "interview", "next", "steve jobs"]
 title = "Steve Jobs On Education"
 +++

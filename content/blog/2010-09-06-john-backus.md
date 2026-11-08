@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-06T00:45:00-07:00
+description = "A favorite paper makes the case for functional programming"
 tags = ["coding", "john backus", "languages", "papers"]
 title = "John Backus"
 +++

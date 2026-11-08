@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-22T14:50:00-08:00
+description = "An uneasy morning as Microsoft announces layoffs"
 tags = ["layoffs", "microsoft", "redmond", "reflections", "work"]
 title = "Still Here"
 +++

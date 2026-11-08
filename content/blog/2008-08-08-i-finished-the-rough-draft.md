@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-08-08T08:56:00-07:00
+description = "A major thesis milestone, with more work still ahead"
 tags = ["announcements", "friends", "slo", "summer", "thesis"]
 title = "I Finished The Rough Draft"
 +++

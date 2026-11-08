@@ -1,5 +1,6 @@
 +++
 date = 2012-02-26T09:15:46-08:00
+description = "Moving into a private room and taking a day off"
 tags = ["laos", "travel", "vang vieng"]
 title = "Tuesday, February 14, 2012"
 +++

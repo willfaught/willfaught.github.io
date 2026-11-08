@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-07-25T17:53:00-07:00
+description = "Recollections of a vacation with Heather in Central America"
 tags = ["corn islands", "granada", "managua", "masaya", "nicaragua", "stories", "travel", "vacation"]
 title = "Nicaragua"
 +++

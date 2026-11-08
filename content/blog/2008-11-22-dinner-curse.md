@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-22T13:40:00-08:00
+description = "A tuna casserole joins my run of disappointing dinners"
 tags = ["casserole", "cooking", "dinner", "food", "garbage disposal", "kitchen", "onion", "sink", "smell", "stories", "tuna"]
 title = "Dinner Curse"
 +++

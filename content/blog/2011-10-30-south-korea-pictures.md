@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T02:56:37-07:00
+description = "Photo albums from my travels in South Korea"
 tags = ["pictures", "south korea", "travel"]
 title = "South Korea Pictures"
 +++

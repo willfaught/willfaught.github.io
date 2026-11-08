@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-14T15:33:00-08:00
+description = "A new job brings the ordeal of waking before nine"
 tags = ["brian chapman", "colleagues", "development lead", "dwayne need", "functional programming", "manager", "microsoft", "office", "office mate", "orientation", "reflections", "sleep", "stories", "varun puranik", "work"]
 title = "Starting At Microsoft"
 +++

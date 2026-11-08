@@ -1,5 +1,6 @@
 +++
 date = 2013-03-11T19:21:00-07:00
+description = "Recursively comparing two trees as mirror images"
 tags = ["code", "computation"]
 title = "Binary Tree Mirror Equals"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2012-12-27T17:37:00-08:00
+description = "Checking subtree heights recursively in Java"
 tags = ["code", "computation"]
 title = "Decide Whether A Binary Tree Is Balanced"
 +++

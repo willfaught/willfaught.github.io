@@ -1,5 +1,6 @@
 +++
 date = 2015-01-20T01:16:39-08:00
+description = "An Icelandic volcano gives television reporters a workout"
 link = "https://m.youtube.com/watch?v=2Q3YVkm8YJM"
 title = "Reporters Fumbling The Name Eyjafjallajokull"
 +++

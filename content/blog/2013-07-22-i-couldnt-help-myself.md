@@ -1,5 +1,6 @@
 +++
 date = 2013-07-22T00:15:00-07:00
+description = "A few more additions from the Steam summer sale"
 tags = ["playing"]
 title = "I Couldn't Help Myself"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2012-12-22T22:18:00-08:00
+description = "A Java implementation of array shuffling"
 tags = ["code", "computation"]
 title = "Reorder An Array Randomly"
 +++

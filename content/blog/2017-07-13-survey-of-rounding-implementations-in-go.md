@@ -1,5 +1,6 @@
 +++
 date = 2017-07-13T16:58:11-07:00
+description = "Floating-point rounding is harder than it looks"
 link = "https://www.cockroachlabs.com/blog/rounding-implementations-in-go/"
 tags = ["go", "go", "programming"]
 title = "Survey Of Rounding Implementations In Go"

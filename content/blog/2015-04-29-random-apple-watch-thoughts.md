@@ -1,5 +1,6 @@
 +++
 date = 2015-04-29T10:09:29-07:00
+description = "Seeing the promise without being sold on the first version"
 link = "https://www.caseyliss.com/2015/4/12/random-apple-watch-thoughts"
 tags = ["apple", "watch"]
 title = "Random Apple Watch Thoughts"

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-01-31T17:26:00-08:00
+description = "Written arguments could make political debate more accountable"
 tags = ["arguments", "debate", "discourse", "discussion", "elections", "ideas", "online", "politics", "words"]
 title = "Giving Weight To Online Words"
 +++

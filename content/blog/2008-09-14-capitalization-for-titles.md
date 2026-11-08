@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-14T16:38:00-07:00
+description = "The appeal of simple, consistent rules for title case"
 tags = ["capitalization", "commas", "english", "lists", "reflections", "titles"]
 title = "Capitalization For Titles"
 +++

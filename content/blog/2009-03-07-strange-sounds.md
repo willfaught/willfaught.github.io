@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-03-07T19:50:00-08:00
+description = "Recognizing a sound I hadn’t noticed in my Seattle apartment"
 tags = ["apartment", "rain", "sounds", "stories", "strange"]
 title = "Strange Sounds"
 +++

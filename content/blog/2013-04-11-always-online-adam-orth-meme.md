@@ -1,5 +1,6 @@
 +++
 date = 2013-04-11T23:50:00-07:00
+description = "The jokes and fallout from an always-online controversy"
 link = "http://www.quickmeme.com/Always-Online-Adam-Orth/"
 tags = ["funny", "playing"]
 title = "Always Online Adam Orth Meme"

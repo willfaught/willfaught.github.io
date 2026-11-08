@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-02-23T08:45:00-08:00
+description = "A little consideration would make phone calls less intrusive"
 tags = ["annoying", "conversation", "phone", "reflections", "rude"]
 title = "Your Phone Conversation Annoys Me"
 +++

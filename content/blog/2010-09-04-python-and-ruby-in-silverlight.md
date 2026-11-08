@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-04T15:04:00-07:00
+description = "Dynamic languages find their way into the browser"
 tags = ["browsers", "dlr", "python", "ruby", "silverlight"]
 title = "Python And Ruby In Silverlight"
 +++

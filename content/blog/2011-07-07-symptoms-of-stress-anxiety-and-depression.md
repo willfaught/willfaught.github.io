@@ -1,5 +1,6 @@
 +++
 date = 2011-07-07T02:33:25-07:00
+description = "How academic stress affected my body and mind"
 tags = ["anxiety", "depression", "fyi", "stress", "thesis"]
 title = "Symptoms Of Stress, Anxiety, And Depression"
 +++

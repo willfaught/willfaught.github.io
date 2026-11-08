@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-11T16:29:00-08:00
+description = "Finding familiar faces after moving to a new state"
 tags = ["dan ellis", "friends", "microsoft", "networking", "reflections", "stories", "tom bouldin"]
 title = "Connections"
 +++

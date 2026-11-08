@@ -1,5 +1,6 @@
 +++
 date = 2015-12-13T19:27:20-08:00
+description = "Making sense of self-balancing personal transportation"
 link = "https://gizmodo.com/a-guide-to-the-booming-world-of-souped-up-skateboards-a-1723729805"
 tags = ["hoverboards", "scooters"]
 title = "What Are All Those Weird New Skateboards And Scooters You're Seeing Everywhere?"

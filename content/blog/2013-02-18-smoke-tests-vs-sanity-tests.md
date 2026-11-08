@@ -1,5 +1,6 @@
 +++
 date = 2013-02-18T18:04:00-08:00
+description = "The difference between being able to test and being ready to test"
 link = "https://en.wikipedia.org/wiki/Sanity_testing"
 tags = ["computation"]
 title = "Smoke Tests Vs. Sanity Tests"

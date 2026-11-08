@@ -1,5 +1,6 @@
 +++
 date = 2011-04-19T00:13:00-07:00
+description = "A side-by-side comparison makes the resemblance hard to miss"
 link = "https://arstechnica.com/apple/news/2011/04/bad-touchwiz-apple-sues-samsung-for-patent-violations.ars"
 tags = ["apple", "opinions", "samsung"]
 title = "Samsung Clones IPhone, Apple Sues"

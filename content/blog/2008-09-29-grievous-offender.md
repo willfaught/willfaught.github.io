@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-29T13:29:00-07:00
+description = "A criticism too colorful to feel ashamed of"
 tags = ["feedback", "grievous", "offender", "reflections", "thesis"]
 title = "Grievous Offender"
 +++

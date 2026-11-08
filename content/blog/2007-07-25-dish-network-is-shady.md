@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-07-25T15:51:00-07:00
+description = "Cancellation fees and a service plan we never knowingly chose"
 tags = ["crooks", "dish network", "fee", "plan", "shady", "stories", "tv"]
 title = "Dish Network Is Shady"
 +++

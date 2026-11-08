@@ -1,5 +1,6 @@
 +++
 date = 2012-01-24T07:25:42-08:00
+description = "Places I’ve visited inspire a few movie rewatches"
 tags = ["movies", "travel"]
 title = "Movies From My Journey"
 +++

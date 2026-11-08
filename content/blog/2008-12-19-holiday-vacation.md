@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-12-19T13:20:00-08:00
+description = "Snow starts my break early before a trip home"
 tags = ["reflections", "stories"]
 title = "Holiday Vacation"
 +++

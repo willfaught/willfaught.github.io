@@ -1,5 +1,6 @@
 +++
 date = 2012-02-11T08:12:47-08:00
+description = "Swimming at Kuang Si and watching sunset over Luang Prabang"
 tags = ["laos", "luang prabang", "travel"]
 title = "Thursday, February 9, 2012"
 +++

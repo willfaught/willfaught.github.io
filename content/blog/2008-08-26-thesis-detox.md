@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-08-26T18:24:00-07:00
+description = "Time at home offers relief from thesis stress"
 tags = ["home", "reflections", "stress", "thesis"]
 title = "Thesis Detox"
 +++

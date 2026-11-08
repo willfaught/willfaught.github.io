@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-19T06:36:00-07:00
+description = "Battlestar Galactica delivers an unforgettable mid-season ending"
 tags = ["battlestar galactica", "finale", "reflections", "show", "tv"]
 title = "What A Finale!"
 +++

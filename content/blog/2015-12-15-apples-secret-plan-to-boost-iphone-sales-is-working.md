@@ -1,5 +1,6 @@
 +++
 date = 2015-12-15T11:10:44-08:00
+description = "A closer look at Apple’s iPhone upgrade financing"
 link = "https://fortune.com/2015/12/15/apple-iphone-upgrade-program/"
 tags = ["applecare", "iphone", "upgrade"]
 title = "Apple's Secret Plan To Boost IPhone Sales Is Working"

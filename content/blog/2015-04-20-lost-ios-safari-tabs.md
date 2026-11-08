@@ -1,5 +1,6 @@
 +++
 date = 2015-04-20T22:57:42-07:00
+description = "When Safari reclaims memory, open tabs can lose their state"
 tags = ["apple"]
 title = "Lost IOS Safari Tabs"
 +++

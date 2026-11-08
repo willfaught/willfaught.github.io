@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2011-02-19T12:00:07-08:00
+description = "A dream spills over into a very real mess"
 tags = ["sleep"]
 title = "Sleepspitting"
 +++

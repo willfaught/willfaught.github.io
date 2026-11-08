@@ -1,5 +1,6 @@
 +++
 date = 2018-03-10T16:00:26-08:00
+description = "Every implementation detail becomes someone’s dependency"
 link = "https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5"
 title = "Life Of A Go Infrastructure Maintainer"
 +++

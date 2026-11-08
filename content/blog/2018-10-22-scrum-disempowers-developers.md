@@ -1,5 +1,6 @@
 +++
 date = 2018-10-22T15:34:28-07:00
+description = "The gap between Scrum’s ideals and workplace reality"
 link = "https://news.ycombinator.com/item?id=17186591"
 tags = ["agile", "coding", "scrum"]
 title = "Scrum Disempowers Developers"

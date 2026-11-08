@@ -1,5 +1,6 @@
 +++
 date = 2012-01-14T20:37:47-08:00
+description = "A useful travel companion, thanks to my mom"
 title = "Grateful For My Watch"
 +++
 

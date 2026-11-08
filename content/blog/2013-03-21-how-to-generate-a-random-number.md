@@ -1,5 +1,6 @@
 +++
 date = 2013-03-21T17:08:43-07:00
+description = "A joke about generating random numbers"
 link = "https://xkcd.com/221/"
 tags = ["funny"]
 title = "How To Generate A Random Number"

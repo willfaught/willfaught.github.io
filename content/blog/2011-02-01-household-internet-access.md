@@ -1,6 +1,7 @@
 +++
 categories = ["technology", "world"]
 date = 2011-02-01T12:37:00-08:00
+description = "A household connectivity question answered by Wolfram Alpha"
 tags = ["internet access", "wolfram alpha"]
 title = "Household Internet Access"
 +++

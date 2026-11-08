@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-25T18:38:00-07:00
+description = "Grandma’s cookies arrive in a welcome care package"
 tags = ["beer", "care package", "cookies", "grandma", "reflections"]
 title = "Why Can't I Be Bombable?"
 +++

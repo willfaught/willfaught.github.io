@@ -1,5 +1,6 @@
 +++
 date = 2015-10-30T14:25:37-07:00
+description = "Reading the markers left by a merge or rebase"
 link = "https://wincent.com/wiki/Understanding_Git_conflict_markers"
 tags = ["git"]
 title = "Understanding Git Conflict Markers"

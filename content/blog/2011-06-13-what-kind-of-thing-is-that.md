@@ -1,5 +1,6 @@
 +++
 date = 2011-06-13T23:00:06-07:00
+description = "Following Wikipedia’s categories to understand unfamiliar things"
 tags = ["fyi", "ideas", "opinions"]
 title = "What Kind Of Thing Is That?"
 +++

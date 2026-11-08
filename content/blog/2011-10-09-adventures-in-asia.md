@@ -1,5 +1,6 @@
 +++
 date = 2011-10-09T02:12:04-07:00
+description = "Setting out on a months-long journey across Asia"
 tags = ["asia", "travel"]
 title = "Adventures In Asia"
 +++

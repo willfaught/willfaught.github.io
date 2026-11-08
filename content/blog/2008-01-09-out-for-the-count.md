@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-01-09T15:58:00-08:00
+description = "A sudden back injury turns an ordinary class day painful"
 tags = ["back", "bus", "class", "stories", "threw"]
 title = "Out For The Count"
 +++

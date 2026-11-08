@@ -1,5 +1,6 @@
 +++
 date = 2012-04-04T21:00:00-07:00
+description = "Resting in Taipei, then flying back to Seattle"
 tags = ["grass valley", "sacramento", "seattle", "seoul", "south korea", "taipei", "taiwan", "travel", "usa"]
 title = "Coming Home"
 +++

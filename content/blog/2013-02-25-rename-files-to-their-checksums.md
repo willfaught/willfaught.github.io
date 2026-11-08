@@ -1,5 +1,6 @@
 +++
 date = 2013-02-25T20:34:00-08:00
+description = "A Bash script for organizing files by content hash"
 tags = ["code", "computation"]
 title = "Rename Files To Their Checksums"
 +++

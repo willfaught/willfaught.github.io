@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-04-28T06:04:00-07:00
+description = "Why I prefer to keep the lights on at my computer"
 tags = ["dark", "lights", "office", "reflections"]
 title = "Light Vs. Dark"
 +++

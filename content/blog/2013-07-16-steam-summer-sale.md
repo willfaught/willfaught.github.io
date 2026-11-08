@@ -1,5 +1,6 @@
 +++
 date = 2013-07-16T22:12:40-07:00
+description = "Seventeen games at dangerously tempting prices"
 tags = ["playing"]
 title = "Steam Summer Sale"
 +++

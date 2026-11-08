@@ -1,5 +1,6 @@
 +++
 date = 2013-03-19T18:25:01-07:00
+description = "Converting a signed numeric string in Java"
 tags = ["code", "computation"]
 title = "Parse A Signed Integer"
 +++

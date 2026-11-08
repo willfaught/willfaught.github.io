@@ -1,5 +1,6 @@
 +++
 date = 2016-01-20T14:50:13-08:00
+description = "Another look at a possible hidden passage in the Great Pyramid"
 tags = ["build", "egypt", "jean-pierre houdin", "khufu", "pyramid", "theory"]
 title = "Khufu Reborn"
 +++

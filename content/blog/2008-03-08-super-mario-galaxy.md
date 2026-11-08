@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-03-08T15:09:00-08:00
+description = "A beautifully crafted Mario adventure on the Wii"
 tags = ["camera", "level design", "nintendo", "reflections", "review", "super mario galaxy", "wii"]
 title = "Super Mario Galaxy"
 +++

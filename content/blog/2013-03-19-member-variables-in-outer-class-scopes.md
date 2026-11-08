@@ -1,5 +1,6 @@
 +++
 date = 2013-03-19T15:22:46-07:00
+description = "Using a qualified this to reach an enclosing instance"
 link = "https://docs.oracle.com/javase/tutorial/java/javaOO/nested.html"
 tags = ["computation"]
 title = "Member Variables In Outer Class Scopes"

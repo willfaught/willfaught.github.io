@@ -1,7 +1,7 @@
 +++
 categories = ["world"]
 date = 2023-07-01T12:35:52-07:00
-description = "Lots of things got worse."
+description = "Lots of things got worse"
 link = "https://wtfhappenedin1971.com"
 tags = ["economics"]
 title = "What Happened In 1971?"

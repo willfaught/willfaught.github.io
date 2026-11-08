@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T01:55:55-07:00
+description = "Beach frisbee and fresh seafood at Jagalchi Market"
 tags = ["busan", "south korea", "travel"]
 title = "South Korea: Eating Eel"
 +++

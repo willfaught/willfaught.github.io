@@ -1,5 +1,6 @@
 +++
 date = 2011-11-12T06:58:06-08:00
+description = "Temples and hungry deer on a day trip to Nara"
 tags = ["japan", "kyoto", "nara", "travel"]
 title = "Japan: What About The Deer?"
 +++

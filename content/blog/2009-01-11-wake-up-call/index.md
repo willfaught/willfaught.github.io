@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-11T07:41:00-08:00
+description = "A late night with caffeine ends in a fire alarm"
 tags = ["alarm", "building", "caffeine", "coke", "fighter", "fire", "home", "neighbors", "stories", "truck"]
 title = "Wake Up Call"
 +++

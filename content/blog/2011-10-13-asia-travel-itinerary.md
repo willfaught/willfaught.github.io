@@ -1,5 +1,6 @@
 +++
 date = 2011-10-13T03:45:00-07:00
+description = "The countries I hope to visit on this trip"
 tags = ["itinerary", "travel"]
 title = "Asia Travel Itinerary"
 +++

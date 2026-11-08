@@ -1,5 +1,6 @@
 +++
 date = 2016-03-04T22:44:24-08:00
+description = "Why leaving a startup shouldn’t mean losing earned compensation"
 link = "https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e#.87fry2ooz"
 tags = ["engineers", "equity", "programming", "startups", "stock"]
 title = "Fixing The Inequity Of Startup Equity"

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-17T19:39:00-07:00
+description = "A fun theme park visit comes with advertising everywhere"
 tags = ["animals", "commercials", "discovery kingdom", "marine world", "reflections", "roller coasters", "six flags", "sponsors", "toyota", "vallejo"]
 title = "This Life Brought To You By Toyota"
 +++

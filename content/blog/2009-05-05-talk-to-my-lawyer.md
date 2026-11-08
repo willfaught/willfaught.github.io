@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-05-05T17:07:00-07:00
+description = "Dealing with another rear-end collision and lingering whiplash"
 tags = ["accident", "car", "insurance", "lawyer", "progressive", "stories"]
 title = "Talk To My Lawyer"
 +++

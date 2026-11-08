@@ -1,5 +1,6 @@
 +++
 date = 2016-07-11T19:08:21-07:00
+description = "A Go program for validating Sudoku boards of different sizes"
 link = "https://play.golang.org/p/RBZAIs6lW9"
 tags = ["coding", "engineering", "go", "go", "programming", "software", "software engineering", "sudoku"]
 title = "Check Sudoku Solutions"

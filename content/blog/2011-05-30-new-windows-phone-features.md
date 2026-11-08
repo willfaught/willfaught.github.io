@@ -1,5 +1,6 @@
 +++
 date = 2011-05-30T23:00:00-07:00
+description = "A look at the Mango update for Windows Phone"
 tags = ["cool", "microsoft"]
 title = "New Windows Phone Features"
 +++

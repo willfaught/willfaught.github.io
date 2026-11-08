@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-04-22T16:43:00-07:00
+description = "Finding a way to collect songs I haven’t rated yet"
 tags = ["apple", "help", "itunes", "programmer", "rating", "smart playlists", "stars", "stories"]
 title = "ITunes Smart Playlist For Unrated Songs"
 +++

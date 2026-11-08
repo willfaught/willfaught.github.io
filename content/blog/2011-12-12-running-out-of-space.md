@@ -1,5 +1,6 @@
 +++
 date = 2011-12-12T08:10:00-08:00
+description = "Travel photos are outgrowing my backup drive"
 tags = ["gear", "travel"]
 title = "Running Out Of Space"
 +++

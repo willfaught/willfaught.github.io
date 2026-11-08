@@ -1,5 +1,6 @@
 +++
 date = 2018-10-29T18:20:04-07:00
+description = "When developers lose control over how they work"
 link = "https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile"
 tags = ["agile", "coding", "scrum"]
 title = "How Scrum Goes Awry"

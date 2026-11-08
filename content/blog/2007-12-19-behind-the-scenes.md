@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-19T07:15:00-08:00
+description = "A Christmas card poem that didn’t make the cut"
 tags = ["bill", "card", "christmas", "ideas", "maria", "poem", "quotations"]
 title = "Behind The Scenes"
 +++

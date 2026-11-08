@@ -1,5 +1,6 @@
 +++
 date = 2018-01-24T11:10:38-08:00
+description = "An unexpected discovery among the Internet’s RFCs"
 link = "https://tools.ietf.org/html/rfc2100"
 tags = ["coding", "internet", "rfc"]
 title = "The Naming Of Hosts"

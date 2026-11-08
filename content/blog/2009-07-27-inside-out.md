@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-07-27T16:12:00-07:00
+description = "An all-day wardrobe mistake hiding in plain sight"
 tags = ["embarrassing", "inside out", "seams", "shirt", "stories", "tag", "target"]
 title = "Inside Out"
 +++

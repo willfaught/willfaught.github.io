@@ -1,5 +1,6 @@
 +++
 date = 2015-10-17T17:23:30-07:00
+description = "Sorting out three similarly named event libraries"
 tags = ["libev", "libevent", "libuv"]
 title = "Libevent Vs. Libev Vs. Libuv"
 +++

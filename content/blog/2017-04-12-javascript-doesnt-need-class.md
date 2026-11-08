@@ -1,5 +1,6 @@
 +++
 date = 2017-04-12T12:57:19-07:00
+description = "Rethinking the urge to add classes to JavaScript"
 link = "https://www.i-programmer.info/programming/javascript/3354-javascript-doesnt-need-class.html"
 tags = ["javascript", "programming"]
 title = "JavaScript Doesn't Need Class"

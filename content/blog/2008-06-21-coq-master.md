@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-06-21T19:16:00-07:00
+description = "Learning a theorem prover with an unfortunate-sounding name"
 tags = ["coq", "english", "french", "reflections", "thesis"]
 title = "Coq Master"
 +++

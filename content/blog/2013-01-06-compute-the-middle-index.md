@@ -1,5 +1,6 @@
 +++
 date = 2013-01-06T18:02:00-08:00
+description = "Two ways to calculate a midpoint"
 tags = ["computation"]
 title = "Compute The Middle Index"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2015-12-02T14:11:19-08:00
+description = "Tools to simplify getting a mobile app off the ground"
 link = "https://get.fabric.io"
 tags = ["apps", "coding", "fabric", "twitter"]
 title = "Fabric: Twitter's Mobile Development Platform"

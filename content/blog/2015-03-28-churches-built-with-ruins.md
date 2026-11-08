@@ -1,5 +1,6 @@
 +++
 date = 2015-03-28T18:49:13-07:00
+description = "Ancient masonry gets repurposed at a cost to history"
 title = "Churches Built With Ruins"
 +++
 

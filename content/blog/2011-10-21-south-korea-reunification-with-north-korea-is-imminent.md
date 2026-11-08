@@ -1,5 +1,6 @@
 +++
 date = 2011-10-21T00:26:00-07:00
+description = "A tour of the Korean Demilitarized Zone"
 tags = ["seoul", "south korea", "travel"]
 title = "South Korea: Reunification With North Korea Is Imminent!"
 +++

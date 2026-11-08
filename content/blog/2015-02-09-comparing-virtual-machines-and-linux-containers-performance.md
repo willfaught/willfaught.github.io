@@ -1,5 +1,6 @@
 +++
 date = 2015-02-09T23:15:13-08:00
+description = "How Docker and KVM compare in performance tests"
 link = "https://www.infoq.com/news/2014/08/vm-containers-performance"
 tags = ["computing"]
 title = "Comparing Virtual Machines And Linux Containers Performance"

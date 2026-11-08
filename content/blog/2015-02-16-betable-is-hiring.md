@@ -1,5 +1,6 @@
 +++
 date = 2015-02-16T13:49:18-08:00
+description = "A senior software engineering opening in San Francisco"
 tags = ["betable", "hiring", "software engineering"]
 title = "Betable Is Hiring"
 +++

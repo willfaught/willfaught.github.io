@@ -1,6 +1,7 @@
 +++
 categories = ["technology", "world"]
 date = 2011-02-24T12:00:07-08:00
+description = "Impressive presentation animations at an appealing price"
 tags = ["apple", "keynote", "microsoft", "powerpoint"]
 title = "Apple Keynote"
 +++

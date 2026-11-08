@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-07-08T15:34:00-07:00
+description = "An imaginary conversation about Apple’s growing font collection"
 tags = ["apple", "braille", "cherokee", "fonts", "reflections"]
 title = "Job Security"
 +++

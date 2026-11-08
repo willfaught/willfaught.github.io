@@ -1,5 +1,6 @@
 +++
 date = 2017-08-27T17:46:05-07:00
+description = "A glimpse of the story fans never got to play"
 link = "https://arstechnica.com/?p=1153463"
 title = "Potential Half-Life 3 Plot Outed By Series Writer Marc Laidlaw"
 +++

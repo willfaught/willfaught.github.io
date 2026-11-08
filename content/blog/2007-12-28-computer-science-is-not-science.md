@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-28T11:29:00-08:00
+description = "Questioning whether the field is better understood as mathematics"
 tags = ["abstract machine", "computer science", "ideas", "mathematics", "register machine", "scientific method"]
 title = "Computer Science Is Not Science"
 +++

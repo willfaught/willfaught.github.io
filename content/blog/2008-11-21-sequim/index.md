@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-11-21T14:31:00-08:00
+description = "A ferry ride and a visit to family in Sequim"
 tags = ["aunt deb", "beach", "choir", "dinner", "edmonds", "ferry", "house", "kingston", "kitchen", "seagulls", "sequim", "stories", "trip", "uncle ron", "washington"]
 title = "Sequim"
 +++

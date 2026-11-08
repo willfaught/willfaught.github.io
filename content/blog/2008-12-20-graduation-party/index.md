@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-12-20T19:34:00-08:00
+description = "Celebrating graduation with family, friends, food, and wine"
 tags = ["food", "graduation", "neighboors", "parents", "party", "stories", "thanksgiving", "wine"]
 title = "Graduation Party"
 +++

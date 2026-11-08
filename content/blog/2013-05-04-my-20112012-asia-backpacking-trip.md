@@ -1,5 +1,6 @@
 +++
 date = 2013-05-04T21:47:00-07:00
+description = "Photo collections from my months of travel across Asia"
 tags = ["asia", "travel"]
 title = "My 2011–2012 Asia Backpacking Trip"
 +++

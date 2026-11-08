@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-06-22T14:13:00-07:00
+description = "A dealership’s repair estimate needs a second opinion"
 tags = ["cars"]
 title = "Johnson Rod Repair"
 +++

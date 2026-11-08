@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-06-01T07:13:00-07:00
+description = "Google has an answer for life, the universe, and everything"
 tags = ["answer", "google", "question", "the hitchhiker's guide to the galaxy", "ultimate"]
 title = "The Answer"
 +++

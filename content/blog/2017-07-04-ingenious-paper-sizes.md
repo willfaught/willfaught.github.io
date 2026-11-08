@@ -1,5 +1,6 @@
 +++
 date = 2017-07-04T20:53:21-07:00
+description = "The mathematical elegance of the A series"
 link = "https://en.wikipedia.org/wiki/Paper_size"
 title = "Ingenious Paper Sizes"
 +++

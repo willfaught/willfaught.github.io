@@ -1,5 +1,6 @@
 +++
 date = 2016-10-06T23:09:31-07:00
+description = "Go’s bzip2 package can read, but it can’t write"
 tags = ["go"]
 title = "No Reader For Bzip2"
 +++

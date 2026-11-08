@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-10-30T17:36:00-07:00
+description = "A VLC wrapper script converts videos for an iPod"
 tags = ["ideas", "ipod", "linux", "mpeg-4", "transcoding", "ubuntu", "video", "vlc"]
 title = "IPod Video Transcoding In Linux"
 +++

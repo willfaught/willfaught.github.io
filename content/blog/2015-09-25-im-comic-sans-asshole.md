@@ -1,5 +1,6 @@
 +++
 date = 2015-09-25T12:07:18-07:00
+description = "Typography’s favorite punching bag fights back"
 link = "https://www.mcsweeneys.net/articles/im-comic-sans-asshole"
 tags = ["comic sans", "fonts"]
 title = "I'm Comic Sans, Asshole"

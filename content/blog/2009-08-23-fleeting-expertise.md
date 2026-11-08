@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-08-23T18:20:00-07:00
+description = "Learning enough to make a purchase I’ll stay happy with"
 tags = ["comforters", "consumer search", "down", "expert", "expertise", "fleeting", "shopping", "web site"]
 title = "Fleeting Expertise"
 +++

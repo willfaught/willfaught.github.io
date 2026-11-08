@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-01-31T00:10:18-08:00
+description = "Imagining one portable computer for home and away"
 tags = ["apple", "macbook air"]
 title = "MacBook Air"
 +++

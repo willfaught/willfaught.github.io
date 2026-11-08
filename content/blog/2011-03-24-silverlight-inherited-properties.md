@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-03-24T11:34:00-07:00
+description = "Finding which dependency properties a control template must bind"
 tags = ["silverlight"]
 title = "Silverlight Inherited Properties"
 +++

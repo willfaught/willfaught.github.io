@@ -1,6 +1,7 @@
 +++
 categories = ["technology", "world"]
 date = 2014-06-18T11:15:58-07:00
+description = "Devices, platforms, and services give three companies different strengths"
 link = "https://daringfireball.net/2014/06/only_apple"
 tags = ["apple", "daring fireball"]
 title = "\"Only Apple\""

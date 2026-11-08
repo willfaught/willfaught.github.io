@@ -1,5 +1,6 @@
 +++
 date = 2013-07-16T22:15:10-07:00
+description = "Where to put commands that run at startup and shutdown"
 tags = ["computing"]
 title = "OpenSUSE Boot And Shutdown Scripts"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-03-27T22:44:00-07:00
+description = "My first session turns mining into an absorbing pastime"
 tags = ["minecraft"]
 title = "Minecraft"
 +++

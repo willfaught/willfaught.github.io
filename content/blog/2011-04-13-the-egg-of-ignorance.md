@@ -1,5 +1,6 @@
 +++
 date = 2011-04-13T00:47:00-07:00
+description = "A memorable metaphor for overcoming ignorance"
 tags = ["astronomy", "funny"]
 title = "The Egg Of Ignorance"
 +++

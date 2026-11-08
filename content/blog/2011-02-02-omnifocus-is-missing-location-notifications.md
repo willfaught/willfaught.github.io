@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-02T16:00:06-08:00
+description = "A useful task map needs an alert when I arrive nearby"
 tags = ["iphone", "omnifocus"]
 title = "OmniFocus Is Missing Location Notifications"
 +++

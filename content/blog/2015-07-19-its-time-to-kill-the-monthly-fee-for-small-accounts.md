@@ -1,5 +1,6 @@
 +++
 date = 2015-07-19T20:42:57-07:00
+description = "The case against charging small investors a monthly fee"
 link = "https://medium.com/@adamnash/it-s-time-to-kill-the-monthly-fee-for-small-accounts-51d37177bfe7"
 tags = ["finance"]
 title = "It's Time To Kill The Monthly Fee For Small Accounts"

@@ -1,5 +1,6 @@
 +++
 date = 2011-12-12T05:25:00-08:00
+description = "Observations on everyday life during my visit to Japan"
 tags = ["japan", "notes", "travel"]
 title = "Japan Notes"
 +++

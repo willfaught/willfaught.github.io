@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T00:15:17-07:00
+description = "Exploring the northeastern side of Jeju island"
 tags = ["jeju", "south korea", "travel"]
 title = "South Korea: Hawaii, Eat Your Heart Out"
 +++

@@ -1,5 +1,6 @@
 +++
 date = 2011-10-30T00:27:16-07:00
+description = "Finding my way to Jeju’s folk village museum"
 tags = ["jeju", "south korea", "travel"]
 title = "South Korea: Lost And Found In Pyeoson"
 +++

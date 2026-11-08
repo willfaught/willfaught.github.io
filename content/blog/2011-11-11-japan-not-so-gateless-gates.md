@@ -1,5 +1,6 @@
 +++
 date = 2011-11-11T02:41:14-08:00
+description = "Cycling around Kyoto’s Imperial Palace with fellow travelers"
 tags = ["japan", "kyoto", "travel"]
 title = "Japan: Not-So-Gateless Gates"
 +++

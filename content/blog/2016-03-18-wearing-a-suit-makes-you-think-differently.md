@@ -1,5 +1,6 @@
 +++
 date = 2016-03-18T21:36:16-07:00
+description = "Clothing, cognition, and a Steve Jobs footnote"
 link = "https://www.theatlantic.com/business/archive/2015/04/wearing-a-suit-makes-people-think-differently/391802/"
 tags = ["steve jobs"]
 title = "Wearing A Suit Makes You Think Differently"

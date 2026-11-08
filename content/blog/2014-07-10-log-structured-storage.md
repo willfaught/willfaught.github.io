@@ -1,5 +1,6 @@
 +++
 date = 2014-07-10T09:24:59-07:00
+description = "A storage approach that favors fast writes"
 link = "http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage"
 title = "Log Structured Storage"
 +++

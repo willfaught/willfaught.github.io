@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2008-09-01T15:39:00-07:00
+description = "Another round of frustration with Windows"
 tags = ["operating system", "problems", "reflections", "slow", "windows"]
 title = "I Could Have Killed Windows"
 +++

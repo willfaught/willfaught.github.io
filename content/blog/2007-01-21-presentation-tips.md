@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-01-21T17:43:00-08:00
+description = "Surviving a long presentation on a paper I barely understand"
 tags = ["paper", "peter landin", "presentation", "reflections", "stories", "tips"]
 title = "Presentation Tips"
 +++

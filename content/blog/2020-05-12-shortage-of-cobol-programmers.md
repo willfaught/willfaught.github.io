@@ -1,6 +1,7 @@
 +++
 categories = ["technology", "world"]
 date = 2020-05-12T19:23:00-07:00
+description = "Decades of deferred upgrades meet a pandemic"
 keywords = ["cobol", "coronavirus", "government", "pandemic", "postmortem", "programmer", "programming"]
 tags = ["cobol", "coronavirus"]
 title = "Shortage Of COBOL Programmers"

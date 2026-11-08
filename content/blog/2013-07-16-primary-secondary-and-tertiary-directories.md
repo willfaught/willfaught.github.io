@@ -1,5 +1,6 @@
 +++
 date = 2013-07-16T22:21:39-07:00
+description = "Questioning Linux’s separate filesystem hierarchies"
 tags = ["computing"]
 title = "Primary, Secondary, And Tertiary Directories"
 +++

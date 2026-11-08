@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-28T15:37:00-08:00
+description = "Photos of my new apartment before the furniture arrives"
 tags = ["apartment", "bathroom", "bedroom", "boxes", "closet", "den", "furniture", "kitchen", "leed", "living room", "moving", "office", "stories", "study"]
 title = "Moving In"
 +++

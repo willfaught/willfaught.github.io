@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-12-22T04:57:00-08:00
+description = "An altered ending loses the joy of Return of the Jedi"
 tags = ["anakin", "bad", "changed", "ending", "george lucas", "ghost", "music", "reflections", "south park", "star wars"]
 title = "Star Wars Forever Marred"
 +++

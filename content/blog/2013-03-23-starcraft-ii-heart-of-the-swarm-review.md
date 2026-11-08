@@ -1,5 +1,6 @@
 +++
 date = 2013-03-23T15:19:00-07:00
+description = "A sharp critique of Blizzard’s storytelling"
 link = "https://www.quartertothree.com/fp/2013/03/14/does-starcraft-ii-really-need-heart-of-the-swarm/"
 tags = ["playing"]
 title = "StarCraft II: Heart Of The Swarm Review"

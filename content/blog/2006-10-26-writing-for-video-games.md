@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-10-26T18:39:00-07:00
+description = "Marc Laidlaw on making a game world worth saving"
 tags = ["games", "half-life", "hypermodern muse", "majora's mask", "marc laidlaw", "nintendo", "quotations", "writing", "zelda"]
 title = "Writing For Video Games"
 +++

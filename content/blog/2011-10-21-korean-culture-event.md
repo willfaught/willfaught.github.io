@@ -1,5 +1,6 @@
 +++
 date = 2011-10-21T01:03:00-07:00
+description = "Video highlights from an event I attended in Seoul"
 tags = ["seoul", "south korea", "travel"]
 title = "Korean Culture Event"
 +++

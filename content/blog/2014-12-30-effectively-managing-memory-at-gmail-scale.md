@@ -1,5 +1,6 @@
 +++
 date = 2014-12-30T10:57:27-08:00
+description = "Keeping garbage collection from interrupting the user experience"
 link = "https://www.html5rocks.com/en/tutorials/memory/effectivemanagement/"
 title = "Effectively Managing Memory At Gmail Scale"
 +++

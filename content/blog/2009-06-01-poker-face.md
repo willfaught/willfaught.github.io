@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-06-01T18:15:00-07:00
+description = "Enjoying Lady Gaga’s sound and colorful wordplay"
 tags = ["lady gaga", "lyrics", "poker face", "reflections", "song"]
 title = "Poker Face"
 +++

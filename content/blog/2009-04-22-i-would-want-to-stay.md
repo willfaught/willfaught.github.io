@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-04-22T16:16:00-07:00
+description = "Wanting to hear the rest of a speech others walked out on"
 tags = ["iran", "israel", "mahmoud ahmadinejad", "president", "reflections", "speech", "united nations"]
 title = "I Would Want To Stay"
 +++

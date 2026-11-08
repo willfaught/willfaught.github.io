@@ -1,5 +1,6 @@
 +++
 date = 2013-01-06T23:38:00-08:00
+description = "Checking a binary tree’s ordering in Java"
 tags = ["code", "computation"]
 title = "Decide If A Binary Tree Is A Binary Search Tree"
 +++

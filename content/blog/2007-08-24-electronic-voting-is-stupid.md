@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-08-24T18:20:00-07:00
+description = "The case for paper ballots and a transparent count"
 tags = ["electronic", "ideas", "problems", "reflections", "tabulation", "voting"]
 title = "Electronic Voting Is Stupid"
 +++

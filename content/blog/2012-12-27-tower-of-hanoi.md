@@ -1,5 +1,6 @@
 +++
 date = 2012-12-27T01:36:28-08:00
+description = "A Java solution to the classic disk-moving puzzle"
 tags = ["code", "computation"]
 title = "Tower Of Hanoi"
 +++

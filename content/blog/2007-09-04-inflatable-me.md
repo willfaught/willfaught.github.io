@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2007-09-04T16:49:00-07:00
+description = "Wishing for a stand-in to attend all my meetings"
 tags = ["ideas", "inflatable", "job", "meetings", "office"]
 title = "Inflatable Me"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-06T16:28:00-07:00
+description = "Adding a few missing conveniences to Apple’s browser"
 tags = ["browsers", "chrome", "extensions", "firefox", "safari"]
 title = "Safari Extensions"
 +++

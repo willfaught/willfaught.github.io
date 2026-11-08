@@ -1,5 +1,6 @@
 +++
 date = 2011-05-31T23:00:06-07:00
+description = "A mischievous guide to making the next programmer miserable"
 link = "https://www.thc.org/root/phun/unmaintain.html"
 tags = ["computation", "funny"]
 title = "How To Write Unmaintainable Code"

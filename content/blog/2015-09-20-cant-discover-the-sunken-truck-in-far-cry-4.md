@@ -1,5 +1,6 @@
 +++
 date = 2015-09-20T23:45:18-07:00
+description = "An underground wingsuit flight reaches a stubborn map location"
 tags = ["far cry 4"]
 title = "Can't Discover The Sunken Truck In Far Cry 4"
 +++

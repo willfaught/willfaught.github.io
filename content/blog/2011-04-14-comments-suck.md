@@ -1,5 +1,6 @@
 +++
 date = 2011-04-14T19:17:33-07:00
+description = "Why blog comments so often turn unpleasant"
 tags = ["blogging"]
 title = "Comments Suck"
 +++

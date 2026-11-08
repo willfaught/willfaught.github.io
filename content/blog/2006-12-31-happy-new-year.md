@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-12-31T17:42:00-08:00
+description = "An awkward countdown and plans to learn some new steps"
 tags = ["dancing", "new year's eve", "reflections", "resolutions", "stories", "watch"]
 title = "Happy New Year!"
 +++

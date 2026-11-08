@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-03-07T11:55:00-08:00
+description = "Parting with a family recliner and the memories it carries"
 tags = ["chair", "family", "memories", "museum", "recliner", "reflections"]
 title = "A Piece Of My Past"
 +++

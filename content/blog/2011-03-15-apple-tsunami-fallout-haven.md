@@ -1,6 +1,7 @@
 +++
 categories = ["world"]
 date = 2011-03-15T00:55:57-07:00
+description = "An Apple store offers shelter and a way to reach loved ones"
 link = "https://kevinrose.com/blogg/2011/3/14/apples-role-in-japan-during-the-tohoku-earthquake.html"
 tags = ["apple", "japan", "tsunami"]
 title = "Apple, Tsunami Fallout Haven"

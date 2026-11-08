@@ -1,5 +1,6 @@
 +++
 date = 2013-05-15T21:54:17-07:00
+description = "Setting the hostname separately with scutil"
 tags = ["computation"]
 title = "OS X Computer Name Is Not The Host Name"
 +++

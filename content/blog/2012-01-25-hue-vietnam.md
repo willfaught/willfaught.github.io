@@ -1,5 +1,6 @@
 +++
 date = 2012-01-25T07:22:53-08:00
+description = "Exploring the Imperial Citadel and royal tombs in the rain"
 tags = ["hue", "travel", "vietnam"]
 title = "Hue, Vietnam"
 +++

@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-01-09T12:49:00-08:00
+description = "A promising slow-cooker dinner burns to a crisp"
 tags = ["apricot", "burned", "christmas", "cooking", "crock pot", "food", "glazed", "pork", "recipe", "roast", "smell", "stories", "tragedy"]
 title = "Apricot-Glazed Pork Roast: A Tragedy"
 +++

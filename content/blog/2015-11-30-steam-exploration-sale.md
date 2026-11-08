@@ -1,5 +1,6 @@
 +++
 date = 2015-11-30T23:28:14-08:00
+description = "Another sale, another batch of games for the backlog"
 link = "https://store.steampowered.com"
 tags = ["games", "gaming", "playing", "steam"]
 title = "Steam Exploration Sale"

@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-04-03T03:54:00-07:00
+description = "A MacBook Air and Canon S95 join my collection"
 tags = ["canon s95", "macbook air"]
 title = "New Goodies"
 +++

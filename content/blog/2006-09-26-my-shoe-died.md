@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2006-09-26T18:32:00-07:00
+description = "A broken flip-flop gets an unlikely repair at the Health Center"
 tags = ["broken", "flip flop", "health center", "shoe", "stories"]
 title = "My Shoe Died"
 +++

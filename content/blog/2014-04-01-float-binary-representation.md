@@ -1,5 +1,6 @@
 +++
 date = 2014-04-01T21:37:34-07:00
+description = "Representing a fractional value with binary digits"
 tags = ["computing"]
 title = "Float Binary Representation"
 +++

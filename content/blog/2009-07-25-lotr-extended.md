@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2009-07-25T16:32:00-07:00
+description = "Rediscovering scenes in the extended Lord of the Rings films"
 tags = ["dvds", "extended", "films", "lord of the rings", "reflections"]
 title = "LOTR Extended"
 +++

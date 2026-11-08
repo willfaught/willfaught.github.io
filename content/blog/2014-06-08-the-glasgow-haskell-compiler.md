@@ -1,5 +1,6 @@
 +++
 date = 2014-06-08T17:02:40-07:00
+description = "A look inside Haskell’s compiler and its optimizations"
 link = "https://www.aosabook.org/en/ghc.html"
 tags = ["computing"]
 title = "The Glasgow Haskell Compiler"

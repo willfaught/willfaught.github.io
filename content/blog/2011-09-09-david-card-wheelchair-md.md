@@ -1,5 +1,6 @@
 +++
 date = 2011-09-09T19:16:00-07:00
+description = "An article about my doctor and his remarkable independence"
 link = "https://www.seattlepi.com/local/article/Meet-David-Card-the-doctor-in-a-wheelchair-892535.php"
 tags = ["interesting"]
 title = "David Card, Wheelchair M.D."

@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2010-09-18T00:06:00-07:00
+description = "First impressions of a cleaner, lighter Internet Explorer"
 tags = ["browsers", "internet explorer", "microsoft", "reviews"]
 title = "Internet Explorer 9 Beta"
 +++

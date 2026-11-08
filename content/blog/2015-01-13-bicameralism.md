@@ -1,5 +1,6 @@
 +++
 date = 2015-01-13T08:05:45-08:00
+description = "The reasoning behind a legislature with two chambers"
 link = "https://en.m.wikipedia.org/wiki/Bicameralism"
 title = "Bicameralism"
 +++

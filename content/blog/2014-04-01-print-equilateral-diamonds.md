@@ -1,5 +1,6 @@
 +++
 date = 2014-04-01T14:25:52-07:00
+description = "A Python program for drawing hollow diamonds"
 tags = ["computing"]
 title = "Print Equilateral Diamonds"
 +++

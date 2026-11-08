@@ -1,5 +1,6 @@
 +++
 date = 2016-04-05T10:33:48-07:00
+description = "How a slowdown in startup funding could affect housing"
 link = "https://wolfstreet.com/2016/02/25/bust-royale-for-insane-san-francisco-silicon-valley-housing-markets/"
 tags = ["bubble", "investing", "san francisco", "tech"]
 title = "This Will Crush The Insane San Francisco & Silicon Valley Housing Bubble | Wolf Street"

@@ -1,5 +1,6 @@
 +++
 date = 2013-01-18T00:15:00-08:00
+description = "Using traversal sequences to compare binary trees"
 link = "https://en.wikipedia.org/wiki/Tree_traversal"
 tags = ["computation"]
 title = "Binary Tree Sequentializations As Identities"

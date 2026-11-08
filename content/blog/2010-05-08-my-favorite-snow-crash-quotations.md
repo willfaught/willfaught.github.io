@@ -1,6 +1,7 @@
 +++
 categories = ["life"]
 date = 2010-05-08T02:47:35-07:00
+description = "Favorite lines from another reading of Neal Stephenson’s novel"
 tags = ["books"]
 title = "My Favorite Snow Crash Quotations"
 +++

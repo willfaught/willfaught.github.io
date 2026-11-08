@@ -1,5 +1,6 @@
 +++
 date = 2016-10-17T01:34:43-07:00
+description = "Option-Escape brings up completion suggestions"
 tags = ["autocomplete", "textmate"]
 title = "TextMate 2 Autocomplete Pop-Up Menu"
 +++

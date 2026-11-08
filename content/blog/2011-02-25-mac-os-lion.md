@@ -1,6 +1,7 @@
 +++
 categories = ["technology"]
 date = 2011-02-25T12:00:07-08:00
+description = "A promising set of changes for the Mac"
 tags = ["apple", "macos"]
 title = "Mac OS Lion"
 +++

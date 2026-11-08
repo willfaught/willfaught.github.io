@@ -1,5 +1,6 @@
 +++
 date = 2015-05-05T00:51:35-07:00
+description = "A misguided attempt at diplomacy through illegal entry"
 link = "https://cir.ca/s/CMLB"
 tags = ["north korea", "south korea"]
 title = "Jackass Further Destabilizes The Korean Region"

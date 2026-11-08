@@ -1,5 +1,6 @@
 +++
 date = 2012-01-25T08:04:56-08:00
+description = "Heading from Hanoi to Cat Ba and Ha Long Bay"
 tags = ["ha long bay", "travel", "vietnam"]
 title = "Ha Long Bay, Vietnam"
 +++
