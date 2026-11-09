@@ -3,7 +3,7 @@ date = 2011-05-26T12:17:36-07:00
 description = "Paul Graham on people, ideas, and competition"
 link = "http://paulgraham.com/start.html"
 tags = ["computation", "interesting"]
-title = "How To Start A Startup"
+title = "\"How To Start A Startup\""
 +++
 
 Paul Graham:

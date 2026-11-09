@@ -3,7 +3,7 @@ date = 2016-12-06T23:06:43-08:00
 description = "Why zeroed allocation can beat malloc and memset"
 link = "https://vorpus.org/blog/why-does-calloc-exist/"
 tags = ["c", "calloc", "programming"]
-title = "Why Does Calloc Exist?"
+title = "\"Why Does Calloc Exist?\""
 +++
 
 Nathaniel J. Smith on the purpose of calloc:

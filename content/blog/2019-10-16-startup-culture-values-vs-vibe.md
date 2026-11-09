@@ -3,7 +3,7 @@ date = 2019-10-16T15:20:26-07:00
 description = "What matters most in company culture"
 link = "https://chrismoody.com/startup-culture/"
 tags = ["culture", "startup"]
-title = "Startup Culture: Values Vs. Vibe"
+title = "\"Startup Culture: Values Vs. Vibe\""
 +++
 
 Chris Moody on what part of company culture is actually important:

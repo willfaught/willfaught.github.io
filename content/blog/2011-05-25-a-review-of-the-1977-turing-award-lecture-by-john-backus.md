@@ -3,7 +3,7 @@ date = 2011-05-25T16:31:32-07:00
 description = "Dijkstra delivers some unusually sharp scholarly criticism"
 link = "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD692.html"
 tags = ["computation", "interesting"]
-title = "A Review Of The 1977 Turing Award Lecture By John Backus"
+title = "\"A Review Of The 1977 Turing Award Lecture By John Backus\""
 +++
 
 By [Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra). I've never seen shit talking in scholarly criticism before:

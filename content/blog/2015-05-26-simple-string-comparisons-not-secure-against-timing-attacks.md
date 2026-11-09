@@ -3,7 +3,7 @@ date = 2015-05-26T19:40:56-07:00
 description = "Early returns can leak information about secret strings"
 link = "https://security.stackexchange.com/questions/83660/simple-string-comparisons-not-secure-against-timing-attacks"
 tags = ["coding"]
-title = "Simple String Comparisons Not Secure Against Timing Attacks"
+title = "\"Simple String Comparisons Not Secure Against Timing Attacks\""
 +++
 
 Stack Exchange user cpast explains the security flaw in doing simple string comparisons for passwords and other sensitive information that enables timing attacks:

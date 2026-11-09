@@ -3,7 +3,7 @@ date = 2015-12-23T17:00:23-08:00
 description = "Reading contemporary politics into a galaxy far, far away"
 link = "https://www.theguardian.com/film/2015/dec/17/why-star-wars-is-a-political-force-to-be-reckoned-with"
 tags = ["star wars"]
-title = "Why Star Wars Is A Political Force To Be Reckoned With"
+title = "\"Why Star Wars Is A Political Force To Be Reckoned With\""
 +++
 
 Zoe Williams, writing for The Guardian:

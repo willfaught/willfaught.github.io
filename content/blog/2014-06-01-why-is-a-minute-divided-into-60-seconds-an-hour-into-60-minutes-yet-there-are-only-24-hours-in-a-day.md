@@ -3,7 +3,7 @@ date = 2014-06-01T11:04:18-07:00
 description = "The history behind the units on our clocks"
 link = "https://www.scientificamerican.com/article/experts-time-division-days-hours-minutes/"
 tags = ["reading"]
-title = "Why Is A Minute Divided Into 60 Seconds, An Hour Into 60 Minutes, Yet There Are Only 24 Hours In A Day?"
+title = "\"Why Is A Minute Divided Into 60 Seconds, An Hour Into 60 Minutes, Yet There Are Only 24 Hours In A Day?\""
 +++
 
 A fascinating explanation of the origin of the modern units of time.

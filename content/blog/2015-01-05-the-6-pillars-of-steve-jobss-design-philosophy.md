@@ -2,7 +2,7 @@
 date = 2015-01-05T09:01:44-08:00
 description = "How Jobs’s influences became a coherent approach to design"
 link = "https://web.archive.org/web/20180813132640/https://www.fastcompany.com/1665375/the-6-pillars-of-steve-jobss-design-philosophy"
-title = "The 6 Pillars Of Steve Jobs's Design Philosophy"
+title = "\"The 6 Pillars Of Steve Jobs's Design Philosophy\""
 +++
 
 Cliff Kuang:

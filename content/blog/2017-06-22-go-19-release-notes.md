@@ -3,7 +3,7 @@ date = 2017-06-22T03:07:56-07:00
 description = "A small documentation improvement makes the release notes"
 link = "https://tip.golang.org/doc/go1.9"
 tags = ["go", "go1.9"]
-title = "Go 1.9 Release Notes"
+title = "\"Go 1.9 Release Notes\""
 +++
 
 My little suggestion:

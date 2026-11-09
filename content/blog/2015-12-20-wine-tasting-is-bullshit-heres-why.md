@@ -3,7 +3,7 @@ date = 2015-12-20T19:24:25-08:00
 description = "More reasons to doubt the experts and enjoy cheaper wine"
 link = "https://io9.gizmodo.com/wine-tasting-is-bullshit-heres-why-496098276"
 tags = ["reviews", "wine"]
-title = "Wine Tasting Is Bullshit. Here's Why."
+title = "\"Wine Tasting Is Bullshit. Here's Why.\""
 +++
 
 Robbie Gonzales, writing for io9:

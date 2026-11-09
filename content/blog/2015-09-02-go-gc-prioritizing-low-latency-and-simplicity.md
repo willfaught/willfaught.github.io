@@ -3,7 +3,7 @@ date = 2015-09-02T14:25:08-07:00
 description = "Go 1.5 aims for shorter garbage collection pauses"
 link = "https://blog.golang.org/go15gc"
 tags = ["go"]
-title = "Go GC: Prioritizing Low Latency And Simplicity"
+title = "\"Go GC: Prioritizing Low Latency And Simplicity\""
 +++
 
 Go blog:

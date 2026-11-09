@@ -3,7 +3,7 @@ date = 2016-01-03T19:20:45-08:00
 description = "What Go removes may be its greatest contribution"
 link = "https://dave.cheney.net/2015/11/15/the-legacy-of-go"
 tags = ["go", "programming"]
-title = "The Legacy Of Go"
+title = "\"The Legacy Of Go\""
 +++
 
 Dave Cheney:

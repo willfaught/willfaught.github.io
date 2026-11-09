@@ -3,7 +3,7 @@ date = 2016-05-31T03:32:47-07:00
 description = "A satirical workday while fans wait for another episode"
 link = "https://arstechnica.com/gaming/2016/05/celebrating-ten-years-of-half-life-2-episode-3-not-coming-out/"
 tags = ["games", "gaming", "half life", "valve", "video games"]
-title = "It's Been Over A Decade Since Valve First Promised Half-Life 2: Episode 3"
+title = "\"It's Been Over A Decade Since Valve First Promised Half-Life 2: Episode 3\""
 +++
 
 Ars reader Bad Monkey in a comment on an Ars post about it being 10 years since Valve announced Half-Life 2 Episode 3 and then left us hanging:
