@@ -19,7 +19,7 @@ title = "Will Do"
 weight = 10
 
 [languages.en.params.paige.site]
-description = '<span style="display: inline-block">Thoughts on technology,</span> <span style="display: inline-block">the world, and life.</span>'
+description = '<span style="display: inline-block">Thoughts on technology,</span> <span style="display: inline-block">the world, and life</span>'
 
 [[languages.en.menu.main]]
 identifier = "home"
